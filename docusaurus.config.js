@@ -65,7 +65,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/qontak-dev/support/edit/gh-pages/',
+            'https://github.com/qontak-dev/support/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
