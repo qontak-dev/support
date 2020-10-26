@@ -2,8 +2,8 @@ module.exports = {
   someSidebar: {
     "Mulai": [
       "apa-itu-qontak-chat",
-      "menggunakan-qontak-chat",
       "pendaftaran-akun",
+      "menggunakan-qontak-chat",
       "whatsapp-business",
       "feature",
       "mobile-app"

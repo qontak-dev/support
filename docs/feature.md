@@ -1,6 +1,6 @@
 ---
 id: feature
-title: Feature
+title: Fitur
 ---
 
-Feature
+Fitur
