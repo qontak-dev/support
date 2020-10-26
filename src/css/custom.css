@@ -1,0 +1,96 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0274F5;
+  --ifm-footer-background-color: rgb(1, 44, 92);
+  --ifm-footer-color: #fff;
+  --ifm-footer-link-color: #fff;
+  --ifm-link-color: rgb(1, 44, 92);
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-code-font-size: 95%;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.q-category_page {
+  position: relative;
+}
+
+.q-category_page .q-category_container {
+  width: 100%;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 65px;
+  display: table;
+}
+
+.q-category_page .q-category_trees {
+  padding-left: 10px;
+  padding-right: 10px;
+  display: table-cell;
+}
+.q-section-tree-with-article, .q-section_page {
+  margin-bottom: 100px;
+}
+.q-section-tree-with-article ul, .q-section_page ul {
+  margin: 0;
+  padding: 0;
+}
+.q-section-tree-with-article .q-section h2, .q-section_page .q-section h2 {
+  font-weight: 900;
+  color: #1d1c1d;
+  font-size: 24px;
+  line-height: 30px;
+  margin: 0 0 12px;
+  padding: 0;
+}
+
+.q-section-tree-with-article,.q-section_page{margin-bottom:100px}
+.q-section-tree-with-article ul,.q-section_page ul{margin:0;padding:0}
+.q-section-tree-with-article .q-section,.q-section_page .q-section{list-style:none;padding-bottom:45px;border-bottom:1px solid #e3e3e3;padding-top:35px}
+.q-section-tree-with-article .q-section h2,.q-section_page .q-section h2{font-weight:900;color:#1d1c1d;font-size:24px;line-height:30px;margin:0 0 12px;padding:0}
+.q-section-tree-with-article .q-section h2 a,.q-section_page .q-section h2 a{color:inherit}
+@media screen and (max-width:700px){.q-section-tree-with-article .q-section h2,.q-section_page .q-section h2{font-size:20px;line-height:24px}
+}
+.q-section-tree-with-article .q-section .q-article-list,.q-section_page .q-section .q-article-list{margin:0;column-count:2;column-gap:20px}
+.q-section-tree-with-article .q-section .q-article-list li,.q-section_page .q-section .q-article-list li{font-size:1rem;line-height:21px;padding-bottom:12px;page-break-inside:avoid;break-inside:avoid;margin-left:28px;list-style:disc}
+.q-section-tree-with-article .q-section .q-article-list li span,.q-section_page .q-section .q-article-list li span{display:none}
+.q-section-tree-with-article .q-section .q-article-list li a b,.q-section_page .q-section .q-article-list li a b{font-weight:900}
+@media (max-width:610px){.q-section-tree-with-article .q-section .q-article-list li,.q-section_page .q-section .q-article-list li{line-height:28px}
+.q-section-tree-with-article .q-section .q-article-list,.q-section_page .q-section .q-article-list{column-count:1}
+}
+.q-section-tree-with-article .q-section:first-child,.q-section_page .q-section:first-child{padding-top:0}
+.q-section-tree-with-article .q-section:last-child,.q-section_page .q-section:last-child{border-bottom:0}
+.q-section_page{position:relative}
+.q-section_page .q-section_container{max-width:960px;margin-left:auto;margin-right:auto;display:flex;flex-wrap:wrap;padding-left:10px;padding-right:10px;padding-top:35px}
+.q-section_page .q-section:last-child{border-bottom:none}
+.q-section_page .q-section_tile{padding-left:10px;padding-right:10px;flex-basis:100%}
+.q-section_page .q-section_tile h1{margin-top:0}
+.q-section_page .q-section_trees{padding-left:10px;padding-right:10px;flex:1}
+.q-section_page .q-category_list{padding-left:10px;padding-right:10px;width:255px;display:none;padding-top:10px;vertical-align:top}
+
+b.q-highlight {
+  font-weight: 800;
+  font-size: 16px;
+  color: inherit;
+}
