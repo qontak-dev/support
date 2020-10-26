@@ -1,0 +1,17 @@
+{
+  "id": "mobile-app",
+  "title": "Mobile App",
+  "description": "Mobile App",
+  "source": "@site/docs/mobile-app.md",
+  "permalink": "/docs/mobile-app",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/mobile-app.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Feature",
+    "permalink": "/docs/feature"
+  },
+  "next": {
+    "title": "Role Pengguna",
+    "permalink": "/docs/role-pengguna"
+  }
+}

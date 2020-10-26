@@ -1,0 +1,17 @@
+{
+  "id": "pengaturan-chat-assignment",
+  "title": "Pengaturan Chat Assignment",
+  "description": "Pengaturan Chat Assignment",
+  "source": "@site/docs/pengaturan-chat-assignment.md",
+  "permalink": "/docs/pengaturan-chat-assignment",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/pengaturan-chat-assignment.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Pencarian",
+    "permalink": "/docs/pencarian"
+  },
+  "next": {
+    "title": "Pengaturan Jam Kerja",
+    "permalink": "/docs/pengaturan-jam-kerja"
+  }
+}

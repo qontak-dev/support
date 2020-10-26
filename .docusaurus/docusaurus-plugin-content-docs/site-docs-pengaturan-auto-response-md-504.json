@@ -1,0 +1,17 @@
+{
+  "id": "pengaturan-auto-response",
+  "title": "Pengaturan Auto Response",
+  "description": "Pengaturan Auto Response",
+  "source": "@site/docs/pengaturan-auto-response.md",
+  "permalink": "/docs/pengaturan-auto-response",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/pengaturan-auto-response.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Pengaturan Jam Kerja",
+    "permalink": "/docs/pengaturan-jam-kerja"
+  },
+  "next": {
+    "title": "Pengaturan Chat Template",
+    "permalink": "/docs/pengaturan-chat-template"
+  }
+}

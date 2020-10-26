@@ -9,11 +9,11 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Build forder
-build/
+# # Build forder
+# build/
 
 # Dependency directories
 node_modules/
 
-# docusaurus
-.docusaurus/
+# # docusaurus
+# .docusaurus/

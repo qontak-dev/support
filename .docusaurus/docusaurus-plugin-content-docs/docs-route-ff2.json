@@ -1,0 +1,140 @@
+{
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "label": "Mulai",
+        "items": [
+          {
+            "type": "link",
+            "label": "Apa itu Qontak Chat?",
+            "href": "/docs/apa-itu-qontak-chat"
+          },
+          {
+            "type": "link",
+            "label": "Menggunakan Qontak Chat",
+            "href": "/docs/menggunakan-qontak-chat"
+          },
+          {
+            "type": "link",
+            "label": "Pendaftaran Akun",
+            "href": "/docs/pendaftaran-akun"
+          },
+          {
+            "type": "link",
+            "label": "WhatsApp Business",
+            "href": "/docs/whatsapp-business"
+          },
+          {
+            "type": "link",
+            "label": "Feature",
+            "href": "/docs/feature"
+          },
+          {
+            "type": "link",
+            "label": "Mobile App",
+            "href": "/docs/mobile-app"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Memahami Role Pengguna",
+        "items": [
+          {
+            "type": "link",
+            "label": "Role Pengguna",
+            "href": "/docs/role-pengguna"
+          },
+          {
+            "type": "link",
+            "label": "Menambahkan Pengguna",
+            "href": "/docs/menambahkan-pengguna"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Mengirim dan Menerima Pesan",
+        "items": [
+          {
+            "type": "link",
+            "label": "Mengirimkan dan Menerima Pesan",
+            "href": "/docs/mengirimkan-menerima-pesan"
+          },
+          {
+            "type": "link",
+            "label": "Status Terkirim",
+            "href": "/docs/status-terkirim"
+          },
+          {
+            "type": "link",
+            "label": "Menulis Catatan",
+            "href": "/docs/menulis-catatan"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Pencarian",
+        "items": [
+          {
+            "type": "link",
+            "label": "Pencarian",
+            "href": "/docs/pencarian"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Pengaturan Chat",
+        "items": [
+          {
+            "type": "link",
+            "label": "Pengaturan Chat Assignment",
+            "href": "/docs/pengaturan-chat-assignment"
+          },
+          {
+            "type": "link",
+            "label": "Pengaturan Jam Kerja",
+            "href": "/docs/pengaturan-jam-kerja"
+          },
+          {
+            "type": "link",
+            "label": "Pengaturan Auto Response",
+            "href": "/docs/pengaturan-auto-response"
+          },
+          {
+            "type": "link",
+            "label": "Pengaturan Chat Template",
+            "href": "/docs/pengaturan-chat-template"
+          },
+          {
+            "type": "link",
+            "label": "Pengaturan Chat Bot",
+            "href": "/docs/pengaturan-chat-bot"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/apa-itu-qontak-chat": "someSidebar",
+    "/docs/feature": "someSidebar",
+    "/docs/menambahkan-pengguna": "someSidebar",
+    "/docs/menggunakan-qontak-chat": "someSidebar",
+    "/docs/mengirimkan-menerima-pesan": "someSidebar",
+    "/docs/menulis-catatan": "someSidebar",
+    "/docs/mobile-app": "someSidebar",
+    "/docs/pencarian": "someSidebar",
+    "/docs/pendaftaran-akun": "someSidebar",
+    "/docs/pengaturan-auto-response": "someSidebar",
+    "/docs/pengaturan-chat-assignment": "someSidebar",
+    "/docs/pengaturan-chat-bot": "someSidebar",
+    "/docs/pengaturan-chat-template": "someSidebar",
+    "/docs/pengaturan-jam-kerja": "someSidebar",
+    "/docs/role-pengguna": "someSidebar",
+    "/docs/status-terkirim": "someSidebar",
+    "/docs/whatsapp-business": "someSidebar"
+  }
+}

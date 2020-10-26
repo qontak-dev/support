@@ -1,0 +1,17 @@
+{
+  "id": "status-terkirim",
+  "title": "Status Terkirim",
+  "description": "Status Terkirim",
+  "source": "@site/docs/status-terkirim.md",
+  "permalink": "/docs/status-terkirim",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/status-terkirim.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Mengirimkan dan Menerima Pesan",
+    "permalink": "/docs/mengirimkan-menerima-pesan"
+  },
+  "next": {
+    "title": "Menulis Catatan",
+    "permalink": "/docs/menulis-catatan"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pencarian",
+  "title": "Pencarian",
+  "description": "Pencarian",
+  "source": "@site/docs/pencarian.md",
+  "permalink": "/docs/pencarian",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/pencarian.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Menulis Catatan",
+    "permalink": "/docs/menulis-catatan"
+  },
+  "next": {
+    "title": "Pengaturan Chat Assignment",
+    "permalink": "/docs/pengaturan-chat-assignment"
+  }
+}

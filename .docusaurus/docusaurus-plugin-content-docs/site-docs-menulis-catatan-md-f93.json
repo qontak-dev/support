@@ -1,0 +1,17 @@
+{
+  "id": "menulis-catatan",
+  "title": "Menulis Catatan",
+  "description": "Menulis Catatan",
+  "source": "@site/docs/menulis-catatan.md",
+  "permalink": "/docs/menulis-catatan",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/menulis-catatan.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Status Terkirim",
+    "permalink": "/docs/status-terkirim"
+  },
+  "next": {
+    "title": "Pencarian",
+    "permalink": "/docs/pencarian"
+  }
+}

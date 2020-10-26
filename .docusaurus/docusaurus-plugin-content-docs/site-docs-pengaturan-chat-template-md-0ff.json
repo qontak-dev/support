@@ -1,0 +1,17 @@
+{
+  "id": "pengaturan-chat-template",
+  "title": "Pengaturan Chat Template",
+  "description": "Pengaturan Chat Template",
+  "source": "@site/docs/pengaturan-chat-template.md",
+  "permalink": "/docs/pengaturan-chat-template",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/pengaturan-chat-template.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Pengaturan Auto Response",
+    "permalink": "/docs/pengaturan-auto-response"
+  },
+  "next": {
+    "title": "Pengaturan Chat Bot",
+    "permalink": "/docs/pengaturan-chat-bot"
+  }
+}

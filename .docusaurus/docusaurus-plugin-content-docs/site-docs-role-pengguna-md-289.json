@@ -1,0 +1,17 @@
+{
+  "id": "role-pengguna",
+  "title": "Role Pengguna",
+  "description": "Role Pengguna",
+  "source": "@site/docs/role-pengguna.md",
+  "permalink": "/docs/role-pengguna",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/role-pengguna.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Mobile App",
+    "permalink": "/docs/mobile-app"
+  },
+  "next": {
+    "title": "Menambahkan Pengguna",
+    "permalink": "/docs/menambahkan-pengguna"
+  }
+}

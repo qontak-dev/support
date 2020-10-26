@@ -1,0 +1,13 @@
+{
+  "id": "doc4",
+  "title": "Mengganti template",
+  "description": "Cara mengganti template whatsapp",
+  "source": "@site/docs/doc4.md",
+  "permalink": "/docs/doc4",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc4.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Contribution Style Guide",
+    "permalink": "/docs/doc1"
+  }
+}

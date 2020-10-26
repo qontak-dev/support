@@ -1,0 +1,8 @@
+{
+  "id": "login-via-crm",
+  "title": "Login via CRM",
+  "description": "Login Chat Panel via CRM",
+  "source": "@site/docs/login-via-crm.md",
+  "permalink": "/docs/login-via-crm",
+  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/login-via-crm.md"
+}
