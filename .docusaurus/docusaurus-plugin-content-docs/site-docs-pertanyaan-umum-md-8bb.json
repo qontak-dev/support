@@ -1,8 +1,0 @@
-{
-  "id": "pertanyaan-umum",
-  "title": "Mulai",
-  "description": "- [Pendaftaran Akun](./pendaftaran-akun)",
-  "source": "@site/docs/pertanyaan-umum.md",
-  "permalink": "/docs/pertanyaan-umum",
-  "editUrl": "https://github.com/qontak-dev/support/edit/gh-pages/docs/pertanyaan-umum.md"
-}

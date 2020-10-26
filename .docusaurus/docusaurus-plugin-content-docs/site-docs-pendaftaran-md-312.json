@@ -1,9 +1,0 @@
-{
-  "id": "pendaftaran",
-  "title": "Pendaftaran Akun",
-  "description": "Cara mengganti template whatsapp",
-  "source": "@site/docs/pendaftaran.md",
-  "permalink": "/docs/pendaftaran",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/pendaftaran.md",
-  "sidebar": "someSidebar"
-}
