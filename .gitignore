@@ -10,10 +10,10 @@ lerna-debug.log*
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # # Build forder
-# build/
+build/
 
 # Dependency directories
 node_modules/
 
 # # docusaurus
-# .docusaurus/
+.docusaurus/
