@@ -7,6 +7,11 @@ module.exports = {
   organizationName: 'qontak-dev', // Usually your GitHub org/user name.
   projectName: 'support', // Usually your repo name.
   themeConfig: {
+    gaTrackingId: 'G-SMFY0QVBTS',
+    googleAnalytics: {
+      trackingID: 'G-SMFY0QVBTS',
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     colorMode: {
       disableSwitch: true,
     },
@@ -56,11 +61,12 @@ module.exports = {
     },
   },
   plugins: [
-    'docusurus-lunr-search'
+    'docusurus-lunr-search',
+    '@docusaurus/plugin-google-analytics'
   ],
   presets: [
     [
-      '@docusaurus/preset-classic',
+      '@docusaurus/preset-classic',      
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
