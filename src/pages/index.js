@@ -32,7 +32,7 @@ function Home() {
                       <li><Link to={useBaseUrl('docs/apa-itu-qontak-chat')}> <b class='q-highlight'>Apa itu</b> Qontak Chat?</Link></li>
                       <li><Link to={useBaseUrl('docs/menggunakan-qontak-chat')}> <b class='q-highlight'>Cara Menggunakan</b> Qontak Chat</Link></li>
                       <li><Link to={useBaseUrl('docs/pendaftaran-akun')}> <b class='q-highlight'>Pendaftaran</b> Akun</Link></li>
-                      <li> <Link to={useBaseUrl('docs/whatsapp-business')}> Pendaftaran <b class='q-highlight'>WhatsApp Business</b></Link> </li>
+                      <li> <Link to={useBaseUrl('docs/whatsapp-business-api')}> <b class='q-highlight'>WhatsApp Business API</b></Link> </li>
                       <li> <Link to={useBaseUrl('docs/feature')}> <b class='q-highlight'>Fitur</b> Qontak Chat</Link> </li>
                       <li> <Link to={useBaseUrl('docs/mobile-app')}> <b class='q-highlight'>Mobile App</b> Qontak Chat</Link> </li>
                     </ul>

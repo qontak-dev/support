@@ -2,9 +2,9 @@ module.exports = {
   someSidebar: {
     "Mulai": [
       "apa-itu-qontak-chat",
+      "whatsapp-business-api",
       "pendaftaran-akun",
       "menggunakan-qontak-chat",
-      "whatsapp-business",
       "feature",
       "mobile-app"
      ],
