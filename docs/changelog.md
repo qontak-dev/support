@@ -8,6 +8,6 @@ Recommended Versions of Software
 
 **Web**: `v0.2.6`
 
-**Android**: `v0.2.6`
+**Android**: `v1.2.0`
 
-**iOS**: `v0.2.6`
+**iOS**: `v1.2.0`
