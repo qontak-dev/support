@@ -74,9 +74,15 @@ Improvement:
 
 * Create Contact Help Information
 
+![upload list](https://raw.githubusercontent.com/qontak-dev/support/main/static/img/1.%20upload%20contact%20list.png)
+
 * New Conversation Footer UI
 
+![fab](https://raw.githubusercontent.com/qontak-dev/support/main/static/img/2.%20new%20conversation%20ui.png)
+
 * Message Type Video and Location
+
+![video](https://raw.githubusercontent.com/qontak-dev/support/main/static/img/3.%20video%20message.png)
 
 New Feature:
 
