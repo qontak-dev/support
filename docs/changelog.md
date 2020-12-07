@@ -62,9 +62,15 @@ Feature Implementation:
 1. **Send Image From Webcam**: User can now attach and send an image that produced from a webcam snapshot from their computer's integrated camera easily
 2. **Emoji Attachment**: User can now attach emojis on chat panel to their messages
 3. **Office Hour Settings**: Now, user can change the office hours of their organization, and also can change the timezone
+
+![office](https://raw.githubusercontent.com/qontak-dev/support/main/static/img/4.%20Office%20Hours.png)
+
 4. **Tag Settings**: Now, user can add new tag (admin and supervisor) with this feature for their organization
 
+![tags](https://raw.githubusercontent.com/qontak-dev/support/main/static/img/5.%20tags.png)
+
 Bug Fixing:
+
 
 1. **Scroll To Bottom When Open a Room Firstly**: Now, user can always at the bottom of conversation if they open a room at firstly
 
