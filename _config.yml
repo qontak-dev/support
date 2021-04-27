@@ -124,3 +124,5 @@ defaults:
       type:         docs
     values:
       layout:       doc
+github:
+  repository_url: https://github.com/qontak-dev/support

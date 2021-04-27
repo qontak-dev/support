@@ -1,8 +1,14 @@
 - title: Omnichannel
 - title: Sales CRM
-- title: Call Center
+- title: Bizphone
+  category: call
   docs:
-    - call
+    - minimal_requirement
+    - troubleshooting
+- title: Call
+  category: call
+  docs:
+    - minimal_requirement
 - title: WhatsApp Business API
 - title: General Service
 - title: Billing

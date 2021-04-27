@@ -1,3 +1,4 @@
 <div{% if include.style %} class="uk-alert-{{ include.style }}"{% endif %} data-uk-alert>
-    <p>{{ include.text }}</p>
+    <p><span data-uk-icon="icon: info; ratio: 1" alt="{{ include.title }}"></span>&nbsp;
+    {{ include.text }}</p>
 </div>

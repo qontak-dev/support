@@ -1,6 +1,6 @@
-# Docs is a premium documentation Jekyll theme
+## Help Page
 
-Desk was developed by [Unbound Studio](https://unbound.studio).
+Help page for support.qontak.com
 
 ## Installation
 
@@ -82,8 +82,3 @@ bundle exec jekyll s --livereload
 - UIkit front end framework https://getuikit.com/
 - Jekyll CML https://jekyllrb.com/
 
-## Support
-Customer support is provided through our Envato item page [contact form](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
-
-## Documentation
-Full documentation can be found here: [https://jekyll-theme-docs.netlify.com/docs/installation/](https://jekyll-theme-docs.netlify.com/docs/installation/).

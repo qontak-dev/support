@@ -11,7 +11,7 @@
 - title: Call Center
   desc: Segala sesuatu yang perlu Anda ketahui tentang aplikasi Call Center Qontak.com
   icon: receiver
-  doc: call
+  doc: minimal_requirement
 - title: WhatsApp Business API
   desc: Temukan cara mengintegrasikan WhatsApp ke Qontak.com atau platform lain menggunakan WhatsApp Business API
   icon: whatsapp
