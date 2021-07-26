@@ -6,7 +6,6 @@ hero:
   subtitle: Ada yang bisa kami bantu?
   image: qontak-whatsapp-sales-customer-service-easy.png
   search: true
-published: false
 
 ---
 {% include boxes.html columns="3" title="Kategori Pencarian" subtitle="Pilih kategori yang Anda perlukan bantuan atau dengan pencarian di atas" %}
