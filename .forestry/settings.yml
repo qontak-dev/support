@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Omnichannel
+- type: heading
+  label: CRM
 - type: directory
   path: _docs
   label: Docs
