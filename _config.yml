@@ -127,3 +127,6 @@ defaults:
       layout:       doc
 github:
   repository_url: https://github.com/qontak-dev/support
+
+plugins:
+  - jekyll-menus
