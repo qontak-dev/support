@@ -1,72 +1,93 @@
 ---
-header_right:
+navigation_docs:
+- url: "/crm/overview-product"
+  weight: 1
+  parent: item_uN2yg4q
+  title: Overview Product
+- title: General Service
+  weight: 6
+- title: Instagram API
+  weight: 5
+- title: WhatsApp Business API
+  weight: 4
+- title: Call Center
+  weight: 3
+- title: Sales CRM
+  docs:
+  - crm/overview-product
+  weight: 2
+- title: Omnichannel
+  weight: 1
+mobile:
 - title: Submit a request
   url: https://wa.me/6285718971848?text=Hello%20Qontak%20Team!
   button: primary-outline
   identifier: contact
-  weight: 1
+  weight: 4
+- title: Contact
+  url: "/contact/"
+  button: success
+  weight: 3
 - title: Changelogs
   weight: 2
-  dropdown:
-  - title: Omnichannel
-    url: /changelog-posts/
-    identifier: changelog_omnichannel
-  - title: CRM
-    url: /changelog-timeline/
-    identifier: changelog_crm
-header_left:
+  url: "/changelog-posts/"
+  identifier: changelog_omnichannel
 - title: Developer API
   url: https://docs.qontak.com
   identifier: api
   weight: 1
 boxes:
-- title: Omnichannel
-  desc: Semua yang perlu Anda ketahui tentang solusi Omnichannel Qontak.com
-  icon: comments
+- title: General Service
+  desc: Temukan jawaban atas pertanyaan yang paling sering diajukan dan layanan umum
+    platform Qontak.com
+  icon: info
   doc: usage
-- title: Sales CRM
-  desc:  Temukan dokumentasi, video, dan panduan untuk membantu Anda dalam modul Sales CRM Qontak.com
-  icon: users
+  weight: 6
+- title: Instagram API
+  desc: Temukan cara mengintegrasikan Instagram ke Qontak.com atau platform lain menggunakan
+    Instagram API
+  icon: instagram
   doc: usage
+  weight: 5
+- title: WhatsApp Business API
+  desc: Temukan cara mengintegrasikan WhatsApp ke Qontak.com atau platform lain menggunakan
+    WhatsApp Business API
+  icon: whatsapp
+  doc: usage
+  weight: 4
 - title: Call Center
   desc: Segala sesuatu yang perlu Anda ketahui tentang aplikasi Call Center Qontak.com
   icon: receiver
   doc: minimal_requirement
-- title: WhatsApp Business API
-  desc: Temukan cara mengintegrasikan WhatsApp ke Qontak.com atau platform lain menggunakan WhatsApp Business API
-  icon: whatsapp
+  weight: 3
+- title: Sales CRM
+  desc: Temukan dokumentasi, video, dan panduan untuk membantu Anda dalam modul Sales
+    CRM Qontak.com
+  icon: users
   doc: usage
-- title: Instagram API
-  desc: Temukan cara mengintegrasikan Instagram ke Qontak.com atau platform lain menggunakan Instagram API
-  icon: instagram
+  weight: 2
+- title: Omnichannel
+  desc: Semua yang perlu Anda ketahui tentang solusi Omnichannel Qontak.com
+  icon: comments
   doc: usage
-- title: General Service
-  desc: Temukan jawaban atas pertanyaan yang paling sering diajukan dan layanan umum platform Qontak.com
-  icon: info
-  doc: usage
-mobile:
-- title: Developer API
-  url: https://docs.qontak.com
-  identifier: api
   weight: 1
+header_right:
 - title: Changelogs
   weight: 2
-  url: /changelog-posts/
-  identifier: changelog_omnichannel
-- title: Contact
-  url: /contact/
-  button: success
+  dropdown:
+  - title: Omnichannel
+    url: "/changelog-posts/"
+    identifier: changelog_omnichannel
+  - title: CRM
+    url: "/changelog-timeline/"
+    identifier: changelog_crm
 - title: Submit a request
   url: https://wa.me/6285718971848?text=Hello%20Qontak%20Team!
   button: primary-outline
   identifier: contact
   weight: 1
-navigation_docs:
-- title: Omnichannel
-- title: Sales CRM
-  docs:
-    - crm/overview-product
-- title: Call Center
-- title: WhatsApp Business API
-- title: Instagram API
-- title: General Service
+header_left:
+- title: Developer API
+  url: https://docs.qontak.com
+  identifier: api
+  weight: 1
