@@ -1,33 +1,44 @@
 ---
 navigation_docs:
-- url: "/crm/overview-product"
-  weight: 1
-  parent: item_NzBihxc
-  title: CRM-TEST OVERVIEW
-- title: General Service
-  docs:
-  - omnichannel/overview-product
-  weight: 6
 - title: Instagram API
   docs:
   - crm/overview-product
-  weight: 5
+  weight: 1
+  identifier: item_iEqehws
+  parent: item_2HoeDoC
 - title: WhatsApp Business API
   docs:
   - crm/overview-product
-  weight: 4
+  weight: 1
+  identifier: item_rcmRuHw
+  parent: item_wuvqZyE
+- title: General Service
+  docs:
+  - omnichannel/overview-product
+  weight: 3
+  identifier: item_wuvqZyE
+  parent: item_dYZuS8D
 - title: Call Center
   docs:
   - crm/overview-product
-  weight: 3
-- title: Sales CRM
-  docs:
-  - crm/overview-product
   weight: 2
+  identifier: item_7eNUR7P
+  parent: item_dYZuS8D
+- url: "/crm/overview-product"
+  weight: 1
+  parent: item_dYZuS8D
+  title: CRM-TEST OVERVIEW
+  identifier: item_AmK-92N
 - title: Omnichannel
   docs:
   - omnichannel/overview-product
   weight: 1
+  identifier: item_dYZuS8D
+- title: Sales CRM
+  docs:
+  - crm/overview-product
+  weight: 2
+  identifier: item_2HoeDoC
 mobile:
 - title: Contact
   url: "/contact/"
