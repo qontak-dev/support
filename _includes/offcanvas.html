@@ -6,7 +6,7 @@
         <button class="uk-offcanvas-close" type="button" data-uk-close></button>
       
         <ul class="uk-nav uk-nav-primary uk-margin-top">
-            {% for link in site.data.navigation_mobile %}
+            {% for link in site.data.menus.mobile %}
                 {% if link.url contains 'http' %}
                     {% assign domain = '' %}
                 {% else %}

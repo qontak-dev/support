@@ -44,3 +44,20 @@ boxes:
   desc: Temukan jawaban atas pertanyaan yang paling sering diajukan dan layanan umum platform Qontak.com
   icon: info
   doc: usage
+mobile:
+- title: Developer API
+  url: https://docs.qontak.com
+  identifier: api
+  weight: 1
+- title: Changelogs
+  weight: 2
+  url: /changelog-posts/
+  identifier: changelog_omnichannel
+- title: Contact
+  url: /contact/
+  button: success
+- title: Submit a request
+  url: https://wa.me/6285718971848?text=Hello%20Qontak%20Team!
+  button: primary-outline
+  identifier: contact
+  weight: 1
