@@ -3,7 +3,7 @@
 
         <button class="uk-offcanvas-close" type="button" data-uk-close></button>
 
-        {% for section in site.data.navigation_docs %}
+        {% for section in site.data.menus.navigation_docs %}
         <h5 class="uk-margin-top">{{ section.title }}</h5>
         <ul class="uk-nav uk-nav-default doc-nav">
         {% for doc in section.docs %}

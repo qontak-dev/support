@@ -61,3 +61,12 @@ mobile:
   button: primary-outline
   identifier: contact
   weight: 1
+navigation_docs:
+- title: Omnichannel
+- title: Sales CRM
+  docs:
+    - crm/overview-product
+- title: Call Center
+- title: WhatsApp Business API
+- title: Instagram API
+- title: General Service
