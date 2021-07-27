@@ -5,9 +5,9 @@ tags:
 title: Overview Product
 subtitle: Mengenal CRM Qontak
 author: admin
-published: false
 
 ---
-# Mengenal CRM Qontak
+Fitur tersedia antara lain : 
 
-Mengenal CRM Qontak Content
+* Dashboard
+* Deals
