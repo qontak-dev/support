@@ -14,3 +14,28 @@ header_left:
   url: https://docs.qontak.com
   identifier: api
   weight: 1
+boxes:
+- title: Omnichannel
+  desc: Semua yang perlu Anda ketahui tentang solusi Omnichannel Qontak.com
+  icon: comments
+  doc: usage
+- title: Sales CRM
+  desc:  Temukan dokumentasi, video, dan panduan untuk membantu Anda dalam modul Sales CRM Qontak.com
+  icon: users
+  doc: usage
+- title: Call Center
+  desc: Segala sesuatu yang perlu Anda ketahui tentang aplikasi Call Center Qontak.com
+  icon: receiver
+  doc: minimal_requirement
+- title: WhatsApp Business API
+  desc: Temukan cara mengintegrasikan WhatsApp ke Qontak.com atau platform lain menggunakan WhatsApp Business API
+  icon: whatsapp
+  doc: usage
+- title: Instagram API
+  desc: Temukan cara mengintegrasikan Instagram ke Qontak.com atau platform lain menggunakan Instagram API
+  icon: instagram
+  doc: usage
+- title: General Service
+  desc: Temukan jawaban atas pertanyaan yang paling sering diajukan dan layanan umum platform Qontak.com
+  icon: info
+  doc: usage
