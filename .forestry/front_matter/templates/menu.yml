@@ -14,3 +14,13 @@ fields:
 - type: text
   name: author
   label: author
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+- name: menu
+  type: text
+  config:
+    required: false
+  label: menu
