@@ -10,7 +10,7 @@ hero:
 ---
 {% include boxes.html columns="3" title="Kategori Pencarian" subtitle="Pilih kategori yang Anda perlukan bantuan atau dengan pencarian di atas" %}
 
-{% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}
+{% include videos.html columns="3" title="Video Tutorial" subtitle="Jelajahi panduan kami untuk solusi bisnis Anda." %}
 
 {% include faqs.html multiple="true" title="Frequently asked questions" category="whatsapp" subtitle="Jawaban seputar WhatsApp Business API" %}
 

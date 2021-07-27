@@ -1,6 +1,6 @@
 ---
 header_right:
-- title: Submit Ticket
+- title: Submit a request
   url: https://wa.me/6285718971848?text=Hello%20Qontak%20Team!
   button: primary-outline
   identifier: contact
