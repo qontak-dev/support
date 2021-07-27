@@ -6,11 +6,6 @@ tags:
 - features
 - featured
 author: alex
-menu:
-  header_left:
-    title: Home
-    identifier: home
-    weight: 3
 
 ---
 ### Adding images

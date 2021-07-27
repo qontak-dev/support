@@ -1,3 +1,11 @@
+---
+menu:
+  header_left:
+    title: Home
+    identifier: home
+    weight: 2
+
+---
 ## Help Page
 
 Help page for support.qontak.com
@@ -81,4 +89,3 @@ bundle exec jekyll s --livereload
 - Google maps https://www.google.com/maps
 - UIkit front end framework https://getuikit.com/
 - Jekyll CML https://jekyllrb.com/
-

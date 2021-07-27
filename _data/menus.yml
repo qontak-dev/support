@@ -10,11 +10,7 @@ header_right:
   identifier: changelog
   weight: 2
 header_left:
-- title: Blog
-  url: https://www.qontak.com/blog
-  identifier: blog
-  weight: 1
 - title: Developer API
   url: https://docs.qontak.com
   identifier: api
-  weight: 2
+  weight: 1
