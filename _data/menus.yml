@@ -5,10 +5,15 @@ header_right:
   button: primary-outline
   identifier: contact
   weight: 1
-- title: Changelog
-  url: "/changelog-posts/"
-  identifier: changelog
+- title: Changelogs
   weight: 2
+  dropdown:
+  - title: Omnichannel
+    url: /changelog-posts/
+    identifier: changelog_omnichannel
+  - title: CRM
+    url: /changelog-timeline/
+    identifier: changelog_crm
 header_left:
 - title: Developer API
   url: https://docs.qontak.com

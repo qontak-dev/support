@@ -1,6 +1,6 @@
 ---
 layout: changelog
-title: Changelog posts
+title: Omnichannel Changelogs
 permalink: /changelog-posts/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Changelog timeline
+title: CRM Changelog
 width: small
 ---
 
