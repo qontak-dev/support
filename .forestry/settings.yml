@@ -6,13 +6,21 @@ webhook_url:
 sections:
 - type: heading
   label: Omnichannel
+- type: heading
+  label: Sales CRM
+- type: heading
+  label: Call Center
+- type: heading
+  label: WhatsApp Business API
+- type: heading
+  label: 'Instagram Messenger API '
+- type: heading
+  label: 'General Services '
 - type: directory
   path: _docs
   label: Docs
   create: all
   match: "**/*"
-- type: heading
-  label: CRM
 - type: directory
   path: _faqs
   label: Faqs
