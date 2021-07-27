@@ -1,10 +1,16 @@
 ---
 title: Basic theme setup
-subtitle: This document covers the setup and options of theme feature described in the doc title
+subtitle: This document covers the setup and options of theme feature described in
+  the doc title
 author: sara
-tags: [setup]
----
+tags:
+- setup
+menu:
+  header_left:
+    weight: 2
+    title: themes
 
+---
 ### Site and author details
 Add your site and author details in `_config.yml`:
 
