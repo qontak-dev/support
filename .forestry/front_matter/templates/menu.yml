@@ -14,3 +14,8 @@ fields:
 - type: text
   name: author
   label: author
+- name: menu
+  type: text
+  config:
+    required: false
+  label: menu
