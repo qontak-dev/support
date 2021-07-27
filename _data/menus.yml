@@ -1,0 +1,19 @@
+header:
+  left:
+    - title: Home
+      url: /
+      identifier: home
+    - title: Developer API
+      url: 'https://docs.qontak.com'
+      identifier: api
+    - title: Blog
+      url: 'https://www.qontak.com/blog'
+      identifier: blog
+  right:
+    - title: Changelog
+      url: /changelog-posts/
+      identifier: changelog
+    - title: Submit Ticket
+      url: 'https://wa.me/6285718971848?text=Hello%20Qontak%20Team!'
+      button: primary-outline
+      identifier: contact
