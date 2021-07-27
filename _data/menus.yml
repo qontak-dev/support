@@ -11,64 +11,17 @@ navigation_docs:
 - title: Instagram API
   docs:
   - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
   weight: 5
 - title: WhatsApp Business API
   docs:
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
   - crm/overview-product
   weight: 4
 - title: Call Center
   docs:
   - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
   weight: 3
 - title: Sales CRM
   docs:
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
-  - crm/overview-product
   - crm/overview-product
   weight: 2
 - title: Omnichannel
