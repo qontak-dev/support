@@ -1,10 +1,18 @@
 ---
 title: Adding media to post and doc content
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [features, featured]
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet,
+  tempus metus quis, pharetra turpis.
+tags:
+- features
+- featured
 author: alex
----
+menu:
+  header_left:
+    title: Home
+    identifier: home
+    weight: 3
 
+---
 ### Adding images
 To add an image to a post or page use the following codes:
 Local image from `/uploads/` directory:
