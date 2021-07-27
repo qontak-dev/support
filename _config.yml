@@ -33,14 +33,18 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    sita:
-      name:         Lasita Khaerani
-      title:        Consultant     
-      avatar:       avatar-sita.png
-    dian:
-      name:         Dian Ratri
-      title:        Consultant    
-      avatar:       avatar-dian.png
+  sita:
+    name:         Lasita Khaerani
+    title:        Consultant
+    avatar:       avatar-sita.png
+  dian:
+    name:         Dian Ratri
+    title:        Consultant
+    avatar:       avatar-dian.png
+  admin:
+    name:         Admin Qontak
+    title:        Admin
+    avatar:       qontak-app-icon.svg
 
 # Social icons displayed in footer
 social:
