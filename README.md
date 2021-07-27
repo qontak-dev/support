@@ -1,9 +1,4 @@
 ---
-menu:
-  header_left:
-    title: Home
-    identifier: home
-    weight: 2
 
 ---
 ## Help Page
