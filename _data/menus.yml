@@ -1,11 +1,5 @@
 ---
 navigation_docs:
-- title: Instagram API
-  docs:
-  - crm/overview-product
-  weight: 1
-  identifier: item_iEqehws
-  parent: item_2HoeDoC
 - title: Omnichannel
   docs:
   - omnichannel/overview-product
