@@ -1,24 +1,11 @@
 ---
 navigation_docs:
-- title: WhatsApp Business API
-  docs:
-  - crm/overview-product
-  weight: 4
-  identifier: item_rcmRuHw
-  parent: item_dYZuS8D
 - title: Instagram API
   docs:
   - crm/overview-product
   weight: 1
   identifier: item_iEqehws
   parent: item_2HoeDoC
-- title: General Service
-  docs:
-  - omnichannel/overview-product
-  weight: 3
-  identifier: item_wuvqZyE
-  url: https://woasd.ocm
-  parent: item_dYZuS8D
 - title: Omnichannel
   docs:
   - omnichannel/overview-product
