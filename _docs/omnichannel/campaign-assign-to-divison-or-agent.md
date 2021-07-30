@@ -5,7 +5,6 @@ tags:
 title: Campaign Assign to Divison or Agent
 subtitle: Kirim pesan Broadcast ke spesifik Division atau Agen
 author: admin
-published: false
 
 ---
 **Campaign Assign to Division or Agent**
