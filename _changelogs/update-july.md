@@ -1,11 +1,10 @@
 ---
-title: "\U0001F680 Update July"
+title: "\U0001F680 Update Juli 2021"
 date: 2021-07-30 00:00:00 +0700
 published: false
 
 ---
-April memiliki beberapa update, fokus utama di bulan ini adalah:
-{% include tag.html tag="added" %}
+Juli 2021 memiliki beberapa update, fokus utama di bulan ini adalah: {% include tag.html tag="added" %}
 
 1. Division assignment on campaign broadcast
 2. Division management
