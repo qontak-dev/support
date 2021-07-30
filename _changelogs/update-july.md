@@ -4,7 +4,9 @@ date: 2021-07-30 00:00:00 +0700
 published: false
 
 ---
-Juli memiliki beberapa update, fokus utama di bulan ini adalah: {% include tag.html tag="added" %}
+Juli memiliki beberapa update, fokus utama di bulan ini adalah:
+
+{% include tag.html tag="added" %}
 
 1. Division assignment on campaign broadcast
 2. Division management
