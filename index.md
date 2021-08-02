@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-  title: Halo....
+  title: Buku Petunjuk Qontak
   subtitle: Ada yang bisa kami bantu?
   image: qontak-whatsapp-sales-customer-service-easy.png
   search: true
