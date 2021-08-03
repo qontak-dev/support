@@ -7,7 +7,7 @@ Juli memiliki beberapa update, fokus utama di bulan ini adalah:
 
 {% include tag.html tag="added" %}
 
-1. Division assignment on campaign broadcast
+1. [Division assignment on campaign broadcast](https://support.qontak.com/docs/omnichannel/campaign-assign-to-divison-or-agent/)
 2. Division management
 3. Filter contact list by status
 4. Handle Story Mention for Instagram channel
