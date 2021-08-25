@@ -8,6 +8,11 @@ Agustus memiliki beberapa update, fokus utama di bulan ini adalah:
 {% include tag.html tag="added" %}
 
 1. Twitter support
+2. Resolve All Expired Chat menu
+3. Limit Maximum On Going Chat per Agent feature
+4. Improvements on Inbox Flow
+5. Reporting menu
+6. NPS, CSAT, CES feature
 
 {% include tag.html tag="fixed" %}
 
