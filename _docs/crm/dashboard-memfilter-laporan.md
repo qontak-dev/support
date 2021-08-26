@@ -11,7 +11,7 @@ Berikut cara memfilter laporan di Dashboard;
 
 1. Kustomisasi filter laporan dapat Anda lakukan pada CRM Qontak versi website. Langkah pertama untuk melakukan filter laporan di Dashboard, bisa bisa klik fitur Dashboard;
 
-   ![](https://lh4.googleusercontent.com/jM2ZExB7ao5_2XHQDKMDQoo6Ylsf-3-z1F9-lNHgs3_Y9lGxodcAkhKkkjBFlurrVK_uYdj_kJ_15_28sfgtoiUx_fo_MhEgW1LPvoXTH5EWAVLHEgPwotuBoSCmUtO8w7OQYXM=s0 =593.513285279274x269.38263988494873)
+   ![](/uploads/form-create-division.png)
 2. Selanjutnya Anda bisa mulai memfilter laporan Anda, berdasarkan Pipeline yang sudah Anda buat;
 
    !\[\](https://lh4.googleusercontent.com/gCVF6WPkjMaaC7spvMHxDnQ-l6MGIHeCwdSFQVb-oeSKHv3y9nV57bLK95TTONqNf7T3ZpSQnpPmuI2O4sGtVtMShxAeJDgahROk9u-Hs-Um3THGy0PZAZC7wWTvaHjAWXiAnUY=s0 =629.9879174232483x287.86647164821625)
