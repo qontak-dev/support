@@ -3,6 +3,7 @@ tags: []
 title: 'Dashboard - Memfilter Laporan '
 subtitle: Dashboard
 author: hariyati suarni nurindah
+published: false
 
 ---
 Memfilter laporan di Dashboard ini, bertujuan untuk mempermudah dalam membaca laporan Anda sesuai kebutuhan. Supaya data yang ditampilkan tidak terlalu banyak dan hanya data yang diperlukan saja. 
