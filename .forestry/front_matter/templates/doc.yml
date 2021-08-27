@@ -17,8 +17,9 @@ fields:
   default: []
   label: tags
 pages:
+- _docs/crm/Dashboard/dashboard-membaca-dan-memilih-laporan.md
+- _docs/crm/Dashboard/dashboard-memfilter-laporan.md
 - _docs/crm/Login - Mobile/login-mobile.md
 - _docs/crm/Login/login-crm.md
-- _docs/crm/dashboard-memfilter-laporan.md
 - _docs/omnichannel/campaign-assign-to-divison-or-agent.md
 - _docs/omnichannel/overview-product.md
