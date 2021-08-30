@@ -18,6 +18,7 @@ fields:
   label: tags
 pages:
 - _docs/crm/Dashboard/dashboard-memahami-hasil-download-laporan-gps-live-location-daily-report.md
+- _docs/crm/Dashboard/dashboard-memahami-hasil-download-laporan-lost-reasons.md
 - _docs/crm/Dashboard/dashboard-memahami-hasil-download-laporan-source.md
 - _docs/crm/Dashboard/dashboard-membaca-dan-memilih-laporan.md
 - _docs/crm/Dashboard/dashboard-memfilter-laporan.md
