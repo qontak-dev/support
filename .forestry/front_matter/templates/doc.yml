@@ -19,6 +19,7 @@ fields:
 pages:
 - _docs/crm/Dashboard/dashboard-membaca-dan-memilih-laporan.md
 - _docs/crm/Dashboard/dashboard-memfilter-laporan.md
+- _docs/crm/Dashboard/dashboard-mengunduh-download-laporan.md
 - _docs/crm/Login - Mobile/login-mobile.md
 - _docs/crm/Login/login-crm.md
 - _docs/omnichannel/campaign-assign-to-divison-or-agent.md
