@@ -3,7 +3,6 @@ tags: []
 title: Contact - Tampilan Contact pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Contact - Tampilan Contact pada Web**
