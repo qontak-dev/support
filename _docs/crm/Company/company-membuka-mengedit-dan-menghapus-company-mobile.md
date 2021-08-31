@@ -3,7 +3,6 @@ tags: []
 title: Company – Membuka, Mengedit, dan Menghapus Company (Mobile)
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 _Company_ – Membuka, Mengedit, dan Menghapus _Company_ (_Mobile_)
