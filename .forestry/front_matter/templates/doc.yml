@@ -17,6 +17,7 @@ fields:
   default: []
   label: tags
 pages:
+- _docs/crm/Company/company-membuka-mengedit-dan-menghapus-company-mobile.md
 - _docs/crm/Contact/contact-menambahkan-contact-satuan-web.md
 - _docs/crm/Contact/contact-tampilan-contact-pada-web.md
 - _docs/crm/Dashboard/dashboard-memahami-hasil-download-laporan-deals-by-stage.md
