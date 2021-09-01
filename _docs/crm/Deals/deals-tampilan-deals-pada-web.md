@@ -3,7 +3,6 @@ tags: []
 title: Deals – Tampilan Deals pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 _Deals_ – Tampilan _Deals_ pada Web
