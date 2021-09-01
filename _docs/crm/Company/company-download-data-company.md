@@ -3,7 +3,6 @@ tags: []
 title: Company – Download Data Company
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 _Company_ – _Download_ Data _Company_
