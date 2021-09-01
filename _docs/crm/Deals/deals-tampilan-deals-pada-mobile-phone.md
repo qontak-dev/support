@@ -3,7 +3,6 @@ tags: []
 title: Deals – Tampilan Deals pada Mobile Phone
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 _Deals_ – Tampilan _Deals_ pada _Mobile Phone_
