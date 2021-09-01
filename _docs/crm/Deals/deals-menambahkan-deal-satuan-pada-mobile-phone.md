@@ -3,7 +3,6 @@ tags: []
 title: Deals – Menambahkan Deal Satuan pada Mobile Phone
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dengan fitur tambah _deal_ di _mobile phone_, anda dapat menambahkan _deal_ satuan anda dimanapun dan kapanpun dengan aplikasi Qontak CRM, tanpa harus membawa laptop.
