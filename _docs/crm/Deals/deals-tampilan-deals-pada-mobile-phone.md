@@ -17,7 +17,7 @@ Untuk mengetahui tampilan dan menggunakan fitur _Deals_ pada _Mobile Phone_, and
 2. Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
 3. Tekan modul _deal_ untuk membuka alur kerja perusahaan anda;
 
-   ![](/uploads/deal2-1.png) 
+   ![](/uploads/deal2-1.png)
 4. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul _deal_, dengan fitur-fitur yang disediakan;
 5. Fasilitas _search engine_ (dengan simbol )yang membuat anda, dengan mudah mencari _deal_ yang anda cari
 6. Fitur _dropdownlist pipeline_ yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
