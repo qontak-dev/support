@@ -3,7 +3,6 @@ tags: []
 title: Contact - Tampilan Contact pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Kontak merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh kontak secara _real-time_.
