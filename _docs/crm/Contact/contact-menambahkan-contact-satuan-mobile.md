@@ -3,7 +3,6 @@ tags: []
 title: Contact - Menambahkan Contact Satuan – Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan juga melalui aplikasi mobile. Berikut adalah langkah-langkah untuk menambahkan contact pada akun CRM Anda melalu aplikasi mobile:
