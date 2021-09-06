@@ -11,13 +11,17 @@ Untuk mengetahui tampilan dan menggunakan fitur kontak pada _Mobile Phone_, anda
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
-   ![](/uploads/whatsapp-image-2021-09-01-at-17-38-09.jpeg)
+   ![](/uploads/tambahkontak4.jpeg)
 
    > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
 2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/tambahkontak3.jpeg)
-3. Fasilitas _search engine_ (dengan simbol )yang membuat anda, dengan mudah mencari kontak yang anda cari
-4. Fitur _dropdownlist pipeline_ yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
-5. Setelah _pipeline_ yang sesuai anda pilih, anda difasilitasi dengan _stage_ dari _deal_ yang merupakan spesifikasi alur kerja
-6. Fitur _deal_/transaksi pada _stage_ alur kerja tertentu yang dapat diamati lebih detail
+3. Filter: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
+4. Search: Anda dapat langsung mencari Contact yang diinginkan dengan menuliskan Nama atau detail lain
+5. Add contact: Anda dapat menambahkan Contact baru dari tombol ini, dengan memilih Single Contact atau Upload File. Single Contact digunakan untuk input Contact manual satu persatu, Upload File digunakan untuk upload Contact secara bulk.
+6. Download: Anda dapat mendownload data Contact dengan cara memilih contact yang anda Select lalu klik Download Selected, atau Download semua data Contact.
+
+   5\. Bulk Change: Anda dapat select beberapa Contact sekaligus, lalu klik tombol Bulk Change untuk mengganti Owner secara bulk.
+7. Delete: Anda dapat memilih beberapa Contact sekaligus, lalu klik tombol Delete untuk menghapus secara bulk.
+8. Edit & Delete: Anda dapat melakukan perubahan atau menghapus Deal dengan tombol di atas.
