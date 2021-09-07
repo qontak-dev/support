@@ -3,7 +3,6 @@ tags: []
 title: " Contact - Filter Data Contact"
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Ketika ingin memilih beberapa kontak untuk anda unduh, hapus atau sekedar melihat jumlah kontak yang ada, anda dapat menggunakan fitur filter dalam suatu kontak. Berikut beberapa tahap untuk memfilter data kontak:
