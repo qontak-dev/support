@@ -3,6 +3,7 @@ tags: []
 title: Deals – Menambahkan Deals Bulk
 subtitle: ''
 author: hariyati suarni nurindah
+published: false
 
 ---
 Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database tiket dari pelanggan Anda. Untuk melakukan penambahan data pada modul **Deal** CRM dapat dilakukan secara satu per satu (_Satu Deal)_ ataupun (_Unggah Deal_). Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Deal** secara (_Unggah Deal)_ melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
