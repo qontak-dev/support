@@ -10,7 +10,7 @@ published: false
 
 ![](/uploads/18-1.png)
 
-Laporan Task KPI by Status memiliki dua sheet, yaitu Tasks KPI by Status dan Task Change Log.
+Laporan Task KPI by Status memiliki dua sheet, yaitu Tasks KPI by Status dan Task Change Log
 
 ![](/uploads/18-2.png)
 
