@@ -3,6 +3,7 @@ tags: []
 title: Deals – Menambahkan Deal Satuan pada Web
 subtitle: ''
 author: hariyati suarni nurindah
+published: false
 
 ---
 Dalam modul _deal_, anda dapat menambahkan transaksi yang anda lakukan, dimana anda akan membuat dan menempatkan satuan _deal_ tersebut dengan _pipeline_ dan _stage_ yang sesuai.
