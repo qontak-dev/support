@@ -3,6 +3,7 @@ tags: []
 title: Deals – Tampilan Deals pada Web
 subtitle: ''
 author: hariyati suarni nurindah
+published: false
 
 ---
 _Deals_ merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh transaksi alur kerja secara _real-time_ pada perusahaan anda.
