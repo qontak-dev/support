@@ -3,7 +3,6 @@ tags: []
 title: Menambahkan Contact Bulk - Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Modul **“Kontak”** pada situs sosial CRM digunakan untuk menginput database representatif perusahaan atau Person In Charge (PIC) dari pelanggan perusahaan Anda. Untuk melakukan penambahan data pada modul **Kontak** CRM dapat dilakukan secara satu per satu (_single upload)_ ataupun massal (_bulk upload_). Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Kontak** secara massal (_bulk upload)_ melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
