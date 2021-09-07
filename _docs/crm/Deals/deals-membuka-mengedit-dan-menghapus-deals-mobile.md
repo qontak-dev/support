@@ -3,7 +3,6 @@ tags: []
 title: Deals - Membuka, Mengedit, dan Menghapus Deals – Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk membuka deal atau melihat detail deal anda dapat mengklik nama pada deal tersebut.
