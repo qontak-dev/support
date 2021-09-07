@@ -3,7 +3,6 @@ tags: []
 title: Deals - Membuka, Mengedit, dan Menghapus Deals – Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk membuka Deal atau melihat detail deal anda dapat mengklik nama pada Deal tersebut yang berwarna biru.
