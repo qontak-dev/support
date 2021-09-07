@@ -3,7 +3,6 @@ tags: []
 title: Contact - Membuka, Mengedit, dan Menghapus Contact - Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk membuka kontak atau melihat detail kontak anda dapat mengklik nama pada kontak tersebut. 
