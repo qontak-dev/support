@@ -2,11 +2,11 @@
 tags: []
 title: Deals - Memindahkan Deals - Mobile
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
-Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan 2 cara
+Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan cara;
 
 1. Buka data Deal yang ingin dipindahkan kemudian pilih button Edit
 
