@@ -3,7 +3,6 @@ tags: []
 title: Company – Filter Data Company
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 _Company_ pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa _companies_ dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda.
