@@ -3,6 +3,7 @@ tags: []
 title: Company – Download Data Company
 subtitle: ''
 author: hariyati suarni nurindah
+published: false
 
 ---
 Dengan fitur _download_, anda dapat menarik data dengan format excel dari seluruh _companies_ maupun beberapa diantaranya yang dipilih.
