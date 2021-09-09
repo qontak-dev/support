@@ -3,7 +3,6 @@ tags: []
 title: Deals - Download Data Deals
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk mengunduh data **“Kontak”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **_“Download yang dipilih”_** _dan **“Download Semua”.**_ Untuk melakukan pengunduhan data **“Kontak”**, Anda dapat mengikuti langkah – langkah berikut ini:
