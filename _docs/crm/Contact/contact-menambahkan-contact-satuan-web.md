@@ -3,7 +3,6 @@ tags: []
 title: Contact - Tampilan Contact pada Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Tidak hanya tersedia pada Qontak CRM _web-based_, menu kontak juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda.
