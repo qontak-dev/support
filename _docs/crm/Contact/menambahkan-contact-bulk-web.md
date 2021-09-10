@@ -11,7 +11,7 @@ Modul **“Kontak”** pada situs sosial CRM digunakan untuk menginput database 
  2. Klik modul “**Kontak”;**
  3. Kemudian klik menu “**_+ Tambah Kontak”_** dan pilih “**_Upload file”_**
 
-    ![](/uploads/bulkontak1.PNG)
+    ![](/uploads/bulkontak10-1.PNG)
  4. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
     ![](/uploads/bulkontak2.PNG)
