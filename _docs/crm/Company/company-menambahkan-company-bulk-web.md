@@ -3,7 +3,6 @@ tags: []
 title: Company - Menambahkan Company Bulk – Web
 subtitle: ''
 author: ''
-published: false
 
 ---
 Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat database _company_ baik yang berstatus sebagai _customer_, _partner_, atau yang lainnya. Untuk menambahkan data _company_, Anda dapat menambahkan satu per satu maupun secara masif. Pada step kali ini, kami akan menginfokan cara menambah _company_ secara masif dengan CRM Qontak:
@@ -12,7 +11,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
  2. Klik modul “**Kontak”;**
  3. Kemudian klik menu “**_+ Tambah Kontak”_** dan pilih “**_Upload file”_**
 
-    ![](/uploads/bulkontak1.PNG)
+    ![](/uploads/bulkontak10-1.PNG)
  4. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
     ![](/uploads/bulkontak2.PNG)
