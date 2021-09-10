@@ -2,7 +2,7 @@
 tags: []
 title: Company - Menambahkan Company Bulk – Web
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 
 ---
 Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat database _company_ baik yang berstatus sebagai _customer_, _partner_, atau yang lainnya. Untuk menambahkan data _company_, Anda dapat menambahkan satu per satu maupun secara masif. Pada step kali ini, kami akan menginfokan cara menambah _company_ secara masif dengan CRM Qontak:
@@ -23,14 +23,13 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
  8. Jika data “**Perusahaan”** pada file excel sudah terisi semua, Anda dapat merubah format pada file excel menjadi **_“Text”_**_._  
     ![](/uploads/bulkontak6.PNG)
  9. Klik **_“Browse a file”_** untuk mengunggah Kembali file excel “**Perusahaan”** yang sudah terisi.  
-    ![](/uploads/bulkontak3.PNG)
+    ![](/uploads/bulkcompany3.PNG)
 10. Pilih file excel data “**Perusahaan”** CRM Anda. Apabila muncul notifikasi sebagai berikut artinya data Perusahaan anda sudah berhasil terunggah.  
     ![](/uploads/bulkcompany4.PNG)
 11. Untuk melihat progess pengunggahan data, Anda bisa cek secara berkala pada menu **_“Properties Upload/Download”._**
 
-    ![](/uploads/bulkontak8.PNG)
-12. Jika terdapat data yang gagal terunggah, sistem akan secara otomatis mengirimkan notifikasi ke alamat email Anda yang terdaftar akun CRM Qotak sebagai berikut :
+    ![](/uploads/bulkcompany5.PNG)
 
-    ![](/uploads/bulkontak9.PNG)
-
+    > Jika terdapat data yang gagal terunggah, sistem akan secara otomatis mengirimkan notifikasi ke alamat email Anda yang terdaftar akun CRM Qontak.
+    >
     > Apabila sudah menerima email notifikasi tersebut Anda dapat melihat detail penjelasan data - data apa saja yang gagal terunggah, Silahkan periksa kembali file Anda dan perbaiki data yang salah.
