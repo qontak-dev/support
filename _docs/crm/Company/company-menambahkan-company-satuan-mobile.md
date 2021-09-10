@@ -18,5 +18,3 @@ Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan company secara sat
 
 
 1. Setelah berhasil menambahkan company, maka Anda akan otomatis masuk ke halaman yang menampilkan detail company yang Anda buat. Hal itu menunjukkan bahwa company yang Anda buat telah tersimpan dalam akun CRM Anda.
-
-!\[\](https://lh5.googleusercontent.com/gTDhDwnC1p1bYM0al_LXkOqNzYvOECmXkxY2BIbXsX9NYSbnUsxWXwOOFTXZNCU0sNsNW-kXOXiJLIufxkuqTMaXrm6ukMuKIqCtN6cDrusWoEkeB6I7oUc2kem59uPJ9E0EMDs=s0 =296x419)
