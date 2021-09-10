@@ -18,4 +18,4 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
 
    ![](/uploads/menambahkansatuancompany2.PNG)
 
-   > Selain menyimpan data, anda juga dapat memanfaatkan fitur berikut yang disiapkan di modul Perusahaan. Pertama, menu **Notes**, **Task**, **Panggilan**, **Email**, **dokumen** dan **rapat**
+   > Selain menyimpan data, anda juga dapat memanfaatkan fitur berikut yang disiapkan di modul Perusahaan. Pertama, menu **Notes**, **Task**, **Panggilan**, **Email**, **dokumen** dan **rapat.**
