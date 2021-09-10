@@ -3,6 +3,7 @@ tags: []
 title: Contact - Membuka, Mengedit, dan Menghapus Contact - Web
 subtitle: ''
 author: hariyati suarni nurindah
+published: false
 
 ---
 Untuk membuka kontak atau melihat detail kontak anda dapat mengklik nama pada kontak tersebut yang berwarna biru. 
