@@ -14,7 +14,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
     ![](/uploads/bulkcompany1.PNG)
  4. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
-    ![](/uploads/bulkontak2.PNG)
+    ![](/uploads/bulkcompany2.PNG)
  5. Perlu diperhatikan bahwa _unique field _yang menjadi pembeda antara data “**Kontak”** satu dengan yang lainnya adalah pada bagian _email_ dan _phone number._
  6. Pada saat pengisian data mengguankan form excel ini, pastikan bahwa data yang diinput tidak ter-_double._ Kemudian_,_ isilah kolom – kolom yang tersedia pada excel sesuai database yang Anda miliki.
  7. Apabila terdapat kolom yang bertanda **(*),** artinya kolom tersebut wajib diisi. Sedangkan pada kolom yang terkustomisasi seperti; _Status, Job Title, dll._ pengisian data pada file excel harus sesuai dengan opsi yang terdapat pada database CRM. Mulai dari ejaan, besar kecil huruf, sampai penempatan spasi perlu diperhatikan harus sama persis, karena jika terdapat _typo_ atau tidak sesuai akan menyebabkan _error_ pada data yang diunggah.
