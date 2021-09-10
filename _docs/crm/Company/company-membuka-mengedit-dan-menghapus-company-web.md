@@ -3,7 +3,6 @@ tags: []
 title: Company - Membuka, Mengedit, dan Menghapus Company – Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk membuka menu Perusahaan atau melihat detail perusahaan anda dapat mengklik nama pada perusahaan tersebut yang berwarna biru.
