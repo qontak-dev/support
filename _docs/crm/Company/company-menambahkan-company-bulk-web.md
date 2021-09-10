@@ -11,7 +11,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
  2. Klik modul “**Kontak”;**
  3. Kemudian klik menu “**_+ Tambah Kontak”_** dan pilih “**_Upload file”_**
 
-    ![](/uploads/bulkontak10-1.PNG)
+    ![](/uploads/bulkcompany1.PNG)
  4. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
     ![](/uploads/bulkontak2.PNG)
