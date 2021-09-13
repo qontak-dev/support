@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Dalam modul company, anda dapat membuka, mengedit dan menghapus company yang telah dibuat.
+Dalam modul Perusahaan, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat.
 
 1. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Perusahaan** 
 
