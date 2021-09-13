@@ -14,10 +14,10 @@ Menu company/perusahaan pada CRM Qontak juga dapat Anda temukan di aplikasi Qont
 
    > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
 2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
-3. _Search engine, digunakan ketika Anda ingin mencari data company/perusahaan yang Anda inginkan._
-4. _Filter, digunakan ketika Anda ingin mencari data company/perusahaan dengan menggunakan filter tertentu. Misalnya Anda ingin mencari company/perusahaan berdasarkan owner, team, tipe perusahaan maupun yang lainnya._
-5. _Company Permission, digunakan ketika Anda ingin mengubah settingan permission/perizinan di setiap company/perusahaan._
-6. 
-7. _Triple Dots/Titik Tiga_, digunakan ketika Anda ingin mengedit informasi atau menghapus suatu company/perusahaan.
-8. 
-9. _Add Contact_, digunakan ketika Anda ingin menambah company/perusahaan pada CRM Qontak
+3. Filter: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
+4. Search: Anda dapat langsung mencari Contact yang diinginkan dengan menuliskan Nama atau detail lain
+5. Add contact: Anda dapat menambahkan Contact baru dari tombol ini, dengan memilih Single Contact atau Upload File. Single Contact digunakan untuk input Contact manual satu persatu, Upload File digunakan untuk upload Contact secara bulk.
+6. Download: Anda dapat mendownload data Contact dengan cara memilih contact yang anda Select lalu klik Download Selected, atau Download semua data Contact.
+7. Bulk Change: Anda dapat select beberapa Contact sekaligus, lalu klik tombol Bulk Change untuk mengganti Owner secara bulk.
+8. Delete: Anda dapat memilih beberapa Contact sekaligus, lalu klik tombol Delete untuk menghapus secara bulk.
+9. Edit & Delete: Anda dapat melakukan perubahan atau menghapus Deal dengan tombol di atas.
