@@ -18,10 +18,8 @@ Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan 
 3. Isi Form Kontak dengan data yang anda inginkan
 
    ![](/uploads/tambahkontak2.jpeg)
-4. Jika anda sudah mengisi form kontak dengan data yang anda inginkan maka klik "Create Contact" untuk menyimpan data tersebut
+4. Jika anda sudah mengisi form kontak dengan data yang anda inginkan maka klik **"Create Contact"** untuk menyimpan data tersebut
 
    ![](/uploads/tambahkontak1.jpeg)
 
-   > **Keterangan Setiap Field:**
-
-   > _*Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi._
+   > _Catatan: Kolom yang bertanda (*_) artinya berisifat wajib untuk diisi.
