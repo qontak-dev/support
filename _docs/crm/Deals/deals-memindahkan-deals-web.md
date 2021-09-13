@@ -3,7 +3,6 @@ tags: []
 title: Deals - Memindahkan Deals – Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Deals - Memindahkan Deals – Web
