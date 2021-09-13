@@ -6,32 +6,22 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-_Company_ – Membuka, Mengedit, dan Menghapus _Company_ (_Mobile_)
-
 Dalam modul company, anda dapat membuka, mengedit dan menghapus company yang telah dibuat.
 
-Ikuti Langkah berikut untuk membuka, mengedit, dan menghapus _company_ di akun Qontak anda:
+1. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Perusahaan** 
 
-1. Buka aplikasi Qontak di mobile phone anda;
+   ![](/uploads/membukamengeditcompanymobile1.jpeg)
+2. Kemudian klik nama pada perusahaan tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
-   ![](/uploads/gambar-1.png)
-2. Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
-3. Untuk membuka, tekan salah satu nama _company_ yang ingin dilihat;
+   ![](/uploads/membukamengeditcompanymobile2.jpeg)
 
-   ![](/uploads/gambar-2.png)
+   > Saat nama Perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap. 
+3. Untuk melakukan pengeditan terhadap suatu perusahaan dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu perusahaan, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
-   ![](/uploads/gambar-4.png)
-4. Untuk dapat mengeditnya, anda dapat menekan simbol pensil di pojok kanan atas tampilan lihat;
+   ![](/uploads/membukamengeditcompanymobile3.jpeg)
+4. Apabila anda ingin menghapus perusahaan yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
 
-   ![](/uploads/gambar-5.png)![](/uploads/gambar-6.png)
-5. Setelahnya, anda dapat mengedit _fields_ yang anda ingin ubah;
-6. Anda juga dapat mengubah dan menambahkan asosiasi _contact_, _deal_, dan _parent company_ kedalam _company_, dengan menekan (jenis asosiasi yang diinginkan) dan menambah _new_ atau _existing contact_, _deal_, atau _parent company_;
+   ![](/uploads/membukamengeditcompanymobile4.jpeg)
+5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data perusahaan dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data perusahaan.
 
-   ![](/uploads/gambar-7.png)![](/uploads/gambar-8.png)
-
-   \*Notes: _Parent Company_ pada Android dapat dilihat pada menu _details_ saat melihat _company_ yang dipilih;
-
-   Tekan simbol **“centang”** untuk menyimpan dan mengakhiri proses mengedit;
-7. Anda dapat menghapus _company_ yang telah dibuat (_existing_) dengan cara “_swipe left_” dan menekan simbol _trash bin_ untuk menghapus;![](/uploads/gambar-11.png)
-
-> 
+   ![](/uploads/membukamengeditcompanymobile5.jpeg)
