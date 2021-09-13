@@ -22,4 +22,4 @@ Untuk mengetahui tampilan dan menggunakan fitur _Deals_ pada web, anda harus men
 5. Fasilitas _search engine_ yang membuat anda, dengan mudah mencari _deal_ yang anda cari
 6. Fitur _dropdownlist pipeline_ yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
 7. Setelah _pipeline_ yang sesuai anda pilih, anda difasilitasi dengan _stage_ dari _deal_ yang merupakan spesifikasi alur kerja
-8. Fitur _deal_/ transaksi pada _stage_ alur kerja tertentu yang dapat diamati lebih detail
+8. Fitur _deal_/ transaksi pada _stage_ alur kerja tertentu yang dapat diamati lebih detail.
