@@ -18,7 +18,7 @@ Dalam modul Kontak, anda dapat membuka, mengedit dan menghapus kontak yang telah
 3. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/mengeditkontakmobile2.jpeg)
-4. Apabila anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
+4. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
 
    ![](/uploads/mengeditkontakmobile6.jpeg)
 5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data kontak dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data kontak.
