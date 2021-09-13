@@ -32,7 +32,6 @@ Ikuti Langkah berikut untuk membuka, mengedit, dan menghapus _company_ di akun Q
    \*Notes: _Parent Company_ pada Android dapat dilihat pada menu _details_ saat melihat _company_ yang dipilih;
 
    Tekan simbol **“centang”** untuk menyimpan dan mengakhiri proses mengedit;
-7. Anda dapat menghapus _company_ yang telah dibuat (_existing_) dengan cara “_swipe left_” dan menekan simbol _trash bin_ untuk menghapus;![](/uploads/gambar-11.png)  
-   ![](/uploads/gambar-12.png)
+7. Anda dapat menghapus _company_ yang telah dibuat (_existing_) dengan cara “_swipe left_” dan menekan simbol _trash bin_ untuk menghapus;![](/uploads/gambar-11.png)
 
 > 
