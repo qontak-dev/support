@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan 2 cara
+Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan 2 cara;
 
 1. **_drag and drop_ deals** yang ingin dipindahkan ke **stage** yang dituju
 
