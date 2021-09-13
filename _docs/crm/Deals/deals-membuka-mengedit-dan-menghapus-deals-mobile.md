@@ -5,20 +5,22 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk membuka deal atau melihat detail deal anda dapat mengklik nama pada deal tersebut.
+Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat.
 
-1. Saat nama deal di klik anda akan dialihkan ke halaman deal dengan detail yang lebih lengkap. Saat anda melihat deal melalui mobile aplikasi Deal anda akan menemukan 3 menu yaitu profile, details dan juga timeline. Pada menu profil anda akan menemukan detail info deal tersebut.
+1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal**
 
    ![](/uploads/mengeditdeal1.jpeg)
-2. Pada menu detail anda dapat membuat catatan, menambahkan tugas, mengupload dokumen maupun mengasosiasikan deal anda dengan company/perusahaan. Pada menu timeline anda bisa melihat history atau aktifitas yang dilakukan terhadap deal tersebut.
+2. Kemudian klik nama pada deal tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    ![](/uploads/mengeditdeal2.jpeg)
-3. Untuk melakukan pengeditan terhadap suatu deal anda dapat melakukan step di atas kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik Simpan/Update Deal pada simbol centang bawah.
+
+   > Saat nama deal di klik anda akan dialihkan ke halaman deal  dengan detail yang lebih lengkap.
+3. Untuk melakukan pengeditan terhadap suatu deal dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/mengeditdeal3.jpeg)
-4. Apabila anda ingin menghapus deal yg anda miliki, anda bisa menghapus dengan mengklik tanda **Hapus** pada gambar
+4. Apabila anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
 
    ![](/uploads/mengeditdea4.jpeg)
-5. Apabila muncul pop up, Apakah anda yakin ingin menghapus? Klik”YA” apabila anda sudah memastikan untuk hapus deal tersebut.
+5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data deal dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data deal.
 
    ![](/uploads/mengeditdeal5.jpeg)
