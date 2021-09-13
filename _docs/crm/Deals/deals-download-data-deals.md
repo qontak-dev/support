@@ -7,16 +7,16 @@ author: hariyati suarni nurindah
 ---
 Untuk mengunduh data **“Deal”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **_“Download yang dipilih”_** _dan **“Download Semua”.**_ Untuk melakukan pengunduhan data **“Deal”**, Anda dapat mengikuti langkah – langkah berikut ini:
 
-1. Klik Modul **_“Deal”_**_;_
-2. Apabila anda ingin mengunduh data kustom sesuai data pilihan Anda, maka klik **_“Download”_** dan pilih **_“Download yang dipilih”_**
-3. Ceklist data _“**Deal” **_yang akan anda unduh.
+1. Klik Modul **_“Deal”_**_,_ Apabila anda ingin mengunduh data kustom sesuai data pilihan Anda, maka klik **_“Download”_** dan pilih **_“Download yang dipilih”_** 
+
+   > Ceklist data _“**Deal” **_yang akan anda unduh.
 
    ![](/uploads/downloaddelas1.PNG)
 
    > Namun apabila Anda ingin mengunduh semua data **“Deal”,** anda cukup memilih **_“Download Semua”_**
-4. Jika muncul notifikasi sebagai berikut, artinya pengunduhan data sedang diproses.
+2. Jika muncul notifikasi sebagai berikut, artinya pengunduhan data sedang diproses.
 
    ![](/uploads/downloaddelas2.PNG)
-5. Untuk mengecek progress pengunduhan data, Anda dapat melihatnya pada modul **_“Properties”_** kemudian pilih menu **_“Upload/Download”._**
+3. Untuk mengecek progress pengunduhan data, Anda dapat melihatnya pada modul **_“Properties”_** kemudian pilih menu **_“Upload/Download”._**
 
    ![](/uploads/downloaddelas3.PNG)
