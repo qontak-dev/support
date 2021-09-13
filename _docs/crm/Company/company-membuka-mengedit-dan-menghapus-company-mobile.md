@@ -3,7 +3,6 @@ tags: []
 title: Company – Membuka, Mengedit, dan Menghapus Company (Mobile)
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dalam modul Perusahaan, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat.
