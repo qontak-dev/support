@@ -3,7 +3,6 @@ tags: []
 title: Deals - Filter Data Deals
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Ketika ingin memilih beberapa deal untuk anda unduh, hapus atau sekedar melihat jumlah deal yang ada, anda dapat menggunakan fitur filter dalam suatu deal. Berikut beberapa tahap untuk memfilter data deal:
