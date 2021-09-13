@@ -3,7 +3,6 @@ tags: []
 title: Deals - Memindahkan Deals – Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan 2 cara
