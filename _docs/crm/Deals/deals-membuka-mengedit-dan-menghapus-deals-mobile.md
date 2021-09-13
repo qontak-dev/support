@@ -18,7 +18,7 @@ Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dib
 3. Untuk melakukan pengeditan terhadap suatu deal dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/mengeditdeal3.jpeg)
-4. Apabila anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
+4. Jika anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
 
    ![](/uploads/mengeditdea4.jpeg)
 5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data deal dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data deal.
