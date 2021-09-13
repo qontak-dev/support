@@ -3,7 +3,6 @@ tags: []
 title: Company - Menambahkan Company Satuan – Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan company secara satuan. Untuk menambahkan company secara satuan atau satu per satu, Anda dapat mengikuti step-step di bawah ini:
