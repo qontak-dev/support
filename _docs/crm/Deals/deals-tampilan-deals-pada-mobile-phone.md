@@ -17,7 +17,10 @@ Untuk mengetahui tampilan dan menggunakan fitur _Deals_ pada _Mobile Phone_, and
 2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul _deal_, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/dells-3.jpeg)
-3. Fasilitas _search engine_ (dengan simbol )yang membuat anda, dengan mudah mencari _deal_ yang anda cari
-4. Fitur _dropdownlist pipeline_ yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
-5. Setelah _pipeline_ yang sesuai anda pilih, anda difasilitasi dengan _stage_ dari _deal_ yang merupakan spesifikasi alur kerja
-6. Fitur _deal_/transaksi pada _stage_ alur kerja tertentu yang dapat diamati lebih detail
+3. Filter: Anda dapat filter deal berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul deal.
+4. Search: Anda dapat langsung mencari deal yang diinginkan dengan menuliskan Nama atau detail lain
+5. Tambah Deal : Anda dapat menambahkan Deal baru dari tombol ini, dengan memilih Satu Deal atau Upload File. Satu Deal digunakan untuk input deal manual satu persatu, Upload File digunakan untuk upload deal secara bulk.
+6. Download: Anda dapat mendownload data deal dengan cara memilih deal yang anda Select lalu klik Download Selected, atau Download semua data deal.
+7. Bulk Change: Anda dapat select beberapa deal sekaligus, lalu klik tombol Bulk Change untuk mengganti Owner secara bulk.
+8. Delete: Anda dapat memilih beberapa deal sekaligus, lalu klik tombol Delete untuk menghapus secara bulk.
+9. Edit & Delete: Anda dapat melakukan perubahan atau menghapus Deal dengan tombol di atas.
