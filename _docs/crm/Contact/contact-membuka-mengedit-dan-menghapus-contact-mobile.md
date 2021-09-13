@@ -5,20 +5,22 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk membuka kontak atau melihat detail kontak anda dapat mengklik nama pada kontak tersebut.
+Dalam modul Kontak, anda dapat membuka, mengedit dan menghapus kontak yang telah dibuat.
 
-1. Saat nama kontak di klik anda akan dialihkan ke halaman kontak dengan detail yang lebih lengkap. Saat anda melihat kontak melalui mobile aplikasi Qontak anda akan menemukan 3 menu yaitu profile, details dan juga timeline. Pada menu profil anda akan menemukan detail info kontak tersebut.
+1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Contact**
 
    ![](/uploads/mengeditkontakmobile5.jpeg)
-2. Pada menu detail anda dapat membuat catatan, menambahkan tugas, mengupload dokumen maupun mengasosiasikan kontak anda dengan company/perusahaan. Pada menu timeline anda bisa melihat history atau aktifitas yang dilakukan terhadap kontak tersebut.
+2. Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    ![](/uploads/mengeditkontakmobile3.jpeg)
-3. Untuk melakukan pengeditan terhadap suatu kontak anda dapat melakukan step di atas kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik Simpan/Update Kontak pada simbol centang di bagian kanan atas.
+
+   > Saat nama kontak di klik anda akan dialihkan ke halaman kontak dengan detail yang lebih lengkap.
+3. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/mengeditkontakmobile2.jpeg)
-4. Apabila anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik tanda tiga titik di bagian kanan kontak kemudian pilih Hapus.
+4. Apabila anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
 
    ![](/uploads/mengeditkontakmobile6.jpeg)
-5. Apabila muncul pop up, Apakah anda yakin ingin menghapus? Klik”YA” apabila anda sudah memastikan untuk hapus kontak tersebut.
+5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data kontak dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data kontak.
 
    ![](/uploads/mengeditkontakmobile1.jpeg)
