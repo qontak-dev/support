@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus database dari suatu company. Untuk melihat tampilan fitur company pada CRM Qontak, Anda dapat mengakses dengan cara:
+Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus database dari suatu company. Untuk melihat tampilan fitur company pada CRM Qontak, Anda dapat mengakses dengan cara;
 
  1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada _browser_ anda (Safari, Chrome, atau Firefox) di komputer anda;
 
