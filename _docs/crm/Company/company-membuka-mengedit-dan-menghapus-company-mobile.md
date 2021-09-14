@@ -5,16 +5,16 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam modul Perusahaan, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat.
+Dalam modul Perusahaan, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat
 
-1. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Perusahaan** 
+1. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Perusahaan**
 
    ![](/uploads/membukamengeditcompanymobile1.jpeg)
 2. Kemudian klik nama pada perusahaan tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    ![](/uploads/membukamengeditcompanymobile2.jpeg)
 
-   > Saat nama Perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap. 
+   > Saat nama Perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap.
 3. Untuk melakukan pengeditan terhadap suatu perusahaan dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu perusahaan, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/membukamengeditcompanymobile3.jpeg)

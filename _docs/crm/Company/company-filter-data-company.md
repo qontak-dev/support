@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-_Company_ pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa _companies_ dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda.
+_Company_ pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa _companies_ dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda
 
 Ikuti langka berikut untuk menggunakan fitur _filter_ data _companies_ di akun Qontak anda:
 

@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Dengan fitur _download_, anda dapat menarik data dengan format excel dari seluruh _companies_ maupun beberapa diantaranya yang dipilih.
 
-Ikuti langkah berikut untuk _download_ data _companies_ di akun Qontak anda:
+Ikuti langkah berikut untuk _download_ data _companies_ di akun Qontak anda;
 
 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada _browser_ anda (Safari, Chrome, atau Firefox) di komputer anda;
 

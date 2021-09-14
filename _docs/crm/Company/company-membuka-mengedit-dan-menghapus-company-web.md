@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk membuka menu Perusahaan atau melihat detail perusahaan anda dapat mengklik nama pada perusahaan tersebut yang berwarna biru.
+Untuk membuka menu Perusahaan atau melihat detail perusahaan anda dapat mengklik nama pada perusahaan tersebut yang berwarna biru
 
 1. Saat nama perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap. Pada halaman tersebut anda dapat menambah informasi, mengedit, dan menghapus perusahaan tersebut.
 
