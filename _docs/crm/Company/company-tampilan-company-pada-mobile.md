@@ -3,7 +3,6 @@ tags: []
 title: Company - Tampilan Company pada Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Menu company/perusahaan pada CRM Qontak juga dapat Anda temukan di aplikasi Qontak untuk Android maupun IOS. Untuk mengakses menu company/perusahaan, pastikan Anda mengikuti langkah-langkah berikut ini;

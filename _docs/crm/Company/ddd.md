@@ -3,7 +3,6 @@ tags: []
 title: Company – Tampilan Company pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus database dari suatu company. Untuk melihat tampilan fitur company pada CRM Qontak, Anda dapat mengakses dengan cara;
