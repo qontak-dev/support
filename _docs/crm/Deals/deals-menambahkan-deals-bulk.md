@@ -20,7 +20,7 @@ Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database ti
    ![](/uploads/bulkontak4.PNG)
 6. Jika data “**Deal”** pada file excel sudah terisi semua, Anda dapat merubah format pada file excel menjadi **_“Text”_**_._  
    ![](/uploads/bulkontak6.PNG)
-7. Klik **_“Browse a file”_** untuk mengunggah Kembali file excel “**Kontak”** yang sudah terisi.   
+7. Klik **_“Browse a file”_** untuk mengunggah Kembali file excel “**Deal”** yang sudah terisi.  
    ![](/uploads/bulkdeal3.PNG)
 8. Apabila muncul notifikasi sebagai berikut artinya data Deal anda sudah berhasil terunggah.  
    ![](/uploads/bulkdeal4.PNG)
