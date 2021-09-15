@@ -58,5 +58,7 @@ pages:
 - _docs/crm/Login/login-crm.md
 - _docs/crm/Task/task-download-data-task.md
 - _docs/crm/Task/task-filter-data-task.md
+- _docs/crm/Task/tasks-membuka-mengedit-dan-menghapus-tasks-pada-web.md
+- _docs/crm/Task/tasks-menambahkan-tasks-secara-bulk.md
 - _docs/omnichannel/campaign-assign-to-divison-or-agent.md
 - _docs/omnichannel/overview-product.md
