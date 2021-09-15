@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Tasks – Membuka, Mengedit, dan Menghapus Tasks pada Web
+title: Task – Membuka, Mengedit, dan Menghapus Tasks pada Web
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
