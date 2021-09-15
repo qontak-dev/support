@@ -11,12 +11,12 @@ Untuk mengetahui tampilan dan menggunakan fitur _Deals_ pada _Mobile Phone_, and
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
-   ![](/uploads/whatsapp-image-2021-09-01-at-17-38-09.jpeg)
+   ![](/uploads/tambahkontak4.jpeg)
 
    > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
 2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul _deal_, dengan fitur-fitur yang disediakan;
 
-   ![](/uploads/dells-3.jpeg)
+   ![](/uploads/tampilantask4.jpeg)
 3. Filter: Anda dapat filter deal berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul deal.
 4. Search: Anda dapat langsung mencari deal yang diinginkan dengan menuliskan Nama atau detail lain
 5. Tambah Deal : Anda dapat menambahkan Deal baru dari tombol ini, dengan memilih Satu Deal atau Upload File. Satu Deal digunakan untuk input deal manual satu persatu, Upload File digunakan untuk upload deal secara bulk.
