@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Tasks - Tampilan Tasks Pada Web
+title: Task - Tampilan Tasks Pada Web
 subtitle: ''
 author: hariyati suarni nurindah
 published: false

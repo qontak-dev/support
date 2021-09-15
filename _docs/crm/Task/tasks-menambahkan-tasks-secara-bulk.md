@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Tasks – Menambahkan Tasks Secara Bulk
+title: Task – Menambahkan Tasks Secara Bulk
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
