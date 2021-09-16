@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Task – Tampilan Tasks pada Mobile (iPhone)
+title: 'Task – Tampilan Tasks pada Mobile '
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
