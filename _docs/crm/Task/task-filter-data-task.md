@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-**Task** pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa Task dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda.
+**Task** pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa Task dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda
 
 Ikuti langka berikut untuk menggunakan fitur _filter_ data _Task_ di akun Qontak anda:
 
