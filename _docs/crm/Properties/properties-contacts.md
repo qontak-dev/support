@@ -43,3 +43,6 @@ Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti ya
     ![](/uploads/properties-kontak6.PNG)
 
     > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail kontak, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
+22. Akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**"
+
+    ![](/uploads/properties-kontak7.PNG)
