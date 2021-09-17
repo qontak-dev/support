@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Dalam modul Task, anda dapat membuka, mengedit dan menghapus Task yang telah dibuat.
+Dalam modul Task, anda dapat membuka, mengedit dan menghapus Task yang telah dibuat
 
 1. Untuk membuka Task atau melihat detail task anda dapat mengklik **Menu Task** Kemudian klik button edit seperti pada gambar dibawah ini
 
