@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Untuk mengunduh data **“Task”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **_“Download Selected”_** _dan **“Download All”.**_ Untuk melakukan pengunduhan data **“Task”**, Anda dapat mengikuti langkah – langkah berikut ini;
+Untuk mengunduh data **“Task”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **_“Download Selected”_** _dan **“Download All”.**_ Untuk melakukan pengunduhan data **“Task”**, Anda dapat mengikuti langkah – langkah berikut ini
 
 1. Klik Modul **_“Task”_**_,_ Apabila anda ingin mengunduh data sesuai pilihan Anda, maka klik **_“Download”_** dan pilih **_“Download Selected”_**
 
