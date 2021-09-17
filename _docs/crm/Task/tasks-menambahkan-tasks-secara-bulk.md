@@ -8,7 +8,7 @@ published: false
 ---
 Pada modul Tasks, Anda bisa menambahkan Task dalam jumlah banyak sekaligus, atau yang biasa disebut dengan _bulk upload task._
 
-Untuk melakukan _bulk upload tasks_, Anda perlu mengikuti langkah-langkah berikut ini;
+Untuk melakukan _bulk upload tasks_, Anda perlu mengikuti langkah-langkah berikut ini:
 
 1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
 2. Klik modul “**Task”;** Kemudian klik menu “**_Tambah Task”_** dan pilih “**_Upload File”_**
