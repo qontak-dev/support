@@ -2,7 +2,7 @@
 tags: []
 title: Properties - Company
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
