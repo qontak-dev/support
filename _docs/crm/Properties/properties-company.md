@@ -9,6 +9,8 @@ published: false
 Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menam  bahkan field/properti pada modul “Company”, maka Anda perlu melakukan beberapa langkah sebagai berikut
 
  1. Klik modul Properties dan pilih menu “Perusahaan” hingga muncul tampilan seperti ini. Anda bisa mengklik tombol “Buat Properti Baru” untuk menambahkan field/properti pada modul Company
+
+    ![](/uploads/properties-company1-2.PNG)
  2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut
 
     ![](/uploads/properties-company2.PNG)
