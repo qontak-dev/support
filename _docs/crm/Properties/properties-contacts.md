@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “Contacts”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
+Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Contacts**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
  1. Klik modul Properties dan pilih menu “Kontak” hingga muncul tampilan seperti ini. Anda bisa mengklik tomboh “Buat Properti Baru” untuk menambahkan field/properti pada modul Contacts
 
@@ -43,6 +43,6 @@ Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti ya
     ![](/uploads/properties-kontak6.PNG)
 
     > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail kontak, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
-22. Akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**"
+22. Kemudian akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-kontak7.PNG)
