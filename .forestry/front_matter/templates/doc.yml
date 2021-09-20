@@ -59,6 +59,7 @@ pages:
 - _docs/crm/Properties/properties-company.md
 - _docs/crm/Properties/properties-contacts.md
 - _docs/crm/Properties/properties-deal.md
+- _docs/crm/Properties/properties-products.md
 - _docs/crm/Properties/properties-task.md
 - _docs/crm/Task/task-download-data-task.md
 - _docs/crm/Task/task-filter-data-task.md
