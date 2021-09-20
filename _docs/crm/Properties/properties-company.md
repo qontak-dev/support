@@ -10,10 +10,10 @@ Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti ya
 
  1. Klik modul Properties dan pilih menu “Perusahaan” hingga muncul tampilan seperti ini. Anda bisa mengklik tombol “Buat Properti Baru” untuk menambahkan field/properti pada modul Company
 
-    ![](/uploads/properties-company1-2.PNG)
+    ![](/uploads/properties-company1-3.PNG)
  2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut
 
-    ![](/uploads/properties-company2.PNG)
+    ![](/uploads/properties-company2-1.PNG)
 
     > Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “Save” untuk menyimpan properti baru tersebut, maka secara otomatis properti tersebut akan muncul pada modul Company
  3. Name (wajib diisi): Name merupakan nama dari properti baru yang ingin kita buat pada modul Company
@@ -34,13 +34,13 @@ Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti ya
 18. Show: Apabila checkbox show diklik hingga menunjukkan tanda centang, maka keterangan properti/field tersebut akan muncul detail perusahaan pada modul Company
 19. Untuk mengedit field/properti, Anda bisa mengklik tombol “Edit” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
 
-    ![](/uploads/properties-company4.PNG)
+    ![](/uploads/properties-company3.PNG)
 20. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, show info, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “Save”.
 
-    ![](/uploads/properties-company5.PNG)
+    ![](/uploads/properties-company4-1.PNG)
 21. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
 
-    ![](/uploads/properties-company7.PNG)
+    ![](/uploads/properties-company5-1.PNG)
 22. Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail perusahaan, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
 
-    ![](/uploads/properties-company6.PNG)
+    ![](/uploads/properties-company7-1.PNG)
