@@ -6,9 +6,9 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menam  bahkan field/properti pada modul “Company”, maka Anda perlu melakukan beberapa langkah sebagai berikut
+Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menam  bahkan field/properti pada modul “**Company**”, maka Anda perlu melakukan beberapa langkah sebagai berikut
 
- 1. Klik modul Properties dan pilih menu “Perusahaan” hingga muncul tampilan seperti ini. Anda bisa mengklik tombol “Buat Properti Baru” untuk menambahkan field/properti pada modul Company
+ 1. Klik menu Properties dan pilih menu “Perusahaan” hingga muncul tampilan seperti ini. Anda bisa mengklik tombol “Buat Properti Baru” untuk menambahkan field/properti pada modul Company
 
     ![](/uploads/properties-company1-3.PNG)
  2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut
@@ -41,6 +41,8 @@ Menu “Properties” digunakan untuk mengedit dan menambahkan field/properti ya
 21. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
 
     ![](/uploads/properties-company5-1.PNG)
-22. Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail perusahaan, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
+
+    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail perusahaan, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
+22. Kemudian akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-company7-1.PNG)
