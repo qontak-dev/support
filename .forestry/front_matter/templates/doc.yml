@@ -64,6 +64,7 @@ pages:
 - _docs/crm/Properties/properties-email-service-provider.md
 - _docs/crm/Properties/properties-payment-expense.md
 - _docs/crm/Properties/properties-products.md
+- _docs/crm/Properties/properties-settings.md
 - _docs/crm/Properties/properties-task.md
 - _docs/crm/Properties/properties-upload-download.md
 - _docs/crm/Task/task-download-data-task.md
