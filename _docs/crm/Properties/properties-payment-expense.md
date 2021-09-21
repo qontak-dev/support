@@ -15,4 +15,6 @@ published: false
 
    ![](/uploads/properties-expenses2.PNG)
 3. Pada menu Properties anda dapat mengedit jenis-jenis pilihan kategori dan metode pembayaran yang ada. Silahkan klik bagian properties -> Payment/Expense -> Klik Edit field yang anda ingin ubah.
+
+   ![](/uploads/properties-expenses3.PNG)
 4. Setelah anda membuat perubahan seperti menambah, menghapus dalam kategori ataupun metode pembayaran, jangan lupa klik simpan di bagian kanan bawah
