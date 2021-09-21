@@ -11,10 +11,11 @@ Menu **Upload & Download **pada dashboard CRM digunakan untuk memantau progress 
 1. Klik Modul **“Properties”_,_** lalu pilih **“Upload / Download”.**
 
    ![](/uploads/properties-download.PNG)
-2. Anda dapat melihat detail list pengunduhan dan pengunggahan data yang Anda lakukan pada dashboard CRM sebagai berikut 
+2. Anda dapat melihat detail list pengunduhan dan pengunggahan data yang Anda lakukan pada dashboard CRM sebagai berikut.
 
    ![](/uploads/properties-download1.PNG)
-3. Adapun Rincian informasi yang terdapat pada menu **_“Upload/Download”_** adalah sebagai berikut:
+
+   Adapun Rincian informasi yang terdapat pada menu **_“Upload/Download”_** adalah sebagai berikut:
 
 * **Date:** Tanggal dimana database tersebut diunggah (_upload)_ ataupun diunduh _(download)._
 * **Type:** Jenis/Tipe database yang Anda unggah (_upload)_ ataupun unduh _(download)._
