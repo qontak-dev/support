@@ -18,3 +18,5 @@ published: false
 
    ![](/uploads/properties-expenses3.PNG)
 4. Setelah anda membuat perubahan seperti menambah, menghapus dalam kategori ataupun metode pembayaran, jangan lupa klik simpan di bagian kanan bawah
+
+   ![](/uploads/properties-expenses4.PNG)
