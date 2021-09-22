@@ -15,12 +15,12 @@ published: false
 
   ![](/uploads/report-trend1.PNG)
 
-  Laporan Product Sales Trends menampilkan data Product yang ditambahkan dalam Deal dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke stage Won. Laporan ini ditampilkan dalam bentuk histogram yang berbeda warna yaitu **warna biru** untuk total **besaran Product (Value)** dalam Deal dan **warna oranye** untuk total **jumlah Product (Count)** dalam Deal. Laporan ini memiliki filter tambahan yaitu tahun dan nama Product
+  Laporan Product Sales Trends menampilkan data Product yang ditambahkan dalam Deal dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke stage Won. Laporan ini ditampilkan dalam bentuk histogram yang berbeda warna yaitu **warna biru** untuk total **besaran Product (Value)** dalam Deal dan **warna oranye** untuk total **jumlah Product (Count)** dalam Deal. Laporan ini memiliki filter tambahan yaitu tahun dan nama Product.
 * **Top Companies**
 
   ![](/uploads/report-trend2.PNG)
 
-  Laporan Top Companies menampilkan peringkat perusahaan berdasarkan total **jumlah Deal (Count)** dan total **besaran Deal (Value)** yang terasosiasi dengan Company tersebut dalam periode yang dipilih dari filter bar pada Dashboard CRM, laporan ini ditampilkan dalam bentuk tabel. Deal yang terhitung dalam laporan ini adalah Deal yang berada dalam Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User
+  Laporan Top Companies menampilkan peringkat perusahaan berdasarkan total **jumlah Deal (Count)** dan total **besaran Deal (Value)** yang terasosiasi dengan Company tersebut dalam periode yang dipilih dari filter bar pada Dashboard CRM, laporan ini ditampilkan dalam bentuk tabel. Deal yang terhitung dalam laporan ini adalah Deal yang berada dalam Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User.
 * **Top Products**
 
   ![](/uploads/report-trend3.PNG)
