@@ -10,7 +10,7 @@ published: false
 
   ![](/uploads/report-trend.PNG)
 
-  Laporan Customer Sales Trends menampilkan jumlah besaran **Deal (Value)** yang memiliki asosiasi dengan Company dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke Stage Won. Laporan ini ditampilkan dalam bentuk histogram juga memilki filter tambahan yaitu tahun dan nama Company.
+  Laporan Customer Sales Trends menampilkan jumlah besaran **Deal (Value)** yang memiliki asosiasi dengan Company dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke Stage Won. Laporan ini ditampilkan dalam bentuk histogram juga memilki filter tambahan yaitu tahun dan nama Company
 * **Product Sales Trends**
 
   ![](/uploads/report-trend1.PNG)
