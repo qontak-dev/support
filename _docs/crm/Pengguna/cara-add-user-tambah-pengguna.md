@@ -35,10 +35,3 @@ Untuk melakukan menambahkan user, Anda dapat mengikuti langkah – langkah berik
    > Tanda bintang ( * ) pada beberapa kolom menandakan kolom tersebut bersifat **wajib / required**, dan kolom lainnya bersifat opsional.
 
    > Pilih **Create User** setelah pengisian data selesai dilakukan. Sistem akan menyimpan data pembuatan akun baru.
-5. jika ingin menambahkan team, maka anda harus mengisi data diri yang akan anda tambahkan sesuai dengan kolom yang tersedia, yaitu:
-
-   ![](/uploads/pengguna3.PNG)
-
-   > Tanda bintang ( * ) pada beberapa kolom menandakan kolom tersebut bersifat **wajib / required**, dan kolom lainnya bersifat opsional.
-
-   > Pilih **Buat Team**  setelah pengisian data selesai dilakukan. Sistem akan menyimpan data pembuatan akun baru.
