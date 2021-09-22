@@ -10,7 +10,7 @@ published: false
 
   ![](/uploads/report-trend.PNG)
 
-  Laporan Customer Sales Trends menampilkan jumlah besaran **Deal (Value)** yang memiliki asosiasi dengan Company dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke Stage Won. Laporan ini ditampilkan dalam bentuk histogram juga memilki filter tambahan yaitu tahun dan nama Company
+  Laporan Customer Sales Trends menampilkan jumlah besaran **Deal (Value)** yang memiliki asosiasi dengan Company dan terkelompokkan berdasarkan bulan Deal tersebut dipindah ke Stage Won. Laporan ini ditampilkan dalam bentuk histogram juga memilki filter tambahan yaitu tahun dan nama Company.
 * **Product Sales Trends**
 
   ![](/uploads/report-trend1.PNG)
@@ -25,7 +25,7 @@ published: false
 
   ![](/uploads/report-trend3.PNG)
 
-  Laporan Top Products menampilkan peringkat Product berdasarkan total **jumlah Product (Quantity)** dan total **besaran Product (Volume)** yang terasosiasi dengan Deals dalam periode yang dipilih, laporan ini ditampilkan dalam bentuk tabel. Product yang terhitung dalam laporan ini adalah Product dalam Deal yang berada di Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User
+  Laporan Top Products menampilkan peringkat Product berdasarkan total **jumlah Product (Quantity)** dan total **besaran Product (Volume)** yang terasosiasi dengan Deals dalam periode yang dipilih, laporan ini ditampilkan dalam bentuk tabel. Product yang terhitung dalam laporan ini adalah Product dalam Deal yang berada di Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User.
 * **Deals by Stage by Time**
 
   ![](/uploads/report-trend4.PNG)
