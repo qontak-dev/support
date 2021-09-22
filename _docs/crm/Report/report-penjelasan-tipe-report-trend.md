@@ -25,7 +25,7 @@ published: false
 
   ![](/uploads/report-trend3.PNG)
 
-  Laporan Top Products menampilkan peringkat Product berdasarkan total **jumlah Product (Quantity)** dan total **besaran Product (Volume)** yang terasosiasi dengan Deals dalam periode yang dipilih, laporan ini ditampilkan dalam bentuk tabel. Product yang terhitung dalam laporan ini adalah Product dalam Deal yang berada di Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User.
+  Laporan Top Products menampilkan peringkat Product berdasarkan total **jumlah Product (Quantity)** dan total **besaran Product (Volume)** yang terasosiasi dengan Deals dalam periode yang dipilih, laporan ini ditampilkan dalam bentuk tabel. Product yang terhitung dalam laporan ini adalah Product dalam Deal yang berada di Stage Won. Mata uang yang ditampilkan adalah mata uang default yang dipilih User
 * **Deals by Stage by Time**
 
   ![](/uploads/report-trend4.PNG)
