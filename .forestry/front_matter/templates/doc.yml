@@ -17,6 +17,7 @@ fields:
   default: []
   label: tags
 pages:
+- _docs/Pengguna/cara-add-team.md
 - _docs/crm/Company/company-download-data-company.md
 - _docs/crm/Company/company-filter-data-company.md
 - _docs/crm/Company/company-membuka-mengedit-dan-menghapus-company-mobile.md
