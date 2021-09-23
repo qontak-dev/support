@@ -59,6 +59,7 @@ pages:
 - _docs/crm/Login - Mobile/login-mobile.md
 - _docs/crm/Login/login-crm.md
 - _docs/crm/Pengaturan Akun/pengaturan-akun-reset-password.md
+- _docs/crm/Pengaturan Akun/pengaturan-akun-two-way-authentication.md
 - _docs/crm/Pengaturan Akun/user-permission-edit-contact-access.md
 - _docs/crm/Pengguna/cara-add-team.md
 - _docs/crm/Pengguna/cara-add-user-tambah-pengguna.md
