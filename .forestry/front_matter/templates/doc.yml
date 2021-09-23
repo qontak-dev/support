@@ -60,6 +60,7 @@ pages:
 - _docs/crm/Login/login-crm.md
 - _docs/crm/Pengaturan Akun/pengaturan-akun-reset-password.md
 - _docs/crm/Pengaturan Akun/pengaturan-akun-two-way-authentication.md
+- _docs/crm/Pengaturan Akun/user-performance-pengisian-target.md
 - _docs/crm/Pengaturan Akun/user-permission-breadcrumb-access.md
 - _docs/crm/Pengaturan Akun/user-permission-edit-contact-access.md
 - _docs/crm/Pengguna/cara-add-team.md
