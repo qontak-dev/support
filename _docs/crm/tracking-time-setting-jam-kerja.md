@@ -12,8 +12,9 @@ CRM juga dapat digunakan untuk keperluan Tim HRD melakukan _tracking_ terhadap k
    ![](/uploads/tracking-time.PNG)
 
    > Pada kolom **Select Users/Pilih Pengguna** dapat dipilih user yang akses datanya ingin di-set pengaturannya dengan mencentang kotak di sebelah kiri nama _user_;
-
+   >
    > Pada kolom **Timezone** dapat dipilih wilayahnya, misalnya Asia – Jakarta untuk wilayah Indonesia bagian barat;
-
+   >
    > Pada kolom **Check-In** & **Check-Out** dapat dipilih jam yang sesuai dengan masuk dan selesai kerja kantor.
-2. Kemudian Klik Button **Simpan** untuk menyimpan data yang anda  inginkan
+
+   > Kemudian Klik Button **Simpan** untuk menyimpan data yang anda  inginkan
