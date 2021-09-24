@@ -3,7 +3,6 @@ tags: []
 title: Tracking Time - Setting Jam Kerja
 subtitle: ''
 author: ''
-published: false
 
 ---
 CRM juga dapat digunakan untuk keperluan Tim HRD melakukan _tracking_ terhadap kehadiran karyawan, salah satunya adalah dengan mengetahui kehadiran yang tepat waktu dan tidak tepat waktu para karyawannya pada fitur _Tracking Time_. Untuk melakukan pengaturan pada jam kerja secara sekaligus untuk lebih dari satu orang, dapat langsung dilakukan di menu **User Permission**. Caranya adalah sebagai berikut:

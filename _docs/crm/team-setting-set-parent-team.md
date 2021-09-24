@@ -3,7 +3,6 @@ tags: []
 title: Team Setting - Set Parent Team
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk melakukan pengaturan pada isi tim, misalnya untuk menambahkan atau mengurangi anggota tim, dapat dilakukan di menu **Teams**. Caranya adalah sebagai berikut:
