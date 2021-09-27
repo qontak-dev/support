@@ -2,7 +2,7 @@
 tags: []
 title: Cara Menambahkan Report Ke Dashboard
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
