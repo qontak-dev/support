@@ -6,11 +6,11 @@ author: ''
 published: false
 
 ---
-Dalam modul **Product**, anda dapat menambahkan transaksi yang anda lakukan, dimana anda akan membuat dan menempatkan satuan _Deal_ tersebut dengan _pipeline_ dan _stage_ yang sesuai.
+Dalam modul **Product**, anda dapat menambahkan jenis product yang anda inginkan
 
-Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan _deal_ pada Web;
+Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan **product** pada Web;
 
-1. Setelah anda berhasil login, anda akan menemui modul deal di bagian kiri atas, untuk menambahkan suatu deal anda dapat mengklik bagian **+Tambah Deal-> Satu Deal.**
+1. Setelah anda berhasil login, anda akan menemui modul product di bagian kiri atas, untuk menambahkan suatu product anda dapat mengklik menu **Product+Tambah Product -> Satu Product .**
 
    ![](/uploads/menambahsatuadeal1.PNG)
 2. Pada saat menambah deal, pastikan field-field kolom yang perlu anda ketahui sudah ada pada deal field CRM Qontak sehingga saat pengisian informasi-informasi yang akan anda masukan sudah terisi dengan rapi. Dalam modul deal anda dapat mengisi informasi-informasi penting dari customer seperti Nama, Jabatan, alamat email, nomor telepon, alamat, dan lain-lain.
