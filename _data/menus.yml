@@ -31,36 +31,36 @@ boxes:
 - title: Omnichannel
   desc: Semua yang perlu Anda ketahui tentang solusi Omnichannel Qontak.com
   icon: comments
-  doc: crm/overview-product
+  url: "/omnichannel"
   weight: 1
 - title: CRM
   desc: Temukan dokumentasi, video, dan panduan untuk membantu Anda dalam modul Sales
     CRM Qontak.com
   icon: users
-  doc: crm/overview-product
+  url: "/crm"
   weight: 2
 - title: Call Center
   desc: Segala sesuatu yang perlu Anda ketahui tentang aplikasi Call Center Qontak.com
   icon: receiver
-  doc: crm/overview-product
+  url: "/callcenter"
   weight: 3
 - title: WhatsApp Business API
   desc: Temukan cara mengintegrasikan WhatsApp ke Qontak.com atau platform lain menggunakan
     WhatsApp Business API
   icon: whatsapp
-  doc: crm/overview-product
+  url: "/wa"
   weight: 4
 - title: Instagram API
   desc: Temukan cara mengintegrasikan Instagram ke Qontak.com atau platform lain menggunakan
     Instagram API
   icon: instagram
-  doc: crm/overview-product
+  url: "/ig"
   weight: 5
 - title: General Service
   desc: Temukan jawaban atas pertanyaan yang paling sering diajukan dan layanan umum
     platform Qontak.com
   icon: info
-  doc: crm/overview-product
+  url: "/general"
   weight: 6
 header_right:
 - title: Changelogs

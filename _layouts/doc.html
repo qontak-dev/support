@@ -8,7 +8,7 @@ layout: default
 
             <div class="sidebar-fixed-width uk-visible@m">
                 <div class="sidebar-docs uk-position-fixed uk-margin-top">
-                    <h5>CRM</h5>
+                    <h5>MENU</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
                     {% for menu in site.docs %}
                         {% assign doc_url = menu.url %}
@@ -18,21 +18,6 @@ layout: default
                         </li>
                     {% endfor %}
                     </ul>
-                    <!-- >>>> Path: {{ menu.path }} <br/>
-                    >>>> Collection: {{ menu.collection }} <br/>
-                    >>>> ID: {{ menu.id }} <br/>
-                    >>>> Name: {{ menu.name }} <br/>
-                    >>>> {{ menu | jsonify }} <br/> -->
-                    <!-- {% for section in site.data.menus.navigation_docs %}
-                    <h5>{{ section.title }}</h5>
-                    <ul class="uk-nav uk-nav-default doc-nav">
-                    {% for doc in section.docs %}
-                      {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
-                      {% assign p = site.docs | where:"url", doc_url | first %}
-                        <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-                    {% endfor %}
-                    </ul>
-                    {% endfor %} -->
                 </div>
             </div>
 
