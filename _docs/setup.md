@@ -9,6 +9,7 @@ menu:
   header_left:
     weight: 2
     title: themes
+published: false
 
 ---
 ### Site and author details
