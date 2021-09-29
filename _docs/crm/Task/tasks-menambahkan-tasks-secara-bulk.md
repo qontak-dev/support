@@ -3,7 +3,6 @@ tags: []
 title: Task – Menambahkan Tasks Secara Bulk
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Pada modul Tasks, Anda bisa menambahkan Task dalam jumlah banyak sekaligus, atau yang biasa disebut dengan _bulk upload task_
