@@ -10,10 +10,10 @@ Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database ti
 1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
 2. Klik modul “**Deal”;** Kemudian klik menu “**_+ Tambah Deal”_** dan pilih “**_Unggah Deal”_**
 
-   ![](/uploads/bulkdeal1.PNG)
+   ![](/uploads/screencapture-qontak-crm-deals-2021-09-29-11_36_41.png)
 3. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
-   ![](/uploads/bulkdeal2.PNG)
+   ![](/uploads/screencapture-qontak-crm-deals-multiple-new-2021-09-29-11_37_04.png)
 4. Pada saat pengisian data mengguankan form excel ini, pastikan bahwa data yang diinput tidak ter-_double._ Kemudian_,_ isilah kolom – kolom yang tersedia pada excel sesuai database yang Anda miliki.
 5. Apabila terdapat kolom yang bertanda **(*),** artinya kolom tersebut wajib diisi. Sedangkan pada kolom yang terkustomisasi seperti; _Status, Job Title, dll._ pengisian data pada file excel harus sesuai dengan opsi yang terdapat pada database CRM. Mulai dari ejaan, besar kecil huruf, sampai penempatan spasi perlu diperhatikan harus sama persis, karena jika terdapat _typo_ atau tidak sesuai akan menyebabkan _error_ pada data yang diunggah.
 
@@ -23,10 +23,10 @@ Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database ti
 7. Klik **_“Browse a file”_** untuk mengunggah Kembali file excel “**Deal”** yang sudah terisi.  
    ![](/uploads/bulkdeal3.PNG)
 8. Apabila muncul notifikasi sebagai berikut artinya data Deal anda sudah berhasil terunggah.  
-   ![](/uploads/bulkdeal4.PNG)
+   ![](/uploads/screencapture-qontak-crm-deals-2021-09-29-11_38_09.png)
 9. Untuk melihat progres pengunggahan data, Anda bisa cek secara berkala pada menu **_“Properties Upload/Download”._**
 
-   ![](/uploads/bulkontak8.PNG)
+   ![](/uploads/screencapture-qontak-crm-uploads-2021-09-29-11_38_34.png)
 
    > Jika terdapat data yang gagal terunggah, sistem akan secara otomatis mengirimkan notifikasi ke alamat email Anda yang terdaftar akun CRM Qotak.
    >
