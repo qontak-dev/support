@@ -3,7 +3,6 @@ tags: []
 title: 'Task – Tampilan Tasks pada Mobile '
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Task** merupakan sebuah fitur CRM Qontak dimana para user bisa mencantumkan dan melaporkan kegiatan yang mereka lakukan. Kegiatan tersebut bisa berupa Rencana Kunjungan atau Visit, Follow Up, dan lain-lain.
