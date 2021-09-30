@@ -9,15 +9,15 @@ Dalam modul Kontal, anda dapat membuka, mengedit dan menghapus kontak yang telah
 
 1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Kontak** Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
-   ![](/uploads/mengeditkontak1-1.PNG)
+   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-13_50_40.png)
 
    > Saat nama Perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap.
 2. Untuk melakukan pengeditan terhadap suatu kontak, anda dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah dan **Update Kontak** untuk kembali ke menu utama Modul Kontak.
 
-   ![](/uploads/mengeditkontak2.PNG)
+   ![](/uploads/screencapture-qontak-crm-leads-brendan-rakphongphairoj-8e61adf5-edit-2021-09-30-13_53_15.png)
 3. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus melalui menu utama modul kontak dan memilih kontak yang akan dihapus kemudian klik hapus kontak seperti gambar dibawah ini.
 
-   ![](/uploads/mengeditkontak4.PNG)
-4. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data kontak dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data kontak.
+   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-13_51_34.png)
+4. Apabila muncul pop up, **Are you sure want to remove this? No”Remove”** Pilih **remove** jika anda menyetujui untuk menghapus data kontak dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data kontak.
 
-   ![](/uploads/mengeditkontak3.PNG)
+   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-13_51_44.png)
