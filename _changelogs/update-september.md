@@ -1,6 +1,6 @@
 ---
 title: "\U0001F680 Update September"
-date: 2021-09-15 00:00:00 +0700
+date: 2021-09-15T00:00:00.000+07:00
 
 ---
 September memiliki beberapa update, fokus utama di bulan ini adalah:
@@ -12,6 +12,8 @@ September memiliki beberapa update, fokus utama di bulan ini adalah:
 3. CSV (.csv) on Inbox Conversation Attachment Upload
 4. Yandex Provider on Email Integration Lists
 5. Adjustment File Uploader on Telegram Channel
+6. Interactive Message Support for Broadcast
+7. Channels Option in Division
 
 {% include tag.html tag="fixed" %}
 
