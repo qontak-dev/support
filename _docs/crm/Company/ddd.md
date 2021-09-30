@@ -11,7 +11,7 @@ Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus
 
     ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-    > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
+    > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
 
     ![](/uploads/tampilancompanyweb.PNG)
