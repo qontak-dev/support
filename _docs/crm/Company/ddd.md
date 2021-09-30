@@ -7,9 +7,9 @@ author: hariyati suarni nurindah
 ---
 Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus database dari suatu company. Untuk melihat tampilan fitur company pada CRM Qontak, Anda dapat mengakses dengan cara;
 
- 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada _browser_ anda (Safari, Chrome, atau Firefox) di komputer anda;
+ 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-    ![](/uploads/dells-1.PNG)
+    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
     > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
