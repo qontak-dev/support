@@ -3,7 +3,6 @@ tags: []
 title: Report – Penjelasan Tipe Report General
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Report** dengan tipe General umumnya berisi gambaran laporan dari total keseluruhan data yang diinput oleh sales atau User ke dalam sistem CRM.

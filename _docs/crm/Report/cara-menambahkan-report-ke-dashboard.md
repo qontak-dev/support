@@ -3,7 +3,6 @@ tags: []
 title: Cara Menambahkan Report Ke Dashboard
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Report** pada umumnya berisi tentang data berdasarkan data yang diinput dalam aplikasi CRM.

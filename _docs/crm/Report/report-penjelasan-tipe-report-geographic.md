@@ -3,7 +3,6 @@ tags: []
 title: Report - Penjelasan Tipe Report Geographic
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 * **GPS Check-In**

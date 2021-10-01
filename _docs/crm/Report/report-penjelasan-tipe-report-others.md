@@ -3,7 +3,6 @@ tags: []
 title: Report - Penjelasan Tipe Report – Others
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 * **Achievements by User by Time**

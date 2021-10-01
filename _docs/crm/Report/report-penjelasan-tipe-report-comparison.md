@@ -3,7 +3,6 @@ tags: []
 title: Report - Penjelasan Tipe Report Comparison
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Report** dengan tipe comparison ini umumnya berisi gambaran perbandingan antar sales atau User CRM berdasarkan data yang diinput dalam aplikasi CRM.
