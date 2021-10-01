@@ -3,7 +3,6 @@ tags: []
 title: Task – Menambahkan Tasks Satuan pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dalam modul **Task**, anda dapat menambahkan task yang anda inginkan

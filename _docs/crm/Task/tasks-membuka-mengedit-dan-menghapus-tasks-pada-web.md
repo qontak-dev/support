@@ -3,7 +3,6 @@ tags: []
 title: Task – Membuka, Mengedit, dan Menghapus Tasks pada Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dalam modul Task, anda dapat membuka, mengedit dan menghapus Task yang telah dibuat

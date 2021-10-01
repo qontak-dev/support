@@ -3,7 +3,6 @@ tags: []
 title: Task – Menambahkan Tasks Satuan pada Mobile
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan Task secara satuan. Untuk menambahkan task  secara satuan atau satu per satu, Anda dapat mengikuti step-step di bawah ini:
