@@ -5,25 +5,25 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dengan fitur _download_, anda dapat menarik data dengan format excel dari seluruh _companies_ maupun beberapa diantaranya yang dipilih.
+Dengan fitur download, anda dapat menarik data dengan format excel dari seluruh companies maupun beberapa diantaranya yang dipilih.
 
-Ikuti langkah berikut untuk _download_ data _companies_ di akun Qontak anda;
+Ikuti langkah berikut untuk download data companies di akun Qontak anda;
 
-1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada _browser_ anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-   ![](/uploads/login.PNG)
+   ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-   > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
-2. Tekan modul _company_ untuk membuka _database company_ yang dimiliki;
+   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+2. Tekan modul company untuk membuka database company yang dimiliki;
 
-   ![](/uploads/perushaan1.PNG)
+   ![](/uploads/screencapture-qontak-crm-companies-2021-10-01-09_45_37.png)
 
-   > Untuk mengunduh atau _download_, tekan tombol _dropdownlist download_ dan anda dapat memilih untuk _download_ semua _companies_ ataupun _selected companies_;
+   > Untuk mengunduh atau download, tekan tombol dropdownlist download dan anda dapat memilih untuk download semua companies ataupun selected companies;
 3. Setelah memilih, anda akan diberikan notifikasi mengenai download yang anda telah dilakukan;
 
-   ![](/uploads/perushaan2.PNG)
-4. Untuk melihat progress dari download, klik modul properties, lalu klik menu _upload/download_ dan anda dapat melihat statusnya;
+   ![](/uploads/screencapture-qontak-crm-companies-2021-10-01-09_46_01.png)
+4. Untuk melihat progress dari download, klik modul properties, lalu klik menu upload/download dan anda dapat melihat statusnya;
 
-   ![](/uploads/perushaan3.PNG)
+   ![](/uploads/screencapture-qontak-crm-uploads-2021-09-29-11_38_34-1.png)
 
-   > Jika _download_ telah selesai, file excel yang berisi _companies_ yang anda _download_ telah terkirim ke email yang terdaftar atas username dan password anda;
+   > Jika download telah selesai, file excel yang berisi companies yang anda download telah terkirim ke email yang terdaftar atas username dan password anda;
