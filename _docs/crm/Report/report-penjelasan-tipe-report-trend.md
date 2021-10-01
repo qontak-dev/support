@@ -3,7 +3,6 @@ tags: []
 title: Report - Penjelasan Tipe Report Trend
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 * **Customer Sales Trends**

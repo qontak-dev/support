@@ -3,7 +3,6 @@ tags: []
 title: Report – Penjelasan Tipe Report Targeting
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Report** dengan tipe targeting ini umumnya berisi gambaran dari hasil kinerja sales atau User CRM terhadap target yang sudah ditentukan oleh supervisor atau User CRM dengan role Admin
