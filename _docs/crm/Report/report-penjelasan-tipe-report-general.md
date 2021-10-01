@@ -97,4 +97,4 @@ author: hariyati suarni nurindah
 
   > Laporan Cumulative Daily Sales Performance by Month menampilkan besaran deal yang masuk di stage Won secara akumulatif selama 1 bulan dengan grafik yang ditampilkan berbentuk line area.
   >
-  > > Jika kursor diarahkan ke garis pada grafik tersebut maka muncul informasi total besarnya Deal dalam suatu tanggal.
+  > > Jika kursor diarahkan ke garis pada grafik tersebut maka muncul informasi total besarnya Deal dalam suatu tanggal
