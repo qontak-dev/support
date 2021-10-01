@@ -11,7 +11,7 @@ author: hariyati suarni nurindah
 
   > Filter Bar pada Dashboard CRM dimanfaatkan untuk men-generate data sesuai dengan data yang diinput oleh **User** tertentu atau **Team** tertentu pada **Pipeline** tertentu di **Waktu** tertentu
 
-  ![](/uploads/report1.PNG)
+  ![](/uploads/screencapture-qontak-dashboards-2021-10-01-10_13_23.png)
 * **Sales Performance dan Yearly Sales Comparison**
 
   ![](/uploads/report2.PNG)
@@ -41,7 +41,7 @@ author: hariyati suarni nurindah
 
   > Summary Report menampilkan perubahan-perubahan yang dilakukan oleh User atau Team yang terpilih di filter bar pada menu Dashboard CRM. Perubahan-perubahan yang dicatat adalah **Create (pembuatan), Update (pembaruan), dan Delete (penghapusan)**. Item-item yang akan tercatat perubahannya adalah User, Deal, Task, Company, Contact, Note, Meeting, Ticket, Pipeline, Target, Email, Properties, Product, dan Stage.
   >
-  > Item-item pada Summary Report diurutkan berdasarkan waktu pencatatan perubahan. Item-item yang tampil dibatasi 100 item terakhir. 
+  > Item-item pada Summary Report diurutkan berdasarkan waktu pencatatan perubahan. Item-item yang tampil dibatasi 100 item terakhir.
   >
   > > Jika salah satu baris memiliki informasi yang terlalu panjang sehingga terpotong, maka isi dari baris tersebut dapat dimunculkan informasi lengkapnya dengan mengarahkan ujung kursor ke baris tersebut.
 * **Deals by Stage dan Sources**
