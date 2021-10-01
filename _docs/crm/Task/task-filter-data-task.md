@@ -3,7 +3,6 @@ tags: []
 title: Task – Filter Data Task
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Task** pada CRM Qontak memiliki fitur _filter_ yang dapat memudahkan anda dalam mencari beberapa Task dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda
