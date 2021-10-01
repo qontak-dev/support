@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-**Report** dengan tipe General umumnya berisi gambaran laporan dari total keseluruhan data yang diinput oleh sales atau User ke dalam sistem CRM.
+**Report** dengan tipe General umumnya berisi gambaran laporan dari total keseluruhan data yang diinput oleh sales atau User ke dalam sistem CRM
 
 * **Filter Bar**
 
