@@ -11,15 +11,15 @@ Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan 
 
    **Masukan Email/Username dan Kata Sandi;**
 
-   ![](/uploads/tambahkontak4.jpeg)
+   ![](/uploads/kontakmobile.PNG)
 2. Pilih modul button “**Tambah Kontak**” kemudian pilih dropdown **"Satu Kontak"**
 
-   ![](/uploads/tambahkontak3.jpeg)
-3. Isi Form Kontak dengan data yang anda inginkan
+   ![](/uploads/satuankontakmobile.PNG)
+3. Isi Form Kontak dengan data yang anda inginkan. Jika anda sudah mengisi form kontak maka klik tanda "**Ceklis**" untuk menyimpan data tersebut
 
-   ![](/uploads/tambahkontak2.jpeg)
-4. Jika anda sudah mengisi form kontak dengan data yang anda inginkan maka klik **"Create Contact"** untuk menyimpan data tersebut
-
-   ![](/uploads/tambahkontak1.jpeg)
+   ![](/uploads/satuankontakmobile1.PNG)
 
    > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
+4. Klik "**OK**" jika muncul popup seperti gambar berikut.
+
+   ![](/uploads/satuankontakmobile2.PNG)
