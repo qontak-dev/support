@@ -11,12 +11,12 @@ Untuk mengunduh data **“Kontak”** pada dashboard CRM dapat dilakukan dengan 
 
    > Ceklist data “Kontak” yang akan anda unduh.
 
-   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-14_01_28.png)
+   ![](/uploads/downloadkontak.PNG)
 
    > Namun apabila Anda ingin mengunduh semua data **“Kontak”,** anda cukup memilih **“Download Semua”**
 2. Jika muncul notifikasi sebagai berikut, artinya pengunduhan data sedang diproses.
 
-   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-14_01_54.png)
+   ![](/uploads/downloadkontak1-1.PNG)
 3. Untuk mengecek progress pengunduhan data, Anda dapat melihatnya pada modul **“Properties”** kemudian pilih menu **“Upload/Download”.**
 
-   ![](/uploads/screencapture-qontak-crm-uploads-2021-09-29-11_38_34-1.png)
+   ![](/uploads/kontakbukl3-1.PNG)
