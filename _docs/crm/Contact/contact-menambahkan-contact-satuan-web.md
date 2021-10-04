@@ -5,16 +5,16 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Tidak hanya tersedia pada Qontak CRM _web-based_, menu kontak juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda
+Tidak hanya tersedia pada Qontak CRM web-based, menu kontak juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda
 
-Untuk mengetahui tampilan dan menggunakan fitur kontak pada _Mobile Phone_, anda harus mengikuti Langkah-langkah berikut:
+Untuk mengetahui tampilan dan menggunakan fitur kontak pada Mobile Phone, anda harus mengikuti Langkah-langkah berikut:
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
    ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
-2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
+   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/kontakmobile1.PNG)
 3. Filter: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
