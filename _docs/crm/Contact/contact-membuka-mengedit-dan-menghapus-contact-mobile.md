@@ -9,18 +9,17 @@ Dalam modul Kontak, anda dapat membuka, mengedit dan menghapus kontak yang telah
 
 1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Contact**
 
-   ![](/uploads/mengeditkontakmobile5.jpeg)
-2. Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
+   ![](/uploads/mengeditkontak1-2.PNG)
 
-   ![](/uploads/mengeditkontakmobile3.jpeg)
+   > Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    > Saat nama kontak di klik anda akan dialihkan ke halaman kontak dengan detail yang lebih lengkap.
-3. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
+2. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
-   ![](/uploads/mengeditkontakmobile2.jpeg)
-4. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
+   ![](/uploads/mengeditkontak2-1.PNG)
+3. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
 
-   ![](/uploads/mengeditkontakmobile6.jpeg)
-5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data kontak dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data kontak.
+   ![](/uploads/mengeditkontak3-1.PNG)
+4. Apabila muncul pop up **"You have successfully deleted a contact"** yang berarti data kontak anda berhasil terhapus.
 
-   ![](/uploads/mengeditkontakmobile1.jpeg)
+   ![](/uploads/mengeditkontak4-1.PNG)
