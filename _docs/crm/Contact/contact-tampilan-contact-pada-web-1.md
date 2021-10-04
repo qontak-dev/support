@@ -15,8 +15,6 @@ Untuk mengetahui tampilan dan menggunakan fitur Kontak pada web, anda harus meng
 
    > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
 2. Berikut merupakan tampilan web yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
-
-   ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-13_34_58.png)
 3. Filter: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
 4. Search: Anda dapat langsung mencari Contact yang diinginkan dengan menuliskan Nama atau detail lain
 5. Add contact: Anda dapat menambahkan Contact baru dari tombol ini, dengan memilih Single Contact atau Upload File. Single Contact digunakan untuk input Contact manual satu persatu, Upload File digunakan untuk upload Contact secara bulk.
