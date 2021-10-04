@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Dalam modul Kontal, anda dapat membuka, mengedit dan menghapus kontak yang telah dibuat.
 
-1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Kontak** Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
+1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Kontak** Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini
 
    ![](/uploads/kontakedit1.PNG)
 
