@@ -14,4 +14,4 @@ Ketika ingin memilih beberapa kontak untuk anda unduh, hapus atau sekedar meliha
 
    ![](/uploads/screencapture-qontak-crm-leads-2021-09-30-13_57_19.png)
 
-   > Ketika anda sudah memilih field filter yang anda ingin sortir, jangan lupa untuk klik “Apply” untuk memulai proses filter. Setelah anda mengklik “Apply”, tampilan kontak anda akan menyesuaikan dengan filter tersebut. Apabila anda sudah selesai memfilter, jangan lupa untuk klik “Reset” untuk mengembalikan tampilan kontak pada default sebelumnya.
+   > Ketika anda sudah memilih field filter yang anda ingin sortir, jangan lupa untuk klik “Apply” untuk memulai proses filter. Setelah anda mengklik “Apply”, tampilan kontak anda akan menyesuaikan dengan filter tersebut. Apabila anda sudah selesai memfilter, jangan lupa untuk klik “Reset” untuk mengembalikan tampilan kontak pada default sebelumnya
