@@ -11,12 +11,12 @@ Untuk mengetahui tampilan dan menggunakan fitur kontak pada _Mobile Phone_, anda
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
-   ![](/uploads/tambahkontak4.jpeg)
+   ![](/uploads/kontakmobile.PNG)
 
    > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
 2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
 
-   ![](/uploads/tampilantask2.jpeg)
+   ![](/uploads/kontakmobile1.PNG)
 3. Filter: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
 4. Search: Anda dapat langsung mencari Contact yang diinginkan dengan menuliskan Nama atau detail lain
 5. Add contact: Anda dapat menambahkan Contact baru dari tombol ini, dengan memilih Single Contact atau Upload File. Single Contact digunakan untuk input Contact manual satu persatu, Upload File digunakan untuk upload Contact secara bulk.
