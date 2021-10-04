@@ -7,12 +7,12 @@ author: hariyati suarni nurindah
 ---
 Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan juga melalui aplikasi mobile. Berikut adalah langkah-langkah untuk menambahkan contact pada akun CRM Anda melalu aplikasi mobile:
 
-1. Buka Applikasi “**_Qontak CRM”_** pada aplikasi mobile Anda
+1. Buka Applikasi “**Qontak CRM”** pada aplikasi mobile Anda
 
-   **_Masukan Email/Username dan Kata Sandi;_**
+   **Masukan Email/Username dan Kata Sandi;**
 
    ![](/uploads/tambahkontak4.jpeg)
-2. Pilih modul button _“_**Tambah Kontak**_”_ kemudian pilih dropdown **"Satu Kontak"**
+2. Pilih modul button “**Tambah Kontak**” kemudian pilih dropdown **"Satu Kontak"**
 
    ![](/uploads/tambahkontak3.jpeg)
 3. Isi Form Kontak dengan data yang anda inginkan
@@ -22,4 +22,4 @@ Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan 
 
    ![](/uploads/tambahkontak1.jpeg)
 
-   > _Catatan: Kolom yang bertanda (*_) artinya berisifat wajib untuk diisi.
+   > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
