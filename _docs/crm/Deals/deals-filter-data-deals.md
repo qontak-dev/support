@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Ketika ingin memilih beberapa deal untuk anda unduh, hapus atau sekedar melihat jumlah deal yang ada, anda dapat menggunakan fitur filter dalam suatu deal. Berikut beberapa tahap untuk **memfilter** data deal;
+Ketika ingin memilih beberapa deal untuk anda unduh, hapus atau sekedar melihat jumlah deal yang ada, anda dapat menggunakan fitur filter dalam suatu deal. Berikut beberapa tahap untuk **memfilter** data deal
 
 1. Klik filter pada bagian kanan atas di samping menu pencarian.
 
