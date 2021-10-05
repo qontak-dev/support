@@ -21,4 +21,4 @@ Menu company/perusahaan pada CRM Qontak juga dapat Anda temukan di aplikasi Qont
 6. **Download**: Anda dapat mendownload data perusahaan dengan cara memilih perusahaan yang anda Select lalu klik Download Selected, atau Download semua data perusahaan.
 7. **Bulk Change**: Anda dapat select beberapa perusahaan sekaligus, lalu klik tombol Bulk Change untuk mengganti Owner secara bulk.
 8. **Delete**: Anda dapat memilih beberapa perusahaan sekaligus, lalu klik tombol Delete untuk menghapus secara bulk.
-9. Edit & Delete: Anda dapat melakukan perubahan atau menghapus perusahaan dengan tombol di atas.
+9. **Edit & Delete**: Anda dapat melakukan perubahan atau menghapus perusahaan dengan tombol di atas.
