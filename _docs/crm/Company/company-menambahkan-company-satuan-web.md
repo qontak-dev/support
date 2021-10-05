@@ -14,7 +14,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
 
    > Saat pengisian, anda harus memperhatikan tanda bintang berwarna merah yang ada nama field tsb yang berarti anda wajib memberikan isian pada kolom tersebut.
 
-   Setelah data terisi, klik **Buat** Perusahaan untuk menyimpan data.
+   Setelah data terisi, klik **Buat** **Perusahaan** untuk menyimpan data.
 
    ![](/uploads/companyadd2.PNG)
 
