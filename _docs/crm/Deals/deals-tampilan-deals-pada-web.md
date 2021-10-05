@@ -16,7 +16,7 @@ Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus m
    > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
 2. Berikut merupakan tampilan web yang muncul setelah anda menekan modul deal, dengan fitur-fitur yang disediakan;
 
-   ![](/uploads/screencapture-qontak-crm-deals-2021-09-29-11_31_53.png)
+   ![](/uploads/deal.PNG)
 3. Menu “tambah deal” untuk menambahkan transaksi anda
 4. Fitur download untuk mengunduh deal dalam bentuk excel
 5. Fasilitas search engine yang membuat anda, dengan mudah mencari deal yang anda cari
