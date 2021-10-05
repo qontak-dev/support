@@ -13,7 +13,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
     ![](/uploads/bulkperusahan1.PNG)
  3. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
-    ![](/uploads/bulkcompany2.PNG)
+    ![](/uploads/bulkperusahan2.PNG)
  4. Perlu diperhatikan bahwa _unique field _yang menjadi pembeda antara data “**Perusahaan”** satu dengan yang lainnya adalah pada bagian email dan phone number.
  5. Pada saat pengisian data mengguankan form excel ini, pastikan bahwa data yang diinput tidak ter-double. Kemudian_,_ isilah kolom – kolom yang tersedia pada excel sesuai database yang Anda miliki.
  6. Apabila terdapat kolom yang bertanda **(*),** artinya kolom tersebut wajib diisi. Sedangkan pada kolom yang terkustomisasi seperti; Status, Job Title, dll. pengisian data pada file excel harus sesuai dengan opsi yang terdapat pada database CRM. Mulai dari ejaan, besar kecil huruf, sampai penempatan spasi perlu diperhatikan harus sama persis, karena jika terdapat typo atau tidak sesuai akan menyebabkan error pada data yang diunggah.
@@ -24,10 +24,10 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
  8. Klik **“Browse a file”** untuk mengunggah Kembali file excel “**Perusahaan”** yang sudah terisi.  
     ![](/uploads/bulkcompany3.PNG)
  9. Pilih file excel data “**Perusahaan”** CRM Anda. Apabila muncul notifikasi sebagai berikut artinya data Perusahaan anda sudah berhasil terunggah.  
-    ![](/uploads/screencapture-qontak-crm-companies-2021-10-01-09_17_50.png)
+    ![](/uploads/bulkperusahan3.PNG)
 10. Untuk melihat progess pengunggahan data, Anda bisa cek secara berkala pada menu **“Properties Upload/Download”.**
 
-    ![](/uploads/screencapture-qontak-crm-uploads-2021-09-29-11_38_34-1.png)
+    ![](/uploads/kontakbukl3-1.PNG)
 
     > Jika terdapat data yang gagal terunggah, sistem akan secara otomatis mengirimkan notifikasi ke alamat email Anda yang terdaftar akun CRM Qontak.
     >
