@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk mengunduh data **“Deal”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **“Download yang dipilih”** dan **“Download Semua”.** Untuk melakukan pengunduhan data **“Deal”**, Anda dapat mengikuti langkah – langkah berikut ini:
+Untuk mengunduh data **“Deal”** pada dashboard CRM dapat dilakukan dengan dua cara, yaitu; **“Download yang dipilih”** dan **“Download Semua”.** Untuk melakukan pengunduhan data **“Deal”**, Anda dapat mengikuti langkah – langkah berikut ini;
 
 1. Klik Modul **“Deal”**, Apabila anda ingin mengunduh data kustom sesuai data pilihan Anda, maka klik **“Download”** dan pilih **“Download yang dipilih”**
 
