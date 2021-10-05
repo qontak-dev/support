@@ -12,4 +12,4 @@ Untuk memindahkan **Deals** secara singkat, anda dapat melakukanya dengan 2 cara
    ![](/uploads/dealmemindahkan1.PNG)
 2. Selain itu anda juga dapat memindahkan **Deals** dengan klik **Deal** yang ingin di pindahkan -> Pilih stage yang ingin dituju kemudian klik button **Simpan** untuk menyimpan perubahan data
 
-   ![](/uploads/dealmemindahkan2.PNG)
+   ![](/uploads/dealmemindahkan2-1.PNG)
