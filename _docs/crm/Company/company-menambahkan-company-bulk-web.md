@@ -10,7 +10,7 @@ Modul Company/Perusahaan adalah sebuah menu yang digunakan untuk membuat databas
  1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
  2. Klik modul “**Perusahaan”,** Kemudian klik menu “**+ Tambah Perusahaan”** dan pilih “**Upload file”**
 
-    ![](/uploads/screencapture-qontak-crm-companies-2021-10-01-09_16_26.png)
+    ![](/uploads/bulkperusahan1.PNG)
  3. Unduh template excel yang sudah tersedia dalam dashboard CRM.
 
     ![](/uploads/bulkcompany2.PNG)
