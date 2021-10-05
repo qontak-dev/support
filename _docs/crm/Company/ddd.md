@@ -13,6 +13,8 @@ Fitur company adalah fitur dimana Anda dapat menambah,mengedit ataupun menghapus
 
     > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
+
+    ![](/uploads/company.PNG)
  3. **Filter**, untuk melihat companies/perusahaan dengan filter tertentu (contoh: by owner/by team)
  4. **Search**, digunakan untuk mencari companies/perusahaan berdasarkan nama
  5. **Show**, untuk mengatur dalam tampilan satu layar ingin berapa companies/perusahaan yang akan terlihat
