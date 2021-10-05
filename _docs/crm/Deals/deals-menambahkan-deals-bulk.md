@@ -22,10 +22,11 @@ Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database ti
    ![](/uploads/bulkontak6.PNG)
 7. Klik **“Browse a file”** untuk mengunggah Kembali file excel “**Deal”** yang sudah terisi.  
    ![](/uploads/bulkdeal3.PNG)
-8. Apabila muncul notifikasi sebagai berikut artinya data Deal anda sudah berhasil terunggah.
+8. Apabila muncul notifikasi sebagai berikut artinya data Deal anda sudah berhasil terunggah.  
+   ![](/uploads/bulkdeal2-1.PNG)
 9. Untuk melihat progres pengunggahan data, Anda bisa cek secara berkala pada menu **“Properties Upload/Download”.**
 
-   ![](/uploads/screencapture-qontak-crm-uploads-2021-09-29-11_38_34.png)
+   ![](/uploads/kontakbukl3-1.PNG)
 
    > Jika terdapat data yang gagal terunggah, sistem akan secara otomatis mengirimkan notifikasi ke alamat email Anda yang terdaftar akun CRM Qotak.
    >
