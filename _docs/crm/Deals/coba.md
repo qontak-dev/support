@@ -5,11 +5,11 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan 2 cara;
+Untuk memindahkan **Deals** secara singkat, anda dapat melakukanya dengan 2 cara;
 
 1. **Drag and drop deals** yang ingin dipindahkan ke **stage** yang dituju
 
    ![](/uploads/dealmemindahkan1.PNG)
-2. Selain itu anda juga dapat memindahkan **deals** dengan klik **deal** yang ingin di pindahkan -> Pilih stage yang ingin dituju kemudian klik button **Simpan** untuk menyimpan data.
+2. Selain itu anda juga dapat memindahkan **Deals** dengan klik **Deal** yang ingin di pindahkan -> Pilih stage yang ingin dituju kemudian klik button **Simpan** untuk menyimpan perubahan data
 
-   ![](/uploads/screencapture-qontak-crm-deals-deal-ok-edit-2021-09-30-09_20_55.png)
+   ![](/uploads/dealmemindahkan2.PNG)
