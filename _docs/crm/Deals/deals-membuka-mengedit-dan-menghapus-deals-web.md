@@ -9,7 +9,7 @@ Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dib
 
 1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal** Kemudian klik nama pada deal tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini
 
-   ![](/uploads/screencapture-qontak-crm-deals-2021-09-30-09_28_36.png)
+   ![](/uploads/dealsedit.PNG)
 
    > Saat nama Deal di klik anda akan dialihkan ke halaman deal dengan detail yang lebih lengkap.
 2. Untuk melakukan pengeditan terhadap suatu deal, anda dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah dan **Update Deal** untuk kembali ke menu utama Modul deal.
