@@ -18,3 +18,5 @@ Untuk mengunduh data **“Deal”** pada dashboard CRM dapat dilakukan dengan du
 
    ![](/uploads/downloaddelas2.PNG)
 3. Untuk mengecek progress pengunduhan data, Anda dapat melihatnya pada modul **“Properties”** kemudian pilih menu **“Upload/Download”**
+
+   ![](/uploads/kontakbukl3-1.PNG)
