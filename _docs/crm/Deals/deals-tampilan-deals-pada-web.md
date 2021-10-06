@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 **Deals** merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh transaksi alur kerja secara real-time pada perusahaan anda.
 
-Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus mengikuti Langkah-langkah berikut:
+Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus mengikuti Langkah-langkah berikut;
 
 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
