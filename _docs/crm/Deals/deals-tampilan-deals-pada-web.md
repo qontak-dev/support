@@ -20,6 +20,6 @@ Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus m
 3. Menu **“Tambah Deal”** untuk menambahkan transaksi anda
 4. Fitur **Download** untuk mengunduh deal dalam bentuk excel
 5. Fasilitas **Search** engine yang membuat anda, dengan mudah mencari deal yang anda cari
-6. Fitur **dropdownlist** pipeline yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
+6. Fitur **Dropdownlist** pipeline yang dapat memudahkan anda untuk mencari flow yang anda ingin pantau dan/atau yang akan anda gunakan
 7. Setelah pipeline yang sesuai anda pilih, anda difasilitasi dengan stage dari deal yang merupakan spesifikasi alur kerja
 8. Fitur deal/ transaksi pada stage alur kerja tertentu yang dapat diamati lebih detail.
