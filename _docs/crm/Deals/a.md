@@ -5,9 +5,9 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam modul **Deal**, anda dapat menambahkan transaksi yang anda lakukan, dimana anda akan membuat dan menempatkan satuan _Deal_ tersebut dengan _pipeline_ dan _stage_ yang sesuai.
+Dalam modul **Deal**, anda dapat menambahkan transaksi yang anda lakukan, dimana anda akan membuat dan menempatkan satuan Deal tersebut dengan pipeline dan stage yang sesuai.
 
-Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan _deal_ pada Web;
+Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan deal pada Web;
 
 1. Setelah anda berhasil login, anda akan menemui modul deal di bagian kiri atas, untuk menambahkan suatu deal anda dapat mengklik bagian **+Tambah Deal-> Satu Deal.**
 
