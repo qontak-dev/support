@@ -17,9 +17,9 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Task dengan fitur-fitur yang disediakan
 
     ![](/uploads/tampilantaskweb.PNG)
- 3. Menu “Add a Task” atau “Tambah Task” untuk menambahkan task secara satu persatu maupun bulk upload .
- 4. Menu “Download” untuk mengunduk task dalam format excel.
- 5. Menu “Bulk Change” untuk mengubah owner task dalam jumlah banyak sekaligus.
+ 3. Menu “**Add a Task**” atau “**Tambah Task**” untuk menambahkan task secara satu persatu maupun bulk upload .
+ 4. Menu “**Download**” untuk mengunduk task dalam format excel.
+ 5. Menu “**Bulk Change**” untuk mengubah owner task dalam jumlah banyak sekaligus.
  6. Tombol “Delete” atau “hapus” untuk menghapus beberapa task yang dipilih sekaligus.
  7. Tombol “List View” untuk mengubah tampilan Taks dalam bentuk list (seperti pada gambar).
  8. Tombol “Calendar View” untuk mengubah tampilan Tasks dalam bentuk kalender.
