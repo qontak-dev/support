@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan cara;
+Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan cara:
 
 1. Buka data Deal yang ingin dipindahkan kemudian pilih button Edit
 
