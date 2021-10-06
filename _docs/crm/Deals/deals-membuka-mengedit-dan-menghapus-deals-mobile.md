@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat.
+Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat
 
 1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal**
 
