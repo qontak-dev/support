@@ -29,5 +29,5 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
 12. Menu “**Show**” untuk mengatur berapa banyak task yang ditampilkan di satu layar.
 13. Tombol “**Quick Add**” untuk membuat task baru secara cepat.
 14. Tombol “**Edit**” untuk mengubah atau meng-update suatu task/tugas.
-15. Tombol “Delete” untuk menghapus suatu task/tugas.
+15. Tombol “**Delete**” untuk menghapus suatu task/tugas.
 16. Menunjukkan halaman ke berapa Tasks tersebut di tampilkan dari keseluruhan halaman Tasks.
