@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-**Deals** merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh transaksi alur kerja secara real-time pada perusahaan anda.
+**Deals** merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh transaksi alur kerja secara real-time pada perusahaan anda
 
 Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus mengikuti Langkah-langkah berikut;
 
