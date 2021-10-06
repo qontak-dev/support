@@ -25,9 +25,9 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
  8. Tombol “**Calendar View**” untuk mengubah tampilan Tasks dalam bentuk kalender.
  9. Tombol “**Board View**” untuk mengubah tampilan Tasks dalam bentuk papan.
 10. Tombol “**Filter**” untuk melihat task dengan pengaturan tertentu.
-11. Menu “Search” untuk mencari task berdasarkan nama.
-12. Menu “Show” untuk mengatur berapa banyak task yang ditampilkan di satu layar.
-13. Tombol “Quick Add” untuk membuat task baru secara cepat.
-14. Tombol “Edit” untuk mengubah atau meng-update suatu task/tugas.
+11. Menu “**Search**” untuk mencari task berdasarkan nama.
+12. Menu “**Show**” untuk mengatur berapa banyak task yang ditampilkan di satu layar.
+13. Tombol “**Quick Add**” untuk membuat task baru secara cepat.
+14. Tombol “**Edit**” untuk mengubah atau meng-update suatu task/tugas.
 15. Tombol “Delete” untuk menghapus suatu task/tugas.
 16. Menunjukkan halaman ke berapa Tasks tersebut di tampilkan dari keseluruhan halaman Tasks.
