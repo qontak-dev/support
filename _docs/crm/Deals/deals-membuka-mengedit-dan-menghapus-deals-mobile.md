@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat
+Dalam modul **Deal**, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat
 
 1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal.** Kemudian geser deal kesebalah kiri untuk menampilkan button edit seperti pada gambar dibawah ini.
 
@@ -18,4 +18,6 @@ Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dib
 3. Jika anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
 
    ![](/uploads/mengeditdealmobile2.PNG)
-4. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data deal dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data deal.
+4. Apabila Apabila muncul pop up **"You have successfully deleted a contact"** yang berarti data kontak anda berhasil terhapus.
+
+   ![](/uploads/mengeditdealmobile4.PNG)
