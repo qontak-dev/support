@@ -7,18 +7,16 @@ author: hariyati suarni nurindah
 ---
 Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan Task secara satuan. Untuk menambahkan task  secara satuan atau satu per satu, Anda dapat mengikuti step-step di bawah ini:
 
-1. Buka Applikasi “**_Qontak CRM”_** pada aplikasi mobile Anda
+1. Buka Applikasi “**Qontak CRM”** pada aplikasi mobile Anda
 
-   **_Masukan Email/Username dan Kata Sandi;_**
+   Masukan **Email/Username** dan **Password;**
 
-   ![](/uploads/tambahkontak4.jpeg)
-2. Pilih modul button _“_**Tambah Task**_”_ kemudian pilih dropdown **"Tambah Task"**
+   ![](/uploads/kontakmobile.PNG)
+2. Kemudian klik menu **Task**, kemudian klik button "**+**" untuk menambah data Task
 
-   ![](/uploads/menambahsatuantask1.jpeg)
-3. Isi Form Task dengan data yang anda inginkan dengan cara scrol halaman sampai kebawah untuk mengisi semua field **Task**
+   ![](/uploads/tambahsatuantaskmobile.PNG)
+3. Isi Form Task dengan data yang anda inginkan dengan cara scrol halaman sampai kebawah untuk mengisi semua field **Task**. Jika anda sudah mengisi form task dengan data yang anda inginkan maka klik **"Ceklis"** pada bagian kiri atas untuk menyimpan data tersebut
 
-   ![](/uploads/menambahsatuantask2.jpeg)
+   ![](/uploads/tambahsatuantaskmobile1.PNG)
 
-   > Jika anda sudah mengisi form task dengan data yang anda inginkan maka klik **"Buat Task"** untuk menyimpan data tersebut
-
-   > _Catatan: Kolom yang bertanda (*_) artinya berisifat wajib untuk diisi.
+   > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
