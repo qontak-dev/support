@@ -7,19 +7,18 @@ author: hariyati suarni nurindah
 ---
 Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan company secara satuan. Untuk menambahkan company secara satuan atau satu per satu, Anda dapat mengikuti step-step di bawah ini:
 
-1. Buka Applikasi “**_Qontak CRM”_** pada aplikasi mobile Anda
+1. Buka Applikasi “**Qontak CRM”** pada aplikasi mobile Anda
 
-   **_Masukan Email/Username dan Kata Sandi;_**
+   Masukan **Email/Username** dan **Kata Sandi;**
 
-   ![](/uploads/tambahkontak4.jpeg)
-2. Pilih modul button _“_**Tambah Perusahaan**_”_ kemudian pilih dropdown **"Satu Perusahaan"**
+   ![](/uploads/kontakmobile.PNG)
+2. Setelah berhasil login, klik Button **Companies** pagi header bawah untuk membuka menu company. Kemudian klik tanda **(+)** di sebelah kanan bawah yang artinya menambah company, lalu Anda dapat langsung mengisi detail informasi dari company yang akan Anda tambahkan.
 
-   ![](/uploads/membukamengeditcompanymobile6.jpeg)
-3. Isi Form perusahaan dengan data yang anda inginkan
+   ![](/uploads/tambahcompanymobile.PNG) 
+3. Setelah itu bisa klik tanda centang **(√)** pada bagian kanan atas untuk menyimpan. Company Anda telah selesai dibuat.
 
-   ![](/uploads/membukamengeditcompanymobile7.jpeg)
-4. Jika anda sudah mengisi form perusahaan dengan data yang anda inginkan maka klik **"Buat Perusahaan"** untuk menyimpan data tersebut
+   ![](/uploads/tambahcompanymobile1.PNG)
 
-   ![](/uploads/membukamengeditcompanymobile8.jpeg)
+   > Perlu diperhatikan, jika ada field yang memiliki tanda bintang merah* (**required**), maka wajib diisi. 
 
-   > _Catatan: Kolom yang bertanda (*_) artinya berisifat wajib untuk diisi.
+   Setelah berhasil menambahkan company, maka Anda akan otomatis masuk ke halaman yang menampilkan detail company yang Anda buat. Hal itu menunjukkan bahwa company yang Anda buat telah tersimpan dalam akun CRM Anda.
