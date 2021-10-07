@@ -7,20 +7,15 @@ author: hariyati suarni nurindah
 ---
 Dalam modul Deal, anda dapat membuka, mengedit dan menghapus deal yang telah dibuat
 
-1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal**
+1. Untuk membuka deal atau melihat detail deal anda dapat mengklik **Menu Deal.** Kemudian geser deal kesebalah kiri untuk menampilkan button edit seperti pada gambar dibawah ini.
 
-   ![](/uploads/mengeditdeal1.jpeg)
-2. Kemudian klik nama pada deal tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
+   ![](/uploads/mengeditdealmobile1.PNG)
 
-   ![](/uploads/mengeditdeal2.jpeg)
+   > Saat button deal diklik anda akan dialihkan ke halaman deal  dengan detail yang lebih lengkap.
+2. Untuk melakukan pengeditan terhadap suatu deal dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
-   > Saat nama deal di klik anda akan dialihkan ke halaman deal  dengan detail yang lebih lengkap.
-3. Untuk melakukan pengeditan terhadap suatu deal dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu deal, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
+   ![](/uploads/mengeditdealmobile3.PNG)
+3. Jika anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
 
-   ![](/uploads/mengeditdeal3.jpeg)
-4. Jika anda ingin menghapus deal yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
-
-   ![](/uploads/mengeditdea4.jpeg)
-5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data deal dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data deal.
-
-   ![](/uploads/mengeditdeal5.jpeg)
+   ![](/uploads/mengeditdealmobile2.PNG)
+4. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data deal dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data deal.
