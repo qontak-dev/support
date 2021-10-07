@@ -5,11 +5,11 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk memindahkan **deals** secara singkat, anda dapat melakukanya dengan cara:
+Untuk memindahkan **Deals** secara singkat, anda dapat melakukanya dengan cara:
 
-1. Buka data Deal yang ingin dipindahkan kemudian pilih button Edit
+1. Buka data **Deal** yang ingin dipindahkan kemudian pilih button **New**
 
-   ![](/uploads/memindahkandeal2.jpeg)
+   ![](/uploads/memindahkandealmobile.PNG)
 2. Pilih stage yang ingin dituju kemudian klik button **Simpan** untuk menyimpan data
 
-   ![](/uploads/memindahkandeal1.jpeg)
+   ![](/uploads/memindahkandealmobile1.PNG)
