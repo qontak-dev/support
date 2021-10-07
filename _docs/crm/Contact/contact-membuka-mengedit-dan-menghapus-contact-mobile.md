@@ -7,11 +7,9 @@ author: hariyati suarni nurindah
 ---
 Dalam modul Kontak, anda dapat membuka, mengedit dan menghapus kontak yang telah dibuat.
 
-1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Contact**
+1. Untuk membuka kontak atau melihat detail kontak anda dapat mengklik **Menu Contact**. Kemudian klik tanda pensil untuk melakukan pengeditan seperti pada gambar dibawah ini.
 
    ![](/uploads/mengeditkontak1-2.PNG)
-
-   > Kemudian klik nama pada kontak tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    > Saat nama kontak di klik anda akan dialihkan ke halaman kontak dengan detail yang lebih lengkap.
 2. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
