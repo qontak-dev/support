@@ -9,10 +9,10 @@ Menu **Company/Perusahaan** pada CRM Qontak juga dapat Anda temukan di aplikasi 
 
 1. Login ke akun CRM Anda melalui aplikasi “Qontak” pada mobile yang Anda gunakan
 
-   ![](/uploads/tambahkontak4.jpeg)
+   ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan _username_ dan kata sandi anda. Klik tombol **_“login”_** untuk memulai;
-2. Berikut merupakan tampilan _mobile phone_ yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
+   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+2. Berikut merupakan tampilan mobile phone yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
 
    ![](/uploads/tampilancompanymobile.jpeg)
 3. **Filter**: Anda dapat filter perusahaan berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul perusahaan.
