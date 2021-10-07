@@ -13,7 +13,7 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
 
    ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai;
 2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan menu **Task**, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/taskmobile.PNG)
