@@ -19,4 +19,4 @@ Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan Task secara satuan
 
    ![](/uploads/tambahsatuantaskmobile1.PNG)
 
-   > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
+   > Catatan: Kolom yang bertanda **bintang** (__*__) artinya berisifat wajib untuk diisi.
