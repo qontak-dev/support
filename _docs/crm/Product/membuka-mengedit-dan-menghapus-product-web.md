@@ -19,6 +19,6 @@ Dalam modul **Product**, anda dapat membuka, mengedit dan menghapus Product yang
 3. Jika anda ingin menghapus product yg anda miliki, anda bisa menghapus melalui menu utama product dengan memilih product yang akan dihapus
 
    ![](/uploads/product-edit3.PNG)
-4. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data product dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data product.
+4. Apabila muncul pop up, **Are you sure want to remove this? No”Remove”** Pilih **remove** jika anda menyetujui untuk menghapus data product dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data product.
 
    ![](/uploads/product-edit4.PNG)
