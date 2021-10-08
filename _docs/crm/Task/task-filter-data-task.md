@@ -13,7 +13,7 @@ Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak and
 
    ![](/uploads/login.PNG)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“login”** untuk memulai;
 2. Klik menu **Task** untuk membuka database Task yang dimiliki;
 
    ![](/uploads/filtertask1.PNG)
