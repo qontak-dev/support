@@ -8,7 +8,7 @@ published: false
 ---
 Dalam modul **Product**, anda dapat menambahkan jenis product yang anda inginkan
 
-Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan **product** pada Web;
+Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan **product** pada Web:
 
 1. Setelah anda berhasil login, anda akan menemui modul product di bagian kiri atas, untuk menambahkan suatu product anda dapat mengklik menu **Product+Tambah Product -> Product .**
 
