@@ -18,6 +18,6 @@ Dalam modul Task, anda dapat membuka, mengedit dan menghapus Task yang telah dib
 3. Jika anda ingin menghapus task yg anda miliki, anda bisa menghapus melalui menu utama Task dengan memilih task yang akan dihapus
 
    ![](/uploads/mengedittask3.PNG)
-4. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data task dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data task.
+4. Apabila muncul pop up, **Are you sure want to remove this? No”Remove”** Pilih **remove** jika anda menyetujui untuk menghapus data task dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data task.
 
    ![](/uploads/mengedittask4.PNG)
