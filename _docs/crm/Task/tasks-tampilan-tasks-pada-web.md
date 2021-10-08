@@ -5,10 +5,9 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-
 **Task** merupakan sebuah fitur CRM Qontak dimana para user bisa mencantumkan dan melaporkan kegiatan yang mereka lakukan. Kegiatan tersebut bisa berupa Rencana Kunjungan atau Visit, Follow Up, dan lain-lain.
 
-Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah berikut:
+Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
