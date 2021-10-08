@@ -22,6 +22,6 @@ Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang tela
 4. Jika anda ingin menghapus product yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
 
    ![](/uploads/whatsapp-image-2021-09-27-at-14-56-57.jpeg)
-5. Apabila muncul pop up, **_Are you sure want to remove this? No”Remove”_** Pilih **remove** jika anda menyetujui untuk menghapus data product dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data product.
+5. Apabila muncul pop up, **Are you sure want to remove this? No”Remove”** Pilih **remove** jika anda menyetujui untuk menghapus data product dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data product.
 
    ![](/uploads/whatsapp-image-2021-09-27-at-14-56-56-1.jpeg)
