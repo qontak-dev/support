@@ -3,7 +3,6 @@ tags: []
 title: Membuka, Mengedit, Dan Menghapus Product – Web
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dalam modul **Product**, anda dapat membuka, mengedit dan menghapus Product yang telah dibuat
