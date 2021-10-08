@@ -27,4 +27,4 @@ Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak and
 
    > “Save as Default” ceklis dapat saja dipilih ataupun tidak, dimana perbedaannya adalah apakah anda akan menyaring task secara sementara atau tidak;
    >
-   > Saat anda telah menekan tombol “apply,” Task yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul;
+   > Saat anda telah menekan tombol “**apply**,” Task yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul;
