@@ -21,4 +21,4 @@ Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan **Product** secara
 
    > Jika anda sudah mengisi form product dengan data yang anda inginkan maka klik **"Save"** untuk menyimpan data tersebut
 
-   > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
+   > Catatan: Kolom yang bertanda **bintang**(__*__) artinya berisifat wajib untuk diisi.
