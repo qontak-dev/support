@@ -3,7 +3,6 @@ tags: []
 title: 'Cara Menambahkan Product Satuan – Mobile '
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan **Product** secara satuan. Untuk menambahkan product  secara satuan atau satu per satu, Anda dapat mengikuti step-step di bawah ini:

@@ -3,7 +3,6 @@ tags: []
 title: 'Membuka, Mengedit, Dan Menghapus Product - Mobile '
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang telah dibuat.
