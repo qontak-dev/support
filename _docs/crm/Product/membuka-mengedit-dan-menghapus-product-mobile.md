@@ -10,8 +10,6 @@ Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang tela
 1. Untuk membuka product atau melihat detail product anda dapat mengklik **Menu Product**
 2. Kemudian klik nama pada product tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
-   ![](/uploads/whatsapp-image-2021-09-27-at-14-56-55-1.jpeg)
-
    > Saat nama product di klik anda akan dialihkan ke halaman product dengan detail yang lebih lengkap.
 3. Untuk melakukan pengeditan terhadap suatu product dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu product, jangan lupa untuk mengklik **Save** untuk menyimpan data yang sudah diubah.
 
