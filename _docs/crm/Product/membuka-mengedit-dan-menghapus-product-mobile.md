@@ -5,9 +5,9 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang telah dibuat.
+Dalam menu **Product**, anda dapat membuka, mengedit dan menghapus product yang telah dibuat.
 
-1. Untuk membuka product atau melihat detail product anda dapat mengklik **Menu More** Kemudian klik button product 
+1. Untuk membuka product atau melihat detail product anda dapat mengklik **Menu More** Kemudian klik button **Product**
 
    ![](/uploads/produkmobileedit1.PNG)
 2. Klik button edit gambar(**pensil**) seperti pada gambar dibawah ini.
@@ -21,6 +21,6 @@ Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang tela
 4. Jika anda ingin menghapus product yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
 
    ![](/uploads/produkmobileedit3.PNG)
-5. Apabila muncul pop up, **Are you sure want to remove this? No”Remove”** Pilih **remove** jika anda menyetujui untuk menghapus data product dan pilih **No** jika ada berubah pikiran atau tidak ingin menghapus data product.
+5. Apabila Apabila muncul pop up **"You have successfully deleted a contact"** yang berarti data kontak anda berhasil terhapus.
 
-   ![](/uploads/whatsapp-image-2021-09-27-at-14-56-56-1.jpeg)
+   ![](/uploads/produkmobileedit5.PNG)
