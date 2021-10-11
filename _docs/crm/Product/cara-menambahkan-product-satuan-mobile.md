@@ -11,13 +11,16 @@ Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan **Product** secara
 
    Masukan **Email/Username** dan **Kata Sandi;**
 
-   ![](/uploads/tambahkontak4.jpeg)
-2. Pilih modul button “**Tambah Product**” kemudian pilih dropdown **"Product"**
+   ![](/uploads/kontakmobile.PNG)
+2. Pilih  “**More**” kemudian pilih button**"Product"**
 
-   ![](/uploads/whatsapp-image-2021-09-27-at-14-56-53.jpeg)
-3. Isi Form **Product** dengan data yang anda inginkan dengan cara scrol halaman sampai kebawah untuk mengisi semua field **Product**
+   ![](/uploads/produkmobileedit1.PNG)
+3. Setelah itu, menu product akan muncul, Anda bisa melakukan penambahan product dengan cara klik button (**tambah**) seperi pada gambar berikut.
 
-   ![](/uploads/whatsapp-image-2021-09-27-at-14-56-54.jpeg)
+   ![](/uploads/produkmobiletambah1.PNG)
+4. Isi Form **Product** dengan data yang anda inginkan dengan cara scrol halaman sampai kebawah untuk mengisi semua field **Product**
+
+   ![](/uploads/produkmobiletambah2.PNG)
 
    > Jika anda sudah mengisi form product dengan data yang anda inginkan maka klik **"Save"** untuk menyimpan data tersebut
 
