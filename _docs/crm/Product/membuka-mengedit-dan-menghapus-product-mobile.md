@@ -8,8 +8,6 @@ author: hariyati suarni nurindah
 Dalam menu product, anda dapat membuka, mengedit dan menghapus product yang telah dibuat.
 
 1. Untuk membuka product atau melihat detail product anda dapat mengklik **Menu Product**
-
-   ![](/uploads/whatsapp-image-2021-09-27-at-14-56-55.jpeg)
 2. Kemudian klik nama pada product tersebut atau dengan mengklik button edit seperti pada gambar dibawah ini.
 
    ![](/uploads/whatsapp-image-2021-09-27-at-14-56-55-1.jpeg)
