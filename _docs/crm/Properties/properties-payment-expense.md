@@ -3,7 +3,6 @@ tags: []
 title: Properties - Payment/Expense
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Payment/Expense** adalah sebuah fitur yang digunakan untuk mencatat pengeluaran atau pembayaran yang dibuat sebagai reimbursement. Berikut adalah step untuk membuat Payment/Expense:
