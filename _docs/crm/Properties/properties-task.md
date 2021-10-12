@@ -13,7 +13,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
     ![](/uploads/properties-task1.PNG)
 
     > Anda bisa mengklik tomboh “Create New Property” untuk menambahkan field/properti pada modul Tasks
- 2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut ![](/uploads/properties-task2.PNG)
+ 2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut.![](/uploads/properties-task2.PNG)
 
     > **Name (wajib diisi)**: Name merupakan nama dari properti baru yang ingin kita buat pada modul Contacts
     >
