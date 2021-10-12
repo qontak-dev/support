@@ -3,7 +3,6 @@ tags: []
 title: Properties - Deal
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Deal**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
@@ -35,7 +34,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 11. Selanjutnya Anda dapat menambahkan field/properti baru pada deals dengan mengklik tombol “Create New Property”
 
     ![](/uploads/properties-deal4.PNG)
-12. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut. Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “Save” untuk menyimpan properti baru tersebut.
+12. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut. Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “**Save**” untuk menyimpan properti baru tersebut.
 
     ![](/uploads/properties-deal5.PNG)
 13. Name (wajib diisi): Name merupakan nama dari properti baru yang ingin kita buat pada modul Company
