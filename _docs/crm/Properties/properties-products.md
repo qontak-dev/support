@@ -3,7 +3,6 @@ tags: []
 title: Properties - Products
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 
