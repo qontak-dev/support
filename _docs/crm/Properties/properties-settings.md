@@ -3,7 +3,6 @@ tags: []
 title: Properties - Settings
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Menu **Settings** pada dashboard CRM digunakan untuk melakukan pengaturan Timezone, Default Currecy dan Features List. Untuk melakukan pengaturan dengan cara berikut ini:
