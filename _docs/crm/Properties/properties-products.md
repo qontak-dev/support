@@ -6,6 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
+
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Products**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
  1. Klik modul Properties dan pilih menu “**Produk**” hingga muncul tampilan seperti ini
@@ -53,6 +54,6 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
     ![](/uploads/properties-produk5.PNG)
 
     > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian produk, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “**Save**”
-18. Kemudian akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
+18. Kemudian akan muncul popup "**are you sure to removed field**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-produk6.PNG)
