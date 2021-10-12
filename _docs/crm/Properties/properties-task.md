@@ -42,11 +42,11 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 16. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “Save”.
 
     ![](/uploads/properties-task4.PNG)
-17. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
+17. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “**Destroy**” di sebelah kanan properti/field yang ingin Anda hapus.
 
     ![](/uploads/properties-task5.PNG)
 
-    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian task, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
+    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian task, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “**Save**”
 18. Kemudian akan muncul popup "**Are you sure to want to removed this**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-task6.PNG)
