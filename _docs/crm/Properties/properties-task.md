@@ -3,7 +3,6 @@ tags: []
 title: Properties - Task
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Task**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:

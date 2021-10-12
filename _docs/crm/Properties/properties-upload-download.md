@@ -3,7 +3,6 @@ tags: []
 title: Properties - Upload & Download
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Menu **Upload & Download **pada dashboard CRM digunakan untuk memantau progress pengunggahan (Upload) ataupun pengunduhan (Download) database perusahaan Anda dari dashboard CRM. Akun dengan akses **member** atau **admin** dapat mengakses menu tersebut dan melihat status dari upload & download dari masing - masing akun. Untuk melihat progress **Upload dan Download** dapat dilakukan dengan cara berikut ini:
