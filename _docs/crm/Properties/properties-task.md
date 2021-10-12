@@ -8,7 +8,7 @@ published: false
 ---
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Task**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
- 1. Klik modul Properties dan pilih menu “Tasks” hingga muncul tampilan seperti ini
+ 1. Klik modul Properties dan pilih menu “**Tasks**” hingga muncul tampilan seperti ini
 
     ![](/uploads/properties-task1.PNG)
 
