@@ -23,7 +23,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
     >
     > **Show**: Apabila checkbox show diklik hingga menunjukkan tanda centang, maka keterangan properti/field tersebut akan muncul detail kontak pada modul “Task”
     >
-    > > Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “Save” untuk menyimpan properti baru tersebut, maka secara otomatis properti tersebut akan muncul pada modul “Task”
+    > > Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “**Save**” untuk menyimpan properti baru tersebut, maka secara otomatis properti tersebut akan muncul pada modul “Task”
  3. Single Line Text 🡪 pengisian field dengan teks singkat
  4. Dropdown Select 🡪 memungkinkan user untuk memilih satu dari beberapa opsi yang muncul sebagai isi field tersebut
  5. Number 🡪 field hanya dapat diisi dengan angka
