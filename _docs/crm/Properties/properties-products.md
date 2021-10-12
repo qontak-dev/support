@@ -42,17 +42,17 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 12. URL 🡪 pengisian field dengan link
 13. Siganture 🡪 field diisi dengan tanda tangan secara langsung
 14. GPS 🡪 CRM akan mendeteksi lokasi GPS pada pengisian field dengan tipe GPS dilakukan
-15. Untuk mengedit field/properti, Anda bisa mengklik tombol “Edit” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
+15. Untuk mengedit field/properti, Anda bisa mengklik tombol “**Edit**” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
 
     ![](/uploads/properties-produk3.PNG)
-16. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, dhow in list, styling, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “Save”.
+16. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, dhow in list, styling, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “**Save**”.
 
     ![](/uploads/properties-produk4.PNG)
 17. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
 
     ![](/uploads/properties-produk5.PNG)
 
-    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian produk, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
+    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian produk, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “**Save**”
 18. Kemudian akan muncul popup "_are you sure to removed field_" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-produk6.PNG)
