@@ -47,6 +47,6 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
     ![](/uploads/properties-task5.PNG)
 
     > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian task, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “Save”
-18. Kemudian akan muncul popup "are you sure to removed field" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
+18. Kemudian akan muncul popup "**are you sure to removed field**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-task6.PNG)
