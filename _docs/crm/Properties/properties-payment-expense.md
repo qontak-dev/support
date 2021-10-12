@@ -14,7 +14,7 @@ published: false
 2. Masukan data-data mengenai expense anda seperti kapan anda membayar, berapa jumlah yang dibayarkan, siapa kontak, company dan tiket yang berhubungan dengan pengeluaran anda. Kategori pengeluaran yang anda buat, tambahan keterangan deskripsi dan foto struk/nota dari pembayaran tersebut. Klik Submit untuk menyimpan data anda.
 
    ![](/uploads/properties-expenses2.PNG)
-3. Pada menu Properties anda dapat mengedit jenis-jenis pilihan kategori dan metode pembayaran yang ada. Silahkan klik bagian properties -> Payment/Expense -> Klik Edit field yang anda ingin ubah.
+3. Pada menu Properties anda dapat mengedit jenis-jenis pilihan kategori dan metode pembayaran yang ada. Silahkan klik bagian **Properties** -> Payment/Expense -> Klik Edit field yang anda ingin ubah.
 
    ![](/uploads/properties-expenses3.PNG)
 4. Setelah anda membuat perubahan seperti menambah, menghapus dalam kategori ataupun metode pembayaran, jangan lupa klik "**Save"** di bagian kanan bawah
