@@ -8,11 +8,11 @@ published: false
 ---
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Products**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
- 1. Klik modul Properties dan pilih menu “Produk” hingga muncul tampilan seperti ini
+ 1. Klik modul Properties dan pilih menu “**Produk**” hingga muncul tampilan seperti ini
 
     ![](/uploads/properties-produk1.PNG)
 
-    > Anda bisa mengklik tomboh “Create New Property” untuk menambahkan field/properti pada Products
+    > Anda bisa mengklik tomboh “**Create New Property**” untuk menambahkan field/properti pada Products
  2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut
 
     ![](/uploads/properties-produk2.PNG)
