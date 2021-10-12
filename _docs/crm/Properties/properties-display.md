@@ -15,6 +15,6 @@ Modul **Display** pada dashboard CRM Qontak dapat digunakan untuk mengkustomisas
    > Klik **“Choose File”_,_** untuk mengunggah logo perusahaan Anda atau photo profil sesuai yang Anda inginkan. Pastikan bahwa photo yang Anda unggah memiliki background yang transparan.
 2. Anda juga dapat mengkustomisasi warna tema pada dashboard CRM Anda dengan memilih warna tampilan pada pilihan dibawah ini; beri centang pada _checkbox_ di warna tema yang Anda inginkan.
 
-   klik “Save Changes” untuk menyimpan kustomisasi yang Anda lakukan.
+   klik “**Save Changes**” untuk menyimpan kustomisasi yang Anda lakukan.
 
    ![](/uploads/properties-display2.PNG)
