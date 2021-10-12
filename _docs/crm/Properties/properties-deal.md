@@ -12,7 +12,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 
     ![](/uploads/properties-deal1.PNG)
 
-    > Untuk menambahkan pipeline baru, Anda dapat mengklik tombol “Buat Pipeline Baru”
+    > Untuk menambahkan pipeline baru, Anda dapat mengklik tombol “**Buat Pipeline Baru**”
  2. Akan muncul tampilan sebagai berikut. Selanjutnya Anda dapat mengisi keterangan dari pipeline tersebut. Apabila seluruh keterangan sudah diisi, klik tombol “Create Pipeline” untuk membuat pipeline tersebut
 
     ![](/uploads/properties-deal2.PNG)
