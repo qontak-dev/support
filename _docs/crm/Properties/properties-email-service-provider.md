@@ -3,7 +3,6 @@ tags: []
 title: Properties - Email Service Provider
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 Fitur **Email Service Provider** pada dashboard CRM Qontak digunakan untuk mengatur alamat email yang akan digunakan sebagai sender ID pada email yang dikirimkan melalui dashboard CRM. Akun dengan akses **member** atau **admin** dapat mengubah email masing - masing akun. Perubahan yang dilakukan hanya akan mengubah tampilan akun tersebut. Untuk melakukan menghubungkan email Anda pada “**Email Service Provider”** CRM dapat dilakukan dengan cara berikut ini:
