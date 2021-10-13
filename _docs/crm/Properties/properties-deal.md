@@ -60,11 +60,11 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 31. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show in list, show info, menambahkan opsi pada field type dropdown maupun multiple select, hingga mengedit opsi required dan show pada pipeline. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “**Save**”.
 
     ![](/uploads/properties-deal7.PNG)
-32. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
+32. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “**Destroy**” di sebelah kanan properti/field yang ingin Anda hapus.
 
     ![](/uploads/properties-deal8.PNG)
 
-    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “Destroy”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian deal, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show sesuai pipeline yang diinginkan. Kemudian mengklik tombol “Save”
+    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian deal, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show sesuai pipeline yang diinginkan. Kemudian mengklik tombol “Save”
 33. Kemudian akan muncul popup "are you sure to removed field" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-deal9.PNG)
