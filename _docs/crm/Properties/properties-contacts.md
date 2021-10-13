@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Contacts**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
- 1. Klik modul Properties dan pilih menu “Kontak” hingga muncul tampilan seperti ini. Anda bisa mengklik tomboh “Buat Properti Baru” untuk menambahkan field/properti pada modul Contacts
+ 1. Klik modul Properties dan pilih menu “**Kontak**” hingga muncul tampilan seperti ini. Anda bisa mengklik tomboh “**Buat Properti Baru**” untuk menambahkan field/properti pada modul Contacts
 
     ![](/uploads/properties-kontak1.PNG)
  2. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut
