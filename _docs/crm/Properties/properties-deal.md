@@ -54,10 +54,10 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 27. Show in List: Apabila checkbox show in list diklik hingga menunjukkan tanda centang, maka keterangan properti/field tersebut akan muncul pada tampilan daftar deal
 28. Required: Apabila checkbox required diklik hingga menunjukkan tanda centang pada sebuah pipeline, maka properti/field tersebut nantinya wajib diisi oleh user pada saat pengisian deal di pipeline tersebut, sehingga deal tidak dapat disimpan bila properti/field tersebut tidak diisi
 29. Show: Apabila checkbox show diklik hingga menunjukkan tanda centang pada sebuah pipeline, maka properti/field tersebut akan muncul pada saat pengisian deal di pipeline tersebut
-30. Untuk mengedit field/properti, Anda bisa mengklik tombol “Edit” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
+30. Untuk mengedit field/properti, Anda bisa mengklik tombol “**Edit**” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
 
     ![](/uploads/properties-deal6.PNG)
-31. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show in list, show info, menambahkan opsi pada field type dropdown maupun multiple select, hingga mengedit opsi required dan show pada pipeline. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “Save”.
+31. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show in list, show info, menambahkan opsi pada field type dropdown maupun multiple select, hingga mengedit opsi required dan show pada pipeline. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “**Save**”.
 
     ![](/uploads/properties-deal7.PNG)
 32. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
