@@ -15,4 +15,4 @@ published: false
 
    ![](/uploads/properties-ato2.PNG)
 
-   > Saat anda sudah menentukan entity dan trigger dalam suatu deal, anda dapat membuat tugas yang akan diberikan secara otomatis dengan trigger tersebut. Silahkan menuliskan nama tugas, kategori, prioritas, detail tugas maupun field yang lain seperti due date setiap tugas yg dibuat, dan menentukan apakah dari setiap tugas yang dibuat akan memiliki owner yang sama dengan pemilik entitas atau hanya akan ditetapkan 1 akun menjadi owner setiap tugas tersebut. Apabila sudah selesai klik “Save Automated Action” untuk menyimpan action.
+   > Saat anda sudah menentukan entity dan trigger dalam suatu deal, anda dapat membuat tugas yang akan diberikan secara otomatis dengan trigger tersebut. Silahkan menuliskan nama tugas, kategori, prioritas, detail tugas maupun field yang lain seperti due date setiap tugas yg dibuat, dan menentukan apakah dari setiap tugas yang dibuat akan memiliki owner yang sama dengan pemilik entitas atau hanya akan ditetapkan 1 akun menjadi owner setiap tugas tersebut. Apabila sudah selesai klik “**Save Automated Action**” untuk menyimpan action.
