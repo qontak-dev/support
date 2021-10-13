@@ -38,11 +38,11 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 20. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, show info, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “**Save**”.
 
     ![](/uploads/properties-company4-1.PNG)
-21. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “Destroy” di sebelah kanan properti/field yang ingin Anda hapus.
+21. Untuk menghapus properti/field yang sudah dibuat Anda bisa mengklik ikon tong sampah atau tombol “**Destroy**” di sebelah kanan properti/field yang ingin Anda hapus.
 
     ![](/uploads/properties-company5-1.PNG)
 
     > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut dari detail perusahaan, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show. Kemudian mengklik tombol “**Save**”
-22. Kemudian akan muncul popup "**are you sure to removed field**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
+22. Kemudian akan muncul popup "**Are you sure to removed field**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-company7-1.PNG)
