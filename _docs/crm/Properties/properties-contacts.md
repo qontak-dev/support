@@ -31,7 +31,7 @@ author: hariyati suarni nurindah
    16. GPS 🡪 CRM akan mendeteksi lokasi GPS pada pengisian field dengan tipe GPS dilakukan
    17. Required: Apabila checkbox required diklik hingga menunjukkan tanda centang, maka properti/field tersebut nantinya wajib diisi oleh user, sehingga kontak tidak dapat disimpan bila properti/field tersebut tidak diisi
    18. Show: Apabila checkbox show diklik hingga menunjukkan tanda centang, maka keterangan properti/field tersebut akan muncul detail kontak pada modul “Contacts”
-   19. Untuk mengedit field/properti, Anda bisa mengklik tombol “Edit” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
+   19. Untuk mengedit field/properti, Anda bisa mengklik tombol “**Edit**” di sebelah kanan field/properti tersebut dan kemudian Anda dapat mengubah sesuai dengan keinginan Anda
 
        ![](/uploads/properties-kontak4.PNG)
    20. Melalui fitur edit, Anda dapat mengubah label, nama, field type, required, show, show info, hingga menambahkan opsi pada field type dropdown maupun multiple select. Apabila perubahan sudah selesai diatur, Anda bisa mengklik tombol “**Save**”.
