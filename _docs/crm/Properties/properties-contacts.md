@@ -14,7 +14,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 
     ![](/uploads/properties-kontak2.PNG)
 
-    > Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “Save” untuk menyimpan properti baru tersebut, maka secara otomatis properti tersebut akan muncul pada modul “Contacts”
+    > Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “**Save**” untuk menyimpan properti baru tersebut, maka secara otomatis properti tersebut akan muncul pada modul “**Contacts**”
  3. Name (wajib diisi): Name merupakan nama dari properti baru yang ingin kita buat pada modul Contacts
  4. Field Type (wajib diisi): Field type berisi pilihan dari tipe pengisian properti yang Anda inginkan. Apabila Anda mengklik field type, maka akan muncul beberapa pilihan tipe properti yang dapat Anda pilih, antara lain:
  5. Single Line Text 🡪 pengisian field dengan teks singkat
