@@ -64,7 +64,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 
     ![](/uploads/properties-deal8.PNG)
 
-    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian deal, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show sesuai pipeline yang diinginkan. Kemudian mengklik tombol “Save”
-33. Kemudian akan muncul popup "are you sure to removed field" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
+    > Terdapat beberapa default field yang tidak dapat dihapus dan tidak memberikan opsi “**Destroy**”. Maka apabila Anda ingin menghilangkan properti/field tersebut pada saat pengisian deal, Anda harus mengedit properti/field tersebut dan mengosongkan checkbox show sesuai pipeline yang diinginkan. Kemudian mengklik tombol “**Save**”
+33. Kemudian akan muncul popup "**are you sure to removed field**" kemudian pilih button "**Remove**" untuk menghapus field yang diinginkan.
 
     ![](/uploads/properties-deal9.PNG)
