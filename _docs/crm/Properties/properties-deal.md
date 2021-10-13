@@ -31,7 +31,7 @@ Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/propert
 10. Untuk menambah atau mengedit properti/field pada saat pengisian deal, Anda bisa mengklik tombol pensil di sebelah kanan atau klik “Update Properties for Deals”
 
     ![](/uploads/properties-deal3.PNG)
-11. Selanjutnya Anda dapat menambahkan field/properti baru pada deals dengan mengklik tombol “Create New Property”
+11. Selanjutnya Anda dapat menambahkan field/properti baru pada deals dengan mengklik tombol “**Create New Property**”
 
     ![](/uploads/properties-deal4.PNG)
 12. Akan muncul tampilan seperti berikut. Selanjutnya Anda dapat mengisi keterangan dari properti tersebut. Apabila seluruh keterangan pada properti sudah diisi maka klik tombol “**Save**” untuk menyimpan properti baru tersebut.
