@@ -7,21 +7,13 @@ author: hariyati suarni nurindah
 ---
 **Dashboard - Task KPI by Status**
 
-![](/uploads/18-1.png)
-
 Laporan Task KPI by Status memiliki dua sheet, yaitu Tasks KPI by Status dan Task Change Log
 
-![](/uploads/18-2.png)
+![](/uploads/kpi.PNG)Pada sheet Tasks KPI by Status, laporan yang ditampilkan dapat sebelumnya difilter berdasarkan User, Waktu, dan Task Category.
 
-Pada sheet Tasks KPI by Status, laporan yang ditampilkan dapat sebelumnya difilter berdasarkan User, Waktu, dan Task Category.
+Laporan ini akan menampilkan list user dan masing-masing jumlah Task yang mereka miliki per Status-nya. Dan juga menampilkan total keseluruhan jumlah Task yang dimiliki setiap user.
 
-Laporan ini akan menampilkan list user dan masing-masing jumlah Task yang mereka miliki per Status-nya. Dan juga menampilkan total keseluruhan jumlah Task yang dimiliki setiap user.  
-Misalnya:  
-Agus Agent memiliki 0 Not Started Task, 1 In Progress Task, 0 Waiting Task, 2 Completed Task, dan 0 Deferred Task. Sehingga, total dari Task yang dimiliki Agus Agent adalah 3.
-
-![](/uploads/18-3.png)
-
-Pada sheet Task Change Log, ditampilkan secara detail perubahan yang dilakukan pada setiap Task. Adapun detail yang dapat dilihat:
+> Pada sheet Task Change Log, ditampilkan secara detail perubahan yang dilakukan pada setiap Task. Adapun detail yang dapat dilihat:
 
 * Task = Nama Task
 * Category = Kategori Task
