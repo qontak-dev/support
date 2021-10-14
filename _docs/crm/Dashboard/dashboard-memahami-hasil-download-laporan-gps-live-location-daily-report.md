@@ -30,7 +30,5 @@ Filter waktu laporan
 11. Check-out Mock Location
 12. Check-in Device
 13. Check-out Device
-
-    ![](/uploads/3-3.jpg)
 14. Total User
     * Anda bisa melacak apakah user Anda check-in atau check-out menggunakan fake lokasi atau tidak, dengan membaca table Check-in Mock Location dan Check-out Mock Location
