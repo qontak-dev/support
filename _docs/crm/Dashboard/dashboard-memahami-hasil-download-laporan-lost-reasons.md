@@ -7,15 +7,9 @@ author: hariyati suarni nurindah
 ---
 **Dashboard - Memahami Hasil Download Laporan Lost Reasons**
 
-![](/uploads/16-1.png)
-
 Laporan Lost Reasons menampilkan dua sheet, yaitu Deals by Lost Reason dan Deals List.
 
-![](/uploads/16-2.png)
-
-Pada sheet Deals by Lost Reason, ditampilkan list setiap user dengan jumlah Lost Deals pada setiap kategori Lost Reason. Laporan ini dapat ditampilkan berdasarkan filter Pipeline, User, dan Waktu yang diinginkan. Kategori Lost Reason akan ditampilkan berdasarkan Count, Amount (Deal Size), dan Percentage.
-
-![](/uploads/16-3.png)
+![](/uploads/source1.PNG)Pada sheet Deals by Lost Reason, ditampilkan list setiap user dengan jumlah Lost Deals pada setiap kategori Lost Reason. Laporan ini dapat ditampilkan berdasarkan filter Pipeline, User, dan Waktu yang diinginkan. Kategori Lost Reason akan ditampilkan berdasarkan Count, Amount (Deal Size), dan Percentage.
 
 Pada sheet Deals List, ditampilkan secara detail:
 
