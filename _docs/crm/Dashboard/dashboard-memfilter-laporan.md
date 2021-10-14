@@ -17,10 +17,10 @@ Berikut cara memfilter laporan di Dashboard;
    ![](/uploads/dashboardd2.PNG)
 3. Anda juga bisa memfilter laporan Anda, disesuaikan dengan tim ataupun user yang sudah Anda buat dengan klik dropdown **"Select Team"** dan **"Select Users"**   
    ![](/uploads/dashboardd3.PNG)
-4. Anda juga bisa memfilter laporan Anda, disesuaikan dengan tim ataupun user yang sudah Anda buat dengan klik dropdown **"Select Team"**
-5. Anda bisa memfilter laporan sesuai waktu yang diinginkan. Misal Anda ingin memfilter laporan bulan ini, laporan bulan lalu, laporan minggu lalu, ataupun menkustomisasi range tanggal yang ingin Anda filter.
 
-   ![](/uploads/5.PNG)
-6. Terakhir, jika setiap element filter Anda sudah sesuai. Anda bisa klik **“submit”** untuk melihat hasil filter laporan yang sudah Anda sesuaikan dengan kebutuhan Anda;
+   ![](/uploads/dashboardd4.PNG)
+4. Anda bisa memfilter laporan sesuai waktu yang diinginkan. Misal Anda ingin memfilter laporan bulan ini, laporan bulan lalu, laporan minggu lalu, ataupun menkustomisasi range tanggal yang ingin Anda filter.
 
-   ![](/uploads/6.PNG)![](/uploads/7.PNG)
+   ![](/uploads/dashboardd5.PNG)
+
+   > jika setiap element filter Anda sudah sesuai. Anda bisa klik **“Submit”** untuk melihat hasil filter laporan yang sudah Anda sesuaikan dengan kebutuhan Anda.
