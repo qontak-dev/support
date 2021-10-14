@@ -17,6 +17,4 @@ Seluruh laporan yang ada di CRM Qontak juga dapat di unduh di komputer ataupun d
    ![](/uploads/2.jpg)
 3. Anda bisa unduh laporan pada komputer atau laptop Anda, versi PDF ataupun versi Excel
 
-   ![](/uploads/3-2.jpg)
-
    ![](/uploads/4.jpg)
