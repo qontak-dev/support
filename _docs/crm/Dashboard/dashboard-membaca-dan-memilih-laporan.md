@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dashboard - Membaca dan Memilih Laporan
+**Dashboard - Membaca dan Memilih Laporan**
 
 Dalam membaca dan memilih laporan, berikut beberapa contoh cara membaca dan memilih laporan yang ada di Dashboard Qontak CRM;
 
@@ -20,10 +20,11 @@ Dalam membaca dan memilih laporan, berikut beberapa contoh cara membaca dan memi
 2. Targets by Months by Value.
 
    Dalam membaca laporan "Target by Month by Value" ada beberapa hal yang bisa Anda perhatikan;
+
+   ![](/uploads/screenshot-18.png)
    * Terdapat filter di report, bisa pilih pipeline serta waktu yang ingin dilihat laporan-nya ( filter ini tidak terpengaruh oleh filter diatas).
    * Di sisi kiri bar charts, terdapat nama-nama user.
    * Terdapat 2 warna; biru dan kuning. Biru menandakan “target tercapai”, kuning menandakan “sisa target”.
-   * Sebagai contoh membaca laporan sales performance di atas, apabila kursor di geser ke warna biru dan muncul bahwa user Jojo telah mencapai target 15% dengan jumlah Rp. 75.000 dari target 100% di Bulan Juli.
 3. Product Sales Trends (All Pipelines).
 
    Dalam membaca laporan “Product Sales Trend (All Pipelines)”, ada beberapa hal yang bisa Anda perhatikan;
@@ -31,8 +32,6 @@ Dalam membaca dan memilih laporan, berikut beberapa contoh cara membaca dan memi
    ![](/uploads/screenshot-13.png)
    * Langkah pertama dalam membaca laporan Product Sales dari keseluruhan pipelines, ialah menentukkan dahulu produk apa yang ingin Anda baca laporannya. Kemudian Anda bisa filter waktu yang ingin Anda baca laporan-nya.
    * Dalam chart bars, terdapat 2 warna; warna biru mendandakan pendapatan penjualan dan warna kuning menandakan besaran produk yang terjual.
-   * Seperti contoh laporan Product Sales (All Pipelines) di atas, menandakan bahwa; pada bulan May 2021 ini jumlah pendapatan produk HUB- Whatasapp outbound Blast System sebesar Rp. 4.200.000.
-   * Sementara untuk laporan Product Sales Trends (All Pipelines) di atas, menandakan bahwa Jumlah produk HUB HUB- Whatasapp outbound Blast System terjual 1 produk.
 4. Task KPI by Status.
 
    ![](/uploads/screenshot-16.png)
