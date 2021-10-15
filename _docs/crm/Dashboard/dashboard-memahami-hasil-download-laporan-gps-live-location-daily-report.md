@@ -12,7 +12,7 @@ Hasil download laporan GPS Live Location - **Daily Check-in Report** ketika suda
 
 ![](/uploads/1-2.jpg)
 
-Pada sheet Daily Check-in Report, ditampilkan secara detail;
+Pada sheet **Daily Check-in Report**, ditampilkan secara detail;
 
 Filter waktu laporan
 
