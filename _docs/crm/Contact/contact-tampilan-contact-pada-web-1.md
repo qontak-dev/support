@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Kontak merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh kontak secara real-time.
+**Kontak** merupakan fitur CRM yang disediakan Qontak, dimana dapat menunjukan dan mencatat seluruh kontak secara real-time.
 
 Untuk mengetahui tampilan dan menggunakan fitur Kontak pada web, anda harus mengikuti Langkah-langkah berikut:
 
