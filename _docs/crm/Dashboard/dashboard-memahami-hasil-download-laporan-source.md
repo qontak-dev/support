@@ -8,7 +8,7 @@ published: false
 ---
 **Dashboard - Memahami Hasil Download Laporan Source**
 
-Laporan yang didapatkan dari Dashboard New Contacts, Companies, and Deals Created by Source menampilkan laporan per modul, berdasarkan dengan filter user dan filter waktu yang diinginkan.
+Laporan yang didapatkan dari **Dashboard** New Contacts, Companies, and Deals Created by Source menampilkan laporan per modul, berdasarkan dengan filter user dan filter waktu yang diinginkan.
 
 ![](/uploads/source.PNG)
 
