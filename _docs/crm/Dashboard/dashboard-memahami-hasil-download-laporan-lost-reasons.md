@@ -8,7 +8,7 @@ published: false
 ---
 **Dashboard - Memahami Hasil Download Laporan Lost Reasons**
 
-Laporan Lost Reasons menampilkan dua sheet, yaitu Deals by Lost Reason dan Deals List.
+Laporan Lost Reasons menampilkan dua sheet, yaitu **Deals by Lost Reason** dan **Deals List**.
 
 ![](/uploads/source1.PNG)Pada sheet Deals by Lost Reason, ditampilkan list setiap user dengan jumlah Lost Deals pada setiap kategori Lost Reason. Laporan ini dapat ditampilkan berdasarkan filter Pipeline, User, dan Waktu yang diinginkan. Kategori Lost Reason akan ditampilkan berdasarkan Count, Amount (Deal Size), dan Percentage.
 
