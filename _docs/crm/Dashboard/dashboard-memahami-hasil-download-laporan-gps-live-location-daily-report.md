@@ -8,7 +8,7 @@ published: false
 ---
 **Dashboard - Memahami Hasil Download Laporan GPS Live Location - Daily Report**
 
-Hasil download laporan GPS Live Location - Daily Check-in Report ketika sudah di download akan menampilkan sheet seperti gambar-gambar di bawah ini;
+Hasil download laporan GPS Live Location - **Daily Check-in Report** ketika sudah di download akan menampilkan sheet seperti gambar-gambar di bawah ini;
 
 ![](/uploads/1-2.jpg)
 
