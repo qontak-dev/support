@@ -11,7 +11,7 @@ Dalam membaca dan memilih laporan, berikut beberapa contoh cara membaca dan memi
 
 1. **Sales Performance.**
 
-   Jika Anda memilih laporan “Sales Performance” yang ditampilkan di dashboard, untuk membaca laporan tersebut ada beberapa hal yang Anda bisa perhatikan;
+   Jika Anda memilih laporan “**Sales Performance**” yang ditampilkan di dashboard, untuk membaca laporan tersebut ada beberapa hal yang Anda bisa perhatikan;
 
    ![](/uploads/screenshot-22.png)
    * Dalam memilih laporan “Sales Performance”, Anda bisa membaca laporan berdasarkan harian, mingguan atau bulanan.
