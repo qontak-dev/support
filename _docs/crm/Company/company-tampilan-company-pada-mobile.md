@@ -11,7 +11,7 @@ Menu **Company/Perusahaan** pada CRM Qontak juga dapat Anda temukan di aplikasi 
 
    ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai;
 2. Berikut merupakan tampilan mobile phone yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan;
 
    ![](/uploads/tampilancompanymobile.PNG)
