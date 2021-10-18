@@ -1,7 +1,6 @@
 ---
 title: "\U0001F680 Update Oktober"
 date: 2021-10-18 00:00:00 +0700
-published: false
 
 ---
 Oktober memiliki beberapa update, fokus utama di bulan ini adalah:
