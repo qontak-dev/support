@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Menu **Company/Perusahaan** pada CRM Qontak juga dapat Anda temukan di aplikasi Qontak untuk Android maupun IOS. Untuk mengakses menu company/perusahaan, pastikan Anda mengikuti langkah-langkah berikut ini:
 
-1. Login ke akun CRM Anda melalui aplikasi “Qontak” pada mobile yang Anda gunakan
+1. Login ke akun CRM Anda melalui aplikasi “**Qontak**” pada mobile yang Anda gunakan
 
    ![](/uploads/kontakmobile.PNG)
 
