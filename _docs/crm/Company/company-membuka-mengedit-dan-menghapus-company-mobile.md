@@ -20,7 +20,7 @@ Dalam modul **Perusahaan**, anda dapat membuka, mengedit dan menghapus Perusahaa
 3. Untuk melakukan pengeditan terhadap suatu perusahaan dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu perusahaan, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/editcompanymobile1.PNG)
-4. Apabila anda ingin menghapus perusahaan yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini
+4. Apabila anda ingin menghapus perusahaan yang anda miliki, anda bisa menghapus dengan mengklik button delete seperti gambar dibawah ini.
 
    ![](/uploads/editcompanymobile3.PNG)
 5. Apabila muncul pop up **"You have successfully deleted a contact"** yang berarti data kontak anda berhasil terhapus.
