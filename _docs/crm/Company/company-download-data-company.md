@@ -13,7 +13,7 @@ Ikuti langkah berikut untuk download data companies di akun Qontak anda.
 
    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“login”** untuk memulai;
 2. Tekan modul company untuk membuka database company yang dimiliki;
 
    ![](/uploads/downloadcompany.PNG)
