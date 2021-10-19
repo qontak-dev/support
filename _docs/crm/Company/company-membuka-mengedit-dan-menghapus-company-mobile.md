@@ -11,7 +11,7 @@ Dalam modul **Perusahaan**, anda dapat membuka, mengedit dan menghapus Perusahaa
 
    ![](/uploads/kontakmobile.PNG)
 
-   Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Companies** pada header bagian bawah. Kemudian klik tanda pensil untuk melakukan pengeditan seperti pada gambar dibawah ini.
 
    ![](/uploads/editcompanymobile.PNG)
