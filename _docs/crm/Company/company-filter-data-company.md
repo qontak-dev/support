@@ -14,14 +14,14 @@ Ikuti langka berikut untuk menggunakan fitur filter data companies di akun Qonta
    ![](/uploads/login.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Tekan modul **Company/Perusahaan** (dalam Bahasa Indonesia) untuk membuka database company yang dimiliki;
+2. Tekan modul **Company/Perusahaan** (dalam Bahasa Indonesia) untuk membuka database company yang dimiliki.
 
    ![](/uploads/filterperusahaan1.PNG)
 
-   > Pengaturan menu filter dapat dibuka dengan menekan simbol filter , dan setelah menekannya pengaturan filter akan muncul;
+   > Pengaturan menu filter dapat dibuka dengan menekan simbol filter , dan setelah menekannya pengaturan filter akan muncul.
 
    ![](/uploads/filterperusahaan2.PNG)
-3. Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda dan menyudahinya dengan menekan tombol “**Apply**” (untuk menyetujui spesifikasi) ataupun “**Reset**” (untuk mengembalikan ke posisi semula);
+3. Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda dan menyudahinya dengan menekan tombol “**Apply**” (untuk menyetujui spesifikasi) ataupun “**Reset**” (untuk mengembalikan ke posisi semula).
 
    ![](/uploads/filterperusahaan3.PNG)
 
