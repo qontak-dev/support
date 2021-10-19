@@ -9,7 +9,7 @@ Pada aplikasi CRM Qontak mobile, Anda hanya dapat menambahkan company secara sat
 
 1. Buka Applikasi “**Qontak CRM”** pada aplikasi mobile Anda
 
-   Masukan **Email/Username** dan **Password.**
+   Masukan **Username** dan **Password.**
 
    ![](/uploads/kontakmobile.PNG)
 2. Setelah berhasil login, klik Button **Companies** pagi header bawah untuk membuka menu company. Kemudian klik tanda **(+)** di sebelah kanan bawah yang artinya menambah company, lalu Anda dapat langsung mengisi detail informasi dari company yang akan Anda tambahkan.
