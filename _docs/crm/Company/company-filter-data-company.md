@@ -25,6 +25,6 @@ Ikuti langka berikut untuk menggunakan fitur filter data companies di akun Qonta
 
    ![](/uploads/filterperusahaan3.PNG)
 
-   > “Save as Default” ceklis dapat saja dipilih ataupun tidak, dimana perbedaannya adalah apakah anda akan menyaring company secara sementara atau tidak;
+   > “**Save as Default**” ceklis dapat saja dipilih ataupun tidak, dimana perbedaannya adalah apakah anda akan menyaring company secara sementara atau tidak;
    >
-   > Saat anda telah menekan tombol “apply,” perusahaan yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul;
+   > Saat anda telah menekan tombol “**Apply**” perusahaan yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul.
