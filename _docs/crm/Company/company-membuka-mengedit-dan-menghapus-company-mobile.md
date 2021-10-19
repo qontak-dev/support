@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Dalam modul **Perusahaan**, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat
 
-1. Buka aplikasi Qontak di mobile phone anda;
+1. Buka aplikasi Qontak di mobile phone anda.
 
    ![](/uploads/kontakmobile.PNG)
 
