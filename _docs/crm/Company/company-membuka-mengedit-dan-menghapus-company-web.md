@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk membuka menu Perusahaan atau melihat detail perusahaan anda dapat mengklik nama pada perusahaan tersebut yang berwarna biru
+Untuk membuka menu **Perusahaan** atau melihat detail perusahaan anda dapat mengklik nama pada perusahaan tersebut yang berwarna biru.
 
 1. Saat nama perusahaan di klik anda akan dialihkan ke halaman perusahaan dengan detail yang lebih lengkap. Pada halaman tersebut anda dapat menambah informasi, mengedit, dan menghapus perusahaan tersebut.
 
@@ -16,6 +16,6 @@ Untuk membuka menu Perusahaan atau melihat detail perusahaan anda dapat mengklik
 3. Apabila anda ingin menghapus perusahaan yg anda miliki, anda bisa menghapus melalui menu utama modul perusahaan dan memilih perusahaan yang akan dihapus kemudian klik hapus perusahaan seperti gambar dibawah ini.
 
    ![](/uploads/companyedit3.PNG)
-4. Pastikan data yang anda ingin hapus sudah benar, kemudian pilih “Yes” pada pop-up konfirmasi yang akan muncul.
+4. Pastikan data yang anda ingin hapus sudah benar, kemudian pilih “**Yes**” pada pop-up konfirmasi yang akan muncul.
 
    ![](/uploads/companyedit4.PNG)
