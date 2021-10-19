@@ -11,7 +11,7 @@ Fitur **Company** adalah fitur dimana Anda dapat menambah,mengedit ataupun mengh
 
     ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-    > Masukkan **username** dan kata sandi anda. Klik tombol **“Login”** untuk memulai.
+    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu perusahaan dengan fitur-fitur yang disediakan.
 
     ![](/uploads/company.PNG)
