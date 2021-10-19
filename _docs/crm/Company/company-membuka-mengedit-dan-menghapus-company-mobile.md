@@ -5,15 +5,13 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Dalam modul Perusahaan, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat
+Dalam modul **Perusahaan**, anda dapat membuka, mengedit dan menghapus Perusahaan yang telah dibuat
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
    ![](/uploads/kontakmobile.PNG)
 
-   Masukkan **username** dan **kata sandi** anda. Klik tombol **“login”** untuk memulai;
-
-   Untuk membuka, tekan salah satu nama company yang ingin dilihat;
+   Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Untuk membuka perusahaan atau melihat detail perusahaan anda dapat mengklik **Menu Companies** pada header bagian bawah. Kemudian klik tanda pensil untuk melakukan pengeditan seperti pada gambar dibawah ini.
 
    ![](/uploads/editcompanymobile.PNG)
