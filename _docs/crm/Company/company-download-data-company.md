@@ -9,7 +9,7 @@ Dengan fitur **Download**, anda dapat menarik data dengan format excel dari selu
 
 Ikuti langkah berikut untuk download data companies di akun Qontak anda.
 
-1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
