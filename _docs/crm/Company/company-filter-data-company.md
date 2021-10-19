@@ -5,9 +5,9 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-**Company** pada CRM Qontak memiliki fitur filter yang dapat memudahkan anda dalam mencari beberapa companies dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda
+**Company** pada CRM Qontak memiliki fitur filter yang dapat memudahkan anda dalam mencari beberapa companies dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda.
 
-Ikuti langka berikut untuk menggunakan fitur filter data companies di akun Qontak anda:
+Ikuti langka berikut untuk menggunakan fitur filter data companies di akun Qontak anda.
 
 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
