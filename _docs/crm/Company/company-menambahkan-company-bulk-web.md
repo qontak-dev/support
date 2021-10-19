@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Modul **Company/Perusahaan** adalah sebuah menu yang digunakan untuk membuat database company baik yang berstatus sebagai customer, partner, atau yang lainnya. Untuk menambahkan data company, Anda dapat menambahkan satu per satu maupun secara masif. Pada step kali ini, kami akan menginfokan cara menambah company secara masif dengan CRM Qontak
+Modul **Company/Perusahaan** adalah sebuah menu yang digunakan untuk membuat database company baik yang berstatus sebagai customer, partner, atau yang lainnya. Untuk menambahkan data company, Anda dapat menambahkan satu per satu maupun secara masif. Pada step kali ini, kami akan menginfokan cara menambah company secara masif dengan CRM Qontak.
 
  1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
  2. Klik modul “**Perusahaan”,** Kemudian klik menu “**+ Tambah Perusahaan”** dan pilih “**Upload file”**
