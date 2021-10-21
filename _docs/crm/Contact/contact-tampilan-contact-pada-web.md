@@ -18,4 +18,4 @@ Modul Contact merupakan sebuah menu yang dipersiapkan untuk membuat kontak dan m
 
    ![](/uploads/kontak2.PNG)
 
-   > Selain menyimpan data, anda juga dapat memanfaatkan fitur berikut yang disiapkan di modul kontak. Pertama, menu **Notes**, **Task**, **Panggilan**, **Email**, **dokumen** dan **rapat**
+   > Selain menyimpan data, anda juga dapat memanfaatkan fitur berikut yang disiapkan di modul kontak. Pertama, menu **Notes**, **Task**, **Panggilan**, **Email**, **dokumen** dan **rapat.**
