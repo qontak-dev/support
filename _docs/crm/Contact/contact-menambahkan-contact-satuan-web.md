@@ -13,7 +13,7 @@ Untuk mengetahui tampilan dan menggunakan fitur kontak pada **Mobile Phone**, an
 
    ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai.
 2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/kontakmobile1.PNG)
