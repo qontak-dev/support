@@ -13,8 +13,8 @@ Untuk mengetahui tampilan dan menggunakan fitur Kontak pada web, anda harus meng
 
    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-   > Masukkan **Username** dan kata sandi anda. Klik tombol **“Login”** untuk memulai;
-2. Berikut merupakan tampilan web yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai;
+2. Berikut merupakan tampilan web yang muncul setelah anda menekan modul kontak, dengan fitur-fitur yang disediakan.
 
    ![](/uploads/tampilanwebkontak.PNG)
 3. **Filter**: Anda dapat filter Contact berdasarkan Owner, Team, Asosiasi perusahaan dan deals, Created date, Modified date, dan seluruh property yang ada pada modul Contacts.
