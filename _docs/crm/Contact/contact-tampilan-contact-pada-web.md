@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Modul Contact merupakan sebuah menu yang dipersiapkan untuk membuat kontak dan menyimpan data customer suatu perusahaan. Pada menu ini anda dapat menyimpan semua kontak baik customer, partner, lead prospected maupun kompetitor anda. Untuk menambahkan suatu kontak anda bisa menambahkan satu per satu maupun secara massive. Pada step kali ini, kami akan menginfokan cara menambah kontak dengan menggunakan Qontak CRM melalui website/komputer:
+Modul **Contact** merupakan sebuah menu yang dipersiapkan untuk membuat kontak dan menyimpan data customer suatu perusahaan. Pada menu ini anda dapat menyimpan semua kontak baik customer, partner, lead prospected maupun kompetitor anda. Untuk menambahkan suatu kontak anda bisa menambahkan satu per satu maupun secara massive. Pada step kali ini, kami akan menginfokan cara menambah kontak dengan menggunakan Qontak CRM melalui website/komputer.
 
 1. Setelah anda berhasil login, anda akan menemui modul kontak di bagian kiri atas, untuk menambahkan suatu kontak anda dapat mengklik bagian **+Tambah Kontak -> Satu Kontak.**
 
