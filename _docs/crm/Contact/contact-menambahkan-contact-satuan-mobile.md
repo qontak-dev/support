@@ -19,7 +19,7 @@ Untuk menambahkan database **“Contact”** pada dashboard CRM dapat dilakukan 
 
    ![](/uploads/satuankontakmobile1.PNG)
 
-   > Catatan: Kolom yang bertanda (*) artinya berisifat wajib untuk diisi.
+   > Catatan: Kolom yang bertanda (__*__) artinya berisifat wajib untuk diisi.
 4. Klik "**OK**" jika muncul popup seperti gambar berikut.
 
    ![](/uploads/satuankontakmobile2.PNG)
