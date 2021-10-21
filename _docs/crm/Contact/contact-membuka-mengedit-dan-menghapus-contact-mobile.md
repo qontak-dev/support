@@ -15,7 +15,7 @@ Dalam modul Kontak, anda dapat membuka, mengedit dan menghapus kontak yang telah
 2. Untuk melakukan pengeditan terhadap suatu kontak dapat melakukan step di atas, kemudian mengklik field yang ingin anda ganti/edit. Saat sudah melakukan pengeditan dalam suatu kontak, jangan lupa untuk mengklik **Simpan** untuk menyimpan data yang sudah diubah.
 
    ![](/uploads/mengeditkontak2-1.PNG)
-3. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini
+3. Jika anda ingin menghapus kontak yg anda miliki, anda bisa menghapus dengan mengklik button hapus seperti pada gambar dibawah ini.
 
    ![](/uploads/mengeditkontak3-1.PNG)
 4. Apabila muncul pop up **"You have successfully deleted a contact"** yang berarti data kontak anda berhasil terhapus.
