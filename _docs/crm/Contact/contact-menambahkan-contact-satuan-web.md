@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 Tidak hanya tersedia pada Qontak CRM web-based, menu kontak juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda
 
-Untuk mengetahui tampilan dan menggunakan fitur kontak pada **Mobile Phone**, anda harus mengikuti Langkah-langkah berikut:
+Untuk mengetahui tampilan dan menggunakan fitur kontak pada **Mobile Phone**, anda harus mengikuti Langkah-langkah berikut.
 
 1. Buka aplikasi Qontak di mobile phone anda;
 
