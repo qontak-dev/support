@@ -9,7 +9,7 @@ Tidak hanya tersedia pada Qontak CRM web-based, menu kontak juga dapat ditemukan
 
 Untuk mengetahui tampilan dan menggunakan fitur kontak pada **Mobile Phone**, anda harus mengikuti Langkah-langkah berikut.
 
-1. Buka aplikasi Qontak di mobile phone anda;
+1. Buka aplikasi Qontak di mobile phone anda.
 
    ![](/uploads/kontakmobile.PNG)
 
