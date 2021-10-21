@@ -9,7 +9,7 @@ author: hariyati suarni nurindah
 
 Untuk mengetahui tampilan dan menggunakan fitur Kontak pada web, anda harus mengikuti Langkah-langkah berikut:
 
-1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
