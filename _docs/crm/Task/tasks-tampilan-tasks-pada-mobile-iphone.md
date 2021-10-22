@@ -9,11 +9,11 @@ author: hariyati suarni nurindah
 
 Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka aplikasi Qontak di mobile phone anda;
+1. Buka aplikasi Qontak di mobile phone anda.
 
    ![](/uploads/kontakmobile.PNG)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai;
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan menu **Task**, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/taskmobile.PNG)
