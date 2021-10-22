@@ -14,7 +14,7 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
     ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
     > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Task dengan fitur-fitur yang disediakan
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Task dengan fitur-fitur yang disediakan.
 
     ![](/uploads/tampilantaskweb.PNG)
  3. Menu “**Add a Task**” atau “**Tambah Task**” untuk menambahkan task secara satu persatu maupun bulk upload .
