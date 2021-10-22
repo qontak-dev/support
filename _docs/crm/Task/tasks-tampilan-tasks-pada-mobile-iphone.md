@@ -14,7 +14,7 @@ Untuk melihat tampilan Tasks pada Web, Anda perlu mengikuti langkah-langkah beri
    ![](/uploads/kontakmobile.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan menu **Task**, dengan fitur-fitur yang disediakan;
+2. Berikut merupakan tampilan mobile phone yang muncul setelah anda menekan menu **Task**, dengan fitur-fitur yang disediakan.
 
    ![](/uploads/taskmobile.PNG)
 3. **Filter**: Anda dapat filter task berdasarkan Owner, Team, Asosiasi perusahaan, Created date, Modified date, dan seluruh property yang ada pada menu task.
