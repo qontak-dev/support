@@ -5,7 +5,7 @@ subtitle: ''
 author: hariyati suarni nurindah
 
 ---
-Untuk melakukan pengaturan pada isi tim, misalnya untuk menambahkan atau mengurangi anggota tim, dapat dilakukan di menu **Teams**. Caranya adalah sebagai berikut:
+Untuk melakukan pengaturan pada isi tim, misalnya untuk menambahkan atau mengurangi anggota tim, dapat dilakukan di menu **Teams**. Caranya adalah sebagai berikut.
 
 1. Klik _username_ CRM di pojok kanan atas, Pilih **User Settings/Pengaturan Pengguna,** Pilih **Teams**
 
