@@ -21,7 +21,7 @@ Modul **“Kontak”** pada situs sosial CRM digunakan untuk menginput database 
     ![](/uploads/bulkontak4.PNG)
  7. Pada kolom “**Owner”** Anda dapat sesuaikan dengan username ataupun email dari pemilik data kontak tersebut.  
     ![](/uploads/bulkontak5.PNG)
- 8. Jika data “**Kontak”** pada file excel sudah terisi semua, Anda dapat merubah format pada file excel menjadi **“Text”**.  
+ 8. Jika data “**Kontak”** pada file excel sudah terisi semua, Anda dapat merubah format pada file excel menjadi **“Text”**  
     ![](/uploads/bulkontak6.PNG)
  9. Klik **“Browse a file”** untuk mengunggah Kembali file excel “**Kontak”** yang sudah terisi.  
     ![](/uploads/bulkontak3.PNG)
