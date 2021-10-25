@@ -16,10 +16,7 @@ Cara login ke CRM:
    > Masukan **Username**
    >
    > Masukan **Password**
-2. Klik Login
+2. Klik Login.
+3. Anda akan diarahkan ke halaman utama.
 
-Troubleshoot:
-
-1. Tidak bisa login ke web, salah password?
-
-![](/uploads/form-create-division.png)
+   ![](/uploads/login-1.PNG)
