@@ -21,7 +21,7 @@ Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak and
    > Pengaturan menu filter dapat dibuka dengan menekan simbol filter , dan setelah menekannya pengaturan filter akan muncul.
 
    ![](/uploads/filtertask2.PNG)
-3. Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda dan menyudahinya dengan menekan tombol “apply” (untuk menyetujui spesifikasi) ataupun “reset” (untuk mengembalikan ke posisi semula);
+3. Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda dan menyudahinya dengan menekan tombol “**apply**” (untuk menyetujui spesifikasi) ataupun “**reset**” (untuk mengembalikan ke posisi semula).
 
    ![](/uploads/filtertask3.PNG)
 
