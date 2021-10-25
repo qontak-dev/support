@@ -9,7 +9,7 @@ author: hariyati suarni nurindah
 
 Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak anda.
 
-1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
    ![](/uploads/login.PNG)
 
@@ -27,4 +27,4 @@ Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak and
 
    > “**Save as Default**” ceklis dapat saja dipilih ataupun tidak, dimana perbedaannya adalah apakah anda akan menyaring task secara sementara atau tidak;
    >
-   > Saat anda telah menekan tombol “**Apply**,” Task yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul;
+   > Saat anda telah menekan tombol “**Apply**,” Task yang sesuai dengan kriteria yang anda cantumkan dalam filter akan otomatis muncul.
