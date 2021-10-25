@@ -24,7 +24,7 @@ author: hariyati suarni nurindah
 
   ![](/uploads/report-target2.PNG)
 
-  Laporan Targets by Month by Value merupakan grafik berbentuk stacked bar yang menampilkan perbandingan antara **total besaran Deal (Value)** dalam Stage Won dengan **target besaran Deal (Value)** yang telah ditentukan pada bulan terpilih dan dikelompokkan berdasarkan User pembuat Deal. Periode grafik ini tidak mengikuti filter waktu pada filter bar, namun memiliki periode khusus yaitu bulan-bulan pada tahun ini. Total besaran Deal menggunakan mata uang default yang dipilih User.
+  Laporan Targets by Month by Value merupakan grafik berbentuk stacked bar yang menampilkan perbandingan antara **total besaran Deal (Value)** dalam Stage Won dengan **target besaran Deal (Value)** yang telah ditentukan pada bulan terpilih dan dikelompokkan berdasarkan User pembuat Deal. Periode grafik ini tidak mengikuti filter waktu pada filter bar, namun memiliki periode khusus yaitu bulan-bulan pada tahun ini. Total besaran Deal .menggunakan mata uang default yang dipilih User.
 
   > Deal yang terhitung mengacu pada waktu di mana Deal tersebut dipindah ke stage Won. Contoh: Deal 1 dibuat pada tanggal 9 Mei 2018 lalu diubah ke stage Won pada tanggal 14 Juli 2018, maka Deal tersebut akan masuk ke total besaran deal untuk periode Juli 2018.
 * **Targets by Month by Count**
