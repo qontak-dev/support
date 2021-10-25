@@ -6,7 +6,7 @@ subtitle: Login CRM
 author: admin
 
 ---
-Cara login ke CRM:
+**Cara login ke CRM:**
 
 1. Buka halaman https://www.qontak.com
 
@@ -14,8 +14,7 @@ Cara login ke CRM:
 
    > Masukan **Username**
    >
-   > Masukan **Password**
-2. Klik Login.
-3. Anda akan diarahkan ke halaman utama.
+   > Masukan **Password** kemudian klik **Login**.
+2. Anda akan diarahkan ke halaman utama.
 
    ![](/uploads/login-1.PNG)
