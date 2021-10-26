@@ -26,6 +26,4 @@ Ikuti langka berikut untuk menggunakan fitur filter pada akun **Omnichannel** an
 
    ![](/uploads/filteromni.PNG)
 
-   > Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda 
-   >
-   > dimana **Sessions** terbagi menjadi 3 yaitu Open, Expiring dan Expired. Anda juga bisa memfilter via agent dan Tags pada dropdown yang sudah disediakan.
+   > Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda. Dimana **Sessions** terbagi menjadi 3 yaitu Open, Expiring dan Expired. Anda juga bisa memfilter via **Agent** dan **Tags** pada dropdown yang sudah disediakan.
