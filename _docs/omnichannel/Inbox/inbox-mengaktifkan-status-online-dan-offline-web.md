@@ -10,16 +10,16 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Untuk menerima pesan, status Inbox haruslah Online. Berikut cara menagktifkan status pada Inbox.
+Untuk menerima pesan, status **Omnichannel** haruslah Online. Berikut cara menagktifkan status pada **Omnichannel**.
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Inbox dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan Status Online maupun Offline pada **Omnichannel**.
 
-   ![](/uploads/inbox1.PNG)
+   ![](/uploads/online1.PNG)
 3. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
 4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
 5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
