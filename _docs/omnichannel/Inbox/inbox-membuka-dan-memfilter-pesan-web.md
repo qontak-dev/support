@@ -22,16 +22,13 @@ Ikuti langka berikut untuk menggunakan fitur filter pada akun **Omnichannel** an
    ![](/uploads/inbox1-1.PNG)
 
    > Anda akan dialihkan ke halaman inbox dengan detail yang lebih lengkap.
-3. Klik menu **Task** untuk membuka database Task yang dimiliki.
+3. Pengaturan menu filter dapat dibuka dengan menekan simbol filter, dan setelah menekannya pengaturan filter akan muncul.
 
-   ![](/uploads/filtertask1.PNG)
+   ![](/uploads/filteromni.PNG)
 
-   > Pengaturan menu filter dapat dibuka dengan menekan simbol filter, dan setelah menekannya pengaturan filter akan muncul.
-
-   ![](/uploads/filtertask2.PNG)
-4. Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda dan menyudahinya dengan menekan tombol “**Apply**” (untuk menyetujui spesifikasi) ataupun “**Reset**” (untuk mengembalikan ke posisi semula).
-
-   ![](/uploads/filtertask3.PNG)
+   > Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda 
+   >
+   > dimana **Sessions** terbagi menjadi 3 yaitu Open, Expiring dan Expired. Anda juga bisa memfilter via agent dan Tags pada dropdown yang sudah disediakan.
 
    > “**Save as Default**” ceklis dapat saja dipilih ataupun tidak, dimana perbedaannya adalah apakah anda akan menyaring task secara sementara atau tidak.
    >
