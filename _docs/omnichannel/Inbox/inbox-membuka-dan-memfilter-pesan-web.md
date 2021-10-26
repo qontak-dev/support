@@ -12,16 +12,16 @@ published: false
 
 Ikuti langka berikut untuk menggunakan fitur filter pada akun **Omnichannel** anda.
 
-1. Untuk membuka Task atau melihat detail task anda dapat mengklik **Menu Task** Kemudian klik button edit seperti pada gambar dibawah ini.
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
-   ![](/uploads/mengedittask1.PNG)
+   ![](/uploads/login-qontak-c.png)
 
-   > Anda akan dialihkan ke halaman task dengan detail yang lebih lengkap.
-2. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+2. Untuk membuka pesan **Omnichannel** atau melihat detail pesan anda dapat mengklik **Menu Inbox** 
 
-   ![](/uploads/login.PNG)
+   ![](/uploads/inbox1-1.PNG)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“login”** untuk memulai.
+   > Anda akan dialihkan ke halaman inbox dengan detail yang lebih lengkap.
 3. Klik menu **Task** untuk membuka database Task yang dimiliki.
 
    ![](/uploads/filtertask1.PNG)
