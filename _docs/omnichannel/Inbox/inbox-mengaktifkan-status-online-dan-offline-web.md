@@ -2,7 +2,7 @@
 tags: []
 title: Inbox - Mengaktifkan Status Online dan Offline - Web
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -20,7 +20,8 @@ Untuk menerima pesan, status **Omnichannel** haruslah Online. Berikut cara menag
 2. Berikut merupakan tampilan Status Online maupun Offline pada **Omnichannel**.
 
    ![](/uploads/online1.PNG)
-3. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
-4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
-5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+3. Setelah mengklik status Omnichannel dari online ke offline maka akan muncul popup sebagai berikut.
+
+   ![](/uploads/online.PNG)
+
+   > Anda bisa memilih **"No Thanks"** untuk tetap pada status Offline dan memillih **"Set to Online"** untuk mengaktifkan status Online.
