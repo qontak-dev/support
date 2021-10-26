@@ -10,7 +10,7 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Untuk melihat tampilan Inbox pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk menerima pesan, status Inbox haruslah Online. Berikut cara menagktifkan status pada Inbox.
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
