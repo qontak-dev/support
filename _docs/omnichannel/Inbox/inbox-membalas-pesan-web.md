@@ -2,7 +2,7 @@
 tags: []
 title: Inbox - Membalas Pesan - Web
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -10,7 +10,7 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Untuk membalas pesan terhadap chat yang masuk, maka dilakukan dengan langkah-langkah berikut;
+Untuk membalas pesan terhadap chat yang masuk, maka lakukan langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
