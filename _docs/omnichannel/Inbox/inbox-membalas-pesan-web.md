@@ -26,4 +26,4 @@ Untuk membalas pesan terhadap chat yang masuk, maka lakukan langkah-langkah beri
 
    ![](/uploads/inbox2.PNG)
 
-   > Pesan yang bisa dibalas hanya yang memiliki status **Unassigned** dan **Assigned**
+   > Pesan yang bisa dibalas hanya yang memiliki status **Unassigned** dan **Assigned.**
