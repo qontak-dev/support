@@ -31,3 +31,22 @@ Untuk menerima pesan, status **Omnichannel** haruslah Online. Berikut cara menag
    mengalokasikan pelanggan
 
    kepada agen yang tersedia.
+4. Agen mengalokasikan
+
+   pelanggan secara mandiri
+
+   tanpa bantuan supervisor.
+5. Sistem secara otomatis
+
+   mendistribusikan
+
+   pelanggan kepada agen
+
+   yang tersedia.
+6. Sistem secara otomatis
+
+   mendistribusikan
+
+   pelanggan berdasarkan
+
+   menu yang dipilih.
