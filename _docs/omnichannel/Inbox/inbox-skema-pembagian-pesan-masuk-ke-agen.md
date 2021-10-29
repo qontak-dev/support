@@ -17,36 +17,16 @@ Untuk menerima pesan, status **Omnichannel** haruslah Online. Berikut cara menag
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan Status Online maupun Offline pada **Omnichannel**.
+2. Berikut merupakan tampilan pada **Omnichannel**.
 
    ![](/uploads/online1.PNG)
-3. Setelah mengklik status Omnichannel dari online ke offline maka akan muncul popup sebagai berikut.
+3. Pada halaman inbox, Supervisor dapat mengalokasikan pelanggan kepada agen yang tersedia.
 
-   ![](/uploads/online.PNG)
+   ![](/uploads/screenshot-26.png)
 
-   > Anda bisa memilih **"No Thanks"** untuk tetap pada status Offline dan memillih **"Set to Online"** untuk mengaktifkan status Online.
+   > Agen juga bisa mengalokasikan pelanggan secara mandiri tanpa bantuan supervisor.
+4. Tidak hanya itu, Sistem juga akan secara otomatis mendistribusikan pelanggan berdasarkan menu yang dipilih.
 
-   Supervisor dapat
+   ![](/uploads/screenshot-27.png)
 
-   mengalokasikan pelanggan
-
-   kepada agen yang tersedia.
-4. Agen mengalokasikan
-
-   pelanggan secara mandiri
-
-   tanpa bantuan supervisor.
-5. Sistem secara otomatis
-
-   mendistribusikan
-
-   pelanggan kepada agen
-
-   yang tersedia.
-6. Sistem secara otomatis
-
-   mendistribusikan
-
-   pelanggan berdasarkan
-
-   menu yang dipilih.
+   > Dan Sistem juga bisa secara otomatis mendistribusikan pelanggan kepada agen yang tersedia.
