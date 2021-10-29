@@ -28,4 +28,4 @@ Untuk melihat informasi room pesan, Anda perlu mengikuti langkah-langkah berikut
 
    ![](/uploads/inbox3.PNG)
 
-   > Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa. dan Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+   > Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa. dan Terdapat 4 status pesan pada **Inbox** (**All, Unassigned, Assigned dan Resolved**).
