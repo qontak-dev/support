@@ -19,8 +19,8 @@ Untuk melihat jam open chat session, Anda perlu mengikuti langkah-langkah beriku
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Inbox dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/inbox1.PNG)
-3. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
-4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
-5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+   ![](/uploads/chatsession.PNG)
+
+   Pada halaman Inbox, terdapat tampilan profile yang dilengkapi dengan gambar (**Clock**) yang menandakan sesi pada pesan tersebut. ada 3 sesi yang harus diketahui
+
+   (Biru = masih di dalam waktu 0-16 jam), (Kuning = kurang dari 16-24 jam) dan (Merah = lebih dr 24 jam)
