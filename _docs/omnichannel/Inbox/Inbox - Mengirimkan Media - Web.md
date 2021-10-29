@@ -10,7 +10,7 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Ada beberapa media yang disediakan dalam mengirimkan pesan pada Inbox;
+Berikut adalah beberapa media yang disediakan dalam mengirimkan pesan pada Inbox;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
