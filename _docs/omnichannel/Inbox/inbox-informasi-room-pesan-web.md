@@ -19,23 +19,13 @@ Untuk melihat informasi room pesan, Anda perlu mengikuti langkah-langkah berikut
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Inbox dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/chatsession.PNG)
-
-   Pada halaman Inbox, terdapat room list atau bisa dikatakan activity dari customers yang memiliki informasi
+   ![](/uploads/inbox1-1.PNG)
+3. Pada halaman Inbox, terdapat **Room List** atau bisa dikatakan activity dari customers yang memiliki informasi
 
    (Nama, Foto Profile, Last Aktif, Chanel Customer, Level Status Room dan jumlah pesan).
 
-   Noted : centang biru pada pesan menandakan bahwa pesan tersebut sudah resolve.
+   Noted : Centang biru pada pesan menandakan bahwa pesan tersebut sudah resolve.
 
-   searh- melakukan pencarian pada kontak room by nama, conversation mencari pesan dalam room sesaui key yang dimasukkan
+   ![](/uploads/inbox3.PNG)
 
-   action untuk resolve - json maksimal 24 jam, perhitungan pertama kali saat pertama kali masuk ke chat panel
-
-   expired- tidak bisa mengirimkan pesan lagi ke cutomer tapi kita bisa kirim melalui send SHM template
-
-> Anda dapat mengisi field filter yang sesuai dengan kebutuhan anda. Dimana **Sessions** terbagi menjadi 3 yaitu Open, Expiring dan Expired. Anda juga bisa memfilter via **Agent** dan **Tags** pada dropdown yang sudah disediakan.
-
-1. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
-2. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan.
-3. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-4. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+   > Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa. dan Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
