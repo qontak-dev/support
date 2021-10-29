@@ -25,3 +25,9 @@ Untuk menerima pesan, status **Omnichannel** haruslah Online. Berikut cara menag
    ![](/uploads/online.PNG)
 
    > Anda bisa memilih **"No Thanks"** untuk tetap pada status Offline dan memillih **"Set to Online"** untuk mengaktifkan status Online.
+
+   Supervisor dapat
+
+   mengalokasikan pelanggan
+
+   kepada agen yang tersedia.
