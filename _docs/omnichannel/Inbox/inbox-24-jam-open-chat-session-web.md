@@ -23,4 +23,4 @@ Untuk melihat jam open chat session, Anda perlu mengikuti langkah-langkah beriku
 
    Pada halaman Inbox, terdapat tampilan profile yang dilengkapi dengan gambar (**Clock**) yang menandakan sesi pada pesan tersebut. ada 3 sesi yang harus diketahui
 
-   (**Biru** = masih di dalam waktu 0-16 jam), (**Kuning** = kurang dari 16-24 jam) dan (Merah = lebih dr 24 jam)
+   (**Biru** = masih di dalam waktu 0-16 jam), (**Kuning** = kurang dari 16-24 jam) dan (**Merah** = lebih dr 24 jam).
