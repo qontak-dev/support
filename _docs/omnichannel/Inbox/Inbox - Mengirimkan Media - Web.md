@@ -21,10 +21,10 @@ Berikut adalah beberapa media yang disediakan dalam mengirimkan pesan pada Inbox
 
    ![](/uploads/screenshot-28.png)
 
-   > Audio : Anda bisa mengirimkan pesan via suara dengan dengan mengklik button audio.
+   > **Audio** : Anda bisa mengirimkan pesan via suara dengan dengan mengklik button audio. Kemudian anda bebas memilih audio mana yang akan anda kirim.
    >
-   > Document : Anda bisa mengirimkan pesan via dokumen dengan mengklik button document.
+   > **Document** : Anda bisa mengirimkan pesan via dokumen dengan mengklik button document. Kemudian anda bebas memilih dokumen mana yang akan anda kirim.
    >
-   > Capture : Anda bisa mengirimkan pesan via gambar dengan mengklik button Capture sehingga kamera akan secara otomatis mengajukan permintan untuk mengambil gambar anda.
+   > **Capture** : Anda bisa mengirimkan pesan via gambar dengan mengklik button Capture sehingga kamera akan secara otomatis mengajukan permintan untuk mengambil gambar anda.
    >
-   > **Photos and Vidios** : Anda bisa mengirimkan pesan via foto dan vidio dengan mengklik button Photos and Vidios. Anda kemudian bebas memilih foto dan vidio mana yang akan anda kirim.
+   > **Photos and Vidios** : Anda bisa mengirimkan pesan via foto dan vidio dengan mengklik button Photos and Vidios. Kemudian anda bebas memilih foto dan vidio mana yang akan anda kirim.
