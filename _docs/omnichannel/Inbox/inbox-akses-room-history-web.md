@@ -26,6 +26,6 @@ Untuk melihat akses room history, Anda perlu mengikuti langkah-langkah berikut;
 
    Noted : Centang biru pada pesan menandakan bahwa pesan tersebut sudah resolve.
 
-   ![](/uploads/inbox3.PNG)
+   ![](/uploads/history.PNG)
 
    > Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa. Dan terdapat 4 status pesan pada **Inbox** (**All, Unassigned, Assigned dan Resolved**).
