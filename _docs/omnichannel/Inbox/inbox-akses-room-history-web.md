@@ -17,9 +17,9 @@ Untuk melihat akses room history, Anda perlu mengikuti langkah-langkah berikut;
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Inbox dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Report** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/inbox1-1.PNG)
+   ![](/uploads/history2.PNG)
 3. Pada halaman Inbox, terdapat **Room List** atau bisa dikatakan activity dari customers yang memiliki informasi
 
    (Nama, Foto Profile, Last Aktif, Chanel Customer, Level Status Room dan jumlah pesan).
