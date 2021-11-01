@@ -10,7 +10,7 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Dalam membalas pesan yang masuk Agent bisa melakukan Handover Chat dengan cara berikut ini;
+Dalam membalas pesan yang masuk, **Agent** bisa melakukan Handover Chat dengan cara berikut ini;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
@@ -20,12 +20,8 @@ Dalam membalas pesan yang masuk Agent bisa melakukan Handover Chat dengan cara b
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Inbox dengan fitur-fitur yang disediakan.
 
    ![](/uploads/inbox1-1.PNG)
-3. Pada halaman Inbox, terdapat **Room List** atau bisa dikatakan activity dari customers yang memiliki informasi
+3. Agent dapat melakukan Handover Chat dengan cara memilih pesan yang masuk kemudian klik button list "**+Agent**" untuk menambahkan agent yang akan handover chat.
 
-   (Nama, Foto Profile, Last Aktif, Chanel Customer, Level Status Room dan jumlah pesan).
+   ![](/uploads/hancoverchat.PNG)
 
-   Noted : Centang biru pada pesan menandakan bahwa pesan tersebut sudah resolve.
-
-   ![](/uploads/inbox3.PNG)
-
-   > Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu. Tombol “**Search**” untuk mencari Inbox berdasarkan nama atau sesuai kata kunci yang dimasukkan. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa. Dan terdapat 4 status pesan pada **Inbox** (**All, Unassigned, Assigned dan Resolved**).
+   > Pesan yang bisa dihandover oleh agent hanya pesan yang memiliki status
