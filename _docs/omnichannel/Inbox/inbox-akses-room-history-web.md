@@ -20,11 +20,7 @@ Untuk melihat akses room history, Anda perlu mengikuti langkah-langkah berikut;
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Report** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/history2.PNG)
-3. Pada halaman Inbox, terdapat **Room List** atau bisa dikatakan activity dari customers yang memiliki informasi
-
-   (Nama, Foto Profile, Last Aktif, Chanel Customer, Level Status Room dan jumlah pesan).
-
-   Noted : Centang biru pada pesan menandakan bahwa pesan tersebut sudah resolve.
+3. Pada halaman **Report**, terdapat Button List **General** yang bisa anda klik untuk menampilkan room history list of conversation
 
    ![](/uploads/history.PNG)
 
