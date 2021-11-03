@@ -24,7 +24,6 @@ Berikut merupakan Overview Menu Broadcast pada fitur chat panel;
    2. Buttton Template digunakan untuk create template yang akan di Broadcast
    3. Sedangkan Button Campaigns digunakan untuk create new Broadcast Message
 
-      > List, Template dan Campaigns yang sudah dicreate akan ditampilkan pada halaman depan dengan acction masing-masing
+      > List, Template dan Campaigns yang sudah dicreate akan ditampilkan pada halaman depan dengan acction masing-masing seperti delete, view dan edit
    4. Tombol “**Search**” digunakan untuk mencari List, Template dan Campaigns yang diinginkan.
-   5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-   6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+   5. Pada menu list dan template disediakan checkbox yang pada setiap data.
