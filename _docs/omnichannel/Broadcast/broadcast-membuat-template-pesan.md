@@ -17,10 +17,10 @@ Berikut merupakan cara membuat template pesan untuk mengirim Broadcast;
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu template kemudian isi field-field yang sudah disediakan. Jika sudah, maka klik button next untuk keproses selanjutnya.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu template. Untuk membuat template baru, anda harus mengisi field-field yang sudah disediakan. Jika sudah, maka klik button next untuk ke proses selanjutnya.
 
    ![](/uploads/listtemplate1-1.PNG)
-3. Isi field-field yang sudah disediakan pada form template tersebut. Kemudian klik button submit jika data yang anda masukkan sudah sesuai.
+3. Kemudian klik button submit jika data yang anda masukkan sudah sesuai.
 
    ![](/uploads/listtemplate2.PNG)
 4. PopUp Notification akan muncul jika data yang anda submit sudah benar.
