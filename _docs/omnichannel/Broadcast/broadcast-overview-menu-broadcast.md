@@ -12,6 +12,19 @@ Menu **Broadcast** adalah salah satu fitur pada Chat Panel yang memungkinkan pen
 
 Berikut merupakan Overview Menu Broadcast pada fitur chat panel;
 
-1. sd
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+
+   ![](/uploads/login-qontak-c.png)
+
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Broadcast dengan fitur-fitur yang disediakan.
 
    ![](/uploads/listtemplate.PNG)
+   1. Button List digunakan untuk create list yang akan di Broadcast
+   2. Buttton Template digunakan untuk create template yang akan di Broadcast
+   3. Sedangkan Button Campaigns digunakan untuk create new Broadcast Message
+
+      > List, Template dan Campaigns yang sudah dicreate akan ditampilkan pada halaman depan dengan acction masing-masing
+   4. Tombol “**Search**” digunakan untuk mencari List, Template dan Campaigns yang diinginkan.
+   5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
+   6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
