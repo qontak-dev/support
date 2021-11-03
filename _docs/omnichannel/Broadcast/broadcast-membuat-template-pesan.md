@@ -20,7 +20,7 @@ Berikut merupakan cara membuat template pesan untuk mengirim Broadcast;
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu template kemudian isi field-field yang sudah disediakan. Jika sudah, maka klik button next untuk keproses selanjutnya.
 
    ![](/uploads/listtemplate1-1.PNG)
-3. Isi field-field yang sudah disediakan pada form template tesrsebut. Kemudian klik button submit jika data yang anda masukkan sudah sesuai.
+3. Isi field-field yang sudah disediakan pada form template tersebut. Kemudian klik button submit jika data yang anda masukkan sudah sesuai.
 
    ![](/uploads/listtemplate2.PNG)
 4. PopUp Notification akan muncul jika data yang anda submit sudah benar.
