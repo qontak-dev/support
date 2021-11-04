@@ -32,3 +32,5 @@ Untuk membaca laporan pengeluaran, Anda perlu mengikuti langkah-langkah berikut;
    > Warna **Violet** adalah keterangan **Messages Received**
    >
    > Warna **Orange** adalah keterangan **Amount Spent**
+
+   Note : Notification Message tidak memiliki **Messages Received**
