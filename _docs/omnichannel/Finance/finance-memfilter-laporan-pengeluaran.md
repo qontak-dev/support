@@ -10,7 +10,7 @@ published: false
 
 Finance pada chat panel  menggambarkan aktivitas terkait dengan pengelolaan pesan yang ditampilkan dalam bentuk grafik.
 
-Untuk melihat tampilan finance pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk memfilter laporan pengeluaran, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
@@ -20,11 +20,10 @@ Untuk melihat tampilan finance pada Web, Anda perlu mengikuti langkah-langkah be
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu finance dengan fitur-fitur yang disediakan.
 
    ![](/uploads/finance.PNG)
-3. Tombol Dropdown “**No Telepon**” untuk memilih nomor telepon yang ingin ditampilkan pada grafik pesan.
-4. Tombol Dropdown “**Negara**” untuk memilih negara yang ingin ditampilkan pada grafik pesan.
-5. Tombol Dropdown “**Notification Message**” untuk memilih notifikasi pesan yang ingin ditampilkan pada grafik pesan.
-6. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
-7. Ketarangan Warna pada grafik;
+3. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
+
+   ![](/uploads/finance1.PNG)
+4. Ketarangan Warna pada grafik;
 
    > Warna **Blue Green** adalah keterangan **Messages Sent**
    >
