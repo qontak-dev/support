@@ -8,7 +8,7 @@ published: false
 ---
 **Finance - Memfilter Laporan Pengeluaran**
 
-Finance pada chat panel  menggambarkan aktivitas terkait dengan pengelolaan pesan yang ditampilkan dalam bentuk grafik.
+Finance pada chat panel  menggambarkan aktivitas terkait dengan pengelolaan pesan outbound yang ditampilkan dalam bentuk grafik.
 
 Untuk membaca laporan pengeluaran, Anda perlu mengikuti langkah-langkah berikut;
 
