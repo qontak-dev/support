@@ -14,4 +14,4 @@ menu:
 published: false
 
 ---
-Omnichannel Content
+**Omnichannel Content**
