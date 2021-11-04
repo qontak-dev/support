@@ -20,7 +20,15 @@ Untuk melihat tampilan finance pada Web, Anda perlu mengikuti langkah-langkah be
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu finance dengan fitur-fitur yang disediakan.
 
    ![](/uploads/finance.PNG)
-3. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
-4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
-5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+3. Tombol Dropdown “**No Telepon**” untuk memilih nomor telepon yang ingin ditampilkan pada grafik pesan.
+4. Tombol Dropdown “**Negara**” untuk memilih negara yang ingin ditampilkan pada grafik pesan.
+5. Tombol Dropdown “**Notification Message**” untuk memilih notifikasi pesan yang ingin ditampilkan pada grafik pesan.
+6. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
+
+   > Warna **Blue Green** adalah keterangan **Messages Sent**
+   >
+   > Warna **Blue** adalah keterangan **Messages Delivered**
+   >
+   > Warna **Violet** adalah keterangan **Messages Received**
+   >
+   > Warna **Orange** adalah keterangan **Amount Spent**
