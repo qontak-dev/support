@@ -17,11 +17,12 @@ Untuk melihat akses room history, Anda perlu mengikuti langkah-langkah berikut;
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Report** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Inbox** dengan fitur-fitur yang disediakan. Untuk mengakses Room History, maka yang perlu anda lakukan adalah mengklik salah satu pesan yang ada di inbox kemudian klik Button name "**Room History**" seperti pada gambar berikut.
 
-   ![](/uploads/history2.PNG)
-3. Pada halaman **Report**, terdapat Button List **General** yang bisa anda klik untuk menampilkan room history list of conversation.
+   ![](/uploads/roomhistory.PNG)
+3. Room History akan akan menampilkan history-history pesan yang anda pilih sebelumnya
+4. Untuk menampilkan detail pesan pada room history, maka anda harus mengklik pesan tesebut
 
-   ![](/uploads/history.PNG)
+   ![](/uploads/roomhistory1.PNG)
 
    > Report hanya bisa diakses oleh **Admin** dan **Supervisor**
