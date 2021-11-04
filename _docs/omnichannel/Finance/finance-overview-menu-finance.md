@@ -24,6 +24,7 @@ Untuk melihat tampilan finance pada Web, Anda perlu mengikuti langkah-langkah be
 4. Tombol Dropdown “**Negara**” untuk memilih negara yang ingin ditampilkan pada grafik pesan.
 5. Tombol Dropdown “**Notification Message**” untuk memilih notifikasi pesan yang ingin ditampilkan pada grafik pesan.
 6. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
+7. Ketarangan Warna pada grafik;
 
    > Warna **Blue Green** adalah keterangan **Messages Sent**
    >
