@@ -8,7 +8,7 @@ published: false
 ---
 **Finance - Overview Menu Finance**
 
-Finance pada chat panel  menggambarkan aktivitas terkait dengan pengelolaan pesan yang ditampilkan dalam bentuk grafik.
+Finance pada chat panel  menggambarkan aktivitas terkait dengan pengelolaan pesan outbound yang ditampilkan dalam bentuk grafik.
 
 Untuk melihat tampilan finance pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
