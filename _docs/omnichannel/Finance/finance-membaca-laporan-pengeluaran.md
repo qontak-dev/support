@@ -20,7 +20,7 @@ Untuk membaca laporan pengeluaran, Anda perlu mengikuti langkah-langkah berikut;
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu finance dengan fitur-fitur yang disediakan.
 
    ![](/uploads/finance.PNG)
-3. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
+3. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan.
 
    ![](/uploads/finance2-1.PNG)
 4. Ketarangan Warna pada grafik;
