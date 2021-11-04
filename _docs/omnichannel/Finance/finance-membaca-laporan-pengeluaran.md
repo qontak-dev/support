@@ -22,7 +22,7 @@ Untuk membaca laporan pengeluaran, Anda perlu mengikuti langkah-langkah berikut;
    ![](/uploads/finance.PNG)
 3. **Time Filter** digunakan untuk memfilter hari, bulan dan tahun yang ingin ditampilkan pada grafik pesan
 
-   ![](/uploads/finance1.PNG)
+   ![](/uploads/finance2-1.PNG)
 4. Ketarangan Warna pada grafik;
 
    > Warna **Blue Green** adalah keterangan **Messages Sent**
