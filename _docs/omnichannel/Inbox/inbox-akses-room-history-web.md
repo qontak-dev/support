@@ -21,8 +21,10 @@ Untuk melihat akses room history, Anda perlu mengikuti langkah-langkah berikut;
 
    ![](/uploads/roomhistory.PNG)
 3. Room History akan akan menampilkan history-history pesan yang anda pilih sebelumnya
-4. Untuk menampilkan detail pesan pada room history, maka anda harus mengklik pesan tesebut
 
    ![](/uploads/roomhistory1.PNG)
+4. Untuk menampilkan detail pesan pada room history, maka anda harus mengklik pesan yang ingin inginkan sehingga muncul detail seperti gambar berikut
 
-   > Report hanya bisa diakses oleh **Admin** dan **Supervisor**
+   ![](/uploads/roomhistory2.PNG)
+
+   > Room History hanya bisa diakses oleh **Agent** dan **Supervisor**
