@@ -31,3 +31,6 @@ Untuk membuat HSM template pada Web, Anda perlu mengikuti langkah-langkah beriku
    ![](/uploads/setting6.PNG)
 
    > Jika data yang anda masukkan salah atau belum terisi maka secara otomatis sistem akan menampilkan notication pada field seperti ini "**The Template Command field must be at least 3 characters**".
+6. Data yang sudah anda buat akan muncul pada list template dengan action edit dan delete yang sudah disediakan.
+
+   ![](/uploads/setting7.PNG)
