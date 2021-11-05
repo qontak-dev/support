@@ -24,4 +24,4 @@ Untuk mengatur jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu me
 
    ![](/uploads/setting3.PNG)
 
-   > Ada 2 tipe responder yaitu Template penjawab otomatis selama jam kantor dan Template penjawab otomatis di luar jam kantor, kedua tipe ini memiliki button "**ON/OFF**" dimana ketika **ON** maka responder akan otomatis bekerja dan jika **OFF** maka auto responder tidak akan bekerja.
+   > Pada Office Hours Admin dapat mengatur jam operasional layanan dan mengatur jam mereka sesuai dengan zona waktu negara mereka. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
