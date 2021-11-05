@@ -24,4 +24,4 @@ Untuk mengatur jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu me
 
    ![](/uploads/setting3-1.PNG)
 
-   > Pada Office Hours Admin dapat mengatur jam operasional layanan dan mengatur jam mereka sesuai dengan zona waktu negara mereka. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
+   > Pada Office Hours, anda dapat mengatur jam operasional layanan dan mengatur zona waktu negara yang diinginkan. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
