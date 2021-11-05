@@ -23,4 +23,4 @@ Untuk melihat tampilan Setting pada Web, Anda perlu mengikuti langkah-langkah be
 3. Tombol “**Filter**” untuk melihat Inbox dengan pengaturan tertentu.
 4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
 5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved).
+6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved)
