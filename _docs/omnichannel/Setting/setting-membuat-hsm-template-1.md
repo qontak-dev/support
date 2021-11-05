@@ -23,7 +23,11 @@ Untuk membuat HSM template pada Web, Anda perlu mengikuti langkah-langkah beriku
 3. Kemudian klik button "**Chat**" lalu button "**New Template**" untuk membuat template HSM baru.
 
    ![](/uploads/setting4.PNG)
-4. sfsjdf
-5. dsfdsf
+4. Isi field-field yang sudah disediakan kemudian klik button "**Save**" untuk menyimpan data yang sudah dibuat.
 
-   > Pada Office Hours, anda dapat mengatur jam operasional layanan dan mengatur zona waktu negara yang diinginkan. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
+   ![](/uploads/setting5.PNG)
+5. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
+
+   ![](/uploads/setting6.PNG)
+
+   > Jika data yang anda masukkan salah atau belum terisi maka secara otomatis sistem akan menampilkan notication pada field seperti ini "**The Template Command field must be at least 3 characters**".
