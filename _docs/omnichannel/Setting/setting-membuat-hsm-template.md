@@ -23,6 +23,5 @@ Untuk membuat HSM Template Setting pada Web, Anda perlu mengikuti langkah-langka
 3. Kemudian klik button "**Chat**" lalu button "**Auto Responder**" untuk menampilkan template autoresponder
 
    ![](/uploads/setting2.PNG)
-4. Tombol “**Search**” untuk mencari Inbox berdasarkan nama.
-5. Tombol “**Resolve all expired chat room**” untuk menyelesaikan semua obrolan yang sudah kadaluarsa.
-6. Terdapat 4 status pesan pada **Inbox** (All, Unassigned, Assigned dan Resolved)
+
+   > Ada 2 tipe responder yaitu Template penjawab otomatis selama jam kantor dan Template penjawab otomatis di luar jam kantor, kedua tipe ini memiliki button "**ON/OFF**" dimana ketika **ON** maka responder akan otomatis bekerja dan jika **OFF** maka auto responder tidak akan bekerja.
