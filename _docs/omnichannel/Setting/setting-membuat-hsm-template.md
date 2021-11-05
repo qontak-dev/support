@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Setting - Membuat HSM Template
+title: Setting - Membuat Auto Responder
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Setting - Membuat HSM Template**
+**Setting - Membuat Auto Responder**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
