@@ -8,8 +8,6 @@ published: false
 ---
 **Integration - Overview Menu Integration**
 
-**Setting - Overview Setting**
-
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
 Untuk melihat tampilan Setting pada Web, Anda perlu mengikuti langkah-langkah berikut;
