@@ -2,7 +2,7 @@
 tags: []
 title: Integration - Overview Menu Integration
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -17,8 +17,8 @@ Untuk melihat tampilan menu integrasi pada Web, Anda perlu mengikuti langkah-lan
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Integration dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/setting-1.PNG)
+   ![](/uploads/integrasi.PNG)
 
-   > Didalam menu settings terdapat button Chat dimana anda bisa melakukan pengaturan atau mengontrol yang berkaitan dengan chat.
+   > Didalam menu Integration disediakan beberapa menu berdasarkan platform yang akan di integrasikan.
