@@ -6,9 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Setting - Membuat HSM Template
-
-**Setting - Overview Setting**
+**Setting - Membuat HSM Template**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengonntrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
