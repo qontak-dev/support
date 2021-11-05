@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-**Integration - Overview Menu Integration**
+**Integration - Mengintegrasikan WhatsApp**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
