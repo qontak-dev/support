@@ -8,7 +8,7 @@ published: false
 ---
 **Integration - Overview Menu Integration**
 
-**Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
+**Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
 Untuk melihat tampilan Setting pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
