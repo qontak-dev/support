@@ -20,8 +20,8 @@ Untuk mengatur jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu me
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
    ![](/uploads/setting.PNG)
-3. Kemudian klik button "**Chat**" lalu button "**Office Hours**" untuk menampilkan pengaturan jam kantor.
+3. Kemudian klik button "**Chat**" lalu button "**Office Hours**" untuk menampilkan pengaturan jam.
 
-   ![](/uploads/setting3.PNG)
+   ![](/uploads/setting3-1.PNG)
 
    > Pada Office Hours Admin dapat mengatur jam operasional layanan dan mengatur jam mereka sesuai dengan zona waktu negara mereka. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
