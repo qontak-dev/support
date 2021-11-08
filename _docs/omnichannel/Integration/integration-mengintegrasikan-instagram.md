@@ -6,4 +6,4 @@ author: ''
 published: false
 
 ---
-**Integration - Mengintegrasikan Instagram**
+**Integration - Mengintegrasikan Instagram.**
