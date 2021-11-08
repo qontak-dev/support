@@ -25,6 +25,6 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    ![](/uploads/integrasi-email.PNG)
 
    > Qontak mengizinkan untuk menerima email di Kotak Masuk Qontak sehingga Anda dapat mengelola semua email Anda dari Kotak Masuk Qontak.
-4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan chat panel.
+4. Disini, Anda bisa  melakukan pengaturan integrasi WhatsApp dengan chat panel.
 
    ![](/uploads/integrasiwa1.PNG)
