@@ -10,15 +10,22 @@ published: false
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
-Untuk melihat tampilan menu integrasi pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Integration dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
+3. Klik button "**Chat**" lalu button "**Tags**" untuk membuat tags baru, kemudian Isi field "**Create Tag**" dan klik button "**Add** " untuk menyimpan tag yang sudah dibuat.
 
-   > Didalam menu Integration disediakan beberapa menu berdasarkan platform yang akan di integrasikan.
+   ![](/uploads/tags1.PNG)
+4. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
+
+   ![](/uploads/tags2.PNG)
+5. Data yang sudah anda buat akan muncul pada list tags dengan action edit dan delete yang sudah disediakan.
+
+   ![](/uploads/tags3.PNG)
