@@ -2,7 +2,7 @@
 tags: []
 title: Integration - Mengintegrasikan Email
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
