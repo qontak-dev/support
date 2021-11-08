@@ -22,7 +22,7 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
    ![](/uploads/integrasi.PNG)
 3. Klik button "**WhatsApp**" kemudian button "**Settings**" untuk membuka form integrasi WhatsApp.
 
-   ![](/uploads/integrasiwa.PNG)
+   ![](/uploads/integrasi-twitter.PNG)
 
    > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
    >
