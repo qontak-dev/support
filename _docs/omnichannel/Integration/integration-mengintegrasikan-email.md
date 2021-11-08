@@ -20,9 +20,9 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**WhatsApp**" kemudian button "**Settings**" untuk membuka form integrasi WhatsApp.
+3. Klik button "**Email**" untuk membuka form integrasi Email.
 
-   ![](/uploads/integrasiwa.PNG)
+   ![](/uploads/integrasi-email.PNG)
 
    > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
 4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan chat panel.
