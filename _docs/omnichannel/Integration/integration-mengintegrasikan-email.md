@@ -6,7 +6,7 @@ author: ''
 published: false
 
 ---
-Integration - Mengintegrasikan Email
+**Integration - Mengintegrasikan Email**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
