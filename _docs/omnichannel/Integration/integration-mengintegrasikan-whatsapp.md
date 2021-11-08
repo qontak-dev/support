@@ -20,9 +20,9 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Chat**" lalu button "**Tags**" untuk membuat tags baru, kemudian Isi field "**Create Tag**" dan klik button "**Add** " untuk menyimpan tag yang sudah dibuat.
+3. Klik button "**WhatsApp**" kemudian button "**Settings**" untuk membuka form integrasi WhatsApp.
 
-   ![](/uploads/tags1.PNG)
+   ![](/uploads/integrasiwa.PNG)
 4. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
 
    ![](/uploads/tags2.PNG)
