@@ -24,7 +24,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
    ![](/uploads/integrasi-email.PNG)
 
-   > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
+   > Qontak mengizinkan untuk menerima email di Kotak Masuk Qontak sehingga Anda dapat mengelola semua email Anda dari Kotak Masuk Qontak.
 4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan chat panel.
 
    ![](/uploads/integrasiwa1.PNG)
