@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Integration - Mengintegrasikan Twitter
+**Integration - Mengintegrasikan Twitter**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
