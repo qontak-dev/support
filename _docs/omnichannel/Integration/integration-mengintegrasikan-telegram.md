@@ -6,4 +6,4 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-**Integration - Mengintegrasikan Telegram**
+**Integration - Mengintegrasikan Telegram.**
