@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Task – Filter Data Task
-subtitle: This document covers data filters on task
+subtitle: This document covers filtering on task
 author: hariyati suarni nurindah
 
 ---
