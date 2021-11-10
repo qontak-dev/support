@@ -30,10 +30,12 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
  4. Disini, Anda bisa melakukan pengaturan integrasi webchat dengan mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
     ![](/uploads/webchat1.PNG)
- 5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup
+ 5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**" 
 
     ![](/uploads/webchat3.PNG)
- 6. d
+ 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
+
+    ![](/uploads/webchat2.PNG)
  7. ddd
  8. ddd
  9. ddd
