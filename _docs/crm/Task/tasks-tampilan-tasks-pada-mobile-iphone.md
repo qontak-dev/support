@@ -1,7 +1,7 @@
 ---
 tags: []
 title: 'Task – Tampilan Tasks pada Mobile '
-subtitle: ''
+subtitle: This document covers the tasks view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
