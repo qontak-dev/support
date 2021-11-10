@@ -23,14 +23,10 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 3. Klik button "**Webchat**" kemudian button "**Add New Widget**" untuk membuat widget baru.
 
    ![](/uploads/webchat7.PNG)
-
-   > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
-   >
-   > > Untuk integrasi WhatsApp, Anda harus memiliki WhatsApp Bussiness API. Jika Anda belum mendapatkan API WhatsApp Business dan ingin memulai integrasi, silakan Hubungi Qontak. Qontak adalah Mitra Bisnis Resmi WhatsApp API. Anda dapat mengintegrasikan beberapa Akun WhatsApp.
-4. Disini, Anda bisa melakukan pengaturan integrasi webchat dengan mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
+4. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
-5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**" 
+5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" 
 
    ![](/uploads/webchat3.PNG)
 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
