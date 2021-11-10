@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Task – Menambahkan Tasks Satuan pada Mobile
-subtitle: ''
+subtitle: This document covers adding unit task in the mobile apps
 author: hariyati suarni nurindah
 
 ---
