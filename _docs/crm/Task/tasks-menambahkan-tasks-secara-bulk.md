@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Task – Menambahkan Tasks Secara Bulk
-subtitle: ''
+subtitle: This document covers add bulk on the task menu
 author: hariyati suarni nurindah
 
 ---
