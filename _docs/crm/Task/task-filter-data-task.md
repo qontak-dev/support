@@ -7,7 +7,7 @@ author: hariyati suarni nurindah
 ---
 **Task** pada CRM Qontak memiliki fitur filter yang dapat memudahkan anda dalam mencari beberapa Task dengan spesifikasi tertentu yang dapat diatur sesuai dengan keinginan anda.
 
-Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak anda.
+Ikuti langka berikut untuk menggunakan fitur filter data Task di akun Qontak anda;
 
 1. Buka [https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login") ([https://www.qontak.com/login](https://www.qontak.com/login "https://www.qontak.com/login")) pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
