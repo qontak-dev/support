@@ -10,7 +10,7 @@ published: false
 
 **Inbox** merupakan sebuah fitur Omnichannel Qontak dimana para customer service akan melayani semua keluhan user berupa chat yang masuk kedalam Inbox.
 
-Berikut adalah skema pembagian pesan yang masuk ke Agen;
+Dalam menerima pesan ada beberapa skema pembagian yang dilakukan oleh Agen. Berikut adalah skema pembagian pesan yang masuk ke Agen;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
