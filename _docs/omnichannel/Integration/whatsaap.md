@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Integration - Mengintegrasikan WhatsApp
-subtitle: This document covers integration webchat in omnichannel system
+subtitle: This document covers integration WhatsApp in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
@@ -10,7 +10,7 @@ published: false
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
-Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
@@ -30,7 +30,7 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 4. Disini, Anda bisa melakukan pengaturan integrasi webchat dengan mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
-5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**" 
+5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**"
 
    ![](/uploads/webchat3.PNG)
 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
