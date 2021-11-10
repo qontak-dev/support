@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Integration - Mengintegrasikan WhatsApp
+title: Integration - Mengintegrasikan WebChat
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Integration - Mengintegrasikan WhatsApp**
+**Integration - Mengintegrasikan WebChat**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
