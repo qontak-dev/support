@@ -17,7 +17,7 @@ Dalam menerima pesan ada beberapa skema pembagian yang dilakukan oleh Agen. Beri
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Pada halaman inbox, Supervisor dapat mengalokasikan pelanggan kepada agen yang tersedia.
+2. Pada halaman **Inbox**, supervisor dapat mengalokasikan pelanggan kepada agen yang tersedia.
 
    ![](/uploads/screenshot-26.png)
 
