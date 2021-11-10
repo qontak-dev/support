@@ -26,10 +26,10 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 4. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
-5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup popup.
+5. Jika data yang anda masukkan benar atau sesuai maka akan muncul Popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup Popup.
 
    ![](/uploads/webchat3.PNG)
-6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
+6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul Popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh Popup yang muncul seperti berikut
 
    ![](/uploads/webchat2.PNG)
 7. Widget yang berhasil di create akan muncul pada list  WebChat seperti gambar berikut dengan button "**Setting**" yang digunakan untuk mengupdate widget tersebut dan button "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget yang diingikan.
