@@ -32,7 +32,7 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul Popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh Popup yang muncul seperti berikut
 
    ![](/uploads/webchat2.PNG)
-7. Widget yang berhasil di create akan muncul pada list  Webchat seperti gambar berikut dengan button "**Setting**" yang digunakan untuk mengupdate widget tersebut dan button "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget yang diingikan.
+7. Widget yang berhasil di create akan muncul pada list  Webchat seperti gambar berikut yang dilengkapi dengan button "**Setting**" yang digunakan untuk mengupdate widget dan button "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget yang tersebut.
 
    ![](/uploads/webchat5.PNG)
 
