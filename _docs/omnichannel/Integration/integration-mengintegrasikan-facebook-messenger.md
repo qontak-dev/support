@@ -20,11 +20,11 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Add Email**" untuk menambahkan akun email yang akan diintegrasikan.
+3. Klik button "**Connect with Facebook**" untuk menyambungkan akun facebook yang akan diintegrasikan.
 
-   ![](/uploads/email.PNG)
+   ![](/uploads/facebook.PNG)
 
-   > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email tersebut.
+   > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
 4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
 
    ![](/uploads/email1.PNG)
