@@ -31,7 +31,11 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
 5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
 
    ![](/uploads/facebook2.PNG)
-6. Popup notification "**Are you sure?**
+6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
+
+   ![](/uploads/facebook3.PNG)
+7. vv
+8. Popup notification "**Are you sure?**
 
    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
 
