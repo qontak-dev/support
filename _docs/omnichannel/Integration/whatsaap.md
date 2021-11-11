@@ -68,7 +68,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 14. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "Delete" jika tidak maka klik button "cancel"
 
     ![](/uploads/whatsapp10.PNG)
-15. df
+15. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut;
 
     ![](/uploads/whatsapp11.PNG)
 16. dfs
