@@ -53,9 +53,9 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
  9. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti berikut setalah anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp6.PNG)
+10. Template pesan yang sesuai dengan data yang anda masukkan akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
 
-    sgdf
-10. fdd
+    ![](/uploads/whatsapp7.PNG)
 11. gdg
 12. gdg
 
