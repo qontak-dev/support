@@ -23,9 +23,11 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
 3. Klik button "**Add Twitter Account**" untuk menambahkan akun twitter yang akan diintegrasikan.
 
    ![](/uploads/twitter.PNG)
-4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "Login in Twitter" dan yang kedua "Integrate with developer Apps"
+4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "Login in Twitter" dan yang kedua adalah "Integrate with developer Apps"
 
    ![](/uploads/twitter2.PNG)
+
+   > Klik button "**Integrate with developer Apps**" untuk mengintegrasikan twitter melalui developer
 5. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
