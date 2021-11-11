@@ -71,8 +71,6 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 15. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
 
     ![](/uploads/whatsapp11.PNG)
-16. dfs
+16. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
 
     ![](/uploads/whatsapp12.PNG)
-
-d
