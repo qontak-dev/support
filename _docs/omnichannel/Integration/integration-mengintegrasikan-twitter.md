@@ -20,4 +20,28 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Twitter**" kemudian button "**Settings**" untuk membuka form integrasi WhatsApp.
+3. Klik button "**Add Twitter Account**" untuk menambahkan akun twitter yang akan diintegrasikan.
+
+   ![](/uploads/twitter.PNG)
+4. Klik button "**Webchat**" kemudian button "**Add New Widget**" untuk membuat widget baru.
+
+   ![](/uploads/webchat7.PNG)
+5. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
+
+   ![](/uploads/webchat1.PNG)
+6. Jika data yang anda masukkan benar atau sesuai maka akan muncul Popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup Popup.
+
+   ![](/uploads/webchat3.PNG)
+7. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul Popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh Popup yang muncul seperti berikut
+
+   ![](/uploads/webchat2.PNG)
+8. Widget yang berhasil di create akan muncul pada list  Webchat seperti gambar berikut yang dilengkapi dengan button "**Setting**" yang digunakan untuk mengupdate widget dan button "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget yang tersebut.
+
+   ![](/uploads/webchat5.PNG)
+
+   > Jika button "**ON/OFF**" diklik, maka akan muncul kembali Popup "Successfully updated!"  sebagai notifikasi bahwa update yang dilakukan berhasil
+9. Button **Settings** digunakan jika ingin melakukan perubahan pada widget yang diinginkan seperti mengubah nama, domain maupun status widget kemudian klik button "**Save Changes**" untuk menyimpan perubahan tersebut.
+
+   ![](/uploads/webchat6.PNG)
+
+   > Terdapat preview widget yang bisa anda liat pada bagian sebelah kanan form **settings**.
