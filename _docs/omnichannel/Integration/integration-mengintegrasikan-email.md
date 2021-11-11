@@ -44,6 +44,6 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
    ![](/uploads/email6.PNG)
 9. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun email dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/twitter6-1.PNG)
