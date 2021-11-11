@@ -32,7 +32,7 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
 
    ![](/uploads/twitter3.PNG)
 
-   > Field yang kosong atau tidak sesuai format akan menampilkan error "**field is required**"
+   > Field yang kosong akan menampilkan error "**field is required**" setalah anda mengklik button "**Add**"
 6. Jika data yang anda masukkan benar atau sesuai maka akan muncul Popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup Popup.
 
    ![](/uploads/webchat3.PNG)
