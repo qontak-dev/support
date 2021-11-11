@@ -29,7 +29,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    > > Untuk integrasi WhatsApp, Anda harus memiliki WhatsApp Bussiness API. Jika Anda belum mendapatkan API WhatsApp Business dan ingin memulai integrasi, silakan Hubungi Qontak. Qontak adalah Mitra Bisnis Resmi WhatsApp API. Anda dapat mengintegrasikan beberapa Akun WhatsApp.
 4. Disini, Anda bisa melakukan pengaturan integrasi webchat dengan mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
-   ![](/uploads/webchat1.PNG)
+   ![](/uploads/whatsapp1.PNG)
 5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**"
 
    ![](/uploads/webchat3.PNG)
