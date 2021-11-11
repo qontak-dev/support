@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Integration - Mengintegrasikan Email
-subtitle: ''
+subtitle: This document covers integration email in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
