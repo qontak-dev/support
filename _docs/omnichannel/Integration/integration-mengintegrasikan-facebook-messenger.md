@@ -25,23 +25,14 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    ![](/uploads/facebook.PNG)
 
    > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
-4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
+4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
-   > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Submit**"
-5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
+   ![](/uploads/twitter4.PNG)
+5. Anda bisa berhenti terintegrasi dengan twitter dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/twitter7.PNG)
-6. Untuk melakukan perubahan pada data email, Anda bisa klik button name seperti pada gambar berikut;
+   ![](/uploads/twitter8.PNG)
+6. Popup notification "**Are you sure?**
 
-   ![](/uploads/email5.PNG)
-7. Klik button "**Save Changes**" untuk menyimpan perubahan.
-
-   ![](/uploads/email3.PNG)
-8. Anda bisa berhenti terintegrasi dengan email dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
-
-   ![](/uploads/email6.PNG)
-9. Popup notification "**Are you sure?**
-
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun email dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/twitter6-1.PNG)
