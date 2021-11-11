@@ -45,7 +45,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    ![](/uploads/whatsapp4.PNG)
 
    > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Next**"
-8. Anda harus membuat template pesan yang anda inginkan sebelum melakukan "**Submit**", Pesan yang anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang anda inginkan.
+8. Pada proses selanjutnya, anda harus membuat template pesan sebelum melakukan "**Submit**", Pesan yang anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang anda inginkan.
 
    ![](/uploads/whatsapp5.PNG)
 
