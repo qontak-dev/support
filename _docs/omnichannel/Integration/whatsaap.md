@@ -44,7 +44,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
    ![](/uploads/whatsapp4.PNG)
 
-   > Jika button "**ON/OFF**" diklik, maka akan muncul kembali popup "Successfully updated!"  sebagai notifikasi bahwa update yang dilakukan berhasil
+   > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Next**"
 8. Button **Settings** digunakan jika ingin melakukan perubahan pada widget yang diinginkan seperti mengubah nama, domain maupun status widget kemudian klik button "**Save Changes**" untuk menyimpan perubahan tersebut.
 
    ![](/uploads/webchat6.PNG)
