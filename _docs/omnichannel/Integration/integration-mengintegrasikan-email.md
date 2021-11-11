@@ -12,43 +12,38 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti langkah-langkah berikut
 
- 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-    ![](/uploads/login-qontak-c.png)
+   ![](/uploads/login-qontak-c.png)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
-    ![](/uploads/integrasi.PNG)
- 3. Klik button "**Add Email**" untuk menambahkan akun email yang akan diintegrasikan.
+   ![](/uploads/integrasi.PNG)
+3. Klik button "**Add Email**" untuk menambahkan akun email yang akan diintegrasikan.
 
-    ![](/uploads/email.PNG)
+   ![](/uploads/email.PNG)
 
-    > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email ini.
- 4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "**Login in Twitter**" dan yang kedua adalah "**Integrate with developer Apps**"
+   > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email ini.
+4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
 
-    ![](/uploads/twitter2.PNG)
+   ![](/uploads/email1.PNG)
 
-    > Klik button "**Integrate with developer Apps**" untuk mengintegrasikan twitter melalui developer
- 5. Anda harus mengisi field-field pada form add twitter developer apps kemudian klik button "Add" untuk menambahkan twitter.
+   > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Submit**"
+5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
 
-    ![](/uploads/twitter3.PNG)
+   ![](/uploads/twitter7.PNG)
+6. Untuk melakukan perubahan pada data email, Anda bisa klik button name seperti pada gambar berikut;
 
-    > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Add**"
- 6. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
+   ![](/uploads/email5.PNG)
+7. Klik button "**Save Changes**" untuk menyimpan perubahan.
 
-    ![](/uploads/twitter7.PNG)
- 7. Apabila Anda ingin mengintegrasikan twitter dengan login langsung pada account twitter anda, maka yang harus anda lakukan adalah klik button "**Login in Twitter**"
+   ![](/uploads/email3.PNG)
+8. Anda bisa berhenti terintegrasi dengan email dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-    ![](/uploads/twitter5.PNG)
- 8. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada twitter dengan mengisi username dan password kemudian klik button "**Sign In**"
+   ![](/uploads/email6.PNG)
+9. Popup notification "**Are you sure?**
 
-    ![](/uploads/twitter4.PNG)
- 9. Anda bisa berhenti terintegrasi dengan twitter dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
 
-    ![](/uploads/twitter8.PNG)
-10. Popup notification "**Are you sure?**
-
-    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
-
-    ![](/uploads/twitter6-1.PNG)
+   ![](/uploads/twitter6-1.PNG)
