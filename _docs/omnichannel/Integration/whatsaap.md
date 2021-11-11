@@ -57,6 +57,8 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
     ![](/uploads/whatsapp7.PNG)
 11. gdg
+
+    ![](/uploads/whatsapp8.PNG)
 12. gdg
 
 dsgf
