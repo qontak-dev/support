@@ -59,7 +59,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 11. Template yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari template yang anda inginkan, kemudian anda button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut. Klik button "**Edit**" untuk membuka form template.
 
     ![](/uploads/whatsapp8.PNG)
-12. Berikut anda salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
+12. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
 
     ![](/uploads/whatsapp9.PNG)
 13. fdfds
