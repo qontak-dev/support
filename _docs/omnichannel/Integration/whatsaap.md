@@ -49,4 +49,4 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
    ![](/uploads/whatsapp5.PNG)
 
-   > Terdapat preview widget yang bisa anda liat pada bagian sebelah kanan form settings.
+   > Jika anda mengklik button "Submit" sebelum mengisi template pesan makan otomatis akan menampilkan error "**field is required**"
