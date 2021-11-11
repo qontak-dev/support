@@ -24,7 +24,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
 
    ![](/uploads/email.PNG)
 
-   > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email ini.
+   > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email tersebut.
 4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
 
    ![](/uploads/email1.PNG)
