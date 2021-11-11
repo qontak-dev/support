@@ -20,11 +20,11 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
     ![](/uploads/integrasi.PNG)
- 3. Klik button "**Add Twitter Account**" untuk menambahkan akun twitter yang akan diintegrasikan.
+ 3. Klik button "**Add Email**" untuk menambahkan akun email yang akan diintegrasikan.
 
-    ![](/uploads/twitter.PNG)
+    ![](/uploads/email.PNG)
 
-    > Pada bagian kanan form integrasi twitter terdapat tata cara mengintegrasikan twitter dengan login langsung maupun dengan developer dan siapa saja yang bisa menggunakan fitur integrasi twitter ini.
+    > Pada bagian kanan form integrasi email terdapat tata cara mengintegrasikan email dan siapa saja yang bisa menggunakan fitur integrasi email ini.
  4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "**Login in Twitter**" dan yang kedua adalah "**Integrate with developer Apps**"
 
     ![](/uploads/twitter2.PNG)
