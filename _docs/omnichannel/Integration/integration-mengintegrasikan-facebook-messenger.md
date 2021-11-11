@@ -34,7 +34,7 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
 6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
 
    ![](/uploads/facebook3.PNG)
-7. z
+7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
    ![](/uploads/facebook22.PNG)
 8. Popup notification "**Are you sure?**
