@@ -45,8 +45,8 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    ![](/uploads/whatsapp4.PNG)
 
    > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Next**"
-8. Button **Settings** digunakan jika ingin melakukan perubahan pada widget yang diinginkan seperti mengubah nama, domain maupun status widget kemudian klik button "**Save Changes**" untuk menyimpan perubahan tersebut.
+8. Anda harus membuat template pesan yang anda inginkan sebelum melakukan "**Submit**", Pesan yang anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang anda inginkan.
 
-   ![](/uploads/webchat6.PNG)
+   ![](/uploads/whatsapp5.PNG)
 
    > Terdapat preview widget yang bisa anda liat pada bagian sebelah kanan form settings.
