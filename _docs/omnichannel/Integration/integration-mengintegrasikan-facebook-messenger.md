@@ -27,10 +27,10 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
 4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
-   ![](/uploads/twitter4.PNG)
-5. Anda bisa berhenti terintegrasi dengan twitter dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+   ![](/uploads/facebook1.PNG)
+5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
 
-   ![](/uploads/twitter8.PNG)
+   ![](/uploads/facebook2.PNG)
 6. Popup notification "**Are you sure?**
 
    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
