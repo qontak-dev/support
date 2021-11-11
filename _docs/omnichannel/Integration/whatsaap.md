@@ -63,7 +63,8 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
     ![](/uploads/whatsapp9.PNG)
 13. fdfds
-14. dsfs
+
+1. dsfs
 
 dsgf
 
