@@ -27,8 +27,6 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
 4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
 
-   ![](/uploads/email1.PNG)
-
    > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Submit**"
 5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
 
