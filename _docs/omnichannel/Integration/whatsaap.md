@@ -39,10 +39,10 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    ![](/uploads/whatsapp3.PNG)
 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
 
-   ![](/uploads/webchat2.PNG)
-7. Widget yang berhasil di create akan muncul pada list  WebChat seperti gambar berikut dengan button "**Setting**" yang digunakan untuk mengupdate widget tersebut dan button "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget yang diingikan.
+   ![](/uploads/whatsapp4.PNG)
+7. Kemudian anda harus mengisi field-field yang required sebelum melanjutkan ke proses selanjutnya dengan mengklik button "**Next**".
 
-   ![](/uploads/webchat5.PNG)
+   ![](/uploads/whatsapp4.PNG)
 
    > Jika button "**ON/OFF**" diklik, maka akan muncul kembali popup "Successfully updated!"  sebagai notifikasi bahwa update yang dilakukan berhasil
 8. Button **Settings** digunakan jika ingin melakukan perubahan pada widget yang diinginkan seperti mengubah nama, domain maupun status widget kemudian klik button "**Save Changes**" untuk menyimpan perubahan tersebut.
