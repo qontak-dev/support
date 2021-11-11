@@ -25,7 +25,7 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
     ![](/uploads/twitter.PNG)
 
     > Pada bagian kanan form integrasi twitter terdapat tata cara mengintegrasikan twitter dengan login langsung maupun dengan developer dan siapa saja yang bisa menggunakan fitur integrasi twitter ini.
- 4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "Login in Twitter" dan yang kedua adalah "Integrate with developer Apps"
+ 4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "**Login in Twitter**" dan yang kedua adalah "**Integrate with developer Apps**"
 
     ![](/uploads/twitter2.PNG)
 
