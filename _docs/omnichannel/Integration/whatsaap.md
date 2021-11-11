@@ -34,7 +34,9 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    > Jika data yang anda masukkan sudah benar, maka otomatis sistem akan kembali kehalaman list integration WhatsApp dan jika data anda salah atau tidak sesuai akan muncul Popup error "**password is missing**".
 5. Pada halaman Integration WhatsApp tedapat button "2**4 Hours HSM Template**" yang digunakan untuk membuat template, melihat dan menghapus template. Untuk membuat template maka anda harus mengikuti langkah-langkah berikut;
 
-   ![](/uploads/webchat3.PNG)
+   Klik button "**Add HSM Template**" untuk membuat template baru.
+
+   ![](/uploads/whatsapp3.PNG)
 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
 
    ![](/uploads/webchat2.PNG)
