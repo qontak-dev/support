@@ -23,6 +23,8 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
  3. Klik button "**Add Twitter Account**" untuk menambahkan akun twitter yang akan diintegrasikan.
 
     ![](/uploads/twitter.PNG)
+
+    > Pada bagian kanan form integrasi twitter terdapat tata cara mengintegrasikan twitter dengan login langsung maupun dengan developer dan siapa saja yang bisa menggunakan fitur integrasi twitter ini.
  4. Ada dua pilihan untuk mengintegrasikan Twitter, yang pertama adalah "Login in Twitter" dan yang kedua adalah "Integrate with developer Apps"
 
     ![](/uploads/twitter2.PNG)
@@ -45,8 +47,6 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
  9. Anda bisa berhenti terintegrasi dengan twitter dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
     ![](/uploads/twitter8.PNG)
-
-    > Pada bagian kanan form integrasi twitter terdapat tata cara mengintegrasikan twitter dengan login langsung maupun dengan developer dan siapa saja yang bisa menggunakan fitur integrasi twitter ini.
 10. Popup notification "**Are you sure?**
 
     **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
