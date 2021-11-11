@@ -27,9 +27,11 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
    > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
    >
    > > Untuk integrasi WhatsApp, Anda harus memiliki WhatsApp Bussiness API. Jika Anda belum mendapatkan API WhatsApp Business dan ingin memulai integrasi, silakan Hubungi Qontak. Qontak adalah Mitra Bisnis Resmi WhatsApp API. Anda dapat mengintegrasikan beberapa Akun WhatsApp.
-4. Disini, Anda bisa melakukan pengaturan integrasi webchat dengan mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
+4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan mengisi WhatsApp name, token dan URL kemudian klik buttton **Connect** untuk ke proses selanjutnya.
 
    ![](/uploads/whatsapp1.PNG)
+
+   > Jika data yang anda masukkan sudah benar, maka otomatis sistem akan kembali kehalaman list integration WhatsApp dan jika data anda salah atau tidak sesuai akan muncul Popup error "**password is missing**".
 5. Jika data yang anda masukkan benar atau sesuai maka akan muncul popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian Klik button "**OK**"
 
    ![](/uploads/webchat3.PNG)
