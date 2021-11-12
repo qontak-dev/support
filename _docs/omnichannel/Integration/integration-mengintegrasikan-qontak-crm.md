@@ -6,11 +6,11 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-**Integration - Mengintegrasikan Facebook Messenger**
+**Integration - Mengintegrasikan Qontak CRM**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
-Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu mengikuti langkah-langkah berikut
+Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda perlu mengikuti langkah-langkah berikut
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
