@@ -18,5 +18,3 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
-
-   ![](/uploads/integrasi.PNG)
