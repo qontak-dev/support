@@ -33,12 +33,12 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
 
    ![](/uploads/line2.PNG)
-6. Klik buton name "**Settings**" pada nama line messenger untuk melihat detail informasi telegram Anda.
+6. Klik buton name "**Settings**" pada nama line untuk melihat detail informasi line messenger Anda.
 
    ![](/uploads/telegram4.PNG)
-7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena semua field dalam kondisi disable.
+7. Anda bisa melihat detail info line Anda, tapi tidak bisa melakukan perubahan pada channel name dan channel secret karena field dalam kondisi disable.
 
-   ![](/uploads/telegram5.PNG)
+   ![](/uploads/line4.PNG)
 8. Anda bisa berhenti terintegrasi dengan telegram dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
    ![](/uploads/telegram6.PNG)
