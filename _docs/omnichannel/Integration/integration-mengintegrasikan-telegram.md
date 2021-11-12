@@ -1,14 +1,12 @@
 ---
 tags: []
 title: Integration - Mengintegrasikan Livechat
-subtitle: ''
+subtitle: This document covers integration Livechat in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
 **Integration - Mengintegrasikan Livechat**
-
-**Integration - Mengintegrasikan Line Messenger**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
