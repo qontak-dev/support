@@ -1,14 +1,12 @@
 ---
 tags: []
 title: Integration - Mengintegrasikan Line Messenger
-subtitle: ''
+subtitle: This document covers integration line messenger in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
 **Integration - Mengintegrasikan Line Messenger**
-
-**Integration - Mengintegrasikan Telegram**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
