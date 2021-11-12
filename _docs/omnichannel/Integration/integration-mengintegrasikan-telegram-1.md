@@ -10,7 +10,7 @@ published: false
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
-Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti langkah-langkah berikut
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
@@ -20,11 +20,25 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**WhatsApp**" kemudian button "**Settings**" untuk membuka form integrasi WhatsApp.
+3. Klik button "**Connect with Facebook**" untuk menyambungkan akun facebook yang akan diintegrasikan.
 
-   ![](/uploads/integrasiwa.PNG)
+   ![](/uploads/facebook.PNG)
 
-   > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
-   >
-   > > Untuk integrasi WhatsApp, Anda harus memiliki WhatsApp Bussiness API. Jika Anda belum mendapatkan API WhatsApp Business dan ingin memulai integrasi, silakan Hubungi Qontak. Qontak adalah Mitra Bisnis Resmi WhatsApp API. Anda dapat mengintegrasikan beberapa Akun WhatsApp.
-4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan chat panel.
+   > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
+4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
+
+   ![](/uploads/facebook1.PNG)
+5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
+
+   ![](/uploads/facebook2.PNG)
+6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
+
+   ![](/uploads/facebook3.PNG)
+7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+
+   ![](/uploads/facebook22.PNG)
+8. Popup notification "**Are you sure?**
+
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
+
+   ![](/uploads/twitter6-1.PNG)
