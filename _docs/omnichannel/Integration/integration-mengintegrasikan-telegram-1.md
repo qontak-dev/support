@@ -12,33 +12,35 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti langkah-langkah berikut
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+ 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-   ![](/uploads/login-qontak-c.png)
+    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
-   ![](/uploads/integrasi.PNG)
-3. Klik button "**Add Telegram Channel**" untuk menyambungkan akun telegram yang akan diintegrasikan.
+    ![](/uploads/integrasi.PNG)
+ 3. Klik button "**Add Telegram Channel**" untuk menyambungkan akun telegram yang akan diintegrasikan.
 
-   ![](/uploads/telegram.PNG)
+    ![](/uploads/telegram.PNG)
 
-   > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur integrasi telegram tersebut.
-4. Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
+    > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur integrasi telegram tersebut.
+ 4. Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
 
-   ![](/uploads/telegram2.PNG)
-5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
+    ![](/uploads/telegram2.PNG)
+ 5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
 
-   ![](/uploads/telegram3.PNG)
-6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
+    ![](/uploads/telegram3.PNG)
+ 6. Klik buton name "Settings" pada nama telegram untuk melihat detail informasi telegram Anda.
 
-   ![](/uploads/facebook3.PNG)
-7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+    ![](/uploads/telegram4.PNG)
+ 7. dsfs
+ 8. dfd
+ 9. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/facebook22.PNG)
-8. Popup notification "**Are you sure?**
+    ![](/uploads/facebook22.PNG)
+10. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
+    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
 
-   ![](/uploads/twitter6-1.PNG)
+    ![](/uploads/twitter6-1.PNG)
