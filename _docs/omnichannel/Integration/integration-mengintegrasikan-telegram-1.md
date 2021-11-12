@@ -20,11 +20,11 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Add Telegram Channel**" untuk menyambungkan akun facebook yang akan diintegrasikan.
+3. Klik button "**Add Telegram Channel**" untuk menyambungkan akun telegram yang akan diintegrasikan.
 
    ![](/uploads/telegram.PNG)
 
-   > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur integrasi facebook messenger  tersebut.
+   > Pada bagian kanan form integrasi **Telegram** terdapat tata cara mengintegrasikan **Telegram** dan siapa saja yang bisa menggunakan fitur integrasi **Telegram** tersebut.
 4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
    ![](/uploads/facebook1.PNG)
