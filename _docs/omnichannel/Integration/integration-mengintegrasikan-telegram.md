@@ -12,12 +12,12 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda.
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
 3. Klik button "**Add New Integration**" untuk menyambungkan akun livechat yang akan diintegrasikan.
@@ -36,6 +36,6 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
    ![](/uploads/livechat3.PNG)
 7. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/livechat4.PNG)
