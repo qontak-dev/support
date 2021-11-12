@@ -27,7 +27,7 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
 
    ![](/uploads/livechat1.PNG)
 
-   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Install**"
+   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Add**"
 5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
 
    ![](/uploads/line2.PNG)
