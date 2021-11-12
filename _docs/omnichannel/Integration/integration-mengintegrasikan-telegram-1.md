@@ -44,4 +44,4 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 
    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun telegram dan jika tidak maka klik button "**Cancel**"
 
-   ![](/uploads/twitter6-1.PNG)
+   ![](/uploads/telegram7.PNG)
