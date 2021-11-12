@@ -10,7 +10,7 @@ published: false
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
-Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda.
 
