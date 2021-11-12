@@ -28,20 +28,14 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
    ![](/uploads/livechat1.PNG)
 
    > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Add**"
-5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
+5. Jika data yang Anda masukkan benar, maka popup success akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup dan secara otomatis Anda akan diarahkan ke menu list livechat
 
-   ![](/uploads/line2.PNG)
-6. Klik buton name "**Settings**" pada nama line untuk melihat detail informasi line messenger Anda.
+   ![](/uploads/livechat2.PNG)
+6. Pada list livechat, Anda bisa berhenti terintegrasi dengan livechat  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/telegram4.PNG)
-7. Anda bisa melihat detail info line Anda, tapi tidak bisa melakukan perubahan pada channel name dan channel secret karena field dalam kondisi disable.
+   ![](/uploads/livechat3.PNG)
+7. Popup notification "**Are you sure?**
 
-   ![](/uploads/line4.PNG)
-8. Anda bisa berhenti terintegrasi dengan line messenger  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
 
-   ![](/uploads/line5.PNG)
-9. Popup notification "**Are you sure?**
-
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun line messenger dan jika tidak maka klik button "**Cancel**"
-
-   ![](/uploads/line6.PNG)
+   ![](/uploads/livechat4.PNG)
