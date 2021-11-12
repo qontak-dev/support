@@ -39,11 +39,11 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 7. Anda bisa melihat detail info line Anda, tapi tidak bisa melakukan perubahan pada channel name dan channel secret karena field dalam kondisi disable.
 
    ![](/uploads/line4.PNG)
-8. Anda bisa berhenti terintegrasi dengan telegram dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+8. Anda bisa berhenti terintegrasi dengan line messenger  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/telegram6.PNG)
+   ![](/uploads/line5.PNG)
 9. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun telegram dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun line messenger dan jika tidak maka klik button "**Cancel**"
 
-   ![](/uploads/telegram7.PNG)
+   ![](/uploads/line6.PNG)
