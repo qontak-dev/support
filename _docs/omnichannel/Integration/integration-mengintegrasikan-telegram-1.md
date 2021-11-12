@@ -24,10 +24,10 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 
    ![](/uploads/telegram.PNG)
 
-   > Pada bagian kanan form integrasi **Telegram** terdapat tata cara mengintegrasikan **Telegram** dan siapa saja yang bisa menggunakan fitur integrasi **Telegram** tersebut.
-4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
+   > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur integrasi telegram tersebut.
+4. Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram 
 
-   ![](/uploads/facebook1.PNG)
+   ![](/uploads/telegram2.PNG)
 5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
 
    ![](/uploads/facebook2.PNG)
