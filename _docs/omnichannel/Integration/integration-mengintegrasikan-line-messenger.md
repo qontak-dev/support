@@ -28,10 +28,12 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 4. Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
 
    ![](/uploads/line1.PNG)
+
+   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Install**"
 5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
 
-   ![](/uploads/telegram3.PNG)
-6. Klik buton name "**Settings**" pada nama telegram untuk melihat detail informasi telegram Anda.
+   ![](/uploads/line2.PNG)
+6. Klik buton name "**Settings**" pada nama line untuk melihat detail informasi telegram Anda.
 
    ![](/uploads/telegram4.PNG)
 7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena semua field dalam kondisi disable.
