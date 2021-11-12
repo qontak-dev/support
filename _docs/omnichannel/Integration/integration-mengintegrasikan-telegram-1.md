@@ -31,10 +31,12 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
  5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
 
     ![](/uploads/telegram3.PNG)
- 6. Klik buton name "Settings" pada nama telegram untuk melihat detail informasi telegram Anda.
+ 6. Klik buton name "**Settings**" pada nama telegram untuk melihat detail informasi telegram Anda.
 
     ![](/uploads/telegram4.PNG)
- 7. dsfs
+ 7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena setiap field disable.
+
+    ![](/uploads/telegram5.PNG)
  8. dfd
  9. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
