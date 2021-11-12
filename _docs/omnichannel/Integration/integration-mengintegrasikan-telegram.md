@@ -20,9 +20,9 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Add Line Account**" untuk menyambungkan akun line yang akan diintegrasikan.
+3. Klik button "**Add New Integration**" untuk menyambungkan akun livechat yang akan diintegrasikan.
 
-   ![](/uploads/line.PNG)
+   ![](/uploads/livechat.PNG)
 
    > Pada bagian kanan form integrasi line terdapat tata cara mengintegrasikan line dan siapa saja yang bisa menggunakan fitur integrasi line tersebut.
 4. Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
