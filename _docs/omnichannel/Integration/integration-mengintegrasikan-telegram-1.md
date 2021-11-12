@@ -34,7 +34,7 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
  6. Klik buton name "**Settings**" pada nama telegram untuk melihat detail informasi telegram Anda.
 
     ![](/uploads/telegram4.PNG)
- 7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena setiap field disable.
+ 7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena semua field dalam kondisi disable.
 
     ![](/uploads/telegram5.PNG)
  8. dfd
