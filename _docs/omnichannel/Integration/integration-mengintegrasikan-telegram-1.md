@@ -39,7 +39,7 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
    > > 4. Setelah selesai, Anda akan menerima kunci API HTTP. Salin dan masukkan pada field Token Akses Telegram.
    >
    > Anda harus memiliki token akses untuk menghubungkan bot telegram. Sedangkan untuk membuat bot baru Anda bisa lihat pada halaman "[https://core.telegram.org/bots#3-how-do-i-create-a-bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot "https://core.telegram.org/bots#3-how-do-i-create-a-bot")" atau Anda juga bisa menggunakan bot yang sudah ada.
-4. Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
+4. Pada Chat Panel, Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
 
    ![](/uploads/telegram2.PNG)
 5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
