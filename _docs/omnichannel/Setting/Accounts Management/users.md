@@ -19,10 +19,8 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/setting.PNG)
-3. Klik button "**Chat**" lalu button "**Tags**" untuk membuat tags baru, kemudian Isi field "**Create Tag**" dan klik button "**Add** " untuk menyimpan tag yang sudah dibuat.
-
-   ![](/uploads/tags1.PNG)
+   ![](/uploads/accounma1.PNG)
+3. Klik button name "**Account Management**" kemudian pilih "**Users**" lalu klik button "**+Create User"** untuk membuka form user baru.![](/uploads/accounma1-1.PNG)
 4. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
 
    ![](/uploads/tags2.PNG)
