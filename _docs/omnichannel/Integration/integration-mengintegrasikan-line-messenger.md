@@ -24,7 +24,28 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 
    ![](/uploads/line.PNG)
 
-   > Pada bagian kanan form integrasi line terdapat tata cara mengintegrasikan line dan siapa saja yang bisa menggunakan fitur integrasi line tersebut.
+   > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur tersebut.
+   >
+   > Yang bisa menggunakan fitur integrasi telegram adalah;
+   >
+   > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
+   > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
+   >
+   > Sedangkan cara mengintegrasikan line messenger adalah sebagai berikut;
+   >
+   > > 1. Pastikan Anda memiliki akun resmi. Anda dapat membuat akun resmi di Center Official Account
+   > >
+   > > Siapkan akun resmi Anda untuk menggunakan API perpesanan di Manajer Akun Resmi Line -> Pengaturan -> API Perpesanan -> Gunakan API Perpesanan. Anda akan diminta untuk menambahkan penyedia dan saluran.
+   > >
+   > > Atur mode respons Anda ke Manajer Akun Resmi Bot on Line -> Pengaturan -> Pengaturan Respons -> Mode Respons.
+   > >
+   > > Isi rahasia saluran Anda. Anda dapat menemukan rahasia saluran Anda di Konsol Pengembang Baris -> Pengaturan Dasar -> Rahasia saluran.
+   > >
+   > > Isi token akses saluran Anda. Anda dapat menemukan token akses Anda di Line Developer Console -> Messaging API -> Token akses saluran. Klik masalah untuk mendapatkan token akses saluran Anda.
+   > >
+   > > Klik instal.
+   > >
+   > > Setelah saluran Anda berhasil ditambahkan di Panel Obrolan kami, pastikan Anda mengaktifkan Gunakan Webhook on Line Developer Console -> Messaging API -> Pengaturan Webhook.
 4. Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
 
    ![](/uploads/line1.PNG)
