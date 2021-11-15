@@ -26,7 +26,7 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
     ![](/uploads/accounma2.PNG)
 
     > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
- 5. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Create**"
+ 5. Dan jika anda mengisi pesan yang tidak sesuai dengan user maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Create**"
 
     ![](/uploads/accounma3.PNG)
  6. user yang anda buat akan muncul pada list account management users seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari user yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk mengubah data user dengan cara klik button "**Edit**".
