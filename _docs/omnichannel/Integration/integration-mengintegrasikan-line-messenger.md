@@ -33,9 +33,9 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
    >
    > Sedangkan cara mengintegrasikan line messenger adalah sebagai berikut;
    >
-   > > 1. Pastikan Anda memiliki akun resmi. Anda dapat membuat akun resmi di Center Official Account
+   > > 1. Pastikan Anda memiliki akun resmi. Anda dapat membuat akun resmi di [Line Official Account Manager](https://manager.line.biz/)
    > > 2. Siapkan akun resmi Anda untuk menggunakan pesan  API di Line Official Account Manager ->Settings -> Messaging API -> Use Messaging API. Anda akan diminta untuk menambahkan provider and channel.
-   > > 3. Atur mode respons Anda ke Manajer Akun Resmi Bot on Line -> Pengaturan -> Pengaturan Respons -> Mode Respons.
+   > > 3. Atur mode respons Anda ke [Line Official Account Manager ](https://manager.line.biz/)-> Settings -> Response Settings -> Response Mode.
    > >
    > > Isi rahasia saluran Anda. Anda dapat menemukan rahasia saluran Anda di Konsol Pengembang Baris -> Pengaturan Dasar -> Rahasia saluran.
    > >
