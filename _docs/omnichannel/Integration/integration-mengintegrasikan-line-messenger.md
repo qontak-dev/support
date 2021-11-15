@@ -40,7 +40,7 @@ Untuk mengintegrasikan chat panel dengan Line Messenger pada Web, Anda perlu men
    > > 5. Isi **channel access token** Anda. Anda dapat menemukan token akses Anda di Line Developer Console -> Messaging API -> Channel access token. Klik issue untuk mendapatkan token akses saluran Anda.
    > > 6. Klik **install**.
    > > 7. Setelah saluran Anda berhasil ditambahkan di Chat Panel, pastikan Anda mengaktifkan **Use Webhook** di Line Developer Console -> Messaging API -> Webhook Settings.
-4. Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
+4. Pada Chat Panel, Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
 
    ![](/uploads/line1.PNG)
 
