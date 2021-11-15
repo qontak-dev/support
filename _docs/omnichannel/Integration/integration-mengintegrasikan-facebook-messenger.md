@@ -31,14 +31,18 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
    >
-   > Sedangkan cara mengintegrasikan telegram adalah sebagai berikut;
+   > Sedangkan cara mengintegrasikan facebook messenger adalah sebagai berikut;
+   > 1. Klik Tambahkan Akun Facebook
    >
-   > > 1. Untuk membuat akses token dan memulai integrasi, Anda perlu membuka Telegram.
-   > > 2. Temukan pengguna dengan nama @botfather dan mulailah mengobrol dengannya.
-   > > 3. Pilih perintah /newbot untuk membuat bot baru untuk mengobrol dengan @botfather dan ikuti instruksi untuk membuat bot baru.
-   > > 4. Setelah selesai, Anda akan menerima kunci API HTTP. Salin dan masukkan pada field Token Akses Telegram.
+   > Terhubung dengan Facebook
    >
-   > Anda harus memiliki token akses untuk menghubungkan bot telegram. Sedangkan untuk membuat bot baru Anda bisa lihat pada halaman "[https://core.telegram.org/bots#3-how-do-i-create-a-bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot "https://core.telegram.org/bots#3-how-do-i-create-a-bot")" atau Anda juga bisa menggunakan bot yang sudah ada.
+   > Masuk ke akun Facebook, pastikan akun Anda adalah admin di Halaman Facebook.
+   >
+   > Ikuti instruksi di jendela popup facebook. Lanjutkan ke langkah berikutnya.
+   >
+   > Setelah jendela popup Facebook hilang, pilih Facebook Page.
+   >
+   > Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Facebook Messenger di halaman Inbox.
 4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
    ![](/uploads/facebook1.PNG)
