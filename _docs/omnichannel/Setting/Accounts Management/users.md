@@ -37,7 +37,7 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
     ![](/uploads/accounma5.PNG)
 
     > Untuk mengubah Password, Anda bisa memilih "**Change Password**" 
- 8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan 
+ 8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan.
 
     ![](/uploads/accounma8.PNG)
  9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
