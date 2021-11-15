@@ -30,27 +30,30 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
-4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
+4. Klik "**Connect with Instagram**", Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
+
+   ![](/uploads/instagram2.PNG)
+5. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
 
    ![](/uploads/facebook1.PNG)
 
-   > Untuk mengintegrasikan facebook messenger adalah sebagai berikut;
-   > 1. Klik Tambahkan Akun Facebook
-   > 2. Terhubung dengan Facebook
-   > 3. Masuk ke akun Facebook, pastikan akun Anda adalah admin pada Halaman Facebook.
-   > 4. Ikuti instruksi di jendela popup facebook. Lanjutkan ke langkah berikutnya.
-   > 5. Setelah jendela popup Facebook hilang, pilih Halaman facebook.
-   > 6. Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Facebook Messenger di halaman Inbox.
-5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
-
-   ![](/uploads/facebook2.PNG)
-6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
+   > Untuk mengintegrasikan Instagram adalah sebagai berikut;
+   >
+   > Pastikan Anda memiliki Enable Message Control Connected Tools di Instagram Settings -> Privacy -> Messages -> Connected Tools -> Enable Allow Access to Messages
+   > 1. Klik Tambahkan Akun Instagram
+   > 2. Terhubung dengan akun Instagram, pastikan akun Anda adalah Akun Instagram Business.
+   > 3. Masuk ke akun Facebook, pastikan akun Anda adalah admin di Halaman Facebook.
+   > 4. Ikuti instruksi di jendela popup facebook.
+   > 5. Pilih Halaman Facebook yang terhubung dengan Akun Instagram Business Anda.
+   > 6. Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Instagram Direct Messenger di halaman Inbox.
+6. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
+7. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
 
    ![](/uploads/facebook3.PNG)
-7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+8. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
    ![](/uploads/facebook22.PNG)
-8. Popup notification "**Are you sure?**
+9. Popup notification "**Are you sure?**
 
    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
 
