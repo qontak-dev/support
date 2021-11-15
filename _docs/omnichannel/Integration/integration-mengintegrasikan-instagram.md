@@ -46,15 +46,11 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    ![](/uploads/instagram2.PNG)
 
    ![](/uploads/facebook1.PNG)
-5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
-6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
+5. Anda bisa berhenti terintegrasi dengan instagram dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/facebook3.PNG)
-7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+   ![](/uploads/instagram4.PNG)
+6. Popup notification "**Are you sure?**
 
-   ![](/uploads/facebook22.PNG)
-8. Popup notification "**Are you sure?**
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun instagram  dan jika tidak maka klik button "**Cancel**"
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
-
-   ![](/uploads/twitter6-1.PNG)
+   ![](/uploads/instagram5.PNG)
