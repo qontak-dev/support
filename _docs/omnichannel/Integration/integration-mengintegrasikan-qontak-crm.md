@@ -23,7 +23,7 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 3. Klik button "**Add Qontak CRM Account**" untuk menyambungkan akun qontak CRM yang akan diintegrasikan.
 
    ![](/uploads/qontakcrm1.PNG)
-4. Masukkan account name dan agent display name Anda, kemudian klik button "**Add**" untuk mengintegrasikan livechat.
+4. Masukkan username dan Password Anda, kemudian klik button "**Connect**" untuk mengintegrasikan qontak CRM.
 
    ![](/uploads/qontakcrm2.PNG)
 
