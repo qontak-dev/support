@@ -20,4 +20,22 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**WhatsApp**" kemudian button "**Add WhatsApp Account**" untuk membuka form integrasi WhatsApp.
+3. Klik button "**Add Qontak CRM Account**" untuk menyambungkan akun qontak CRM yang akan diintegrasikan.
+
+   ![](/uploads/qontakcrm1.PNG)
+4. Masukkan account name dan agent display name Anda, kemudian klik button "**Add**" untuk mengintegrasikan livechat.
+
+   ![](/uploads/qontakcrm2.PNG)
+
+   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Add**"
+5. Jika data yang Anda masukkan benar, maka popup success akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup dan secara otomatis Anda akan diarahkan ke menu list livechat
+
+   ![](/uploads/livechat2.PNG)
+6. Pada list livechat, Anda bisa berhenti terintegrasi dengan livechat  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+
+   ![](/uploads/livechat3.PNG)
+7. Popup notification "**Are you sure?**
+
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
+
+   ![](/uploads/livechat4.PNG)
