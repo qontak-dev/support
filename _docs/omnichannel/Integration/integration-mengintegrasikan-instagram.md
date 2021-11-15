@@ -24,13 +24,13 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
 
    ![](/uploads/instagram1.PNG)
 
-   > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur tersebut.
+   > Pada bagian kanan form integrasi instagram terdapat tata cara mengintegrasikan instagram dan siapa saja yang bisa menggunakan fitur tersebut.
    >
-   > Yang bisa menggunakan fitur integrasi facebook messenger adalah;
+   > Yang bisa menggunakan fitur integrasi instagram adalah;
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
-4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
+4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
 
    ![](/uploads/facebook1.PNG)
 
