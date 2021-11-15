@@ -29,7 +29,7 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    > Yang bisa menggunakan fitur integrasi instagram adalah;
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
-   > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
+   > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox.
 
    > Untuk mengintegrasikan Instagram adalah sebagai berikut;
    >
