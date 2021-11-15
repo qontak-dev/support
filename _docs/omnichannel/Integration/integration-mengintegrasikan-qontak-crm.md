@@ -31,9 +31,9 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 5. Jika data yang Anda masukkan salah, maka popup error akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup.
 
    ![](/uploads/qontakcrm3.PNG)
-6. Pada list qontak CRM, Anda bisa berhenti terintegrasi dengan livechat  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+6. Pada list qontak CRM, Anda bisa berhenti terintegrasi dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/livechat3.PNG)
+   ![](/uploads/qontakcrm4.PNG)
 7. Popup notification "**Are you sure?**
 
    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
