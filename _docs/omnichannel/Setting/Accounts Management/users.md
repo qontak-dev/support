@@ -35,15 +35,20 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
  7. Klik button "Save" untuk menyimpan perubahan yang dilakukan.
 
     ![](/uploads/accounma5.PNG)
- 8. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+
+    > Untuk mengubah Password, Anda bisa memilih "**Change Password**" 
+ 8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan 
+
+    ![](/uploads/accounma8.PNG)
+ 9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
 
     ![](/uploads/whatsapp13.PNG)
- 9. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
+10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/whatsapp10.PNG)
-10. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
+11. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
 
     ![](/uploads/whatsapp11.PNG)
-11. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
+12. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
 
     ![](/uploads/whatsapp12.PNG)
