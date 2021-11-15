@@ -21,9 +21,17 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
    ![](/uploads/accounma1.PNG)
 3. Klik button name "**Account Management**" kemudian pilih "**Users**" lalu klik button "**+Create User"** untuk membuka form user baru.![](/uploads/accounma1-1.PNG)
-4. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
+4. Isi semua field yang ada pada form create user
+
+   ![](/uploads/accounma2.PNG)
+
+   > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
+5. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Create**"
+
+   ![](/uploads/accounma3.PNG)
+6. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
 
    ![](/uploads/tags2.PNG)
-5. Data yang sudah anda buat akan muncul pada list tags dengan action edit dan delete yang sudah disediakan.
+7. Data yang sudah anda buat akan muncul pada list tags dengan action edit dan delete yang sudah disediakan.
 
    ![](/uploads/tags3.PNG)

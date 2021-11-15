@@ -50,7 +50,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
     ![](/uploads/whatsapp5.PNG)
 
     > Jika anda mengklik button "Submit" sebelum mengisi template pesan makan otomatis akan menampilkan error "**field is required**"
- 9. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti berikut setalah anda mengklik button "**Submit**"
+ 9. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp6.PNG)
 10. Template pesan yang sesuai dengan data yang anda masukkan akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
