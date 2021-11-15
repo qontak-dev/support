@@ -24,11 +24,11 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
 
    ![](/uploads/line.PNG)
 
-   > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur tersebut.
+   > Pada bagian kanan form integrasi line messenger terdapat tata cara mengintegrasikan line dan siapa saja yang bisa menggunakan fitur tersebut.
    >
-   > Yang bisa menggunakan fitur integrasi telegram adalah;
+   > Yang bisa menggunakan fitur integrasi line messenger adalah;
    >
-   > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
+   > > 1. Hanya Admin yang dapat mengintegrasikan line messenger.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
    >
    > Sedangkan cara mengintegrasikan line messenger adalah sebagai berikut;
