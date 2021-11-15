@@ -20,42 +20,38 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
-3. Klik button "**Add Telegram Channel**" untuk menyambungkan akun telegram yang akan diintegrasikan.
+3. Klik button "**Add Instagram Account**" untuk menyambungkan akun instagram yang akan diintegrasikan.
 
-   ![](/uploads/telegram.PNG)
+   ![](/uploads/instagram1.PNG)
 
-   > Pada bagian kanan form integrasi telegram terdapat tata cara mengintegrasikan telegram dan siapa saja yang bisa menggunakan fitur tersebut.
+   > Pada bagian kanan form integrasi facebook messenger terdapat tata cara mengintegrasikan facebook dan siapa saja yang bisa menggunakan fitur tersebut.
    >
-   > Yang bisa menggunakan fitur integrasi telegram adalah;
+   > Yang bisa menggunakan fitur integrasi facebook messenger adalah;
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
-   >
-   > Sedangkan cara mengintegrasikan telegram adalah sebagai berikut;
-   >
-   > > 1. Untuk membuat akses token dan memulai integrasi, Anda perlu membuka Telegram.
-   > > 2. Temukan pengguna dengan nama @botfather dan mulailah mengobrol dengannya.
-   > > 3. Pilih perintah /**newbot** untuk membuat bot baru untuk mengobrol dengan @botfather dan ikuti instruksi untuk membuat bot baru.
-   > > 4. Setelah selesai, Anda akan menerima kunci API HTTP. Salin dan masukkan pada field Token Akses Telegram.
-   >
-   > Anda harus memiliki token akses untuk menghubungkan bot telegram. Sedangkan untuk membuat bot baru Anda bisa lihat pada halaman "[https://core.telegram.org/bots#3-how-do-i-create-a-bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot "https://core.telegram.org/bots#3-how-do-i-create-a-bot")" atau Anda juga bisa menggunakan bot yang sudah ada.
-4. Pada Chat Panel, Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
+4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
-   ![](/uploads/telegram2.PNG)
-5. Jika token ditemukan maka otomatis popup akan manampilkan success dan jika tidak maka popup akan menampilkan error sebagai berikut;
+   ![](/uploads/facebook1.PNG)
 
-   ![](/uploads/telegram3.PNG)
-6. Klik buton name "**Settings**" pada nama telegram untuk melihat detail informasi telegram Anda.
+   > Untuk mengintegrasikan facebook messenger adalah sebagai berikut;
+   > 1. Klik Tambahkan Akun Facebook
+   > 2. Terhubung dengan Facebook
+   > 3. Masuk ke akun Facebook, pastikan akun Anda adalah admin pada Halaman Facebook.
+   > 4. Ikuti instruksi di jendela popup facebook. Lanjutkan ke langkah berikutnya.
+   > 5. Setelah jendela popup Facebook hilang, pilih Halaman facebook.
+   > 6. Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Facebook Messenger di halaman Inbox.
+5. Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
 
-   ![](/uploads/telegram4.PNG)
-7. Anda bisa melihat detail info telegram, tapi tidak bisa melakukan perubahan karena semua field dalam kondisi disable.
+   ![](/uploads/facebook2.PNG)
+6. Kemudian login dengan username dan password untuk bisa terkoneksi dengan orang lain.
 
-   ![](/uploads/telegram5.PNG)
-8. Anda bisa berhenti terintegrasi dengan telegram dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
+   ![](/uploads/facebook3.PNG)
+7. Anda bisa berhenti terintegrasi dengan facebook messenger dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
 
-   ![](/uploads/telegram6.PNG)
-9. Popup notification "**Are you sure?**
+   ![](/uploads/facebook22.PNG)
+8. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun telegram dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
 
-   ![](/uploads/telegram7.PNG)
+   ![](/uploads/twitter6-1.PNG)
