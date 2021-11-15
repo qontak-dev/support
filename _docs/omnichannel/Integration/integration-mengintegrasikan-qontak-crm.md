@@ -27,7 +27,7 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 
    ![](/uploads/qontakcrm2.PNG)
 
-   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Add**"
+   > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Connect**"
 5. Jika data yang Anda masukkan benar, maka popup success akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup dan secara otomatis Anda akan diarahkan ke menu list livechat
 
    ![](/uploads/livechat2.PNG)
