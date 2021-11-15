@@ -40,9 +40,9 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
  8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan.
 
     ![](/uploads/accounma8.PNG)
- 9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+ 9. Untuk menghapus user, anda bisa mengklik button "Tempat Sampah" seperti gambar berikut;
 
-    ![](/uploads/whatsapp13.PNG)
+    ![](/uploads/accounma6.PNG)
 10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/whatsapp10.PNG)
