@@ -32,21 +32,18 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
  6. user yang anda buat akan muncul pada list account management users seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari user yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk mengubah data user dengan cara klik button "**Edit**".
 
     ![](/uploads/accounma4-1.PNG)
- 7. yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari user yang anda inginkan, kemudian anda button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut. Klik button "**Edit**" untuk membuka form template.
+ 7. Klik button "Save" untuk menyimpan perubahan yang dilakukan.
 
-    ![](/uploads/whatsapp8.PNG)
- 8. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
-
-    ![](/uploads/whatsapp9.PNG)
- 9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+    ![](/uploads/accounma5.PNG)
+ 8. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
 
     ![](/uploads/whatsapp13.PNG)
-10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
+ 9. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/whatsapp10.PNG)
-11. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
+10. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
 
     ![](/uploads/whatsapp11.PNG)
-12. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
+11. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
 
     ![](/uploads/whatsapp12.PNG)
