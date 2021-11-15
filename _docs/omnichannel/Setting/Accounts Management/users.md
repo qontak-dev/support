@@ -12,26 +12,41 @@ published: false
 
 Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+ 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-   ![](/uploads/login-qontak-c.png)
+    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
+    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/accounma1.PNG)
-3. Klik button name "**Account Management**" kemudian pilih "**Users**" lalu klik button "**+Create User"** untuk membuka form user baru.![](/uploads/accounma1-1.PNG)
-4. Isi semua field yang ada pada form create user
+    ![](/uploads/accounma1.PNG)
+ 3. Klik button name "**Account Management**" kemudian pilih "**Users**" lalu klik button "**+Create User"** untuk membuka form user baru.![](/uploads/accounma1-1.PNG)
+ 4. Isi semua field yang ada pada form create user
 
-   ![](/uploads/accounma2.PNG)
+    ![](/uploads/accounma2.PNG)
 
-   > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
-5. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Create**"
+    > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
+ 5. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Create**"
 
-   ![](/uploads/accounma3.PNG)
-6. PopUp Notification "**Successfully Created!**" akan muncul jika data yang anda simpan sudah benar.
+    ![](/uploads/accounma3.PNG)
+ 6. user yang anda buat akan muncul pada list account management users seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari user yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk mengubah data user dengan cara klik button "**Edit**".
 
-   ![](/uploads/tags2.PNG)
-7. Data yang sudah anda buat akan muncul pada list tags dengan action edit dan delete yang sudah disediakan.
+    ![](/uploads/accounma4-1.PNG)
+ 7. yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari user yang anda inginkan, kemudian anda button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut. Klik button "**Edit**" untuk membuka form template.
 
-   ![](/uploads/tags3.PNG)
+    ![](/uploads/whatsapp8.PNG)
+ 8. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
+
+    ![](/uploads/whatsapp9.PNG)
+ 9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+
+    ![](/uploads/whatsapp13.PNG)
+10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
+
+    ![](/uploads/whatsapp10.PNG)
+11. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
+
+    ![](/uploads/whatsapp11.PNG)
+12. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
+
+    ![](/uploads/whatsapp12.PNG)
