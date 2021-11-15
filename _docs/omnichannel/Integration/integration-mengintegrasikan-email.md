@@ -31,12 +31,15 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
    >
-   > Sedangkan cara mengintegrasikan telegram adalah sebagai berikut;
+   > Sedangkan cara mengintegrasikan email adalah sebagai berikut;
    >
-   > > 1. Untuk membuat akses token dan memulai integrasi, Anda perlu membuka Telegram.
-   > > 2. Temukan pengguna dengan nama @botfather dan mulailah mengobrol dengannya.
-   > > 3. Pilih perintah /**newbot** untuk membuat bot baru untuk mengobrol dengan @botfather dan ikuti instruksi untuk membuat bot baru.
-   > > 4. Setelah selesai, Anda akan menerima kunci API HTTP. Salin dan masukkan pada field Token Akses Telegram.
+   > Pastikan penyedia email Anda memiliki fitur email forwarder yang memungkinkan pesan yang masuk dapat diteruskan ke email lain (akan disediakan oleh Qontak)
+   > 1. Buat integrasi email baru pada Chat Panel
+   > 2. Ikuti langkah-langkahnya dan isi formulirnya
+   > 3. Integrasi dibuat, Anda akan mendapatkan penerusan email dengan mengakses detail integrasi
+   > 4. Salin Penerus Email
+   > 5. Pada penyedia email Anda, temukan pengaturan yang memungkinkan Anda untuk meneruskan secara manual setiap email yang masuk ke Anda
+   > 6. Isi Penerus Email yang disalin dari Chat Panel ke daftar forward otomatis dan simpan pengaturannya
 4. Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
 
    ![](/uploads/email1.PNG)
