@@ -38,7 +38,7 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
    > > 3. Atur mode respons Anda ke Line Official Account Manager -> Settings -> Response Settings -> Response Mode.
    > > 4. Isi **channel secret** Anda. Anda dapat menemukan rahasia saluran Anda di Line Developer Console -> Basic Settings -> Channel secret.
    > > 5. Isi **channel access token** Anda. Anda dapat menemukan token akses Anda di Line Developer Console -> Messaging API -> Channel access token. Klik issue untuk mendapatkan token akses saluran Anda.
-   > > 6. Klik install.
+   > > 6. Klik **install**.
    > > 7. Setelah saluran Anda berhasil ditambahkan di Chat Panel, pastikan Anda mengaktifkan **Use Webhook** di Line Developer Console -> Messaging API -> Webhook Settings.
 4. Masukkan token line Anda, kemudian klik button "**Install**" untuk mengintegrasikan line.
 
