@@ -36,6 +36,6 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
    ![](/uploads/qontakcrm4.PNG)
 7. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun qontak CRM dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun qontak CRM dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/qontakcrm5.PNG)
