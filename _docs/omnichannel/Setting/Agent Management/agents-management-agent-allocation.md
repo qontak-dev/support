@@ -43,33 +43,13 @@ Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-la
 
    ![](/uploads/allow5.PNG)
 
-   > > Dan jika statusnya "**OFF**", maka agent tidak bisa mengassign otomatis.
-9. terkait tehnical yang ingin custom agent seperti menyesuaikan webhook mereka dalam artian tergantung permintaan client
+   > Dan jika statusnya "**OFF**", maka agent tidak bisa mengassign otomatis.
+   >
+   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya)
+9. Pada radio button "**Custom agent allocation (CAA)**" apabila "**ON**" maka agent dapat menerima permintaan custom sistem oleh client 
 
- 1.  
- 2. 
- 3. 
- 4. 
- 5. ![](/uploads/division1-pn.PNG)
+   ![](/uploads/allow6.PNG)
 
-    > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
-    >
-    > > Pada field Agents dilengkapi button "Delete" dimana Anda bisa langsung menghapus agent dalam daftar division.
- 6. Untuk assign spesifik channel, Anda bisa lihat pada gambar berikut, dimana Anda bisa memilih channel yang anda inginkan.
-
-    ![](/uploads/division22-1.PNG)
- 7. Data yang anda masukkan dan sesuai dengan format akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Create**"
-
-    ![](/uploads/division3.PNG)
- 8. Division yang Anda buat akan muncul pada list Division seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan Anda mencari divisi yang Anda inginkan, kemudian ada button "**Edit**" yang bisa Anda gunakan untuk melakukan perubahan pada data divisi dengan cara klik button "**Edit**" untuk membuka form divisi.
-
-    ![](/uploads/division4.PNG)
- 9. Klik button "**Save**" untuk menyimpan perubahan yang sudah dilakukan.
-
-    ![](/uploads/division5.PNG)
-10. Untuk menghapus division, Anda bisa mengklik button "**Delete**" seperti gambar berikut;
-
-    ![](/uploads/division6.PNG)
-11. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus divisi maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
-
-    ![](/uploads/division7.PNG)
+   > Dan jika statusnya "**OFF**", maka agent tidak menerima custom dari client. 
+   >
+   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya)
