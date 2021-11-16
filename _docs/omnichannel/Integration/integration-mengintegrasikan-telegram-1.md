@@ -12,11 +12,11 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
@@ -39,10 +39,6 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
    > > 4. Setelah selesai, Anda akan menerima kunci API HTTP. Salin dan masukkan pada field Token Akses Telegram.
    >
    > Anda harus memiliki token akses untuk menghubungkan bot telegram. Sedangkan untuk membuat bot baru Anda bisa lihat pada halaman "[https://core.telegram.org/bots#3-how-do-i-create-a-bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot "https://core.telegram.org/bots#3-how-do-i-create-a-bot")" atau Anda juga bisa menggunakan bot yang sudah ada.
-   >
-   > > Dan salah satu syarat dalam mengintegrasikan instagram adalah memastikan bahwa user sudah **Enable Message Control Connected Tools**  pada Instagram Settings -> Privacy -> Messages -> Connected Tools -> Enable Allow Access to Messages,
-   > >
-   > > karena jika status belum **Enable** pesan dari instagram tidak akan masuk ke chat panel.
 4. Pada Chat Panel, Masukkan token telegram Anda, kemudian klik button "**Install**" untuk mengintegrasikan telegram.
 
    ![](/uploads/telegram2.PNG)
