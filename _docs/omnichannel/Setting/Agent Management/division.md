@@ -36,15 +36,15 @@ Untuk menambahkan atau melakukan perubahan pada agent management - division, And
  6. Data yang anda masukkan dan sesuai dengan format akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Create**"
 
     ![](/uploads/division3.PNG)
- 7. Division yang anda buat akan muncul pada list Divisio seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari template yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut dengan cara klik button "**Edit**" untuk membuka form template.
+ 7. Division yang Anda buat akan muncul pada list Division seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan Anda mencari divisi yang Anda inginkan, kemudian ada button "**Edit**" yang bisa Anda gunakan untuk melakukan perubahan pada data divisi dengan cara klik button "**Edit**" untuk membuka form divisi.
 
     ![](/uploads/division4.PNG)
- 8. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
+ 8. Klik button "**Save**" untuk menyimpan perubahan yang sudah dilakukan.
 
-    ![](/uploads/whatsapp9.PNG)
- 9. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+    ![](/uploads/division5.PNG)
+ 9. Untuk menghapus division, Anda bisa mengklik button "**Delete**" seperti gambar berikut;
 
-    ![](/uploads/whatsapp13.PNG)
+    ![](/uploads/division6.PNG)
 10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/whatsapp10.PNG)
