@@ -23,6 +23,8 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 3. Klik button "**Webchat**" kemudian button "**Add New Widget**" untuk membuat widget baru.
 
    ![](/uploads/webchat7.PNG)
+
+   > Setiap widget hanya diperuntukan untuk satu domain saja.
 4. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
