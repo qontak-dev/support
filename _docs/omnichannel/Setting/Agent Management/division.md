@@ -19,7 +19,7 @@ Untuk menambahkan atau melakukan perubahan pada agent management - division, And
     > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
-    ![](/uploads/integrasi.PNG)
+    ![](/uploads/accounma1.PNG)
  3. Klik button "**WhatsApp**" kemudian button "**Add WhatsApp Account**" untuk membuka form integrasi WhatsApp.
 
     ![](/uploads/whatsapp.PNG)
