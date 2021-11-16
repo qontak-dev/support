@@ -56,6 +56,6 @@ Untuk mengintegrasikan chat panel dengan Telegram pada Web, Anda perlu mengikuti
    ![](/uploads/telegram6.PNG)
 9. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun telegram dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika anda yakin untuk disconnect akun instagram dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/telegram7.PNG)
