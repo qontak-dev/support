@@ -12,12 +12,12 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
 3. Klik button "**Webchat**" kemudian button "**Add New Widget**" untuk membuat widget baru.
@@ -26,10 +26,10 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 4. Anda harus mengisi widget name dan domain kemudian klik buttton **Next** untuk ke proses selanjutnya.
 
    ![](/uploads/webchat1.PNG)
-5. Jika data yang anda masukkan benar atau sesuai maka akan muncul Popup ""**Widget Created**" sebagai informasi bahwa data yang anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup Popup.
+5. Jika data yang Anda masukkan benar atau sesuai maka akan muncul Popup ""**Widget Created**" sebagai informasi bahwa data yang Anda masukkan sudah tercreate kemudian klik button "**OK**" untuk menutup Popup.
 
    ![](/uploads/webchat3.PNG)
-6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul Popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh Popup yang muncul seperti berikut
+6. Dan apabila data yang Anda masukkan salah atau tidak sesuai maka akan muncul Popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh Popup yang muncul seperti berikut
 
    ![](/uploads/webchat2.PNG)
 7. Widget yang berhasil di create akan muncul pada list  Webchat seperti gambar berikut yang dilengkapi dengan button "**Setting**" yang digunakan untuk mengupdate widget dan radibutton "**ON/OFF**" untuk memilih mengaktifkan atau tidak widget tersebut.
@@ -41,4 +41,4 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 
    ![](/uploads/webchat6.PNG)
 
-   > Terdapat preview widget yang bisa anda liat pada bagian sebelah kanan form **settings**.
+   > Terdapat preview widget yang bisa Anda lihat pada bagian sebelah kanan form **settings**.
