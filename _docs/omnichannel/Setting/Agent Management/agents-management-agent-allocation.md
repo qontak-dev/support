@@ -8,9 +8,9 @@ published: false
 ---
 **Agents Management - Agent Allocation**
 
-**Agents Management - Division** merupakan sebuah fitur Omnichannel Qontak yang terdiri dari **division**, **Agent Allocation, Broadcast** dan **Workload** dimana hanya Admin yang bisa menambahkan atau melakukan perubahan pada fitur yang ada pada agent management.
+**Agents Management - Agent Allocation** merupakan sebuah fitur Omnichannel Qontak yang terdiri dari **division**, **Agent Allocation, Broadcast** dan **Workload** dimana hanya Admin yang bisa menambahkan atau melakukan perubahan pada fitur yang ada pada agent management.
 
-Untuk menambahkan atau melakukan perubahan pada agent management - division, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
