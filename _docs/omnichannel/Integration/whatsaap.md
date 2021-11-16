@@ -42,7 +42,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
     ![](/uploads/whatsapp4.PNG)
 
     > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika Anda mengklik button "**Next**"
- 7. Pada proses selanjutnya, Anda harus membuat template pesan sebelum melakukan "**Submit**", Pesan yang Anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang Anda inginkan.
+ 7. Pada proses selanjutnya, Anda harus membuat template pesan sebelum melakukan "**Submit**", Pesan yang Anda buat akan menampilkan priview disebalah kanan sehingga memudahkan Anda untuk mencustom pesan yang Anda inginkan.
 
     ![](/uploads/whatsapp5.PNG)
 
@@ -53,7 +53,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
  9. Dan apabila data yang Anda masukkan sesuai, maka sistem akan menampilkan Popup seperti gambar berikut ketika Anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp7.PNG)
-10. Template yang Anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan Anda mencari template yang anda inginkan, kemudian ada button "**Edit**" yang bisa Anda gunakan untuk melihat isi template dengan cara klik button "**Edit**" untuk membuka form template.
+10. Template yang Anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan Anda mencari template yang Anda inginkan, kemudian ada button "**Edit**" yang bisa Anda gunakan untuk melihat isi template dengan cara klik button "**Edit**" untuk membuka form template.
 
     ![](/uploads/whatsapp8.PNG)
 11. Salah satu contoh template yang akan muncul setelah Anda mengklik button "**Edit**" adalah sebagai berikut;
