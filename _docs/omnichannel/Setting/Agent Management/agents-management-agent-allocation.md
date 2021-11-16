@@ -45,11 +45,11 @@ Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-la
 
    > Dan jika statusnya "**OFF**", maka agent tidak bisa mengassign otomatis.
    >
-   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya)
+   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya).
 9. Pada radio button "**Custom agent allocation (CAA)**" apabila "**ON**" maka agent dapat menerima permintaan custom sistem oleh client 
 
    ![](/uploads/allow6.PNG)
 
    > Dan jika statusnya "**OFF**", maka agent tidak menerima custom dari client. 
    >
-   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya)
+   > > **Notes** :  *(Hanya dapat mengaktifkan CAA atau AAA, tidak keduanya).
