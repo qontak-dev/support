@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Division
-subtitle: ''
-author: ''
+subtitle: This document covers integration Division in omnichannel system
+author: hariyati suarni nurindah
 published: false
 
 ---
