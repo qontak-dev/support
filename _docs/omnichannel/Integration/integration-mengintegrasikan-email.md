@@ -55,7 +55,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
  7. Klik button "**Save Changes**" untuk menyimpan perubahan.
 
     ![](/uploads/email3.PNG)
- 8. Tampilan email di Inbox chat panel mengikuti tampilan email yang sebenarnya sehingga berbeda dengan room channel yang lain seperti gambar berikut;
+ 8. Tampilan email di Inbox chat panel mengikuti tampilan email yang sebenarnya, sehingga berbeda dengan room channel yang lain seperti gambar berikut;
 
     ![](/uploads/email7.PNG)
  9. Anda bisa berhenti terintegrasi dengan email dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
