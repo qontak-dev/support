@@ -8,9 +8,9 @@ published: false
 ---
 **Agents Management - Division**
 
-**Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
+**Agents Management - Division** merupakan sebuah fitur Omnichannel Qontak yang terdiri dari **division**, **Agent Allocation, Broadcast** dan **Workload** dimana hanya Admin yang bisa menambahkan atau melakukan perubahan pada fitur yang ada pada agent management.
 
-Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk menambahkan atau melakukan perubahan pada agent management - division, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
