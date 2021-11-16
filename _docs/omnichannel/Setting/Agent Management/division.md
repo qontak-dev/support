@@ -17,12 +17,12 @@ Untuk menambahkan atau melakukan perubahan pada agent management - division, And
     ![](/uploads/login-qontak-c.png)
 
     > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings.
 
     ![](/uploads/accounma1.PNG)
- 3. Klik button "**WhatsApp**" kemudian button "**Add WhatsApp Account**" untuk membuka form integrasi WhatsApp.
+ 3. Klik button name "**Agents Management**" kemudian pilih "**Division**" dan "**+Create Division**" untuk membuka form division baru.
 
-    ![](/uploads/whatsapp.PNG)
+    ![](/uploads/division.PNG)
 
     > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
     >
