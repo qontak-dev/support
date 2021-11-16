@@ -41,7 +41,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
    > > 4. Salin Penerus Email
    > > 5. Pada penyedia email, temukan pengaturan yang memungkinkan Anda untuk meneruskan secara manual setiap email yang masuk ke Anda
    > > 6. Isi Penerus Email yang disalin dari Chat Panel ke daftar forward otomatis dan simpan pengaturannya
-4. Pada Chat Panel, Anda harus mengisi field-field pada form add email kemudian klik button "**Submit**" untuk menambahkan email.
+4. Pada Chat Panel, Anda harus mengisi field-field pada form add email seperti Anda harus setup email terlebih dahulu, memilih provider yang Anda inginkan pada dropdown yang sudah disediakan atau jika anda ingin custom provider maka klik checkbox pada bagian bawah kemudian klik button "**Submit**" untuk menambahkan email. 
 
    ![](/uploads/email1.PNG)
 
