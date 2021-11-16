@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Account Management - Agent Allocation
-subtitle: This document covers account management users in omnichannel system
+subtitle: This document covers agent allocation in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
