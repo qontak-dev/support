@@ -16,8 +16,8 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
 3. Klik button "**Add Email**" untuk menambahkan akun email yang akan diintegrasikan.
@@ -45,7 +45,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
 
    ![](/uploads/email1.PNG)
 
-   > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Submit**"
+   > Field yang kosong akan menampilkan error "**field is required**" setelah Anda mengklik button "**Submit**"
 5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut;
 
    ![](/uploads/twitter7.PNG)
