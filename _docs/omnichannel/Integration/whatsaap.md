@@ -37,40 +37,37 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
     Klik button "**Add HSM Template**" untuk membuat template baru.
 
     ![](/uploads/whatsapp3.PNG)
- 6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
-
-    ![](/uploads/whatsapp4.PNG)
- 7. Kemudian anda harus mengisi field-field yang required sebelum melanjutkan ke proses selanjutnya dengan mengklik button "**Next**".
+ 6. Kemudian anda harus mengisi field-field yang required sebelum melanjutkan ke proses selanjutnya dengan mengklik button "**Next**".
 
     ![](/uploads/whatsapp4.PNG)
 
     > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Next**"
- 8. Pada proses selanjutnya, anda harus membuat template pesan sebelum melakukan "**Submit**", Pesan yang anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang anda inginkan.
+ 7. Pada proses selanjutnya, anda harus membuat template pesan sebelum melakukan "**Submit**", Pesan yang anda buat akan menampilkan priview disebalah kanan sehingga memudahkan anda untuk mencustom pesan yang anda inginkan.
 
     ![](/uploads/whatsapp5.PNG)
 
     > Jika anda mengklik button "Submit" sebelum mengisi template pesan makan otomatis akan menampilkan error "**field is required**"
- 9. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Submit**"
+ 8. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp6.PNG)
-10. Template pesan yang sesuai dengan data yang anda masukkan akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
+ 9. Dan apabila data yang Anda masukkan sesuai maka sistem menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp7.PNG)
-11. Template yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari template yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut dengan cara klik button "**Edit**" untuk membuka form template.
+10. Template yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari template yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut dengan cara klik button "**Edit**" untuk membuka form template.
 
     ![](/uploads/whatsapp8.PNG)
-12. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
+11. Salah satu contoh template yang akan muncul setalah anda mengklik button "**Edit**".
 
     ![](/uploads/whatsapp9.PNG)
-13. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
+12. Untuk menghapus template, anda bisa mengklik button "tempat sampah" seperti gambar berikut;
 
     ![](/uploads/whatsapp13.PNG)
-14. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
+13. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika anda yakin untuk menghapus template maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/whatsapp10.PNG)
-15. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
+14. WhatsApp yang sudah terintegrasi akan muncul pada list seperti gambar berikut, kemudian klik "Settings" untuk melihat detail integrasi.
 
     ![](/uploads/whatsapp11.PNG)
-16. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
+15. Untuk membatalkan integrasi whatsapp, anda bisa mengklik button "**Disconnect**" seperti gambar berikut;
 
     ![](/uploads/whatsapp12.PNG)
