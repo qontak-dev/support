@@ -12,12 +12,12 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
- 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+ 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
     ![](/uploads/login-qontak-c.png)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+    > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+ 2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
     ![](/uploads/integrasi.PNG)
  3. Klik button "**WhatsApp**" kemudian button "**Add WhatsApp Account**" untuk membuka form integrasi WhatsApp.
@@ -31,7 +31,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
 
     ![](/uploads/whatsapp1.PNG)
 
-    > Jika data yang anda masukkan sudah benar, maka otomatis sistem akan kembali kehalaman list integration WhatsApp dan jika data anda salah atau tidak sesuai akan muncul Popup error "**password is missing**".
+    > Jika data yang Anda masukkan sudah benar, maka otomatis sistem akan kembali kehalaman list integration WhatsApp dan jika data Anda salah atau tidak sesuai akan muncul Popup error "**password is missing**".
  5. Pada halaman Integration WhatsApp tedapat button "2**4 Hours HSM Template**" yang digunakan untuk membuat template, melihat dan menghapus template. Untuk membuat template maka anda harus mengikuti langkah-langkah berikut;
 
     Klik button "**Add HSM Template**" untuk membuat template baru.
