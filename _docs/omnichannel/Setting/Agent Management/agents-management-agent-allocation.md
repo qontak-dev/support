@@ -31,8 +31,14 @@ Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-la
    ![](/uploads/allow1-1.PNG)
 
    > Dan jika "**OFF**" maka button "**Get New Chat"** tidak akan muncul pada room sehingga Agent tidak bisa mengambil alih obrolan.
+6. Pada radio button "**Agent can assign room to another agent"** apabila "**ON**" maka agent tersebut bisa mengassign obrolan ke room lain
 
-1. Jika On maka agent tersebut bisa mengassign ke room lain dan jika off, maka agent tidak bisa assign ke agent lain ddengan kata lain button assign pada agent akan disable
+   ![](/uploads/allow3-1.PNG)
+
+   > Dan jika statusnya "**OFF**", maka agent tidak bisa mengassign ke agent lain dengan karena button assign pada agent akan disable.
+7. Klik button name "**+Agent**" untuk menambahkan agent pada room. 
+
+   ![](/uploads/agentallowcation2.PNG)
 
 ketika ada pesan baru masuk maka otomatis akan di assign ke agent online, sehinggan SPV tidak mengassign ke agent, dan agent tidak get new chat manual karena akan masuk ke manual ke agent yang online
 
