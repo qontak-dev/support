@@ -21,7 +21,7 @@ Untuk menambahkan user pada account management, Anda perlu mengikuti langkah-lan
 
     ![](/uploads/accounma1.PNG)
  3. Klik button name "**Account Management**" kemudian pilih "**Users**" lalu klik button "**+Create User"** untuk membuka form user baru.![](/uploads/accounma1-1.PNG)
- 4. Isi semua field yang ada pada form create user
+ 4. Isi semua field yang ada pada form create user.
 
     ![](/uploads/accounma2.PNG)
 
