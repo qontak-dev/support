@@ -46,7 +46,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
    ![](/uploads/email1.PNG)
 
    > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Submit**"
-5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
+5. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut;
 
    ![](/uploads/twitter7.PNG)
 6. Untuk melakukan perubahan pada data email, Anda bisa klik button name seperti pada gambar berikut;
