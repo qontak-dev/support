@@ -40,7 +40,7 @@ Untuk menambahkan user pada account management, Anda perlu mengikuti langkah-lan
  8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan.
 
     ![](/uploads/accounma8.PNG)
- 9. Untuk menghapus user, Anda bisa mengklik button "Tempat Sampah" seperti gambar berikut;
+ 9. Untuk menghapus user, Anda bisa mengklik button "**Delete**" seperti gambar berikut;
 
     ![](/uploads/accounma6.PNG)
 10. Popup delete akan otomatis muncul sebagai notifikasi "Are you sure want to delete this data?" jika Anda yakin untuk menghapus user maka klik button "**Delete**" jika tidak maka klik button "**Cancel**"
