@@ -59,6 +59,6 @@ Untuk mengintegrasikan chat panel dengan Line Messenger pada Web, Anda perlu men
    ![](/uploads/line5.PNG)
 9. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun line messenger dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun line messenger dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/line6.PNG)
