@@ -41,7 +41,7 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    > > 4. Ikuti instruksi di jendela popup facebook.
    > > 5. Pilih Halaman Facebook yang terhubung dengan Akun Instagram Business Anda.
    > > 6. Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Instagram Direct Messenger di halaman Inbox.
-4. Pada Chat Panel, klik "**Connect with Instagram**", Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
+4. Pada Chat Panel, klik "**Connect with Instagram**", sehingga secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
 
    ![](/uploads/instagram2.PNG)
 
