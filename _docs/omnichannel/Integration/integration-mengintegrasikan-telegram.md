@@ -36,6 +36,6 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
    ![](/uploads/livechat3.PNG)
 7. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun livechat dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/livechat4.PNG)
