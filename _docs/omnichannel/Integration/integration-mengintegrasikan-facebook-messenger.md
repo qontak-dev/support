@@ -12,12 +12,12 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
 3. Klik button "**Connect with Facebook**" untuk menyambungkan akun facebook yang akan diintegrasikan.
@@ -30,7 +30,7 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan Facebook Messenger.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
-4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
+4. Secara otomatis sistem akan membuka tab baru sehingga Anda bisa login pada popup halaman facebook dengan mengisi username dan password kemudian klik button "**Log In**"
 
    ![](/uploads/facebook1.PNG)
 
@@ -52,6 +52,6 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    ![](/uploads/facebook22.PNG)
 8. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika Anda klik button "**Disconnect**" maka Anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/twitter6-1.PNG)
