@@ -50,7 +50,7 @@ Untuk mengintegrasikan chat panel dengan WhatsApp pada Web, Anda perlu mengikuti
  8. Dan jika anda mengisi pesan yang tidak sesuai dengan template maka sistem akan otomatis menampilkan Popup error seperti gambar berikut setelah anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp6.PNG)
- 9. Dan apabila data yang Anda masukkan sesuai maka sistem menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
+ 9. Dan apabila data yang Anda masukkan sesuai, maka sistem akan menampilkan Popup seperti gambar berikut ketika anda mengklik button "**Submit**"
 
     ![](/uploads/whatsapp7.PNG)
 10. Template yang anda buat akan muncul pada list template seperti gambar berikut yang dilengkapi dengan fitur "**Search**" untuk memudahkan anda mencari template yang anda inginkan, kemudian ada button "**Edit**" yang bisa anda gunakan untuk melihat isi template tersebut dengan cara klik button "**Edit**" untuk membuka form template.
