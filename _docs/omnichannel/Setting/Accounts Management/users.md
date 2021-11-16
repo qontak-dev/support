@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Users
+title: Account Management - Users
 subtitle: This document covers account management users in omnichannel system
 author: hariyati suarni nurindah
 published: false
@@ -8,9 +8,9 @@ published: false
 ---
 **Account Management - Users**
 
-**Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
+**Account Management - Users** merupakan sebuah fitur Omnichannel Qontak dimana Admin bisa menambahkan user didalam akun yang bersangkutan
 
-Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk menambahkan user pada account management, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda(Safari, Chrome, atau Firefox) di komputer Anda;
 
@@ -36,7 +36,7 @@ Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
     ![](/uploads/accounma5.PNG)
 
-    > Untuk mengubah Password, Anda bisa memilih "**Change Password**" 
+    > Untuk mengubah Password, Anda bisa memilih "**Change Password**"
  8. Klik "**Save**" untuk menyimpan perubahan Password yang dilakukan.
 
     ![](/uploads/accounma8.PNG)
