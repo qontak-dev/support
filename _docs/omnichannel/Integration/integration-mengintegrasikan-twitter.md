@@ -12,12 +12,12 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti langkah-langkah berikut
 
- 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+ 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
     ![](/uploads/login-qontak-c.png)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
+    > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
+ 2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu integrations.
 
     ![](/uploads/integrasi.PNG)
  3. Klik button "**Add Twitter Account**" untuk menambahkan akun twitter yang akan diintegrasikan.
@@ -36,14 +36,14 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
 
     ![](/uploads/twitter3.PNG)
 
-    > Field yang kosong akan menampilkan error "**field is required**" setelah anda mengklik button "**Add**"
+    > Field yang kosong akan menampilkan error "**field is required**" setelah Anda mengklik button "**Add**"
  6. Apabila dalam pengisian field masih ada yang salah atau tidak sesuai dengan format yang ada, maka sistem akan secara otomatis menampilkan error seperti gambar berikut ini
 
     ![](/uploads/twitter7.PNG)
- 7. Apabila Anda ingin mengintegrasikan twitter dengan login langsung pada account twitter anda, maka yang harus anda lakukan adalah klik button "**Login in Twitter**"
+ 7. Apabila Anda ingin mengintegrasikan twitter dengan login langsung pada account twitter Anda, maka yang harus Anda lakukan adalah klik button "**Login in Twitter**"
 
     ![](/uploads/twitter5.PNG)
- 8. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada twitter dengan mengisi username dan password kemudian klik button "**Sign In**"
+ 8. Secara otomatis sistem akan membuka tab baru sehingga Anda bisa login pada twitter dengan mengisi username dan password kemudian klik button "**Sign In**"
 
     ![](/uploads/twitter4.PNG)
  9. Anda bisa berhenti terintegrasi dengan twitter dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
