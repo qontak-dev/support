@@ -51,6 +51,6 @@ Untuk mengintegrasikan chat panel dengan Twitter pada Web, Anda perlu mengikuti 
     ![](/uploads/twitter8.PNG)
 10. Popup notification "**Are you sure?**
 
-    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun twitter dan jika tidak maka klik button "**Cancel**"
+    **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun instagram dan jika tidak maka klik button "**Cancel**"
 
     ![](/uploads/twitter6-1.PNG)
