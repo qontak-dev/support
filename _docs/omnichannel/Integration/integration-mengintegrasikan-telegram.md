@@ -28,7 +28,7 @@ Untuk mengintegrasikan chat panel dengan livechat pada Web, Anda perlu mengikuti
    ![](/uploads/livechat1.PNG)
 
    > Field yang kosong akan manampilkan error "**field is required**" saat Anda mengklik button "**Add**"
-5. Jika data yang Anda masukkan benar, maka popup success akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup dan secara otomatis Anda akan diarahkan ke menu list livechat
+5. Jika data yang Anda masukkan benar, maka popup success akan muncul seperti gambar berikut, kemudian klik "**OK**" untuk menutup popup dan secara otomatis Anda akan diarahkan ke menu list livechat.
 
    ![](/uploads/livechat2.PNG)
 6. Pada list livechat, Anda bisa berhenti terintegrasi dengan livechat  dengan cara mengklik button "**Disconnect**" seperti gambar berikut;
