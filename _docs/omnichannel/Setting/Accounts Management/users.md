@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Account Management - Users
+title: Account Management - Agent Allocation
 subtitle: This document covers account management users in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Account Management - Users**
+**Account Management - Agent Allocation**
 
 **Account Management - Users** merupakan sebuah fitur Omnichannel Qontak dimana hanya Admin yang bisa menambahkan user didalam akun yang bersangkutan.
 
