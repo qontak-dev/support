@@ -23,20 +23,18 @@ Untuk menambahkan atau melakukan perubahan pada agent management - division, And
  3. Klik button name "**Agents Management**" kemudian pilih "**Division**" dan "**+Create Division**" untuk membuka form division baru.
 
     ![](/uploads/division.PNG)
+ 4. Isi field-field yang sudah disediakan seperti name, supervisor dan agents dan pilih apakah division tersebut akan di assign ke semua channel atau hanya spesifik  beberapa channel, kemudian klik button "**Create**" untuk menyimpan data yang sudah dibuat. 
 
-    > Berdasarkan kebijakan WhatsApp, Anda hanya dapat membalas pesan dari pelanggan pelanggan dalam waktu 24 jam dari pesan terakhir, jika tidak, pesan yang Anda kirim tidak akan diterima oleh pelanggan. Integrasi WhatsApp memungkinkan Anda untuk terhubung ke pelanggan melalui aplikasi WhatsApp.
+    ![](/uploads/division1-pn.PNG)
+
+    > Field-field mandatory yang belum terisi akan menampilkan error "**field is required**" jika anda mengklik button "**Create**"
     >
-    > > Untuk integrasi WhatsApp, Anda harus memiliki WhatsApp Bussiness API. Jika Anda belum mendapatkan API WhatsApp Business dan ingin memulai integrasi, silakan Hubungi Qontak. Qontak adalah Mitra Bisnis Resmi WhatsApp API. Anda dapat mengintegrasikan beberapa Akun WhatsApp.
- 4. Disini, Anda bisa melakukan pengaturan integrasi WhatsApp dengan mengisi WhatsApp name, token dan URL kemudian klik buttton **Connect** untuk ke proses selanjutnya.
-
-    ![](/uploads/whatsapp1.PNG)
-
-    > Jika data yang anda masukkan sudah benar, maka otomatis sistem akan kembali kehalaman list integration WhatsApp dan jika data anda salah atau tidak sesuai akan muncul Popup error "**password is missing**".
+    > > Pada field Agents dilengkapi button "Delete" dimana Anda bisa langsung menghapus agent dalam daftar division.
  5. Pada halaman Integration WhatsApp tedapat button "2**4 Hours HSM Template**" yang digunakan untuk membuat template, melihat dan menghapus template. Untuk membuat template maka anda harus mengikuti langkah-langkah berikut;
 
     Klik button "**Add HSM Template**" untuk membuat template baru.
 
-    ![](/uploads/whatsapp3.PNG)
+    ![](/uploads/division22.PNG)
  6. Dan apabila data yang anda masukkan salah atau tidak sesuai maka akan muncul popup "**Error**" sesuai dengan ketidaksesuain data tersebut. Contoh popup yang muncul seperti berikut
 
     ![](/uploads/whatsapp4.PNG)
