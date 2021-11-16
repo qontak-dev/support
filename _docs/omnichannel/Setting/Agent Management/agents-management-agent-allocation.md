@@ -39,10 +39,12 @@ Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-la
 7. Klik button name "**+Agent**" untuk menambahkan agent pada room. 
 
    ![](/uploads/agentallowcation2.PNG)
+8. Pada radio button "**Auto agent allocation (AAA)"** apabila "**ON**" maka agent tersebut bisa mengassign obrolan ke room lain ketika ada pesan baru yang masuk secara otomatis ke agent yang online, sehinggan SPV tidak perlu untuk mengassign ke agent dan agent sendiri tidak perlu untuk "**Get New Chat**" secara manual
 
-ketika ada pesan baru masuk maka otomatis akan di assign ke agent online, sehinggan SPV tidak mengassign ke agent, dan agent tidak get new chat manual karena akan masuk ke manual ke agent yang online
+   ![](/uploads/allow5.PNG)
 
-terkait tehnical yang ingin custom agent seperti menyesuaikan webhook mereka dalam artian tergantung permintaan client
+   > > Dan jika statusnya "**OFF**", maka agent tidak bisa mengassign otomatis.
+9. terkait tehnical yang ingin custom agent seperti menyesuaikan webhook mereka dalam artian tergantung permintaan client
 
  1.  
  2. 
