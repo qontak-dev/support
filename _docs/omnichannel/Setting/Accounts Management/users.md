@@ -8,7 +8,7 @@ published: false
 ---
 **Account Management - Users**
 
-**Account Management - Users** merupakan sebuah fitur Omnichannel Qontak dimana Admin bisa menambahkan user didalam akun yang bersangkutan
+**Account Management - Users** merupakan sebuah fitur Omnichannel Qontak dimana hanya Admin yang bisa menambahkan user didalam akun yang bersangkutan.
 
 Untuk menambahkan user pada account management, Anda perlu mengikuti langkah-langkah berikut;
 
