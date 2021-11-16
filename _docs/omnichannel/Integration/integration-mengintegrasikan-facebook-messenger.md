@@ -28,7 +28,7 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    >
    > Yang bisa menggunakan fitur integrasi facebook messenger adalah;
    >
-   > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
+   > > 1. Hanya Admin yang dapat mengintegrasikan Facebook Messenger.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
 4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
 
