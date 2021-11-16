@@ -30,7 +30,7 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    >
    > > 1. Hanya Admin yang dapat mengintegrasikan Facebook Messenger.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
-4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Sign In**"
+4. Secara otomatis sistem akan membuka tab baru sehingga anda bisa login pada facebook dengan mengisi username dan password kemudian klik button "**Log In**"
 
    ![](/uploads/facebook1.PNG)
 
