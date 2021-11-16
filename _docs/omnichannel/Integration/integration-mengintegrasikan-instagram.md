@@ -51,6 +51,6 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    ![](/uploads/instagram4.PNG)
 6. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul dimana jika anda klik button "**Disconnect**" maka anda yakin untuk disconnect akun instagram  dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika anda mengklik button "**Disconnect**", kemudian pilih "**Remove**" jika anda yakin untuk disconnect akun instagram dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/instagram5.PNG)
