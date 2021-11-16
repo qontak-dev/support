@@ -36,7 +36,7 @@ Untuk mengintegrasikan chat panel dengan Webchat pada Web, Anda perlu mengikuti 
 
    ![](/uploads/webchat5.PNG)
 
-   > Jika button "**ON/OFF**" diklik, maka akan muncul kembali Popup "Successfully updated!"  sebagai notifikasi bahwa update yang dilakukan berhasil
+   > Jika button "**ON/OFF**" diklik, maka akan muncul kembali Popup "Successfully updated!"  sebagai notifikasi bahwa update yang dilakukan berhasil.
 8. Button **Settings** digunakan jika ingin melakukan perubahan pada widget yang diinginkan seperti mengubah nama, domain maupun status widget kemudian klik button "**Save Changes**" untuk menyimpan perubahan tersebut.
 
    ![](/uploads/webchat6.PNG)
