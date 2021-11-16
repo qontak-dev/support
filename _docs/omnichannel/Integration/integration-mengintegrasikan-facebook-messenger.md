@@ -38,8 +38,8 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    > 1. Klik Tambahkan Akun Facebook
    > 2. Terhubung dengan Facebook
    > 3. Masuk ke akun Facebook, pastikan akun Anda adalah admin pada Halaman Facebook.
-   > 4. Ikuti instruksi di jendela popup facebook. Lanjutkan ke langkah berikutnya.
-   > 5. Setelah jendela popup Facebook hilang, pilih Halaman facebook.
+   > 4. Ikuti instruksi popup facebook. Lanjutkan ke langkah berikutnya.
+   > 5. Setelah popup Facebook hilang, pilih Halaman facebook.
    > 6. Simpan Perubahan dan mulai komunikasi dengan pelanggan Anda melalui Facebook Messenger di halaman Inbox.
 5. Pada Chat Panel, Anda bisa terkoneksi dengan orang lain dengan mengklik gambar seperti berikut;
 
