@@ -12,7 +12,7 @@ published: false
 
 Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
    ![](/uploads/login-qontak-c.png)
 
