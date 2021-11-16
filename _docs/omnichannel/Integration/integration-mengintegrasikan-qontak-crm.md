@@ -24,7 +24,7 @@ Untuk mengintegrasikan chat panel dengan qontak CRM Messenger pada Web, Anda per
 
    ![](/uploads/qontakcrm1.PNG)
 
-   **Notes** : Untuk tampilan integrasi pada CRM tidak akan muncul pada inbox karena yang masuk pada inbox hanya untuk pembuatan tiket ke CRM, contoh jika customer masuk melalui salah satu channel yang ada, maka akan otomatis sistem akan membuat tiket pada CRM
+   **Notes** : Untuk tampilan integrasi pada CRM tidak akan muncul pada inbox karena yang masuk pada inbox hanya untuk pembuatan tiket ke CRM, contoh jika customer masuk melalui salah satu channel yang ada, maka sistem akan otomatis membuat tiket pada CRM
 4. Masukkan username dan Password Anda, kemudian klik button "**Connect**" untuk mengintegrasikan qontak CRM.
 
    ![](/uploads/qontakcrm2.PNG)
