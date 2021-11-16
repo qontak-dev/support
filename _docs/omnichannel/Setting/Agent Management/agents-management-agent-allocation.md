@@ -26,7 +26,11 @@ Untuk melakukan perubahan pada agent allocation, Anda perlu mengikuti langkah-la
 4. Pada radio button "**Agent can takeover unassigned chat"** apabila "**ON**" maka Agent dapat mengambil alih obrolan yang belum ditetapkan.
 
    ![](/uploads/allow7.PNG)
-5. jika "**ON"** maka agent bisa mentakeover chat yang masuk dengan cara klik button "**Get New Chat**" pada room inbox agent, jika tidak maka agent tersebut tidak akan mendapatkan room kecuali SPV mengassign langsung ke agent tersebut dan jika "**OFF**" maka button "**Get New Chat"** tidak akan muncul pada room agent sehingga tidak bisa mengambil alih obrolan.
+5. Agent bisa mengambil alih chat yang masuk dengan cara klik button "**Get New Chat**" pada room inbox agent, jika tidak maka agent tersebut tidak akan mendapatkan room kecuali SPV mengassign langsung ke agent tersebut 
+
+   ![](/uploads/allow1-1.PNG)
+
+   > Dan jika "**OFF**" maka button "**Get New Chat"** tidak akan muncul pada room sehingga Agent tidak bisa mengambil alih obrolan.
 
 1. Jika On maka agent tersebut bisa mengassign ke room lain dan jika off, maka agent tidak bisa assign ke agent lain ddengan kata lain button assign pada agent akan disable
 
