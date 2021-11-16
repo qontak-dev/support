@@ -52,6 +52,6 @@ Untuk mengintegrasikan chat panel dengan Facebook Messenger pada Web, Anda perlu
    ![](/uploads/facebook22.PNG)
 8. Popup notification "**Are you sure?**
 
-   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun instagram dan jika tidak maka klik button "**Cancel**"
+   **Disconnecting this channel will also delete this channel**" akan secara otomatis muncul jika Anda mengklik button "**Disconnect**", kemudian pilih "**Disconnect**" jika Anda yakin untuk disconnect akun facebook messenger dan jika tidak maka klik button "**Cancel**"
 
    ![](/uploads/twitter6-1.PNG)
