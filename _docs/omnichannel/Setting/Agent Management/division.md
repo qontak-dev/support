@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Division
+title: Agents Management - Division
 subtitle: This document covers integration Division in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Integration - Mengintegrasikan WhatsApp**
+**Agents Management - Division**
 
 **Integration** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa menghubungkan berbagai platform dengan chat panel seperti email atau instagram.
 
