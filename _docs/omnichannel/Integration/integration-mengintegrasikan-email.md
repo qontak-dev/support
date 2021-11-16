@@ -28,7 +28,7 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
    >
    > Yang bisa menggunakan fitur integrasi email adalah;
    >
-   > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
+   > > 1. Hanya Admin yang dapat mengintegrasikan email.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
    >
    > Sedangkan cara mengintegrasikan email adalah sebagai berikut;
