@@ -31,9 +31,9 @@ Untuk mengintegrasikan chat panel dengan Email pada Web, Anda perlu mengikuti la
     > > 1. Hanya Admin yang dapat mengintegrasikan email.
     > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox
     >
-    > Sedangkan cara mengintegrasikan email adalah sebagai berikut;
-    >
     > Pastikan penyedia email memiliki fitur email forwarder yang memungkinkan pesan yang masuk dapat diteruskan ke email lain (akan disediakan oleh Qontak)
+    >
+    > Cara mengintegrasikan email adalah sebagai berikut;
     >
     > > 1. Buat integrasi email baru pada Chat Panel
     > > 2. Ikuti langkah-langkahnya dan isi formulirnya
