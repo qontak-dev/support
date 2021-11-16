@@ -16,7 +16,7 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
 
    ![](/uploads/login-qontak-c.png)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+   > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations.
 
    ![](/uploads/integrasi.PNG)
@@ -31,9 +31,7 @@ Untuk mengintegrasikan chat panel dengan Instagram pada Web, Anda perlu mengikut
    > > 1. Hanya Admin yang dapat mengintegrasikan telegram.
    > > 2. Admin, Supervisor dan Agen dapat menggunakannya di Inbox.
 
-   > Untuk mengintegrasikan Instagram adalah sebagai berikut;
-   >
-   > Pastikan Anda memiliki Enable Message Control Connected Tools di Instagram Settings -> Privacy -> Messages -> Connected Tools -> Enable Allow Access to Messages
+   > Untuk mengintegrasikan Instagram pastikan Anda memiliki Enable Message Control Connected Tools di Instagram Settings -> Privacy -> Messages -> Connected Tools -> Enable Allow Access to Messages
    >
    > > 1. Klik Tambahkan Akun Instagram
    > > 2. Terhubung dengan akun Instagram, pastikan akun Anda adalah Akun Instagram Business.
