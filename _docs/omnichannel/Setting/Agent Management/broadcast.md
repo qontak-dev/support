@@ -22,7 +22,7 @@ Untuk menampilkan menu broadcast pada halaman agent, Anda perlu mengikuti langka
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings.
 
    ![](/uploads/accounma1.PNG)
-3. Klik button name "**Agents Management**" kemudian pilih "**Broadcast**" dan klik radiobutton "**ON/OFF**"
+3. Klik button name "**Agents Management**" kemudian pilih "**Broadcast**" dan klik radiobutton "**ON/OFF**", klik button "**Save**" untuk menyimpan perubahan yang dilakukan.
 
    ![](/uploads/broadcast.PNG)
 
