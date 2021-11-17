@@ -24,4 +24,4 @@ Untuk menampilkan menu workload pada halaman agent, Anda perlu mengikuti langkah
 
    ![](/uploads/workload.PNG)
 
-   > Apabila Anda memasukkan limit 15, maka agent hanya akan menangani 15 chat dan jika agent sudah memenuhi limit tersebut, maka pesan baru yang masuk akan diarahkan ke agent yang masih memiliki limit dengan status online.
+   > Apabila Anda memasukkan limit 15, maka agent hanya akan menangani 15 chat dan jika agent sudah memenuhi limit tersebut, maka pesan baru yang masuk akan diarahkan ke agent yang masih memiliki limit pesan dengan status online.
