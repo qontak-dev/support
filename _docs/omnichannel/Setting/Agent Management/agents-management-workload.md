@@ -10,7 +10,7 @@ published: false
 
 **Agents Management - Division** merupakan sebuah fitur Omnichannel Qontak yang terdiri dari **division**, **Agent Allocation, Broadcast** dan **Workload** dimana hanya Admin yang bisa menambahkan atau melakukan perubahan pada fitur yang ada pada agent management.
 
-Untuk menampilkan menu broadcast pada halaman agent, Anda perlu mengikuti langkah-langkah berikut;
+Untuk menampilkan menu workload pada halaman agent, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
@@ -20,8 +20,8 @@ Untuk menampilkan menu broadcast pada halaman agent, Anda perlu mengikuti langka
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings.
 
    ![](/uploads/accounma1.PNG)
-3. Klik button name "**Agents Management**" kemudian pilih "**Broadcast**" dan klik radiobutton "**ON/OFF**"
+3. Klik button name "**Agents Management**", kemudian pilih "**Workload**" dan masukkan limit yang akan agent tangani sehingga agent bisa fokus dengan pekerjaan yang ada, klik button "**Save**" untuk menyimpan perubahan yang dilakukan.
 
-   ![](/uploads/broadcast.PNG)
+   ![](/uploads/workload.PNG)
 
-   > Apabila broadcast dalam status "**ON**" maka menu tersebut akan muncul pada halaman agent sehingga agent bisa melakukan broadcast layaknya SPV dan Admin, namun jika broadcast dalam status "**OFF**" maka agent tersebut tidak bisa melakukan broadcast karena menu broadcast tidak akan muncul pada halaman agent.
+   > Apabila Anda memasukkan limit 15, maka agent hanya akan menangani 15 chat dan jika agent sudah memenuhi limit tersebut, maka pesan baru yang masuk akan diarahkan ke agent yang masih memiliki limit dengan status online.
