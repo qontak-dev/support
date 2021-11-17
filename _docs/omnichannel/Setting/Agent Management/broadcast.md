@@ -3,7 +3,7 @@ tags: []
 title: Agents Management - Broadcast
 subtitle: |2-
 
-  This document covers integration Division in omnichannel system
+  This document covers Agents Management - Broadcast in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
