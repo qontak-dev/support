@@ -17,7 +17,7 @@ Untuk menampilkan menu workload pada halaman agent, Anda perlu mengikuti langkah
    ![](/uploads/login-qontak-c.png)
 
    > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings.
+2. Berikut merupakan tampilan web yang muncul setelah Anda mengklik menu settings.
 
    ![](/uploads/accounma1.PNG)
 3. Klik button name "**Agents Management**", kemudian pilih "**Workload**" dan masukkan limit yang akan agent tangani sehingga agent bisa fokus dengan pekerjaan yang ada, klik button "**Save**" untuk menyimpan perubahan yang dilakukan.
