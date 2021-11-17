@@ -6,7 +6,7 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-**Agents Management - Broadcast**
+**Agents Management - Workload**
 
 **Agents Management - Division** merupakan sebuah fitur Omnichannel Qontak yang terdiri dari **division**, **Agent Allocation, Broadcast** dan **Workload** dimana hanya Admin yang bisa menambahkan atau melakukan perubahan pada fitur yang ada pada agent management.
 
