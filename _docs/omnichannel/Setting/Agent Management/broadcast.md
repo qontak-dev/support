@@ -18,7 +18,7 @@ Untuk menampilkan menu broadcast pada halaman agent, Anda perlu mengikuti langka
 
     ![](/uploads/login-qontak-c.png)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+    > Masukkan **Username** dan **Password** Anda. Klik tombol **“Login”** untuk memulai.
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings.
 
     ![](/uploads/accounma1.PNG)
