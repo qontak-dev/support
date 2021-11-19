@@ -12,7 +12,7 @@ published: false
 
 Untuk membuat Tags pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
-1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer anda;
 
    ![](/uploads/login-qontak-c.png)
 
