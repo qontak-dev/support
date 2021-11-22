@@ -20,8 +20,8 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
    ![](/uploads/setting.PNG)
-3. Kemudian klik button "**Chat**" lalu button "**Office Hours**" untuk menampilkan pengaturan jam
+3. Kemudian klik button "**Tickets**" untuk membuka form tiket.
 
    ![](/uploads/tiketcrm.PNG)
 
-   > Pada Office Hours, anda dapat mengatur jam 
+   > Apabila broadcast dalam status "**ON**" maka menu tersebut akan muncul pada halaman agent sehingga agent bisa melakukan broadcast layaknya SPV dan Admin, namun jika broadcast dalam status "**OFF**" maka agent tersebut tidak bisa melakukan broadcast karena menu broadcast tidak akan muncul pada halaman agent.
