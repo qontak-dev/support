@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Setting - Mengatur Jam Kerja (Office Hour & Non Office Hour)
-subtitle: documentation
+subtitle: This document covers office hour and no office hour in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
