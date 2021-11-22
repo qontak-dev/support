@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Setting - Membuat HSM Template
-subtitle: ''
+title: Setting - Templates
+subtitle: This document covers Templates in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Setting - Membuat HSM Template**
+**Setting - Templates**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
