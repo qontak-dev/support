@@ -22,6 +22,6 @@ Untuk mengatur jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu me
    ![](/uploads/setting.PNG)
 3. Kemudian klik button "**Chat**" lalu button "**Office Hours**" untuk menampilkan pengaturan jam
 
-   ![](/uploads/setting3-1.PNG)
+   ![](/uploads/tiketcrm.PNG)
 
    > Pada Office Hours, anda dapat mengatur jam operasional layanan dan mengatur zona waktu negara yang diinginkan. Kemudian klik button **Save** untuk menyimpan perubahan yang sudah dilakukan.
