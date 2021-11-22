@@ -40,5 +40,3 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
 5. Tiket yang berhasil dibuat akan menampilkan popup success seperti gambar berikut ini.
 
    ![](/uploads/tiketcrm3.PNG)
-
-   > 
