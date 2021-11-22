@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Setting - Membuat Auto Responder
-subtitle: This document covers Agents Management - Workload omnichannel system
+title: Setting - Auto Responder
+subtitle: This document covers Auto Responder somnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Setting - Membuat Auto Responder**
+**Setting - Auto Responder**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
