@@ -25,3 +25,11 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
    ![](/uploads/tiketcrm.PNG)
 
    > Apabila tiket dalam status "**ON**" maka setiap percakapan yang masuk, agent bisa melakukan create tiket pada inbox karena memiliki button untuk submit tiket, namun jika tiket dalam status "**OFF**" agent tidak bisa melakukan create tiket karena field tiket pada inbox akan hilang. Kemudian klik button "**Save**" untuk menyimpan perubahan yang dilakukan.
+4. Klik button "**Submit**" untuk membuat tiket
+
+   ![](/uploads/tiketcrm1.PNG)
+5. Isi field Title dan Note kemudian klik button "**Submit**" untuk menyimpan data yang sudah dibuat.
+
+   ![](/uploads/tiketcrm2.PNG)
+
+   > Field yang kosong akan menampilkan error "**field is required**".
