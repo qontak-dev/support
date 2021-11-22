@@ -10,7 +10,7 @@ published: false
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
-Untuk mengatur jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu mengikuti langkah-langkah berikut;
+Untuk mengubah percakapan menjadi tiket, kirimkan tiket dari percakapan apa pun.jam kerja (Office Hour & Non Office Hour) pada Web, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
