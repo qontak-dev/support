@@ -38,3 +38,5 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
 6. Tiket yang berhasil dibuat akan menampilkan popup success seperti gambar berikut ini, klik "**OK**" untuk menutup popup.
 
    ![](/uploads/tiketcrm3.PNG)
+
+   > Button submit pada Ticketing akan berubah menjadi title tiket seperti pada gambar diatas.
