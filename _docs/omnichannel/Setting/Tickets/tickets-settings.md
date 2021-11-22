@@ -24,4 +24,4 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
 
    ![](/uploads/tiketcrm.PNG)
 
-   > Apabila broadcast dalam status "**ON**" maka menu tersebut akan muncul pada halaman agent sehingga agent bisa melakukan broadcast layaknya SPV dan Admin, namun jika broadcast dalam status "**OFF**" maka agent tersebut tidak bisa melakukan broadcast karena menu broadcast tidak akan muncul pada halaman agent.
+   > Apabila tiket dalam status "**ON**" maka setiap percakapan yang masuk akan diubah menjadi tiket, namun jika tiket dalam status "**OFF**" maka semua percakapan tidak.
