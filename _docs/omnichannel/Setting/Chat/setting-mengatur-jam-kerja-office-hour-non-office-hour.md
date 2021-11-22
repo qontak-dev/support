@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Setting - Mengatur Jam Kerja (Office Hour & Non Office Hour)
+title: Setting - Office Hours
 subtitle: This document covers office hour and no office hour in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Setting - Mengatur Jam Kerja (Office Hour & Non Office Hour)**
+**Setting - Office Hours**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
