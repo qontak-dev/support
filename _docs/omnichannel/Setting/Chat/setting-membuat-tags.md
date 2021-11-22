@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Setting - Auto Responder
-subtitle: This document covers Auto Responder in omnichannel system
+title: Setting - Tags
+subtitle: This document covers Tags in omnichannel system
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Setting - Auto Responder**
+**Setting - Tags**
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
