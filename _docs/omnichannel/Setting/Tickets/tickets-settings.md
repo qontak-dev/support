@@ -35,8 +35,6 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
    ![](/uploads/tiketcrm2.PNG)
 
    > Field yang kosong akan menampilkan error "**field is required**".
-
-
-5. Tiket yang berhasil dibuat akan menampilkan popup success seperti gambar berikut ini.
+6. Tiket yang berhasil dibuat akan menampilkan popup success seperti gambar berikut ini, klik "**OK**" untuk menutup popup.
 
    ![](/uploads/tiketcrm3.PNG)
