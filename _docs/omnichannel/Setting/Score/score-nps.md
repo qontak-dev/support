@@ -22,9 +22,9 @@ Cara mengaktifkan score NPS adalah;
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
    ![](/uploads/setting.PNG)
-3. Kemudian klik button "**Tickets**" untuk membuka form tiket.
+3. Kemudian klik menu "**Score**" kemudian pilih button name "**NPS**"untuk membuka form NPS.
 
-   ![](/uploads/tiketcrm.PNG)
+   ![](/uploads/nps.PNG)
 
    > Net Promoter Score (NPS) digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan terhadap merek.
    >
