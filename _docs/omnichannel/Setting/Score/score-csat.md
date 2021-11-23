@@ -29,7 +29,7 @@ Cara mengaktifkan score CSAT adalah;
    > Survei Skor Kepuasan Pelanggan (CSAT) idealnya dikirim saat Anda ingin melihat seberapa senang klien dengan tindakan yang diambil bisnis Anda, atau aspek tertentu dari produk/layanan Anda.
    >
    > CSAT akan dikirim ke pelanggan Anda setelah percakapan diselesaikan jika CSAT dalam status "**ON**" kemudian klik button "**Save**" untuk menyimpan perubahan.
-4. Pada NPS, Anda bisa mengatur skala jawaban dan memberikan pertanyaan setelah pelanggan memberikan score. Tidak hanya itu pada halaman sebelah kanan terdapat priview pesan, header maupun pertanyaan. Anda bisa memasukkan komentar setelah klik salah satu emoticons yang Anda Inginkan kemudian klik button "**Submit**"
+4. Pada CSAT, Anda bisa mengatur skala jawaban dan memberikan pertanyaan setelah pelanggan memberikan score. Tidak hanya itu pada halaman sebelah kanan terdapat priview pesan, header maupun pertanyaan. Anda bisa memasukkan komentar setelah klik salah satu emoticons yang Anda Inginkan kemudian klik button "**Submit**"
 
    ![](/uploads/nps1.PNG)
 
