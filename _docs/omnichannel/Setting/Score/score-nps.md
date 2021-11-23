@@ -10,7 +10,7 @@ published: false
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
-Menu score digunakan untuk mengimkan jenis score ke pelanggan Anda setelah percakapan selesai. Score yang pertama adalah NPS digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
+Menu **Score** digunakan untuk mengimkan jenis score ke pelanggan Anda setelah percakapan selesai. Score yang pertama adalah NPS digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
 
 Cara mengaktifkan score NPS adalah;
 
