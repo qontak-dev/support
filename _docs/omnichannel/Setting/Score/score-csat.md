@@ -22,9 +22,9 @@ Cara mengaktifkan score CSAT adalah;
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu settings dengan fitur-fitur yang disediakan.
 
    ![](/uploads/setting.PNG)
-3. Kemudian klik menu "**Score**" kemudian pilih button name "**NPS**"untuk membuka form NPS.
+3. Kemudian klik menu "**Score**" kemudian pilih button name "**CSAT**"untuk membuka form CSAT.
 
-   ![](/uploads/nps.PNG)
+   ![](/uploads/csat.PNG)
 
    > Net Promoter Score (NPS) digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
    >
