@@ -33,4 +33,4 @@ Cara mengaktifkan score CSAT adalah;
 
    ![](/uploads/csat1.PNG)
 
-   > field komentar pada priview emoticons akan menampilkan error "**The Comment field is required**" jika masih kosong Anda mengklik button "**Submit**"
+   > Field komentar pada priview emoticons akan menampilkan error "**The Comment field is required**" jika masih kosong Anda mengklik button "**Submit**"
