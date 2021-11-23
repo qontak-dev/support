@@ -1,8 +1,10 @@
 ---
 tags: []
 title: Score - CES
-subtitle: ''
-author: ''
+subtitle: |2-
+
+  This document covers Score - CES omnichannel system
+author: hariyati suarni nurindah
 published: false
 
 ---
