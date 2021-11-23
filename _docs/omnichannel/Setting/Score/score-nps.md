@@ -7,5 +7,3 @@ published: false
 
 ---
 Score - NPS
-
-dsf
