@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Score - NPS
-subtitle: This document covers tickets omnichannel system
+subtitle: This document covers Score - NPS omnichannel system
 author: hariyati suarni nurindah
 published: false
 
@@ -29,4 +29,8 @@ Cara mengaktifkan score NPS adalah;
    > Net Promoter Score (NPS) digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
    >
    > NPS akan dikirim ke pelanggan Anda setelah percakapan diselesaikan jika NPS dalam status "**ON**" kemudian klik button "**Save**" untuk menyimpan perubahan.
-4. Aktifkan Skor Promotor Bersih
+4. Pada NPS, Anda bisa mengatur skala jawaban dan memberikan pertanyaan setelah pelanggan memberikan score. Tidak hanya itu pada halaman sebelah kanan terdapat priview pesan, header maupun pertanyaan. Anda bisa memasukkan komentar setelah klik salah satu emoticons yang Anda Inginkan kemudian klik button "**Submit**"
+
+   ![](/uploads/nps1.PNG)
+
+   > field komentar pada priview emoticons akan menampilkan error "**The Comment field is required**" jika masih kosong Anda mengklik button "**Submit**"
