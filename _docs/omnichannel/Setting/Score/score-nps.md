@@ -12,6 +12,8 @@ published: false
 
 Menu score digunakan untuk mengimkan jenis score ke pelanggan Anda setelah percakapan selesai. Score yang pertama adalah NPS digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
 
+Cara mengaktifkan score NPS adalah;
+
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
    ![](/uploads/login-qontak-c.png)
