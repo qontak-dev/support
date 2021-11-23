@@ -10,9 +10,9 @@ published: false
 
 **Setting** merupakan sebuah fitur Omnichannel Qontak dimana para customer bisa mengontrol atau melakukan pengaturan pada proses atau upaya untuk mencapai tujuan.
 
-Menu **Score** digunakan untuk mengimkan jenis score ke pelanggan Anda setelah percakapan selesai. Score yang pertama adalah NPS digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
+Menu **Score** digunakan untuk mengimkan jenis score ke pelanggan Anda setelah percakapan selesai. Score yang kedua adalah CSAT digunakan untuk melihat seberapa senang klien dengan tindakan yang diambil bisnis Anda, atau aspek tertentu dari produk/layanan Anda.
 
-Cara mengaktifkan score NPS adalah;
+Cara mengaktifkan score CSAT adalah;
 
 1. Buka [http://chat.qontak.com/](http://chat.qontak.com/ "http://chat.qontak.com/") pada browser Anda (Safari, Chrome, atau Firefox) di komputer Anda;
 
