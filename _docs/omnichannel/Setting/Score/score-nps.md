@@ -26,8 +26,7 @@ Cara mengaktifkan score NPS adalah;
 
    ![](/uploads/nps.PNG)
 
-   > Net Promoter Score (NPS) digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan terhadap merek.
+   > Net Promoter Score (NPS) digunakan sebagai proxy untuk mengukur kepuasan pelanggan secara keseluruhan dengan produk atau layanan perusahaan dan loyalitas pelanggan.
    >
-   > NPS akan dikirim ke pelanggan Anda setelah percakapan kamar diselesaikan.
-
-Aktifkan Skor Promotor Bersih
+   > NPS akan dikirim ke pelanggan Anda setelah percakapan diselesaikan jika NPS dalam status "**ON**" kemudian klik button "**Save**" untuk menyimpan perubahan.
+4. Aktifkan Skor Promotor Bersih
