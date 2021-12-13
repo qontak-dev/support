@@ -39,4 +39,4 @@ Untuk mengubah percakapan menjadi tiket, Anda perlu mengikuti langkah-langkah be
 
    ![](/uploads/tiketcrm3.PNG)
 
-   > Button submit pada Ticketing akan berubah menjadi title tiket seperti pada gambar diatas.
+   > Button submit pada Ticketing akan berubah menjadi title tiket seperti pada gambar diatas
