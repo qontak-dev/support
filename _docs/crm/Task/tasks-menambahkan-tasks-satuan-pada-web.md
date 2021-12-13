@@ -5,9 +5,9 @@ subtitle: This document covers adding unit task in the web apps
 author: hariyati suarni nurindah
 
 ---
-Dalam modul **Task**, anda dapat menambahkan task yang anda inginkan.
+**Menambahkan Tasks Satuan pada Web**
 
-Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan task pada Web.
+Dalam modul **Task**, anda dapat menambahkan task yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan task pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu task di bagian kiri atas, untuk menambahkan suatu task anda dapat mengklik bagian **+Tambah Task-> Tambah Task.**
 
