@@ -5,7 +5,7 @@ subtitle: This document covers the properties of the CRM feature
 author: hariyati suarni nurindah
 
 ---
-Menu “**Properties**” digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Task**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
+Menu **Properties** digunakan untuk mengedit dan menambahkan field/properti yang ada pada modul tertentu. Untuk mengedit dan menambahkan field/properti pada modul “**Task**”, maka Anda perlu melakukan beberapa langkah sebagai berikut:
 
  1. Klik modul Properties dan pilih menu “**Tasks**” hingga muncul tampilan seperti ini
 
