@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Report – Penjelasan Tipe Report General
-subtitle: ''
+subtitle: This document covers the report of the CRM feature
 author: hariyati suarni nurindah
 
 ---
