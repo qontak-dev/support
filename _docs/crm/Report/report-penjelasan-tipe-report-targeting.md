@@ -1,7 +1,9 @@
 ---
 tags: []
 title: Report – Penjelasan Tipe Report Targeting
-subtitle: ''
+subtitle: |2-
+
+  This document covers the report of the CRM feature
 author: hariyati suarni nurindah
 
 ---
