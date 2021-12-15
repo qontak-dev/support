@@ -1,7 +1,7 @@
 ---
 tags: []
 title: 'Cara Menambahkan Product Satuan – Mobile '
-subtitle: ''
+subtitle: This document covers add product in the mobile apps
 author: hariyati suarni nurindah
 
 ---
