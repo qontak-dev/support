@@ -3,7 +3,6 @@ tags: []
 title: Cara Add Team
 subtitle: This document covers users in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Fitur **Add Team** hanya berlaku pada akun dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa menambahkan _team_/kelompok baru.
