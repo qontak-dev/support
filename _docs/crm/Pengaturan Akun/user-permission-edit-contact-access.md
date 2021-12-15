@@ -3,7 +3,6 @@ tags: []
 title: User Permission - Edit Contact Access
 subtitle: This document covers user permission in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Manajemen transparansi data menjadi hal yang krusial untuk diperhatikan. Anda dapat melakukan tiga macam pengaturan pada akses data (User Permission) untuk setiap user Anda, yaitu **Owned Only** (user hanya diberi akses untuk melihat dan/atau mengubah data miliknya sendiri), **Team Only** (user hanya diberi akses untuk melihat dan/atau mengubah data milik orang-orang yang ada di dalam satu tim yang sama dengannya), dan **Everything** (user diberi akses untuk melihat dan/atau mengubah data milik semua orang yang ada di dalam CRM tersebut).
