@@ -1,12 +1,11 @@
 ---
 tags: []
 title: Cara Hapus User
-subtitle: ''
+subtitle: This document covers user in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
-Fitur ‘Hapus User’ hanya bisa dilakukan oleh _user_ dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa menghapus _user_ baru.
+Fitur **Hapus User** hanya bisa dilakukan oleh _user_ dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa menghapus _user_ baru.
 
 Untuk dapat menghapus user, Anda dapat mengikuti langkah – langkah berikut ini:
 
