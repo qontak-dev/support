@@ -3,7 +3,6 @@ tags: []
 title: User Permission - Breadcrumb Access
 subtitle: This document covers user permission in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Manajemen transparasi data menjadi hal yang krusial untuk diperhatikan. Breadcrumbs adalah fitur yang dapat diatur agar owner/pemilik data kontak, perusahaan, dan deal sebelumnya diberikan akses izin khusus ke data tersebut meskipun ownership/kepemilikan telah berubah. Caranya adalah sebagai berikut;
