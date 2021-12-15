@@ -5,7 +5,7 @@ subtitle: This document covers product in the web apps
 author: hariyati suarni nurindah
 
 ---
-Modul **“Product”** pada situs CRM digunakan untuk menginput database product dari pelanggan Anda. Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Product** secara (Unggah Product) melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
+Modul **Product** pada situs CRM digunakan untuk menginput database product dari pelanggan Anda. Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Product** secara (Unggah Product) melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
 
 1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
 2. Klik modul “**Product”;** Kemudian klik menu “**+ Tambah Product”** dan pilih “**Unggah File”**
