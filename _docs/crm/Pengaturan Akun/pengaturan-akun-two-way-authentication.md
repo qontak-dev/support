@@ -3,7 +3,6 @@ tags: []
 title: Pengaturan Akun – Two Way Authentication
 subtitle: This document covers user permission in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Fitur **Two Way Authentication** tersedia untuk menambahkan lapisan keamanan tambahan ke akun anda dengan meminta lebih dari sekadar kata sandi untuk masuk

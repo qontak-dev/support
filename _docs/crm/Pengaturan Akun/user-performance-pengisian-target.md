@@ -3,7 +3,6 @@ tags: []
 title: User Performance - Pengisian Target
 subtitle: This document covers user permission in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Salah satu manfaat penggunaan CRM adalah untuk mengukur pencapaian para Sales. Supervisor/Manager dapat memantau pencapaian para sales dari waktu ke waktu dengan harapan dapat melakukan evaluasi secara berkala untuk meningkatkan pencapaian mereka di kemudian hari. Supervisor/Manager dapat melakukan pengisian target untuk para user Sales pada CRM untuk mengukur pencapaian mereka. Untuk mengisi target sekaligus untuk lebih dari satu orang, dapat langsung dilakukan di menu **User Performance**. Caranya adalah sebagai berikut;
