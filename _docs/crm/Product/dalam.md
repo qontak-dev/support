@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Cara Menambahkan Product Satuan – Web
-subtitle: ''
+subtitle: This document covers add product in the web apps
 author: hariyati suarni nurindah
 
 ---
