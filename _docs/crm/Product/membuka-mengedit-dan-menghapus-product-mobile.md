@@ -1,7 +1,7 @@
 ---
 tags: []
 title: 'Membuka, Mengedit, Dan Menghapus Product - Mobile '
-subtitle: ''
+subtitle: This document covers product in the mobile apps
 author: hariyati suarni nurindah
 
 ---
