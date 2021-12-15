@@ -3,7 +3,6 @@ tags: []
 title: Cara Edit User Details
 subtitle: This document covers users in the web apps
 author: hariyati suarni nurindah
-published: false
 
 ---
 Fitur **Edit User Details** hanya bisa dilakukan oleh _user_ dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa mengubah rincian _user_.
