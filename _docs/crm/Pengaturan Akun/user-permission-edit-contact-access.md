@@ -8,7 +8,7 @@ published: false
 ---
 Manajemen transparansi data menjadi hal yang krusial untuk diperhatikan. Anda dapat melakukan tiga macam pengaturan pada akses data (_User Permission_) untuk setiap _user_ Anda, yaitu **Owned Only** (user hanya diberi akses untuk melihat dan/atau mengubah data miliknya sendiri), **Team Only** (user hanya diberi akses untuk melihat dan/atau mengubah data milik orang-orang yang ada di dalam satu tim yang sama dengannya), dan **Everything** (user diberi akses untuk melihat dan/atau mengubah data milik semua orang yang ada di dalam CRM tersebut).
 
-Untuk melakukan pengaturan pada akses data sekaligus untuk lebih dari satu orang, dapat langsung dilakukan di menu **User Permission**. Caranya adalah sebagai berikut:
+Untuk melakukan pengaturan pada akses data sekaligus untuk lebih dari satu orang, dapat langsung dilakukan di menu **User Permission**. Caranya adalah sebagai berikut;
 
 1. Klik username CRM di pojok kanan atas (1);
 2. Pilih “**User Settings/Pengaturan Pengguna”** (2);
