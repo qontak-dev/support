@@ -1,12 +1,12 @@
 ---
 tags: []
 title: Cara Add Team
-subtitle: ''
+subtitle: This document covers users in the web apps
 author: hariyati suarni nurindah
 published: false
 
 ---
-Fitur ‘Add Team’ hanya berlaku pada akun dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa menambahkan _team_/kelompok baru.
+Fitur **Add Team** hanya berlaku pada akun dengan level **Admin.** Pastikan Anda adalah **Admin** di dalam CRM perusahaan untuk bisa menambahkan _team_/kelompok baru.
 
 1. Klik tanda panah yang terletak di sebelah kanan _username_ Anda (di sebelah kanan atas dasbor CRM)
 2. Pilih **User Settings / Pengaturan Pengguna**
