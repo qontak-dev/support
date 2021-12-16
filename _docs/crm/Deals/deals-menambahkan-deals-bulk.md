@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Deals – Menambahkan Deals Bulk
-subtitle: ''
+subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
