@@ -11,7 +11,7 @@ Anda dapat mengikuti langkah – langkah berikut ini;
 
 1. Klik Modul **“Deal”**, Apabila anda ingin mengunduh data kustom sesuai data pilihan Anda, maka klik **“Download”** dan pilih **“Download yang dipilih”**
 
-   > Ceklist data “Deal” yang akan anda unduh.
+   ceklist data “**Deal**” yang akan anda unduh
 
    ![](/uploads/downloaddelas1.PNG)
 
