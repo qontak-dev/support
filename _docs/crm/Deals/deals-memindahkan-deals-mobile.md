@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Deals - Memindahkan Deals - Mobile
-subtitle: ''
+subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---

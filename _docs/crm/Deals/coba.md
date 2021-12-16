@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Deals - Memindahkan Deals – Web
-subtitle: ''
+subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
