@@ -5,10 +5,10 @@ subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
-Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database tiket dari pelanggan Anda. Untuk melakukan penambahan data pada modul **Deal** CRM dapat dilakukan secara satu per satu (Satu Deal) ataupun (Unggah Deal). Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Deal** secara (Unggah Deal) melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
+Modul **Deal** pada situs sosial CRM digunakan untuk menginput database tiket dari pelanggan Anda. Untuk melakukan penambahan data pada modul **Deal** CRM dapat dilakukan secara satu per satu (Satu Deal) ataupun (Unggah Deal). Pada tutorial kali ini kami akan menginfokan cara melakukan penambahan data **Deal** secara (Unggah Deal) melalui website pada situs sosial CRM Qontak. Silahkan mengikuti langkah – langkah berikut ini:
 
 1. Pastikan Anda sudah login kedalam akun CRM Anda melalui website [www.qontak.com](http://www.qontak.com)
-2. Klik modul “**Deal”;** Kemudian klik menu “**+ Tambah Deal”** dan pilih “**Unggah Deal”**
+2. Klik modul “**Deal”** kemudian klik menu “**+ Tambah Deal”** dan pilih “**Unggah Deal”**
 
    ![](/uploads/bulkdeal.PNG)
 3. Unduh template excel yang sudah tersedia dalam dashboard CRM.
@@ -24,7 +24,7 @@ Modul **“Deal”** pada situs sosial CRM digunakan untuk menginput database ti
    ![](/uploads/bulkdeal3.PNG)
 8. Apabila muncul notifikasi sebagai berikut artinya data Deal anda sudah berhasil terunggah.  
    ![](/uploads/bulkdeal2-1.PNG)
-9. Untuk melihat progres pengunggahan data, Anda bisa cek secara berkala pada menu **“Properties Upload/Download”.**
+9. Untuk melihat progres pengunggahan data, Anda bisa cek secara berkala pada menu **“Properties Upload/Download”**
 
    ![](/uploads/kontakbukl3-1.PNG)
 
