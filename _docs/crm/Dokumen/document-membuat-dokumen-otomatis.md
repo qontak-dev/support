@@ -3,7 +3,6 @@ tags: []
 title: Document - Membuat Dokumen Otomatis
 subtitle: This document covers the document view of the CRM feature
 author: hariyati suarni nurindah
-published: false
 
 ---
 Untuk membuat dokumen otomatis maka ikuti langkah-langkah berikut ini;

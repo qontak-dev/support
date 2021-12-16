@@ -3,7 +3,6 @@ tags: []
 title: Document - Membuat Template
 subtitle: This document covers the document view of the CRM feature
 author: hariyati suarni nurindah
-published: false
 
 ---
 Pada umumnya fitur document generator pada Aplikasi CRM Qontak dimanfaatkan untuk memudahkan User CRM dalam membuat suatu dokumen secara otomatis, contoh dokumen yang umumnya dibuat dengan fitur ini adalah dokumen penawaran harga ataupun invoice. Hanya User CRM dengan Role **Admin** yang dapat membuat template ini. Jika Anda telah memiliki format penawaran harga tersendiri dan ingin memanfaatkan fitur ini, maka dapat mengupload template penawaran harga dengan langkah-langkah sebagai berikut;
