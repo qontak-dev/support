@@ -17,10 +17,10 @@ Pada umumnya fitur document generator pada Aplikasi CRM Qontak dimanfaatkan untu
 3. Selanjutnya, mengisi cell-cell pada template excel sesuai dengan **Default Variable ID List** yang ada pada field properties CRM yang telah ada dan kita tambahkan agar nantinya sistem dapat mengisi data secara otomatis pada template tersebut sesuai dengan data yang di input dalam CRM.
 
    ![](/uploads/properties-template2.PNG)
-4. Kemudian melakukan _copy-paste_ **Variable ID** tersebut ke dalam cell pada template excel yang telah disiapkan sebelumnya.
+4. Kemudian melakukan copy-paste **Variable ID** tersebut ke dalam cell pada template excel yang telah disiapkan sebelumnya.
 
    ![](/uploads/properties-template3.PNG)
-5. Setelah selesai melakukan _copy-paste_ **Variable ID** ke template excel yang telah disiapkan sesuai dengan field properties yang ada di CRM, kurang lebih akan berbentuk sebagai berikut.
+5. Setelah selesai melakukan copy-paste **Variable ID** ke template excel yang telah disiapkan sesuai dengan field properties yang ada di CRM, kurang lebih akan berbentuk sebagai berikut.
 
    ![](/uploads/properties-template4.PNG)
 
