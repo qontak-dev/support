@@ -13,7 +13,7 @@ Untuk mengetahui tampilan dan menggunakan fitur **Deals** pada web, anda harus m
 
    ![](/uploads/screencapture-qontak-login-2021-09-29-11_32_29.png)
 
-   > Masukkan username dan kata sandi anda. Klik tombol **“login”** untuk memulai;
+   > Masukkan username dan kata sandi anda. Klik tombol **“Login”** untuk memulai;
 2. Berikut merupakan tampilan web yang muncul setelah anda menekan modul deal, dengan fitur-fitur yang disediakan;
 
    ![](/uploads/deal.PNG)
