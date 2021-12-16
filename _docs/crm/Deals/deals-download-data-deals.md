@@ -15,7 +15,7 @@ Anda dapat mengikuti langkah – langkah berikut ini;
 
    ![](/uploads/downloaddelas1.PNG)
 
-   > Namun apabila Anda ingin mengunduh semua data **“Deal”,** anda cukup memilih **“Download Semua”**
+   > Namun apabila Anda ingin mengunduh semua data **“Deal”** anda cukup memilih **“Download Semua”**
 2. Jika muncul notifikasi sebagai berikut, artinya pengunduhan data sedang diproses.
 
    ![](/uploads/downloaddelas2.PNG)
