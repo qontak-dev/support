@@ -5,7 +5,7 @@ subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
-Tidak hanya tersedia pada Qontak CRM web-based, menu deal juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda
+Tidak hanya tersedia pada Qontak CRM web-based, menu deal juga dapat ditemukan pada Qontak CRM di iOS maupun Android anda.
 
 Untuk mengetahui tampilan dan menggunakan fitur Deals pada **Mobile Phone**, anda harus mengikuti Langkah-langkah berikut:
 
