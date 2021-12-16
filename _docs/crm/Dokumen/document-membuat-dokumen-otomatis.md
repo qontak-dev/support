@@ -1,12 +1,12 @@
 ---
 tags: []
 title: Document - Membuat Dokumen Otomatis
-subtitle: ''
+subtitle: This document covers the document view of the CRM feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-Untuk membuat dokumen otomatis maka ikuti langkah-langkah berikut ini:
+Untuk membuat dokumen otomatis maka ikuti langkah-langkah berikut ini;
 
 1. Pastikan **field properties** pada **Modul Deals** yang menjadi **Variable ID** pada template dokumen yang telah terupload ke sistem CRM telah lengkap terisi, lalu klik tombol **Save**.
 
