@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Deals – Tampilan Deals pada Mobile Phone
-subtitle: ''
+subtitle: This document covers the deals view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
