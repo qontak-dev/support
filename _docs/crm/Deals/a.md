@@ -9,7 +9,7 @@ Dalam modul **Deal**, anda dapat menambahkan transaksi yang anda lakukan, dimana
 
 Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan deal pada Web;
 
-1. Setelah anda berhasil login, anda akan menemui modul deal di bagian kiri atas, untuk menambahkan suatu deal anda dapat mengklik bagian **+Tambah Deal-> Satu Deal.**
+1. Setelah anda berhasil login, anda akan menemui modul deal di bagian kiri atas, untuk menambahkan suatu deal anda dapat mengklik bagian **+Tambah Deal-> Satu Deal**
 
    ![](/uploads/menambahsatuadeal1.PNG)
 2. Pada saat menambah deal, pastikan field-field kolom yang perlu anda ketahui sudah ada pada deal field CRM Qontak sehingga saat pengisian informasi-informasi yang akan anda masukan sudah terisi dengan rapi. Dalam modul deal anda dapat mengisi informasi-informasi penting dari customer seperti Nama, Jabatan, alamat email, nomor telepon, alamat, dan lain-lain.
