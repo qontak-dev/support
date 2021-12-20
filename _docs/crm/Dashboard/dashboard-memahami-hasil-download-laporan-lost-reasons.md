@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Dashboard - Memahami Hasil Download Laporan Lost Reasons
-subtitle: ''
+subtitle: This document covers the dashboard view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
