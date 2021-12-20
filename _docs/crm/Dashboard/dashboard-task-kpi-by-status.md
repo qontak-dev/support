@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Dashboard - Task KPI by Status
-subtitle: ''
+subtitle: This document covers the dashboard view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
