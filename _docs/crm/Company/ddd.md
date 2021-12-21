@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Company – Tampilan Company pada Web
-subtitle: ''
+subtitle: This document covers the company view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
