@@ -1,7 +1,7 @@
 ---
 tags: []
 title: " Contact - Filter Data Contact"
-subtitle: ''
+subtitle: This document covers the contact view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
@@ -13,6 +13,6 @@ Ketika ingin memilih beberapa kontak untuk anda unduh, hapus atau sekedar meliha
 2. Anda dapat memfilter kontak berdasarkan pemilik/pembuat data kontak, asosiasi dengan company atau deal yang lain dan filter berdasarkan field-field kontak sendiri seperti nama kontak, tanggal dibuat, alamat, dll.
 
    ![](/uploads/filterkontak1.PNG)
-3. Ketika anda sudah memilih field filter yang anda ingin sortir, jangan lupa untuk klik “**Apply**” untuk memulai proses filter. Setelah anda mengklik “**Apply**”, tampilan kontak anda akan menyesuaikan dengan filter tersebut. Apabila anda sudah selesai memfilter, jangan lupa untuk klik “**Reset**” untuk mengembalikan tampilan kontak pada default sebelumnya.
+3. Ketika anda sudah memilih field filter yang anda ingin sortir, jangan lupa untuk klik “**Apply**” untuk memulai proses filter. Setelah anda mengklik “**Apply**”, tampilan kontak anda akan menyesuaikan dengan filter tersebut. Apabila anda sudah selesai memfilter, jangan lupa untuk klik “**Reset**” untuk mengembalikan tampilan kontak pada default sebelumnya
 
    ![](/uploads/filterkontak3-1.PNG)
