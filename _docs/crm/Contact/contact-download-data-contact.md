@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Contact - Download Data Contact
-subtitle: ''
+subtitle: This document covers the contact view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
