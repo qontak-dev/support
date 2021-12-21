@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Contact - Menambahkan Contact Bulk - Web
-subtitle: ''
+subtitle: This document covers the contact view of the CRM feature
 author: hariyati suarni nurindah
 
 ---
