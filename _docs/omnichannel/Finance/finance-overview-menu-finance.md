@@ -1,7 +1,7 @@
 ---
 tags: []
 title: 'Finance - Overview Menu Finance '
-subtitle: ''
+subtitle: This document covers the finance of the CRM feature
 author: hariyati suarni nurindah
 
 ---
