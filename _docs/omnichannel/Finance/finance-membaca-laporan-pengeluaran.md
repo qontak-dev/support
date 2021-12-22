@@ -3,7 +3,6 @@ tags: []
 title: Finance - Membaca Laporan Pengeluaran
 subtitle: ''
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Finance - Memfilter Laporan Pengeluaran**
