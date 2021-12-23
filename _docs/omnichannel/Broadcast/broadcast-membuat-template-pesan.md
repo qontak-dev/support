@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Broadcast - Membuat Template Pesan
-subtitle: ''
+subtitle: This document covers the broadcast of the CRM feature
 author: hariyati suarni nurindah
 published: false
 
