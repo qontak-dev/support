@@ -3,7 +3,6 @@ tags: []
 title: Broadcast - Overview Menu Broadcast
 subtitle: This document covers the broadcast of the CRM feature
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Broadcast - Overview Menu Broadcast**
