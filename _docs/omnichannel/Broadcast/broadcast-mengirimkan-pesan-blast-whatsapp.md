@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Broadcast - Mengirimkan Pesan Blast WhatsApp
-subtitle: ''
+subtitle: This document covers the broadcast of the CRM feature
 author: ''
 published: false
 
