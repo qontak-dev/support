@@ -3,7 +3,6 @@ tags: []
 title: Chat - Tickets
 subtitle: This document covers tickets omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Chat - Tickets**
