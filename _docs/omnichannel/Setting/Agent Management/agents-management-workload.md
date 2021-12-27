@@ -3,7 +3,6 @@ tags: []
 title: Agents Management - Workload
 subtitle: This document covers Agents Management - Workload omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Agents Management - Workload**
