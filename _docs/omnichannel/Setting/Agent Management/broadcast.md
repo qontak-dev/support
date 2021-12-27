@@ -5,7 +5,6 @@ subtitle: |2-
 
   This document covers Agents Management - Broadcast in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Agents Management - Broadcast**

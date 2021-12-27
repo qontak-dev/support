@@ -3,7 +3,6 @@ tags: []
 title: Agents Management - Agent Allocation
 subtitle: This document covers agent allocation in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Agents Management - Agent Allocation**
