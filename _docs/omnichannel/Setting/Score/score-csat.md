@@ -3,7 +3,6 @@ tags: []
 title: Score - CSAT
 subtitle: This document covers Score - CSAT omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Score - CSAT**

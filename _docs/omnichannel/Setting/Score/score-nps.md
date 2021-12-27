@@ -3,7 +3,6 @@ tags: []
 title: Score - NPS
 subtitle: This document covers Score - NPS omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Score - NPS**
