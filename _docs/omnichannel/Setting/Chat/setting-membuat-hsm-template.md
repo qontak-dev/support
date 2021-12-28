@@ -3,6 +3,7 @@ tags: []
 title: Setting - Templates
 subtitle: This document covers Templates in omnichannel system
 author: hariyati suarni nurindah
+published: false
 
 ---
 **Setting - Templates**
