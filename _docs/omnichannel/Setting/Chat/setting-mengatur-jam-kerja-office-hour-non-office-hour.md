@@ -3,7 +3,6 @@ tags: []
 title: Setting - Office Hours
 subtitle: This document covers office hour and no office hour in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Setting - Office Hours**
