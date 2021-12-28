@@ -3,7 +3,6 @@ tags: []
 title: Setting - Tags
 subtitle: This document covers Tags in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Setting - Tags**
