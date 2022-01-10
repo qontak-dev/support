@@ -3,7 +3,6 @@ tags: []
 title: Integration - Mengintegrasikan Line Messenger
 subtitle: This document covers integration line messenger in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Integration - Mengintegrasikan Line Messenger**

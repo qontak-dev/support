@@ -3,7 +3,6 @@ tags: []
 title: Integration - Mengintegrasikan Instagram
 subtitle: This document covers integration Instagram in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Integration - Mengintegrasikan Instagram**
