@@ -3,7 +3,6 @@ tags: []
 title: Integration - Mengintegrasikan Telegram
 subtitle: This document covers integration telegram in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Integration - Mengintegrasikan Telegram**

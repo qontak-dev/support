@@ -3,7 +3,6 @@ tags: []
 title: Integration - Overview Menu Integration
 subtitle: This document covers integration in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Integration - Overview Menu Integration**

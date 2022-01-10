@@ -3,7 +3,6 @@ tags: []
 title: Integration - Mengintegrasikan Twitter
 subtitle: This document covers integration twitter in omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Integration - Mengintegrasikan Twitter**
