@@ -6,17 +6,14 @@ author: ''
 published: false
 
 ---
-Add New Channel Integration
+**Menambahkan Tasks Satuan pada Web**
 
-Dalam modul **Task**, anda dapat menambahkan task yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan task pada Web.
+Dalam menu Channel Integration, anda dapat menambahkan Channel yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu task di bagian kiri atas, untuk menambahkan suatu task anda dapat mengklik bagian **+Tambah Task-> Tambah Task.**
+1. Setelah anda berhasil **Login**, anda akan menemui menu task di bagian kiri atas, untuk menambahkan suatu channel anda dapat mengklik bagian **Add New** untuk membuka form channel integration.
 
-   ![](/uploads/menambahtaskweb1.PNG)
-2. Pada saat menambah task, pastikan field-field kolom yang perlu anda ketahui sudah ada pada task field CRM Qontak sehingga saat pengisian informasi-informasi yang akan anda masukan sudah terisi dengan rapi.
+   ![](/uploads/channel1.PNG)
 
-   > Saat pengisian, anda harus memperhatikan tanda **bintang(*)** berwarna merah  yang ada nama field tersebut yang berarti anda wajib memberikan isian pada kolom tersebut.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar 
 
-   Setelah data terisi, klik button **Buat Task** untuk menyimpan data. Selain menyimpan data, anda juga bisa mengklik buton **Batal** jika anda tidak ingin menyimpan data tersebut.
-
-   ![](/uploads/menambahtaskweb2.PNG)
+   Setelah data terisi, klik button **Save** untuk menyimpan data. Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
