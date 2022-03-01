@@ -21,9 +21,6 @@ pages:
 - _docs/Chatbot/Channel Integrations/chat-service-token-channel-integration.md
 - _docs/Chatbot/Channel Integrations/export-channel-integration.md
 - _docs/Chatbot/Channel Integrations/list-channel-integration.md
-- _docs/Chatbot/add-new-channel-integration.md
-- _docs/Chatbot/chat-service-token-channel-integration.md
-- _docs/Chatbot/export-channel-integration.md
 - _docs/Chatbot/list-channel-integration.md
 - _docs/crm/Company/company-download-data-company.md
 - _docs/crm/Company/company-filter-data-company.md
