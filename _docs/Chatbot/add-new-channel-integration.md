@@ -6,7 +6,7 @@ author: ''
 published: false
 
 ---
-Add New Channel Integration
+**Add New Channel Integration**
 
 Dalam menu Channel Integration, anda dapat menambahkan Channel yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel pada Web.
 
