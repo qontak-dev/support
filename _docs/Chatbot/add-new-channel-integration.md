@@ -10,7 +10,7 @@ published: false
 
 Dalam menu Channel Integration, anda dapat menambahkan Channel yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu task di bagian kiri atas, untuk menambahkan suatu channel anda dapat mengklik bagian **Add New** untuk membuka form channel integration.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Integrations** di bagian kiri atas, untuk melakukan generate token, anda dapat mengklik bagian **Add New** untuk membuka form channel integration.
 
    ![](/uploads/channel1.PNG)
 
