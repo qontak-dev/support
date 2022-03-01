@@ -6,7 +6,7 @@ author: ''
 published: false
 
 ---
-List Channel Integration
+**List Channel Integration**
 
 **List Channel Integration** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel integration.
 
