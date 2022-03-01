@@ -18,6 +18,7 @@ fields:
   label: tags
 pages:
 - _docs/Chatbot/Channel Integrations/add-new-channel-integration.md
+- _docs/Chatbot/Channel Integrations/export-channel-integration.md
 - _docs/Chatbot/Channel Integrations/list-channel-integration.md
 - _docs/Chatbot/add-new-channel-integration.md
 - _docs/Chatbot/chat-service-token-channel-integration.md
