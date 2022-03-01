@@ -10,7 +10,7 @@ published: false
 
 Dalam menu Channel Integration, anda dapat mengexport Channel Integration yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel integration pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu Channel Integration di bagian kiri atas, untuk export suatu channel anda dapat mengklik bagian **Export** untuk membuka form Export channel integration.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Integration** di bagian kiri atas, untuk export suatu channel anda dapat mengklik bagian **Export** untuk membuka form Export channel integration.
 
    ![](/uploads/channel2.PNG)
 
