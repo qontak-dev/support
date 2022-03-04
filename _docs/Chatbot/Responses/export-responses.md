@@ -12,6 +12,11 @@ Dalam menu responses, anda dapat mengexport responses yang anda inginkan. Beriku
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk export suatu responses anda dapat mengklik bagian **Export** untuk membuka form Export responses
 
-   > Select Field yang ingin Anda Export
+   ![](/uploads/export1.PNG)
 
-   Setelah Anda memilih field yang akan diexport, klik button **Save** untuk menyimpan data. Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+   > Select Field yang ingin Anda Export
+2. Setelah Anda memilih field yang akan diexport
+
+   ![](/uploads/export2.PNG)
+
+   > klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
