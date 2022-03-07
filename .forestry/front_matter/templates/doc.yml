@@ -22,6 +22,7 @@ pages:
 - _docs/Chatbot/Channel Integrations/export-channel-integration.md
 - _docs/Chatbot/Channel Integrations/list-channel-integration.md
 - _docs/Chatbot/Intents/add-new-intents.md
+- _docs/Chatbot/Intents/export-intents.md
 - _docs/Chatbot/Intents/list-intents.md
 - _docs/Chatbot/Paths/add-multiple-path.md
 - _docs/Chatbot/Paths/add-new-paths.md
