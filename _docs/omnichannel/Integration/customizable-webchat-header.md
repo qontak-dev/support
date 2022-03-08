@@ -1,11 +1,11 @@
 ---
 tags: []
-title: Customizable Webchat Header
+title: Integration - Melakukan Customisasi Webchat Header
 subtitle: ''
 author: Jessica Gwyneth
 
 ---
-**Customizable Webchat Header**
+**Melakukan Customisasi Webchat Header**
 
 Pada Qontak, Anda dapat melakukan customisasi pada webchat header yang akan muncul. Fitur ini, dapat mengatur warna serta informasi yang ingin dimunculkan pada webchat header.
 
@@ -18,7 +18,7 @@ Berikut langkah-langkahnya untuk melakukan cutomisasi header:
     ![](/uploads/2webchat.png)
  4. Setelah Anda sudah [membuat Widget](https://support.qontak.com/docs/omnichannel/integration/integration-mengintegrasikan-whatsapp/), Anda dapat klik **“Setting”** untuk mengubah tampilan webchat header.  
     ![](/uploads/3webchat.png)
- 5. Kemudian pada bagian widget appearance, Anda dapt mengatur warna dari widget header.   
+ 5. Kemudian pada bagian widget appearance, Anda dapt mengatur warna dari widget header.  
     ![](/uploads/4webchat.png)
  6. Lalu pada bagian Widget Content, Anda dapat melakukan pengaturan informasi yang ingin dimunculkan pada webchat header. Terdapat 3 kondisi informasi yang dapat Anda atur, yaitu ketika **Online, Offline** dan **Pre Chat Form**.  
     ![](/uploads/5webchat.png)
