@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Finance - New Customer Billing Dashboard
-subtitle: This document covers the finance of the CRM feature
+subtitle: ''
 author: Jessica Gwyneth
 
 ---
