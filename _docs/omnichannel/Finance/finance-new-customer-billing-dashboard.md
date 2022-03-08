@@ -7,27 +7,49 @@ author: Jessica Gwyneth
 ---
 **Finance - New Customer Billing Dashboard**
 
-Pada Qontak, Anda dapat melakukan customisasi pada webchat header yang akan muncul. Fitur ini, dapat mengatur warna serta informasi yang ingin dimunculkan pada webchat header.
+Pada Qontak, Anda sudah dapat melihat Billing Usage. Pada Billing Usage, Anda dapat melihat pemakaian dan sisa dari _credit/balance_. Informasi pada Billing Usage terbagi menjadi **initial balance, remaining balance, monthly usage** serta **subscription**. Apabila kuota dari _user_ sudah habis, _user_ akan mendapatkan notifikasi untuk melakukan _top up_. Untuk melakukan _top up_, _user_ perlu menghubungi tim support kami [disini](https://api.whatsapp.com/send/?phone=6285316016800&text&app_absent=0).
 
-Berikut langkah-langkahnya untuk melakukan cutomisasi header:
+Berikut langkah-langkahnya untuk mengakses Billing dashboard:
 
- 1. Login ke [chat.qontak.com](http://chat.qontak.com).
- 2. Pilih Menu **Integrations**.  
-    ![](/uploads/1.png)
- 3. Pilih **Webchat**.  
-    ![](/uploads/2.png)
- 4. Setelah Anda sudah [membuat Widget](https://support.qontak.com/docs/omnichannel/integration/integration-mengintegrasikan-whatsapp/), Anda dapat klik **“Setting”** untuk mengubah tampilan webchat header.  
-    ![](/uploads/3.png)
- 5. Kemudian pada bagian widget appearance, Anda dapt mengatur warna dari widget header.  
-    ![](/uploads/4.png)
- 6. Lalu pada bagian Widget Content, Anda dapat melakukan pengaturan informasi yang ingin dimunculkan pada webchat header. Terdapat 3 kondisi informasi yang dapat Anda atur, yaitu ketika **Online, Offline** dan **Pre Chat Form**.![](/uploads/5.png)
- 7. Apabila Anda ingin melakukan pengaturan webchat header saat kondisi **Online**, klik bagian **When Online**.![](/uploads/6.png)
- 8. Kemudian, isikan pesan yang ingin ditampilkan disini, yang menginformasikan bahwa terdapat agen yang sedang online dan akan segera menanggapi pesan dari user. ![](/uploads/7.png)
+1. Login ke [chat.qontak.com](http://chat.qontak.com).
+2. Pilih menu **Finance.  
+   ![](/uploads/1billing.png)**
+3. Klik **Billing Usage.  
+   ![](/uploads/2billing.png)**
+4. Pada bagian **Initial Balance**, Anda dapat melihat saldo pertama/subsidi kuota yang diberikan kepada klien setiap bulannya. Jumlah yang muncul disini sesuai dengan paket yang diambil, atau sesuai dengan kesepakatan dengan konsultan. **Initial Balance** ini akan ter-_reset_ setiap awal bulan.  
+   ![](/uploads/3billing-1.png)
 
-    > **Note:** Isi pesan dapat disesuaikan dengan keinginan _user_.
- 9. Apabila Anda ingin melakukan pengaturan webchat header saat kondisi **Offline**, klik bagian **When Offline**.![](/uploads/8.png)
-10. Kemudian isikan pesan yang ingin ditampilkan disini, yang menginformasikan bahwa agen sedang offline dan membutuhkan waktu yang sedikit lebih lama untuk menanggapi pesan dari user.![](/uploads/9.png)
+   > **Notes:   
+   > Maximum Users**: Jumlah maksimum user yang dapat didaftarkan pada Chat Panel (user dengan peran agent/supervisor yang dapat di _create_, admin tidak termasuk).
+   > 1. **WhatsApp Monthly Conversation Credit (MCC)**: Maksimum conversations yang dapat diakses setiap bulan (inbound dan outbound conversations).  
+   >    Satu (1) Conversation berlaku selama 24 jam sejak klein membalas pesan pertama dari Customer.  
+   >    **Contoh:**  
+   >    \- Customer A mengirimkan pesan hari ini pada 10:00 WIB, kemudian dibalas oleh klien (atau auto responder / chatbot) pada 10:05 WIB. Maka 1 percakapan akan dihitung dari pukul 10:05 WIB hari ini, sampai besok pukul 10:05 WIB. Ketika customer A mengirimkan chat kembali besok pukul 10:30 WIB, maka sudah menggunakan Dua (2) kuota MCC.  
+   >    \- Customer A mengirimkan pesan hari ini pada 10:00 WIB, kemudian tidak dibalas sama sekali oleh SPV/Agent/auto responder/chatbot, maka percakapan tersebut tidak akan mengurangi kuota MCC.  
+   >    \- Klien mengirimkan pesan broadcast ke 100 orang (unique phone number), maka ini akan menggunakan kuota 100 MCC. Kuota MCC akan berkurang apabila pesan berhasil terkirim.
+   > 2. **WhatsApp Unique Visitor Omnichannel (MUV)**: Maksimum unique visitor yang masuk ke dalam Chat Panel (inbound), berlaku pada semua channel.  
+   >    **Contoh:**  
+   >    \- Customer A mengirimkan pesan dengan nomor WhatsApp 628912345678 selama berkali-kali dalam 1 bulan. Ini akan menghabiskan Satu (1) kuota MUV.  
+   >    \- Customer A mengirimkan pesan namun menggunakan channel berbeda yaitu Instagram. Maka ini akan menghabiskan Satu (1) kuota MUV, yang berbeda dengan chat dari WhatsApp.
 
-    > **Note:** Isi pesan dapat disesuaikan dengan keinginan _user_.
-11. Pada bagian **Pre Chat Form**, Anda dapat mengisikan informasi yang ingin dimunculkan pada webchat header, ketika halaman webchat pertama kali dibuka oleh user. Dimana pada bagian ini, Anda dapat mengisikan informasi mengenai title dan subtitle yang ingin dimunculkan pada header webchat.![](/uploads/10.png)
-12. Klik **“Save Changes”** untuk menyimpan.![](/uploads/11-1.png)
+
+5. Kemudian terdapat **Remaining Balance** yang berfungsi untuk melihat sisa saldo dari initial balance.  
+   ![](/uploads/4billing.png)
+
+   > **Notes:  
+   > WhatsApp Monthly Conversation Credit**: sisa saldo MCC dari Initial Balance. Jika saldo ini sudah di bawah 40%, maka klien akan mendapatkan banner notifikasi pada aplikasi Chat Panel untuk melakukan Top Up.
+   > 1. **WhatsApp Conversation Top-Up Credit**: sisa saldo dari Top Up yang dilakukan klien. Misalnya, ketika saldo initial balance MCC sudah mendekati habis, maka klien diarahkan untuk menghubungi nomor support Qontak untuk melakukan top up. Saldo top up akan muncul pada menu ini, dan akan terus berkurang ketika sudah digunakan. Minimum Top Up MCC adalah Rp 1.000.000.
+   > 2. **Monthly Usage Visitor Omnichannel Credit (MCC)**: sisa saldo MUV dari Initial Balance. Jika saldo ini sudah di bawah 40%, maka klien akan mendapatkan banner notifikasi pada aplikasi Chat Panel untuk melakukan Top Up. Pada MCC, credit top up-nya dapat ditambahkan sampai dengan bulan berikutnya.
+   > 3. **Monthly Usage Visitor Omnichannel Top-Up Credit (MUV)**: sisa saldo dari Top Up yang dilakukan klien. Misalnya, ketika saldo MUV dari Initial Balance sudah mendekati habis, maka klien diarahkan untuk menghubungi nomor support Qontak untuk melakukan Top Up. Saldo top up akan muncul pada menu ini, dan akan terus berkurang ketika saldo sudah digunakan. Minimum Top Up MUV adalah Rp 300.000/500 MUV, berlaku kelipatan. Pada MUV, credit top up-nya tidak dapat dibawa ke bulan berikutnya.
+
+
+6. Pada billing dashboard terdapat juga **Monthly Usage**. **Monthly Usage** adalah pemakaian saldo initial MCC dan MUV, serta pemakaian saldo _Top Up_ MCC dan MUV. Perlu diperhatikan bahwa saat ini hanya dapat melihat pemakaian bulan yang berlangsung saja.  
+   ![](/uploads/5billing.png)
+
+   > **Notes:**
+   > 1. **WhatsApp Monthly Conversation Credit**: pemakaian initial balance MCC.
+   > 2. **WhatsApp Conversation Top-Up Balance**: pemakaian saldo Top-Up MCC.
+   > 3. **Monthly Unique Visitor Omnichannel Credit**: pemakaian initial balance MUV.
+   > 4. **Monthly Unique Visitor Omnichannel Top-up Credit**: pemakaian saldo Top-up MUV.
+7. Lalu pada bagian **Subscription**, klien dapat melihat _end date_ subscription Chat Panel.  
+   ![](/uploads/6billing.png)
