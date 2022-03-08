@@ -5,6 +5,8 @@ subtitle: This document covers the finance of the CRM feature
 author: Jessica Gwyneth
 
 ---
+**Finance - New Customer Billing Dashboard**
+
 Pada Qontak, Anda dapat melakukan customisasi pada webchat header yang akan muncul. Fitur ini, dapat mengatur warna serta informasi yang ingin dimunculkan pada webchat header.
 
 Berikut langkah-langkahnya untuk melakukan cutomisasi header:
@@ -16,7 +18,7 @@ Berikut langkah-langkahnya untuk melakukan cutomisasi header:
     ![](/uploads/2.png)
  4. Setelah Anda sudah [membuat Widget](https://support.qontak.com/docs/omnichannel/integration/integration-mengintegrasikan-whatsapp/), Anda dapat klik **“Setting”** untuk mengubah tampilan webchat header.  
     ![](/uploads/3.png)
- 5. Kemudian pada bagian widget appearance, Anda dapt mengatur warna dari widget header.   
+ 5. Kemudian pada bagian widget appearance, Anda dapt mengatur warna dari widget header.  
     ![](/uploads/4.png)
  6. Lalu pada bagian Widget Content, Anda dapat melakukan pengaturan informasi yang ingin dimunculkan pada webchat header. Terdapat 3 kondisi informasi yang dapat Anda atur, yaitu ketika **Online, Offline** dan **Pre Chat Form**.![](/uploads/5.png)
  7. Apabila Anda ingin melakukan pengaturan webchat header saat kondisi **Online**, klik bagian **When Online**.![](/uploads/6.png)
