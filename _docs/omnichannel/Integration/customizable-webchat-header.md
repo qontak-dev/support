@@ -1,11 +1,11 @@
 ---
 tags: []
-title: Integration - Melakukan Customisasi Webchat Header
+title: Integration - Melakukan Kustomisasi Webchat Header
 subtitle: ''
 author: Jessica Gwyneth
 
 ---
-**Melakukan Customisasi Webchat Header**
+**Melakukan Kustomisasi Webchat Header**
 
 Pada Qontak, Anda dapat melakukan customisasi pada webchat header yang akan muncul. Fitur ini, dapat mengatur warna serta informasi yang ingin dimunculkan pada webchat header.
 
