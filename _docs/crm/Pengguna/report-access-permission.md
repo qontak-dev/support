@@ -5,8 +5,6 @@ subtitle: This document covers users in the web apps
 author: Jessica Gwyneth
 
 ---
-**Report Access Permission**
-
 Saat ini pada Qontak, Anda sudah dapat melakukan pengaturan report access. Sebelumnya Report pada Qontak dapat diakses oleh semua pihak, baik bawahan maupun cross team. Anda dapat login ke [qontak.com](http://qontak.com) terlebih dahulu dan untuk melakukan pengaturan report access, Anda dapat ke Menu **Pengaturan Pengguna**. Pengaturan ini akan berdapak pada Menu **Dashboard** dimana penampilan data report yang ditampilkan akan sesuai dengan pengaturan akses yang telah ditentukan. Pengaturan ini hanya dapat diakses **oleh user yang berlevel admin**.
 
 Berikut langkah-langkahnya untuk melakukan pengaturan report access:
