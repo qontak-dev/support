@@ -17,6 +17,7 @@ fields:
   default: []
   label: tags
 pages:
+- _docs/Chatbot/Agents/add-new-intents.md
 - _docs/Chatbot/Agents/list-agents.md
 - _docs/Chatbot/Channel Integrations/add-new-channel-integration.md
 - _docs/Chatbot/Channel Integrations/chat-service-token-channel-integration.md
