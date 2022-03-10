@@ -18,6 +18,7 @@ fields:
   label: tags
 pages:
 - _docs/Chatbot/Agents Divisions/add-new-agents-divisions.md
+- _docs/Chatbot/Agents Divisions/export-agents-divisions.md
 - _docs/Chatbot/Agents Divisions/list-agents-divisions.md
 - _docs/Chatbot/Agents/add-new-intents.md
 - _docs/Chatbot/Agents/export-agents.md
