@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Add New Intents
+title: Add New Agents
 subtitle: ''
 author: ''
 published: false
 
 ---
-**Add New Intents**
+**Add New Agents**
 
 Dalam menu agents, anda dapat menambahkan agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan agents pada Web.
 
