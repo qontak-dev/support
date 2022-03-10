@@ -17,6 +17,7 @@ fields:
   default: []
   label: tags
 pages:
+- _docs/Chatbot/Agents Divisions/list-agents-divisions.md
 - _docs/Chatbot/Agents/add-new-intents.md
 - _docs/Chatbot/Agents/export-agents.md
 - _docs/Chatbot/Agents/list-agents.md
