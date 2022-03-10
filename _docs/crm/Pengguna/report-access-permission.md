@@ -12,7 +12,7 @@ Berikut langkah-langkahnya untuk melakukan pengaturan report access:
 ###### **A. Melakukan Pengaturan Report Access saat Penambahan Pengguna**
 
 1. Masuk ke Menu **Pengaturan Pengguna**.  
-   ![](/uploads/1.png)
+   ![](/uploads/1accper.png)
 2. Apabila Anda ingin menambahkan pengaturan report access saat [penambahan pengguna](http://support.qontak.com/docs/crm/pengguna/cara-add-user-tambah-pengguna/), Anda dapat klik **“Tambah Pengguna”** pada tab Pengguna.  
    ![](/uploads/2accper.png)
 3. Lengkapi informasi user Anda.  
