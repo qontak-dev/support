@@ -12,7 +12,7 @@ Dalam menu attachments, anda dapat menambahkan attachments yang anda inginkan. B
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk menambahkan attachments anda dapat mengklik bagian **Add New** untuk membuka form attachments.
 
-   ![](/uploads/agents1.PNG)
+   ![](/uploads/attachments2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 
