@@ -24,6 +24,7 @@ pages:
 - _docs/Chatbot/Agents/export-agents.md
 - _docs/Chatbot/Agents/list-agents.md
 - _docs/Chatbot/Attachments/add-new-attachments.md
+- _docs/Chatbot/Attachments/export-attachments.md
 - _docs/Chatbot/Attachments/list-attachments.md
 - _docs/Chatbot/Channel Integrations/add-new-channel-integration.md
 - _docs/Chatbot/Channel Integrations/chat-service-token-channel-integration.md
