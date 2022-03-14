@@ -18,6 +18,8 @@ Untuk melihat tampilan pada list content types, Anda perlu mengikuti langkah-lan
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu content types dengan fitur-fitur yang disediakan.
+
+   ![](/uploads/content-types.PNG)
 3. Tombol “**List View**” untuk menampilkan content types dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat content types dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari content types berdasarkan nama.
