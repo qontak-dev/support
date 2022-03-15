@@ -33,6 +33,7 @@ pages:
 - _docs/Chatbot/Channel Integrations/list-channel-integration.md
 - _docs/Chatbot/Channel Types/list-channel-types.md
 - _docs/Chatbot/Content Types/list-content-types.md
+- _docs/Chatbot/Divisions/add-new-divisions.md
 - _docs/Chatbot/Divisions/list-divisions.md
 - _docs/Chatbot/Intents/add-new-intents.md
 - _docs/Chatbot/Intents/export-intents.md
