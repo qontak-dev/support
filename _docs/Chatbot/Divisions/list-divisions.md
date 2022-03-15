@@ -18,6 +18,8 @@ Untuk melihat tampilan pada list divisions, Anda perlu mengikuti langkah-langkah
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu divisions dengan fitur-fitur yang disediakan.
+
+   ![](/uploads/divisions1.PNG)
 3. Tombol “**List View**” untuk menampilkan divisions dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat divisions dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari divisions berdasarkan nama.
