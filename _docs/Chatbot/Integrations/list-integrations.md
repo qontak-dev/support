@@ -18,6 +18,8 @@ Untuk melihat tampilan pada list integrations, Anda perlu mengikuti langkah-lang
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu integrations dengan fitur-fitur yang disediakan
+
+   ![](/uploads/integrationslist.PNG)
 3. Tombol “**List View**” untuk menampilkan integrations dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat integrations dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari integrations berdasarkan nama.
