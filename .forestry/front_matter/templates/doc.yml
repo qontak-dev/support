@@ -39,6 +39,7 @@ pages:
 - _docs/Chatbot/Histories/export-histories.md
 - _docs/Chatbot/Histories/list-histories.md
 - _docs/Chatbot/Histories/report-count-user.md
+- _docs/Chatbot/Integrations/add-new-integrations.md
 - _docs/Chatbot/Integrations/list-integrations.md
 - _docs/Chatbot/Intents/add-new-intents.md
 - _docs/Chatbot/Intents/export-intents.md
