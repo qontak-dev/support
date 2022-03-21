@@ -42,6 +42,7 @@ pages:
 - _docs/Chatbot/Integrations/add-new-integrations.md
 - _docs/Chatbot/Integrations/export-integrations.md
 - _docs/Chatbot/Integrations/list-integrations.md
+- _docs/Chatbot/Intent API Responses/list-intent-api-responses.md
 - _docs/Chatbot/Intents/add-new-intents.md
 - _docs/Chatbot/Intents/export-intents.md
 - _docs/Chatbot/Intents/list-intents.md
