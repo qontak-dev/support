@@ -49,6 +49,7 @@ pages:
 - _docs/Chatbot/Intents/export-intents.md
 - _docs/Chatbot/Intents/list-intents.md
 - _docs/Chatbot/Message Buttons/add-message-buttons.md
+- _docs/Chatbot/Message Buttons/export-message-buttons.md
 - _docs/Chatbot/Message Buttons/list-message-buttons.md
 - _docs/Chatbot/Paths/add-multiple-path.md
 - _docs/Chatbot/Paths/add-new-paths.md
