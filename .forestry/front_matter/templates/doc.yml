@@ -49,6 +49,7 @@ pages:
 - _docs/Chatbot/Intents/export-intents.md
 - _docs/Chatbot/Intents/list-intents.md
 - _docs/Chatbot/Message Button Actions/add-message-buttons-actions.md
+- _docs/Chatbot/Message Button Actions/export-message-buttons-actions.md
 - _docs/Chatbot/Message Button Actions/list-message-button-actions.md
 - _docs/Chatbot/Message Buttons/add-message-buttons.md
 - _docs/Chatbot/Message Buttons/export-message-buttons.md
