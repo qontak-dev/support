@@ -12,7 +12,7 @@ Dalam menu **Message Buttons Actions**, anda dapat menambahkan **Message Buttons
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Buttons Actions** di bagian kiri atas, untuk menambahkan message anda dapat mengklik bagian **Add New** untuk membuka form **Message Buttons** **Actions**
 
-   ![](/uploads/messagebuttons2.PNG)
+   ![](/uploads/messagebuttonsactions1.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >

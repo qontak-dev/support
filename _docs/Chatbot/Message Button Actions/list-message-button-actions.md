@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list **Message Buttons Actions**, Anda perlu mengiku
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Message Buttons Actions** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/messagebuttons1.PNG)
+   ![](/uploads/messagebuttonsactions.PNG)
 3. Tombol “**List View**” untuk menampilkan Message Buttons dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat Message Buttons dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari Message Buttons berdasarkan nama.
