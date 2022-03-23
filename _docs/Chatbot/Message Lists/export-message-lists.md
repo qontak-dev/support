@@ -12,11 +12,11 @@ Dalam menu **Message Lists**, anda dapat mengexport message lists yang anda ingi
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Lists** di bagian kiri atas, untuk export suatu message lists, anda dapat mengklik bagian **Export** untuk membuka form Export **Message Lists**
 
-   ![](/uploads/intents3.PNG)
+   ![](/uploads/messagelists3.PNG)
 
    > Select Field yang ingin Anda Export
 2. Setelah itu pilih field yang akan diexport kemudian
 
-   ![](/uploads/intents4.PNG)
+   ![](/uploads/messagelists4.PNG)
 
    klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
