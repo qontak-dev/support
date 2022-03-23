@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list message lists, Anda perlu mengikuti langkah-lan
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu message lists dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/intents.PNG)
+   ![](/uploads/messagelists1.PNG)
 3. Tombol “**List View**” untuk menampilkan message lists dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat message lists dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari message lists berdasarkan nama.
