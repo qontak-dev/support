@@ -12,11 +12,10 @@ Dalam menu **Message Lists**, anda dapat menambahkan message lists yang anda ing
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Lists** di bagian kiri atas, untuk menambahkan message lists anda dapat mengklik bagian **Add New** untuk membuka form **Message Lists**.
 
-   ![](/uploads/intents1.PNG)
+   ![](/uploads/messagelists2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-2. Setelah data terisi, klik button **Save** untuk menyimpan data.
-
-   ![](/uploads/intents2.PNG)
-
-   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+   >
+   > > Setelah data terisi, klik button **Save** untuk menyimpan data.
+   > >
+   > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
