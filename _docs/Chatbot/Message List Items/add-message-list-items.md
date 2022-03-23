@@ -12,7 +12,7 @@ Dalam menu **Message List Items**, anda dapat menambahkan message list Items yan
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message List Items** di bagian kiri atas, untuk menambahkan message list Item anda dapat mengklik bagian **Add New** untuk membuka form **Message List Items**.
 
-   ![](/uploads/messagelists2.PNG)
+   ![](/uploads/messagelistsitems2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
