@@ -19,11 +19,11 @@ Untuk melihat tampilan pada list message list Items, Anda perlu mengikuti langka
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu message list Items dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/messagelists1.PNG)
-3. Tombol “**List View**” untuk menampilkan message lists dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat message lists dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari message lists berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak message lists yang ditampilkan di satu layar.
-7. Tombol “**Export Found Message Lists**” untuk mengarahkan ke halaman export message lists
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu message lists
-9. Tombol “**Delete**” untuk menghapus suatu message lists
+   ![](/uploads/messagelistsitems1.PNG)
+3. Tombol “**List View**” untuk menampilkan message list Items dalam bentuk list (seperti pada gambar).
+4. Tombol “**Filter**” untuk melihat message list Items dengan pengaturan tertentu.
+5. Menu “**Search**” untuk mencari message list Items berdasarkan nama.
+6. Menu “**Show**” untuk mengatur berapa banyak message list Items yang ditampilkan di satu layar.
+7. Tombol “**Export Found Message List Items**” untuk mengarahkan ke halaman export message list items
+8. Tombol “**Edit**” untuk mengubah atau meng-update suatu message list Items
+9. Tombol “**Delete**” untuk menghapus suatu message list Items
