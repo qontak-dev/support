@@ -12,7 +12,7 @@ Dalam menu **Message List Section**, anda dapat menambahkan message lists yang a
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message List Section** di bagian kiri atas, untuk menambahkan message lists anda dapat mengklik bagian **Add New** untuk membuka form **Message List Section**.
 
-   ![](/uploads/messagelists2.PNG)
+   ![](/uploads/messagelistsection2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
