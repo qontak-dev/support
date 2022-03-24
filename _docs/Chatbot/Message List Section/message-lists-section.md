@@ -1,16 +1,16 @@
 ---
 tags: []
-title: Message Lists Section
+title: Message List Section
 subtitle: ''
 author: ''
 published: false
 
 ---
-**Message Lists Section**
+**Message List Section**
 
-**List Message Lists** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message lists.
+**List Message List** **Section** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message lists.
 
-Untuk melihat tampilan pada list message lists, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list message list Section, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
