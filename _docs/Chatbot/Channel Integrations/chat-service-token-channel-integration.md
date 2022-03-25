@@ -17,4 +17,4 @@ Dalam menu Channel Integration, anda dapat melakukan generate token seperti beri
 
    ![](/uploads/channel5.PNG)
 
-   > **_Copy Text_** jika mencopy hasil generate token.
+   > > **Copy Text** jika Anda ingin mencopy hasil generate token.
