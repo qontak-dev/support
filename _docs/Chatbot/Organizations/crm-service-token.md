@@ -12,9 +12,9 @@ Dalam menu **CRM Service Token**, anda dapat melakukan generate token seperti be
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **CRM Service Token** di bagian kiri atas, untuk melakukan generate token, anda dapat mengklik bagian **CRM Service Token** untuk membuka Generate seperti gambar berikut;
 
-   ![](/uploads/channel4.PNG)
+   ![](/uploads/organizations2.PNG)
 2. Klik button **Generate Access Token** untuk melakukan generate token sehingga muncul json seperti gambar berikut;
 
-   ![](/uploads/channel5.PNG)
+   ![](/uploads/organizations3.PNG)
 
-   > **_Copy Text_** jika mencopy hasil generate token.
+   > **Copy Text** jika Anda ingin mencopy hasil generate token.
