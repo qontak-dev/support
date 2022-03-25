@@ -19,7 +19,7 @@ Untuk melihat tampilan pada **List Organizations**, Anda perlu mengikuti langkah
     > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organizations** dengan fitur-fitur yang disediakan.
 
-    ![](/uploads/paths1.PNG)
+    ![](/uploads/organizations1.PNG)
  3. Tombol “**List View**” untuk mengubah tampilan List Organizations dalam bentuk list (seperti pada gambar).
  4. Tombol “**Filter**” untuk melihat List Organizations dengan pengaturan tertentu.
  5. Menu “**Search**” untuk mencari List Organizations berdasarkan nama.
