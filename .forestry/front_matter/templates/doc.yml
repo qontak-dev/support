@@ -65,6 +65,7 @@ pages:
 - _docs/Chatbot/Message Lists/message-lists.md
 - _docs/Chatbot/NIp Connectors/nip-connectors-list.md
 - _docs/Chatbot/Organization Connections/add-new-organization-connections.md
+- _docs/Chatbot/Organization Connections/export-organization-connections.md
 - _docs/Chatbot/Organization Connections/list-organization-connections.md
 - _docs/Chatbot/Organizations/crm-service-token.md
 - _docs/Chatbot/Organizations/list-organizations.md
