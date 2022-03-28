@@ -12,7 +12,7 @@ Dalam menu **Organization Connections**, anda dapat mengexport organization yang
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export **Organization Connections**
 
-   ![](/uploads/paths4.PNG)
+   ![](/uploads/organizationsconnections4.PNG)
 
    > Select Field yang ingin Anda Export
 
