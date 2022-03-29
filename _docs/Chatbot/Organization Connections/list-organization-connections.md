@@ -17,7 +17,7 @@ Untuk melihat tampilan pada **List Organizations Connections**, Anda perlu mengi
     ![](/uploads/channell.PNG)
 
     > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organizations**  **Connections** dengan fitur-fitur yang disediakan.
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organization** **Connections** dengan fitur-fitur yang disediakan.
 
     ![](/uploads/organizationsconnections1.PNG)
  3. Tombol “**List View**” untuk mengubah tampilan List Organization Connections dalam bentuk list (seperti pada gambar).
