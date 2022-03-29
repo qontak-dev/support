@@ -70,6 +70,7 @@ pages:
 - _docs/Chatbot/Organization Entities/add-new-organization-entities.md
 - _docs/Chatbot/Organization Entities/export-organization-entities.md
 - _docs/Chatbot/Organization Entities/list-organization-entities.md
+- _docs/Chatbot/Organization nlp connectors/add-new-organization-nlp-connectors.md
 - _docs/Chatbot/Organization nlp connectors/list-organization-nlp-connectors.md
 - _docs/Chatbot/Organizations/crm-service-token.md
 - _docs/Chatbot/Organizations/list-organizations.md
