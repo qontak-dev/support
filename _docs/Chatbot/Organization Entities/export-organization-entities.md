@@ -12,7 +12,7 @@ Dalam menu **Organization Connections**, anda dapat mengexport organization yang
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export **Organization Connections**
 
-   ![](/uploads/organizationsconnections4.PNG)
+   ![](/uploads/organizationsentities4.PNG)
 
    > Select Field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport, klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel
