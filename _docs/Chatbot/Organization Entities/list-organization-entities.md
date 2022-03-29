@@ -8,7 +8,7 @@ published: false
 ---
 **List Organization Entities**
 
-**List Organizations** **Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization
+**List Organizations** **Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization Entities
 
 Untuk melihat tampilan pada **List Organizations Entities**, Anda perlu mengikuti langkah-langkah berikut;
 
