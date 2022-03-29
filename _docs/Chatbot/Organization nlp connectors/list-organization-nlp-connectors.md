@@ -27,4 +27,4 @@ Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu men
  7. Tombol “**Export Found List Organization Entities**” untuk mengarahkan ke halaman export List Organization nlp connectors
  8. Tombol “**Edit**” untuk mengubah atau meng-update suatu List Organization nlp connectors
  9. Tombol “**Delete**” untuk menghapus suatu List Organization nlp connectors
-10. Menunjukkan halaman ke berapa List Organization nlp connectors tersebut yang di tampilkan dari keseluruhan halaman List Organization nlp connectors
+10. Menunjukkan halaman ke berapa List Organization nlp connectors tersebut yang di tampilkan dari keseluruhan halaman List Organization
