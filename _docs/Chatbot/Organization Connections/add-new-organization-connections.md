@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Organization Connections**
 
-Dalam menu **Organization Connections**, anda dapat menambahkan organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan organization pada Web.
+Dalam menu **Organization Connections**, anda dapat menambahkan organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan organization connectionpada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk menambahkan organization anda dapat mengklik bagian **Add New** untuk membuka form **Organization Connections**.
 
