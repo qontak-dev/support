@@ -68,6 +68,7 @@ pages:
 - _docs/Chatbot/Organization Connections/export-organization-connections.md
 - _docs/Chatbot/Organization Connections/list-organization-connections.md
 - _docs/Chatbot/Organization Entities/add-new-organization-entities.md
+- _docs/Chatbot/Organization Entities/export-organization-entities.md
 - _docs/Chatbot/Organization Entities/list-organization-entities.md
 - _docs/Chatbot/Organizations/crm-service-token.md
 - _docs/Chatbot/Organizations/list-organizations.md
