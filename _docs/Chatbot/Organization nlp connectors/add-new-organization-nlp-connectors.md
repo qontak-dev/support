@@ -8,15 +8,14 @@ published: false
 ---
 **Add New Organization nlp connectors**
 
-Dalam menu **Organization Connections**, anda dapat menambahkan organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan organization connections pada Web.
+Dalam menu **Organization nlp connectors**, anda dapat menambahkan organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan organization nlp connectors pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk menambahkan organization anda dapat mengklik bagian **Add New** untuk membuka form **Organization Connections**.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization nlp connectors** di bagian kiri atas, untuk menambahkan organization anda dapat mengklik bagian **Add New** untuk membuka form **Organization nlp connectors**
 
-   ![](/uploads/organizationsentities2.PNG)
+   ![](/uploads/organizationsnlp2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-2. Setelah data terisi, klik button **Save** untuk menyimpan data.
-
-   ![](/uploads/organizationsentities2-1.PNG)
-
-   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+   >
+   > > Setelah data terisi, klik button **Save** untuk menyimpan data.
+   > >
+   > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
