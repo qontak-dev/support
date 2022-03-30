@@ -20,11 +20,11 @@ Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu men
  2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
     ![](/uploads/organizationsnlp1.PNG)
- 3. Tombol “**List View**” untuk mengubah tampilan List Organization nlp connectors dalam bentuk list (seperti pada gambar).
- 4. Tombol “**Filter**” untuk melihat List Organization nlp connectors dengan pengaturan tertentu.
- 5. Menu “**Search**” untuk mencari List Organization nlp connectors berdasarkan nama.
- 6. Menu “**Show**” untuk mengatur berapa banyak List Organization nlp connectors yang ditampilkan di satu layar.
- 7. Tombol “**Export Found List Organization Entities**” untuk mengarahkan ke halaman export List Organization nlp connectors
- 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu List Organization nlp connectors
- 9. Tombol “**Delete**” untuk menghapus suatu List Organization nlp connectors
-10. Menunjukkan halaman ke berapa List Organization nlp connectors tersebut yang di tampilkan dari keseluruhan halaman List Organization
+ 3. Tombol “**List View**” untuk mengubah tampilan List organization nlp connectors dalam bentuk list (seperti pada gambar).
+ 4. Tombol “**Filter**” untuk melihat List organization nlp connectors dengan pengaturan tertentu.
+ 5. Menu “**Search**” untuk mencari List organization nlp connectors berdasarkan nama.
+ 6. Menu “**Show**” untuk mengatur berapa banyak List organization nlp connectors yang ditampilkan di satu layar.
+ 7. Tombol “**Export Found List Organization Entities**” untuk mengarahkan ke halaman export List organization nlp connectors
+ 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu List organization nlp connectors
+ 9. Tombol “**Delete**” untuk menghapus suatu List organization nlp connectors
+10. Menunjukkan halaman ke berapa List organization nlp connectors tersebut yang di tampilkan dari keseluruhan halaman List organization 
