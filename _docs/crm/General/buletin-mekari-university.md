@@ -3,7 +3,6 @@ tags: []
 title: Buletin Mekari University
 subtitle: ''
 author: ''
-published: false
 
 ---
 ### **Pengumuman-pengumuman!**
