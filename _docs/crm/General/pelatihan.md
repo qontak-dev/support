@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Pelatihan
+title: Pelatihan Qontak
 subtitle: ''
 author: ''
 
