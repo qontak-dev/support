@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Buletin Mekari University
+title: Buletin Mekari University Vol.1
 subtitle: ''
 author: ''
 
