@@ -8,9 +8,9 @@ published: false
 ---
 **Add New Path Channels**
 
-Dalam menu **Path Channels**, anda dapat menambahkan yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel pada Web.
+Dalam menu **Path Channels**, anda dapat menambahkan path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path channels pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Paths** di bagian kiri atas, untuk menambahkan paths anda dapat mengklik bagian **Add New** untuk membuka form Paths.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Channels** di bagian kiri atas, untuk menambahkan path anda dapat mengklik bagian **Add New** untuk membuka form path Channels.
 
    ![](/uploads/paths2.PNG)
 
