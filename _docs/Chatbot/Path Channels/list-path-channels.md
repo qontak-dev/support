@@ -2,7 +2,7 @@
 tags: []
 title: List Path Channels
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
