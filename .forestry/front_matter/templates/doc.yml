@@ -76,6 +76,7 @@ pages:
 - _docs/Chatbot/Organizations/crm-service-token.md
 - _docs/Chatbot/Organizations/list-organizations.md
 - _docs/Chatbot/Path Channels/add-new-path-channels.md
+- _docs/Chatbot/Path Channels/export-path-channels.md
 - _docs/Chatbot/Path Channels/list-path-channels.md
 - _docs/Chatbot/Paths/add-multiple-path.md
 - _docs/Chatbot/Paths/add-new-paths.md
