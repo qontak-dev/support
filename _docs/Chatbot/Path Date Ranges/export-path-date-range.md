@@ -8,9 +8,9 @@ published: false
 ---
 **Export Path date range**
 
-Dalam menu Path Channels, anda dapat mengexport path channels yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path channels pada Web.
+Dalam menu **Path date range**, anda dapat mengexport Path date range yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Path date range pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Channels** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path channels
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Path date range** di bagian kiri atas, untuk export suatu Path date range, anda dapat mengklik bagian **Export** untuk membuka form Export Path date range
 
    ![](/uploads/pathchannels3.PNG)
 
