@@ -12,7 +12,7 @@ Dalam menu **Path date range**, anda dapat menambahkan path yang anda inginkan. 
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Path date range** di bagian kiri atas, untuk menambahkan path anda dapat mengklik bagian **Add New** untuk membuka form Path date range.
 
-   ![](/uploads/pathchannels2.PNG)
+   ![](/uploads/pathdate2.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
