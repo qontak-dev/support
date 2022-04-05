@@ -3,7 +3,6 @@ tags: []
 title: Login - Mobile
 subtitle: mobile
 author: hariyati suarni nurindah
-published: false
 
 ---
 1. Download applikasi Qontak CRM di iOS atau Android, di mobile phone atau di tablet Anda.
