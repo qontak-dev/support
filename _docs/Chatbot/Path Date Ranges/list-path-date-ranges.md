@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list **Path date ranges**, Anda perlu mengikuti lang
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Path date ranges** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/pathchannels1.PNG)
+   ![](/uploads/pathdate1.PNG)
 3. Tombol “**List View**” untuk mengubah tampilan Path date ranges dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat Path date ranges dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari Path date ranges berdasarkan nama.
