@@ -8,7 +8,7 @@ published: false
 ---
 **List Path Keywords**
 
-**List Path Channels** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path keywords.
+**List Path Keywords** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path keywords.
 
 Untuk melihat tampilan pada list **Path Keywords**, Anda perlu mengikuti langkah-langkah berikut;
 
