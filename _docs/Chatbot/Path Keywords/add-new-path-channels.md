@@ -1,16 +1,16 @@
 ---
 tags: []
-title: Add New Path Channels
+title: Add Path Keywords
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
-**Add New Path Channels**
+**Add Path Keywords**
 
-Dalam menu **Path Channels**, anda dapat menambahkan path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path channels pada Web.
+Dalam menu **Path Keywords**, anda dapat menambahkan path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path channels pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Channels** di bagian kiri atas, untuk menambahkan path anda dapat mengklik bagian **Add New** untuk membuka form path Channels.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Keywords** di bagian kiri atas, untuk menambahkan path anda dapat mengklik bagian **Add New** untuk membuka form path keywords.
 
    ![](/uploads/pathchannels2.PNG)
 
