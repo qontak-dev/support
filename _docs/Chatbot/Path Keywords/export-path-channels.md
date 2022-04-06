@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Export Path Channels
+title: Export Keywords
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
-**Export Path Channels**
+**Export Keywords**
 
 Dalam menu Path Channels, anda dapat mengexport path channels yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path channels pada Web.
 
