@@ -84,6 +84,8 @@ pages:
 - _docs/Chatbot/Path Keywords/add-new-path-channels.md
 - _docs/Chatbot/Path Keywords/export-path-channels.md
 - _docs/Chatbot/Path Keywords/list-path-channels.md
+- _docs/Chatbot/Path Schedules/add-path-schedules.md
+- _docs/Chatbot/Path Schedules/export-path-schedules.md
 - _docs/Chatbot/Path Schedules/list-path-schedules.md
 - _docs/Chatbot/Paths/add-multiple-path.md
 - _docs/Chatbot/Paths/add-new-paths.md
