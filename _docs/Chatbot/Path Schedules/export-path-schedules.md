@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Path Schedules**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path keywords pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Keywords** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path keywords
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Schedules** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path keywords
 
    ![](/uploads/pathkeywords6.PNG)
 
