@@ -28,7 +28,7 @@ Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langka
 6. Menu “**Show**” untuk mengatur berapa banyak response paths yang ditampilkan di satu layar.
 
    ![](/uploads/responsepath2.PNG)
-7. Tombol “**Export Found** ” untuk mengarahkan ke halaman export response paths
+7. Tombol “**Export Found Response Paths**” untuk mengarahkan ke halaman export response paths
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response paths
 
    ![](/uploads/responsepath3.PNG)
