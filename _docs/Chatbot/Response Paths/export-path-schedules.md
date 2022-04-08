@@ -1,18 +1,18 @@
 ---
 tags: []
-title: Export Path Schedules
+title: Export Response Path
 subtitle: ''
 author: ''
 published: false
 
 ---
-**Export Path Schedules**
+**Export Response Path**
 
-Dalam menu **Path Schedules**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path schedules pada Web.
+Dalam menu **Response Path**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response path pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Schedules** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path schedules
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Path** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export response path
 
-   ![](/uploads/pathschedules3.PNG)
+   ![](/uploads/responsepath7.PNG)
 
    > Select Field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
