@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Add Response source intents
+title: Add Response Source Intents
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
