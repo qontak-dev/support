@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Response Source Intents,
+title: List Response Source Intents,
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
@@ -10,7 +10,7 @@ published: false
 
 **List Response Source Intents** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada response source intents
 
-Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
