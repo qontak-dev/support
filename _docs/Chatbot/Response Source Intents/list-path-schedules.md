@@ -1,14 +1,14 @@
 ---
 tags: []
-title: List Path Schedules
+title: Response Source Intents,
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**List Path Schedules**
+**List Response Source Intents,**
 
-**List Path Schedules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
+**List Response Source Intents** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada response source intents
 
 Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langkah-langkah berikut;
 
