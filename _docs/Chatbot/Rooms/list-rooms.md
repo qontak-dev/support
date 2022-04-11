@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Rooms dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/pathschedules5.PNG)
+   ![](/uploads/rooms1.PNG)
 
    > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan path schedules dalam bentuk list (seperti pada gambar).
