@@ -17,7 +17,7 @@ Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengiku
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Response Source Intents** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/responsesourceintents1.PNG)
 
@@ -26,10 +26,12 @@ Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengiku
 4. Tombol “**Filter**” untuk melihat response source intents dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari response source intents berdasarkan nama.
 6. Menu “**Show**” untuk mengatur berapa banyak response source intents yang ditampilkan di satu layar.
-7. Tombol “**Export Found Path Schedules**” untuk mengarahkan ke halaman export path schedules
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path schedules
 
-   ![](/uploads/pathschedules7.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu path schedules
+   ![](/uploads/responsesourceintents2-1.PNG)
+7. Tombol “**Export Found Response Source Intents**” untuk mengarahkan ke halaman export response source intents
+8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response source intents
 
-   ![](/uploads/pathschedules8.PNG)
+   ![](/uploads/responsesourceintents3.PNG)
+9. Tombol “**Delete**” untuk menghapus suatu response source intents
+
+   ![](/uploads/responsesourceintents4.PNG)
