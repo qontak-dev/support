@@ -94,6 +94,7 @@ pages:
 - _docs/Chatbot/Response Paths/add-path-schedules.md
 - _docs/Chatbot/Response Paths/export-path-schedules.md
 - _docs/Chatbot/Response Paths/list-path-schedules.md
+- _docs/Chatbot/Response Source Intents/add-response-paths.md
 - _docs/Chatbot/Response Source Intents/list-path-schedules.md
 - _docs/Chatbot/Responses/add-multiple-responses.md
 - _docs/Chatbot/Responses/add-new-responses.md
