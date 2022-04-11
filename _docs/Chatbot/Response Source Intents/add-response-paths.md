@@ -12,7 +12,7 @@ Dalam menu **Response source intents**, anda dapat menambahkan response source i
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Response source intents** di bagian kiri atas, untuk menambahkan response source intents anda dapat mengklik bagian **Add New** untuk membuka form response source intents
 
-   ![](/uploads/responsepath5.PNG)
+   ![](/uploads/responsesourceintents5.PNG)
 
    pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
