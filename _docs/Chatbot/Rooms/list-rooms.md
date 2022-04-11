@@ -17,7 +17,7 @@ Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Rooms dengan fitur-fitur yang disediakan.
 
    ![](/uploads/pathschedules5.PNG)
 
