@@ -1,16 +1,16 @@
 ---
 tags: []
-title: Export Response Path
+title: Export Response Source Intent
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Export Response Path**
+**Export Response Source Intent**
 
-Dalam menu **Response Path**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response path pada Web.
+Dalam menu **Response Source Intent**, anda dapat mengexport response source intent yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response source intent pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Path** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export response path
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Source Intent** di bagian kiri atas, untuk export suatu response, anda dapat mengklik bagian **Export** untuk membuka form export response source intent
 
    ![](/uploads/responsepath7.PNG)
 
