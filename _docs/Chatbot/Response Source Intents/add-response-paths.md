@@ -8,7 +8,7 @@ published: false
 ---
 **Add Response source intents**
 
-Dalam menu **Response source intents**, anda dapat menambahkan response paths yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path schedules pada Web.
+Dalam menu **Response source intents**, anda dapat menambahkan response source intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response source intents pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Paths** di bagian kiri atas, untuk menambahkan response path anda dapat mengklik bagian **Add New** untuk membuka form response paths.
 
