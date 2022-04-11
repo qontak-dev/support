@@ -35,6 +35,6 @@ Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah
  9. Tombol “**Delete**” untuk menghapus suatu show logs
 
     ![](/uploads/rooms4.PNG)
-10. Tombol “**Show Logs**” untuk menghapus suatu show logs
+10. Tombol “**Show Logs**” untuk menampilkan suatu show logs
 
     ![](/uploads/rooms5.PNG)
