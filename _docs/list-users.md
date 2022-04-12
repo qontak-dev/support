@@ -8,9 +8,9 @@ published: false
 ---
 **List Users**
 
-**List Users** merupakan sebuah fitur chatbot yang menampilkan list data yang ada rooms.
+**List Users** merupakan sebuah fitur chatbot yang menampilkan list data yang ada users.
 
-Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list **Users**, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
