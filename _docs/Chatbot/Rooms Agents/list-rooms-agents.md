@@ -17,7 +17,7 @@ Untuk melihat tampilan pada list **Rooms Agents**, Anda perlu mengikuti langkah-
     ![](/uploads/channell.PNG)
 
     > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Rooms Agents dengan fitur-fitur yang disediakan.
+ 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Rooms Agents** dengan fitur-fitur yang disediakan.
 
     ![](/uploads/rooms1.PNG)
 
