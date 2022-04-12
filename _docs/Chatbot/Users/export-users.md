@@ -8,7 +8,7 @@ published: false
 ---
 **Export Users**
 
-Dalam menu **Rooms**, anda dapat mengexport rooms yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export rrooms pada Web.
+Dalam menu **Users**, anda dapat mengexport users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export users pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms** di bagian kiri atas, untuk export suatu rooms, anda dapat mengklik bagian **Export** untuk membuka form export rooms
 
