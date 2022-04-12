@@ -32,6 +32,6 @@ Untuk melihat tampilan pada list **Rooms Agents**, Anda perlu mengikuti langkah-
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms agents
 
    ![](/uploads/roomagents3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu show logs
+9. Tombol “**Delete**” untuk menghapus suatu rooms agents
 
    ![](/uploads/roomagents4.PNG)
