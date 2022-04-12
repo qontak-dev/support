@@ -8,9 +8,9 @@ published: false
 ---
 **Add Rooms Agents**
 
-Dalam menu **Rooms Agents**, anda dapat menambahkan rooms yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan rooms pada Web.
+Dalam menu **Rooms Agents**, anda dapat menambahkan rooms agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan rooms agents pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms** di bagian kiri atas, untuk menambahkan rooms anda dapat mengklik bagian **Add New** untuk membuka form rooms.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms Agents** di bagian kiri atas, untuk menambahkan rooms anda dapat mengklik bagian **Add New** untuk membuka form rooms.
 
    ![](/uploads/rooms6-1.PNG)
 
