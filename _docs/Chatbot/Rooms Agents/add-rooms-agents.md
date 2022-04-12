@@ -12,7 +12,7 @@ Dalam menu **Rooms Agents**, anda dapat menambahkan rooms agents yang anda ingin
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms Agents** di bagian kiri atas, untuk menambahkan rooms agents anda dapat mengklik bagian **Add New** untuk membuka form rooms agents.
 
-   ![](/uploads/rooms6-1.PNG)
+   ![](/uploads/roomagents5.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
