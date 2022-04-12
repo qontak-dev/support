@@ -12,7 +12,7 @@ Dalam menu **Rooms Agents**, anda dapat mengexport rooms agents yang anda ingink
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms Agents** di bagian kiri atas, untuk export suatu rooms agents, anda dapat mengklik bagian **Export** untuk membuka form export rooms agents
 
-   ![](/uploads/rooms8.PNG)
+   ![](/uploads/roomagents7.PNG)
 
    > Select Field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
