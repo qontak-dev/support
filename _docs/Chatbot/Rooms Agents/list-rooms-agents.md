@@ -8,7 +8,7 @@ published: false
 ---
 **List Rooms Agents**
 
-**List Rooms** merupakan sebuah fitur chatbot yang menampilkan list data yang ada rooms.
+**List Rooms Agents** merupakan sebuah fitur chatbot yang menampilkan list data yang ada rooms agents.
 
 Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah berikut;
 
