@@ -2,15 +2,15 @@
 tags: []
 title: Add Data Migrations
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
 **Add Data Migrations**
 
-Dalam menu **Data Migrations**, anda dapat menambahkan users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan users pada Web.
+Dalam menu **Data Migrations**, anda dapat menambahkan data migrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan data migrations pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Users** di bagian kiri atas, untuk menambahkan users anda dapat mengklik bagian **Add New** untuk membuka form users.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Data Migrations** di bagian kiri atas, untuk menambahkan users anda dapat mengklik bagian **Add New** untuk membuka form users.
 
    ![](/uploads/users5.PNG)
 
