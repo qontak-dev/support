@@ -8,3 +8,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _docs/crm/crm-frequently-asked-questions-faqs.md
