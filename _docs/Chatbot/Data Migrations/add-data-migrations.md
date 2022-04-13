@@ -12,11 +12,10 @@ Dalam menu **Data Migrations**, anda dapat menambahkan data migrations yang anda
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Data Migrations** di bagian kiri atas, untuk menambahkan data migrations anda dapat mengklik bagian **Add New** untuk membuka form data migrations.
 
-   ![](/uploads/users5.PNG)
+   ![](/uploads/datamigrations6.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-2. Setelah data terisi, klik button **Save** untuk menyimpan data.
-
-   ![](/uploads/users6.PNG)
-
-   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+   >
+   > > Setelah data terisi, klik button **Save** untuk menyimpan data.
+   > >
+   > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
