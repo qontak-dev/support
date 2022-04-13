@@ -2,7 +2,7 @@
 tags: []
 title: List Data Migrations
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -32,6 +32,6 @@ Untuk melihat tampilan pada list **Data Migrations**, Anda perlu mengikuti langk
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu data migrations
 
    ![](/uploads/datamigrations4.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu users
+9. Tombol “**Delete**” untuk menghapus suatu data migrations
 
-   ![](/uploads/users4.PNG)
+   ![](/uploads/datamigrations5.PNG)
