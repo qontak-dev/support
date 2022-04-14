@@ -15,27 +15,27 @@ categories: []
    Untuk mengganti nama dan email agent, hanya dapat dilakukan dari akun admin (hanya dapat dilakukan dengan device laptop/PC). Adapun langkah untuk mengganti nama dan email agent: Login akun admin - setting - accounts management - user - search user - edit - save.
 5. **Apakah kita dapat meresolved secara massal?**  
    Auto resolved expired chat adalah fitur yang dapat digunakan untuk meresolved beberapa room chat sekaligus yang statusnya sudah lebih dari 24 jam atau expired tanpa perlu agent/user klik resolved satu-satu per room, agent bisa mengaktifkan auto resolved expired chat di bagian resolved all expired chat.
-6. **Kenapa baru ada pesan masuk setelah di refresh?  
-   **Untuk penggunaan pada google chrome, pastikan sudah allow notification dengan langkah berikut: Klik pada gambar gembok di kiri url > kemudian pada menu Notification di geser hingga menjadi biru (artinya sudah allow notification). Dengan langkah berikut chat baru akan otomatis masuk tanpa di refresh.
+6. **Kenapa baru ada pesan masuk setelah di refresh?**  
+   Untuk penggunaan pada google chrome, pastikan sudah allow notification dengan langkah berikut: Klik pada gambar gembok di kiri url > kemudian pada menu Notification di geser hingga menjadi biru (artinya sudah allow notification). Dengan langkah berikut chat baru akan otomatis masuk tanpa di refresh.
 7. **Bagaimana cara block kontak?**  
    Untuk block contact, anda dapat masuk room chat nomor tersebut, kemudian klik icon orang merah. Perlu di ingat bahwa melakukukan block contact hanya bisa dilakukan pada chat yang belum resolved.
 
 ## **Broadcast**
 
-1. **Bagaimana cara add sample?  
-   **Apabila ada penggunaan media/variable saat pembuatan template, maka anda wajib untuk mengisi bagian pada menu add sample. Add sample dapat di sesuaikan sesuai dengan kolom yang ada dengan template nya, langkah ini digunakan untuk menginfokan kepada pihak Facebook bahwa template yang anda submit tidak melanggar commerce policy dari facebook.
-2. **Berapa ukuran gambar yang bisa dibroadcast?  
-   **Ukuran gambar yang dapat di broadcast maksimal 6MB dengan ukuran square. Untuk informasi lebiih detail, anda dapat mengunjungi link berikut [https://developers.facebook.com/docs/sharing/webmasters/images](https://developers.facebook.com/docs/sharing/webmasters/images "https://developers.facebook.com/docs/sharing/webmasters/images")
-3. **Kenapa template saya loading lama saat di submit?  
-   **Untuk template loading saat submit, ini biasanya terjadi karena ada beberapa kesalahan berikut:  
+1. **Bagaimana cara add sample?**  
+   Apabila ada penggunaan media/variable saat pembuatan template, maka anda wajib untuk mengisi bagian pada menu add sample. Add sample dapat di sesuaikan sesuai dengan kolom yang ada dengan template nya, langkah ini digunakan untuk menginfokan kepada pihak Facebook bahwa template yang anda submit tidak melanggar commerce policy dari facebook.
+2. **Berapa ukuran gambar yang bisa dibroadcast?**  
+   Ukuran gambar yang dapat di broadcast maksimal 6MB dengan ukuran square. Untuk informasi lebiih detail, anda dapat mengunjungi link berikut [https://developers.facebook.com/docs/sharing/webmasters/images](https://developers.facebook.com/docs/sharing/webmasters/images "https://developers.facebook.com/docs/sharing/webmasters/images")
+3. **Kenapa template saya loading lama saat di submit?**  
+   Untuk template loading saat submit, ini biasanya terjadi karena ada beberapa kesalahan berikut:  
    1\. Variable double/tidak urut  
    2\. Ada spasi di awal kalimat  
    3\. enter consecutive lebih dr 1x  
    4\. Jumlah karakter melebih 1.024  
    5\. Ada double spasi di antara kata-kata  
    6\. Ketika add sample dengan menggunakan video, bisa menggunakan contoh video di bawah 10MB
-4. **Kenapa template saya di reject?  
-   **Untuk template yang di reject ini adalah penilaian langsung oleh FB, berikut ini adalah recap untuk ketentuan broadcast:  
+4. **Kenapa template saya di reject?**  
+   Untuk template yang di reject ini adalah penilaian langsung oleh FB, berikut ini adalah recap untuk ketentuan broadcast:  
    1\. Tidak boleh mengandung konten, kalimat, ataupun kata kata yang bersifat promosi atau hard selling.  
    \- solusi : masukkan ke dalam variabel  
    2\. Tidak boleh ada shortened link seperti bit.ly, linktree dll  
@@ -52,12 +52,12 @@ categories: []
    \- submit template 2/3 hari sebelum broadcast
 5. **Bagaimana cara membuat list baru?**  
    Login akun Admin, kemudian klik Broadcast, setelah itu klik List, pilih Create New List, lalu klik Upload Custom Contact, isi nama List, klik File yang diinginkan, isi File, terakhir klik Select File dan Save. ****
-6. **Kenapa Template saya pending?  
-   **Ketika template memiliki status pending artinya template anda sedang di review leg tim Facebook. Untuk update dari status template tersebut memiliki range waktu 0-24 jam, perlu kami informasikan juga bahwa approval berasal dari Facebook sehingga dari pihak Qontak tidak dapat mempercepat prosesnya. Namun, apabila sudah >24 jam untuk templatenya masih pending, silahkan menghubungi tim support kami.
-7. **Bagaimana cara menggunakan variable saat broadcast?  
-   **Variable digunakan untuk mengkustomisasi suatu kata, cara penggunaannya, anda dapat menggunakan simbol {{1}} dengan angka berganti scr berurutan, untuk menyimpan data variable, anda dapat menambahkan di kolom excel dimulai dari kolom E.
-8. **Kenapa saya gagal upload list?  
-   **Untuk menghindari gagal upload, anda dapat memastikan hal-hal berikut terlebih dahulu:  
+6. **Kenapa Template saya pending?**  
+   Ketika template memiliki status pending artinya template anda sedang di review leg tim Facebook. Untuk update dari status template tersebut memiliki range waktu 0-24 jam, perlu kami informasikan juga bahwa approval berasal dari Facebook sehingga dari pihak Qontak tidak dapat mempercepat prosesnya. Namun, apabila sudah >24 jam untuk templatenya masih pending, silahkan menghubungi tim support kami.
+7. **Bagaimana cara menggunakan variable saat broadcast?**  
+   Variable digunakan untuk mengkustomisasi suatu kata, cara penggunaannya, anda dapat menggunakan simbol {{1}} dengan angka berganti scr berurutan, untuk menyimpan data variable, anda dapat menambahkan di kolom excel dimulai dari kolom E.
+8. **Kenapa saya gagal upload list?**  
+   Untuk menghindari gagal upload, anda dapat memastikan hal-hal berikut terlebih dahulu:  
    1\. pastikan semua format kolom berbentuk "Text"  
    2\. semua variable tidak menggunakan konsekutif enter  
    3\. judul kolom berupa huruf kecil semua tanpa tanda spasi  
@@ -65,10 +65,10 @@ categories: []
 
 ## **Finance**
 
-1. **Bagaimana cara cek saldo saya?  
-   **Untuk cara mengecek saldo dapat melalui akun admin, kemudian masuk ke menu finance -> pilih billing usage -> mengacu pada kolom remaining balance.
-2. **Bagaimana cara melihat kuota conversation saya?  
-   **Untuk melihat kuota conversation bisa ke menu Finance > kemudian klik Billing Usage > dan bisa dilihat di bagian Remaining Balance.
+1. **Bagaimana cara cek saldo saya?**  
+   Untuk cara mengecek saldo dapat melalui akun admin, kemudian masuk ke menu finance -> pilih billing usage -> mengacu pada kolom remaining balance.
+2. **Bagaimana cara melihat kuota conversation saya?**  
+   Untuk melihat kuota conversation bisa ke menu Finance > kemudian klik Billing Usage > dan bisa dilihat di bagian Remaining Balance.
 3. **Apa itu Monthly Conversation Credit?**  
    Monthly Conversation Credit adalah jumlah percakapan yang terjadi dalam setiap bulan. Setiap sesi akan dihitung dr Agent pertama kali membalas pesan dan berlaku 24 jam setelahnya.
 4. **Apa itu Monthly Unique visitor?**  
@@ -86,8 +86,8 @@ categories: []
 
 1. **Dari mana data Total Chat?**  
    Total chat merupakan semua jumlah percakapan yang masuk pada akun anda, termasuk broadcast dan inbound message.
-2. **Bagaimana cara perhitungan response time?  
-   **Response Time dihitung dari rata-rata waktu chat tersebut di assigned ke Agent hingga percakapan tersebut di resolved.
+2. **Bagaimana cara perhitungan response time?**  
+   Response Time dihitung dari rata-rata waktu chat tersebut di assigned ke Agent hingga percakapan tersebut di resolved.
 3. **Apakah bisa saya mendapatkan laporan Customer Satisfaction Survey atau CSAT?**  
    Bisa, untuk mendapatkan laporan CSAT dengan cara login Omnichat akun Admin, klik Reports, klik CSAT, klik Chanel yang diinginkan, klik Filter tanggal yang diinginkan, klik tanda panah kebawah.
 
@@ -111,8 +111,8 @@ categories: []
 
 ## **Setting**
 
-1. **Bagaimana cara setting jam kerja?  
-   **Untuk mengatur Office Hour akun anda, anda dapat melakukan step berikut: a. Login akun admin  
+1. **Bagaimana cara setting jam kerja?**  
+   Untuk mengatur Office Hour akun anda, anda dapat melakukan step berikut: a. Login akun admin  
    b. klik Settings  
    c. klik Chat-klik Office Hours  
    d. Pilih jam yang and ingin tentukan  
