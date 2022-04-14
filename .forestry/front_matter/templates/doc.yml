@@ -114,6 +114,7 @@ pages:
 - _docs/Chatbot/Users/export-users.md
 - _docs/Chatbot/Users/list-users.md
 - _docs/Chatbot/Versions/add-version.md
+- _docs/Chatbot/Versions/export-version.md
 - _docs/Chatbot/Versions/list-version.md
 - _docs/crm/Company/company-download-data-company.md
 - _docs/crm/Company/company-filter-data-company.md
