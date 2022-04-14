@@ -112,7 +112,8 @@ categories: []
 ## **Setting**
 
 1. **Bagaimana cara setting jam kerja?**  
-   Untuk mengatur Office Hour akun anda, anda dapat melakukan step berikut: a. Login akun admin  
+   Untuk mengatur Office Hour akun anda, anda dapat melakukan step berikut:   
+   a. Login akun admin  
    b. klik Settings  
    c. klik Chat-klik Office Hours  
    d. Pilih jam yang and ingin tentukan  
