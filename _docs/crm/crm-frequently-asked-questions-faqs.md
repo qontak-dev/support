@@ -28,21 +28,21 @@ categories: []
 
 ## **Task**
 
-1. **Apakah ada notifikasi ketika tugas yang di assign ke saya?  
-   **Ada, notifikasi tersebut akan masuk ke email user yang di tag atau di assign dan akan masuk juga notifikasinya di bagian icon lonceng.
-2. Bagaimana cara mengubah atau menambah field pada task?  
+1. **Apakah ada notifikasi ketika tugas yang di assign ke saya?**  
+   Ada, notifikasi tersebut akan masuk ke email user yang di tag atau di assign dan akan masuk juga notifikasinya di bagian icon lonceng.
+2. **Bagaimana cara mengubah atau menambah field pada task?**  
    Untuk merubah task, login ke akun CRM Anda, lalu klik Menu **Properties**, klik tab **Task**, klik **"Add New Property"**, isi nama Property, isi Field Type, dan klik **"Save"**.
 
 ## **Report**
 
-1. **Mengapa report saya tidak sesuai dengan data yang saya simpan?  
-   **Untuk data report pada menu dashboard akan difilter berdasarkan last updated at sehingga data yan ditampilkan bukan berdasarkan data yang dibuat pada tanggal tersebut namun berdasarkan data yang diupdate pada tanggal tersebut
+1. **Mengapa report saya tidak sesuai dengan data yang saya simpan?**  
+   Untuk data report pada menu dashboard akan difilter berdasarkan last updated at sehingga data yan ditampilkan bukan berdasarkan data yang dibuat pada tanggal tersebut namun berdasarkan data yang diupdate pada tanggal tersebut
 2. **Apakah saya bisa melihat report salah satu anggota saja?**  
    Bisa, Login ke akun Admin CRM Anda, kemudian klik Dashboard, lalu klik Select User, klik Nama User yang diinginkan, terakhir klik Submit.
 
 ## **Kehadiran Live GPS**
 
-1. **Mengapa saya tidak bisa click check in?  
-   **Pastikan GPS nya sudah aktif, sudah terhubung dengan koneksi yang stabil, dapat mengklik tombol sync.
+1. **Mengapa saya tidak bisa click check in?**  
+   Pastikan GPS nya sudah aktif, sudah terhubung dengan koneksi yang stabil, dapat mengklik tombol sync.
 2. **Apakah lokasi saya tetap ke record ketika hp saya mati atau tidak ada sinyal?**  
    Ketika hp mati, lokasi Anda akan tetap terdeteksi ketika anda tetap menyalakan GPS pada kondisi sebelumnya.
