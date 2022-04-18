@@ -2,7 +2,7 @@
 tags: []
 title: Chat Service Token Channel Integration
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
