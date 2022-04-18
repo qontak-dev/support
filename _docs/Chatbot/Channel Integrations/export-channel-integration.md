@@ -2,7 +2,7 @@
 tags: []
 title: Export Channel Integration
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
