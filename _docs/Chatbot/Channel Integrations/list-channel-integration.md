@@ -19,9 +19,7 @@ Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langk
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Channel Integration** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/users1.PNG)
-
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+   > untuk menampilkan form **action** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan users dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari users berdasarkan nama.
