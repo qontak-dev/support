@@ -22,29 +22,29 @@ Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langk
     ![](/uploads/channelintegrationsedit1.PNG)
 
     > untuk menampilkan form **action** klik button Icon yang ada pada bagian kanan
- 3. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
+ 3. Tombol “**Filter**” untuk melihat channel integrations  dengan pengaturan tertentu.
  4. Tombol “**Export Found Channel Integrations**” untuk mengarahkan ke halaman export channel integrations
- 5. Menu “**Show Tree**” untuk menampilkan qontak path
+ 5. Menu “**Show Tree**” untuk menampilkan qontak path channel integrations
 
     ![](/uploads/channelintegrationseditaction1.PNG)
- 6. Menu “**Show**” untuk mengatur berapa banyak users yang ditampilkan di satu layar
+ 6. Menu “**Show**” untuk mengatur berapa banyak channel integrations yang ditampilkan di satu layar
 
     ![](/uploads/channelintegrationseditaction2.PNG)
- 7. Tombol “**Edit**” untuk mengubah atau meng-update suatu users
+ 7. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction3.PNG)
- 8. Tombol “**Clone**” untuk mengatur berapa banyak users yang ditampilkan di satu layar
+ 8. Tombol “**Clone**” untuk mengatur berapa banyak channel integrations yang ditampilkan di satu layar
 
     ![](/uploads/channelintegrationseditaction4.PNG)
  9. Tombol “**Delete**” untuk menghapus suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction5.PNG)
-10. Tombol “**Show Channel Integrated**” untuk menghapus suatu users
+10. Tombol “**Show Channel Integrated**” untuk menghapus suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction6.PNG)
-11. Tombol “**Show Divisions**” untuk menghapus suatu users
+11. Tombol “**Show Divisions**” untuk menghapus suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction7.PNG)
-12. Tombol “**Sync Agent**” untuk menghapus suatu users
+12. Tombol “**Sync Agent**” untuk menghapus suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction8.PNG)
