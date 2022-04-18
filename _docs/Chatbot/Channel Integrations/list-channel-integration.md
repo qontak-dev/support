@@ -25,10 +25,26 @@ Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langk
  3. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
  4. Tombol “**Export Found Channel Integrations**” untuk mengarahkan ke halaman export channel integrations
  5. Menu “**Show Tree**” untuk menampilkan qontak path
+
+    ![](/uploads/channelintegrationseditaction1.PNG)
  6. Menu “**Show**” untuk mengatur berapa banyak users yang ditampilkan di satu layar
+
+    ![](/uploads/channelintegrationseditaction2.PNG)
  7. Tombol “**Edit**” untuk mengubah atau meng-update suatu users
+
+    ![](/uploads/channelintegrationseditaction3.PNG)
  8. Tombol “**Clone**” untuk mengatur berapa banyak users yang ditampilkan di satu layar
- 9. Tombol “**Delete**” untuk menghapus suatu users
+
+    ![](/uploads/channelintegrationseditaction4.PNG)
+ 9. Tombol “**Delete**” untuk menghapus suatu channel integrations
+
+    ![](/uploads/channelintegrationseditaction5.PNG)
 10. Tombol “**Show Channel Integrated**” untuk menghapus suatu users
+
+    ![](/uploads/channelintegrationseditaction6.PNG)
 11. Tombol “**Show Divisions**” untuk menghapus suatu users
+
+    ![](/uploads/channelintegrationseditaction7.PNG)
 12. Tombol “**Sync Agent**” untuk menghapus suatu users
+
+    ![](/uploads/channelintegrationseditaction8.PNG)
