@@ -19,17 +19,18 @@ Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langk
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Channel Integration** dengan fitur-fitur yang disediakan.
 
+   ![](/uploads/channelintegrationsedit1.PNG)
+
    > untuk menampilkan form **action** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan users dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari users berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak users yang ditampilkan di satu layar.
+3. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
+4. Menu “**Show Tree**” untuk menampilkan qontak path
+5. Menu “**Show Three**” untuk mengatur berapa banyak users yang ditampilkan di satu layar.
 
    ![](/uploads/users2.PNG)
-7. Tombol “**Export Found Users**” untuk mengarahkan ke halaman export users
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu users
+6. Tombol “**Export Found Users**” untuk mengarahkan ke halaman export users
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu users
 
    ![](/uploads/users3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu users
+8. Tombol “**Delete**” untuk menghapus suatu users
 
    ![](/uploads/users4.PNG)
