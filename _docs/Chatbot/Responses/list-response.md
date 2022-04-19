@@ -32,4 +32,5 @@ Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah
 
    ![](/uploads/listresponses3.PNG)
 8. Tombol “**Delete**” untuk menghapus suatu responses
-9. Menunjukkan halaman ke berapa responses tersebut di tampilkan dari keseluruhan halaman responses
+
+   ![](/uploads/listresponses4.PNG)
