@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Responses**
 
-Dalam menu responses, anda dapat menambahkan response yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response pada Web.
+Dalam menu **Responses**, anda dapat menambahkan response yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk menambahkan responses anda dapat mengklik bagian **Add New** untuk membuka form Responses.
 
