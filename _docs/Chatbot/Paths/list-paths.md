@@ -17,13 +17,20 @@ Untuk melihat tampilan pada list Paths, Anda perlu mengikuti langkah-langkah ber
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Paths** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/paths1.PNG)
-3. Tombol “**List View**” untuk mengubah tampilan Paths dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat Paths dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari Paths berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak Paths yang ditampilkan di satu layar.
-7. Tombol “**Export Found Paths**” untuk mengarahkan ke halaman export Paths
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu Paths
-9. Tombol “**Delete**” untuk menghapus suatu Paths
+   ![](/uploads/listpath1.PNG)
+3. Tombol “**Filter**” untuk melihat Paths dengan pengaturan tertentu.
+4. Tombol “**Export Found Paths**” untuk mengarahkan ke halaman export Paths
+5. Menu “**Show**” untuk mengatur berapa banyak Paths yang ditampilkan di satu layar.
+
+   ![](/uploads/listpath2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Paths
+
+   ![](/uploads/listpath3.PNG)
+7. Tombol “**Clone**” untuk manampilkan Paths di satu layar.
+
+   ![](/uploads/listpath4.PNG)
+8. Tombol “**Delete**” untuk menghapus suatu Paths
+
+   ![](/uploads/listpath5.PNG)
