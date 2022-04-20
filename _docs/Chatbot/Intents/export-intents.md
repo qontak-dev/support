@@ -14,9 +14,9 @@ Dalam menu Intents, anda dapat mengexport intents yang anda inginkan. Berikut me
 
    ![](/uploads/intents3.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > > Select Field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport.
 
-   ![](/uploads/intents4.PNG)
+   ![](/uploads/intentsupdate6.PNG)
 
-   klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
+   > > klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
