@@ -2,7 +2,7 @@
 tags: []
 title: Add New Intents
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
