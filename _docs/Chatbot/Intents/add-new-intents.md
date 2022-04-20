@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Intents**
 
-Dalam menu intents, anda dapat menambahkan intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan intents pada Web.
+Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan intents pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intents** di bagian kiri atas, untuk menambahkan intents anda dapat mengklik bagian **Add New** untuk membuka form Intents.
 
