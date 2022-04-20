@@ -2,13 +2,13 @@
 tags: []
 title: Export Agents
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
 **Export Agents**
 
-Dalam menu Agents, anda dapat mengexport agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export agents pada Web.
+Dalam menu **Agents**, anda dapat mengexport agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export agents pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Agents** di bagian kiri atas, untuk export suatu agents, anda dapat mengklik bagian **Export** untuk membuka form Export agents
 
