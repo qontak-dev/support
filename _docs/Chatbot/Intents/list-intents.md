@@ -2,7 +2,7 @@
 tags: []
 title: List Intents
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -12,29 +12,25 @@ published: false
 
 Untuk melihat tampilan pada list intents, Anda perlu mengikuti langkah-langkah berikut;
 
- 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-    ![](/uploads/channell.PNG)
+   ![](/uploads/channell.PNG)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intents** dengan fitur-fitur yang disediakan.
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intents** dengan fitur-fitur yang disediakan.
 
-    ![](/uploads/intentsupdate1.PNG)
- 3. Tombol “**Filter**” untuk melihat channel integrations  dengan pengaturan tertentu.
- 4. Tombol “**Export Found Channel Integrations**” untuk mengarahkan ke halaman export channel integrations
- 5. Menu “**Show Tree**” untuk menampilkan qontak path channel integrations
+   ![](/uploads/intentsupdate1.PNG)
+3. Tombol “**Filter**” untuk melihat channel integrations  dengan pengaturan tertentu.
+4. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export intents
+5. Menu “**Show**” untuk mengatur berapa banyak intents yang ditampilkan di satu layar
 
-    ![](/uploads/channelintegrationseditaction1.PNG)
- 6. Menu “**Show**” untuk mengatur berapa banyak channel integrations yang ditampilkan di satu layar
+   ![](/uploads/intentsupdate2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu intents
 
-    ![](/uploads/channelintegrationseditaction2.PNG)
- 7. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel integrations
+   ![](/uploads/intentsupdate3.PNG)
+7. Tombol “**Clone**” untuk mengatur berapa banyak intents yang ditampilkan di satu layar
 
-    ![](/uploads/channelintegrationseditaction3.PNG)
- 8. Tombol “**Clone**” untuk mengatur berapa banyak channel integrations yang ditampilkan di satu layar
+   ![](/uploads/intentsupdate4.PNG)
+8. Tombol “**Delete**” untuk menghapus suatu intents
 
-    ![](/uploads/channelintegrationseditaction4.PNG)
- 9. Tombol “**Delete**” untuk menghapus suatu channel integrations
-
-    ![](/uploads/channelintegrationseditaction5.PNG)
-10. Tombol “**Show Channel Integrated**” untuk menghapus suatu channel 
+   ![](/uploads/intentsupdate5.PNG)
