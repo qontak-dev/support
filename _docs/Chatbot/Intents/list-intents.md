@@ -8,7 +8,7 @@ published: false
 ---
 **List Intents**
 
-**List Intents** merupakan sebuah fitur chatbot yang menampilkan list data yang ada intents.
+**List Intents** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intents.
 
 Untuk melihat tampilan pada list intents, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -20,7 +20,7 @@ Untuk melihat tampilan pada list intents, Anda perlu mengikuti langkah-langkah b
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intents** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/intentsupdate1.PNG)
-3. Tombol “**Filter**” untuk melihat channel integrations  dengan pengaturan tertentu.
+3. Tombol “**Filter**” untuk melihat intents dengan pengaturan tertentu.
 4. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export intents
 5. Menu “**Show**” untuk mengatur berapa banyak intents yang ditampilkan di satu layar
 
