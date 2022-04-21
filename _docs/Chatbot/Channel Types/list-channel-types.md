@@ -1,14 +1,14 @@
 ---
 tags: []
-title: Export Channel Targets
+title: Export Channel Types
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Export Channel Targets**
+**Export Channel Types**
 
-Dalam menu **Channel Targets**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada Web.
+Dalam menu **Channel Types**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk export suatu channel targets, anda dapat mengklik bagian **Export** untuk membuka form Export channel targets
 
