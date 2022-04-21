@@ -1,14 +1,14 @@
 ---
 tags: []
-title: List Channel Targets
+title: List Channel Types
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**List Channel Targets**
+**List Channel Types**
 
-**List Channel Targets** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel targets.
+**List Channel Types** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel targets.
 
 Untuk melihat tampilan pada list **Channel Targets**, Anda perlu mengikuti langkah-langkah berikut;
 
