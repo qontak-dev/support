@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Attachments Types**
 
-Dalam menu **Attachments Types**, anda dapat menambahkan attachments types  yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan attachments pada Web.
+Dalam menu **Attachments Types**, anda dapat menambahkan attachments types  yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan attachments types pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments Types** di bagian kiri atas, untuk menambahkan attachments types anda dapat mengklik bagian **Add New** untuk membuka form attachments types .
 
