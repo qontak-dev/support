@@ -8,9 +8,9 @@ published: false
 ---
 **Export Channel Types**
 
-Dalam menu **Channel Types**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada Web.
+Dalam menu **Channel Types**, anda dapat mengexport channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel types pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk export suatu channel targets, anda dapat mengklik bagian **Export** untuk membuka form Export channel targets
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk export suatu channel types, anda dapat mengklik bagian **Export** untuk membuka form Export channel types 
 
    ![](/uploads/channeltypesupdate6.PNG)
 
