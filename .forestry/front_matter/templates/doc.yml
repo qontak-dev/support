@@ -34,6 +34,7 @@ pages:
 - _docs/Chatbot/Channel Integrations/chat-service-token-channel-integration.md
 - _docs/Chatbot/Channel Integrations/export-channel-integration.md
 - _docs/Chatbot/Channel Integrations/list-channel-integration.md
+- _docs/Chatbot/Channel Targets/add-new-channel-targets.md
 - _docs/Chatbot/Channel Targets/export-channel-targets.md
 - _docs/Chatbot/Channel Targets/list-channel-targets.md
 - _docs/Chatbot/Channel Types/add-new-channel-targets.md
