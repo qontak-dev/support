@@ -8,9 +8,9 @@ published: false
 ---
 **Export Channel Targets**
 
-Dalam menu **Attachments**, anda dapat mengexport attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments pada Web.
+Dalam menu **Channel Targets**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk export suatu attachments , anda dapat mengklik bagian **Export** untuk membuka form Export attachments
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk export suatu attachments , anda dapat mengklik bagian **Export** untuk membuka form Export attachments
 
    ![](/uploads/attachments3.PNG)
 
