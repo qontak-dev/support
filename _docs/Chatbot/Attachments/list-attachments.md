@@ -19,9 +19,15 @@ Untuk melihat tampilan pada list attachments, Anda perlu mengikuti langkah-langk
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu attachments dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/attachments1.PNG)
-3. Tombol “**Filter**” untuk melihat agents dengan pengaturan tertentu.
-4. Tombol “**Export Found Attachments**” untuk mengarahkan ke halaman export agents
+   ![](/uploads/attachmentupdate1.PNG)
+3. Tombol “**Filter**” untuk melihat attachments dengan pengaturan tertentu.
+4. Tombol “**Export Found Attachments**” untuk mengarahkan ke halaman export attachments 
 5. Menu “**Show**” untuk mengatur berapa banyak agents yang ditampilkan di satu layar.
+
+   ![](/uploads/attachmentupdate2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents
+
+   ![](/uploads/attachmentupdate3.PNG)
 7. Tombol “**Delete**” untuk menghapus suatu agents
+
+   ![](/uploads/attachmentupdate4.PNG)
