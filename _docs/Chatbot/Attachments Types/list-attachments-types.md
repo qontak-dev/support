@@ -28,6 +28,6 @@ Untuk melihat tampilan pada list attachments types, Anda perlu mengikuti langkah
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu attachments types
 
    ![](/uploads/attachments-types-update3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu attachments
+7. Tombol “**Delete**” untuk menghapus suatu attachments types
 
    ![](/uploads/attachments-types-update4.PNG)
