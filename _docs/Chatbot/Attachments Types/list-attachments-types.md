@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list attachments types, Anda perlu mengikuti langkah
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu attachments types dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/attachments-types.PNG)
+   ![](/uploads/attachments-types-update1.PNG)
 3. Tombol “**List View**” untuk menampilkan attachments types dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat attachments types dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari attachments types berdasarkan nama.
