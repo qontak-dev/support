@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Attachments Types**, anda dapat menambahkan attachments types  yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan attachments pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk menambahkan attachments anda dapat mengklik bagian **Add New** untuk membuka form attachments.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments Types** di bagian kiri atas, untuk menambahkan attachments anda dapat mengklik bagian **Add New** untuk membuka form attachments types .
 
    ![](/uploads/attachments2.PNG)
 
