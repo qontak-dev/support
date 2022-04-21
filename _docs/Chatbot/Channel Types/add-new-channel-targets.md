@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Channel Targets**
 
-Dalam menu **Attachments**, anda dapat menambahkan attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan attachments pada Web.
+Dalam menu **Channel Targets**, anda dapat menambahkan channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan attachments pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk menambahkan attachments anda dapat mengklik bagian **Add New** untuk membuka form attachments.
 
