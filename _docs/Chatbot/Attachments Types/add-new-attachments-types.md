@@ -12,7 +12,7 @@ Dalam menu **Attachments Types**, anda dapat menambahkan attachments types  yang
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments Types** di bagian kiri atas, untuk menambahkan attachments anda dapat mengklik bagian **Add New** untuk membuka form attachments types .
 
-   ![](/uploads/attachments2.PNG)
+   ![](/uploads/attachments-types-update6.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
