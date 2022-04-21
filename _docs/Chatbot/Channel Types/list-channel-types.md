@@ -1,29 +1,22 @@
 ---
 tags: []
-title: List Channel Types
+title: Export Channel Targets
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
-**List Channel Types**
+**Export Channel Targets**
 
-**List Channel Types** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel types.
+Dalam menu **Attachments**, anda dapat mengexport attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments pada Web.
 
-Untuk melihat tampilan pada list channel types, Anda perlu mengikuti langkah-langkah berikut;
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk export suatu attachments , anda dapat mengklik bagian **Export** untuk membuka form Export attachments
 
-1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+   ![](/uploads/attachments3.PNG)
 
-   ![](/uploads/channell.PNG)
+   > Select Field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport kemudian
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu channel types dengan fitur-fitur yang disediakan.
+   ![](/uploads/attachmentupdate5.PNG)
 
-   ![](/uploads/channel-types.PNG)
-3. Tombol “**List View**” untuk menampilkan channel types dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat channel types dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari channel types berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak channel types yang ditampilkan di satu layar.
-7. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export channel types
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel types
-9. Tombol “**Delete**” untuk menghapus suatu channel types
+   > Klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
