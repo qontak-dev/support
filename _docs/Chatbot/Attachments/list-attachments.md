@@ -22,12 +22,12 @@ Untuk melihat tampilan pada list attachments, Anda perlu mengikuti langkah-langk
    ![](/uploads/attachmentupdate1.PNG)
 3. Tombol “**Filter**” untuk melihat attachments dengan pengaturan tertentu.
 4. Tombol “**Export Found Attachments**” untuk mengarahkan ke halaman export attachments 
-5. Menu “**Show**” untuk mengatur berapa banyak agents yang ditampilkan di satu layar.
+5. Menu “**Show**” untuk mengatur berapa banyak attachments yang ditampilkan di satu layar.
 
    ![](/uploads/attachmentupdate2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu attachments 
 
    ![](/uploads/attachmentupdate3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu agents
+7. Tombol “**Delete**” untuk menghapus suatu attachments 
 
    ![](/uploads/attachmentupdate4.PNG)
