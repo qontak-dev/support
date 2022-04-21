@@ -8,7 +8,7 @@ published: false
 ---
 **List Channel Targets**
 
-**List Attachments** merupakan sebuah fitur chatbot yang menampilkan list data yang ada attachments.
+**List Channel Targets** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel targets.
 
 Untuk melihat tampilan pada list attachments, Anda perlu mengikuti langkah-langkah berikut;
 
