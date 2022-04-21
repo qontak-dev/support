@@ -2,7 +2,7 @@
 tags: []
 title: List Attachments Types
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
