@@ -8,9 +8,9 @@ published: false
 ---
 **Add New Channel Types**
 
-Dalam menu **Channel Types**, anda dapat menambahkan channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel targets pada Web.
+Dalam menu **Channel Types**, anda dapat menambahkan channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel types pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk menambahkan channel targets anda dapat mengklik bagian **Add New** untuk membuka form channel targets.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk menambahkan channel types anda dapat mengklik bagian **Add New** untuk membuka form channel types.
 
    ![](/uploads/channel-type-update6.PNG)
 
