@@ -20,9 +20,9 @@ Untuk melihat tampilan pada list **Channel Types**, Anda perlu mengikuti langkah
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Channel Types** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/attachmentupdate1.PNG)
-3. Tombol “**Filter**” untuk melihat attachments dengan pengaturan tertentu.
-4. Tombol “**Export Found Channel Types**” untuk mengarahkan ke halaman export channel targets
-5. Menu “**Show**” untuk mengatur berapa banyak channel targets yang ditampilkan di satu layar.
+3. Tombol “**Filter**” untuk melihat channel types dengan pengaturan tertentu.
+4. Tombol “**Export Found Channel Types**” untuk mengarahkan ke halaman export channel types
+5. Menu “**Show**” untuk mengatur berapa banyak channel types yang ditampilkan di satu layar.
 
    ![](/uploads/channeltypesupdate2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel targets
