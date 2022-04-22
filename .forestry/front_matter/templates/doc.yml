@@ -41,6 +41,7 @@ pages:
 - _docs/Chatbot/Channel Types/list-channel-targets.md
 - _docs/Chatbot/Channel Types/list-channel-types.md
 - _docs/Chatbot/Contact /add-contact.md
+- _docs/Chatbot/Contact /export-contact.md
 - _docs/Chatbot/Contact /list-contact.md
 - _docs/Chatbot/Content Types/list-content-types.md
 - _docs/Chatbot/Data Migrations/add-data-migrations.md
