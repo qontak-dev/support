@@ -1,12 +1,12 @@
 ---
 tags: []
-title: Export Channel Types
+title: Export Content Types
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Export Channel Types**
+**Export Content Types**
 
 Dalam menu **Channel Types**, anda dapat mengexport channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel types pada Web.
 
