@@ -12,7 +12,7 @@ Dalam menu **Content Types**, anda dapat menambahkan content types yang anda ing
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Content Types** di bagian kiri atas, untuk menambahkan content types anda dapat mengklik bagian **Add New** untuk membuka form content types.
 
-   ![](/uploads/channel-type-update6.PNG)
+   ![](/uploads/content-types-update5.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
