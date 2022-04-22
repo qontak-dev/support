@@ -14,7 +14,7 @@ Dalam menu **Contact**, anda dapat menambahkan contact yang anda inginkan. Berik
 
    ![](/uploads/contactupdate5.PNG)
 
-   Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/contactupdate6.PNG)
