@@ -19,11 +19,15 @@ Untuk melihat tampilan pada list divisions, Anda perlu mengikuti langkah-langkah
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu divisions dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/divisions1.PNG)
-3. Tombol “**List View**” untuk menampilkan divisions dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat divisions dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari divisions berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak divisions yang ditampilkan di satu layar.
-7. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export divisions
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu divisions
-9. Tombol “**Delete**” untuk menghapus suatu divisions
+   ![](/uploads/division-update1.PNG)
+3. Tombol “**Filter**” untuk melihat division dengan pengaturan tertentu.
+4. Tombol “**Export Found Divisions**” untuk mengarahkan ke halaman export divisions
+5. Menu “**Show**” untuk mengatur berapa banyak divisions yang ditampilkan di satu layar.
+
+   ![](/uploads/division-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu divisions
+
+   ![](/uploads/division-update3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu divisions
+
+   ![](/uploads/division-update4.PNG)
