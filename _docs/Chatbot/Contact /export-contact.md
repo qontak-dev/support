@@ -8,9 +8,9 @@ published: false
 ---
 **Export Contact**
 
-Dalam menu **Contact**, anda dapat mengexport channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel types pada Web.
+Dalam menu **Contact**, anda dapat mengexport contact yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export contact pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk export suatu channel types, anda dapat mengklik bagian **Export** untuk membuka form Export channel types
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Contact** di bagian kiri atas, untuk export suatu contact, anda dapat mengklik bagian **Export** untuk membuka form Export contact
 
    ![](/uploads/channel-type-update7.PNG)
 
