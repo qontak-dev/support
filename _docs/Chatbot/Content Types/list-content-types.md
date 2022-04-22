@@ -2,7 +2,7 @@
 tags: []
 title: List Content Types
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -17,13 +17,17 @@ Untuk melihat tampilan pada list content types, Anda perlu mengikuti langkah-lan
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu content types dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Content Types** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/content-types.PNG)
-3. Tombol “**List View**” untuk menampilkan content types dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat content types dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari content types berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak content types yang ditampilkan di satu layar.
-7. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export content types
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu content types
-9. Tombol “**Delete**” untuk menghapus suatu content types
+   ![](/uploads/attachmentupdate1.PNG)
+3. Tombol “**Filter**” untuk melihat channel types dengan pengaturan tertentu.
+4. Tombol “**Export Found Channel Types**” untuk mengarahkan ke halaman export channel types
+5. Menu “**Show**” untuk mengatur berapa banyak channel types yang ditampilkan di satu layar.
+
+   ![](/uploads/channel-type-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel types
+
+   ![](/uploads/channel-type-update3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu channel types
+
+   ![](/uploads/channel-type-update4.PNG)
