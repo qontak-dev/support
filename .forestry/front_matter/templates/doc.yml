@@ -43,6 +43,7 @@ pages:
 - _docs/Chatbot/Contact /add-contact.md
 - _docs/Chatbot/Contact /export-contact.md
 - _docs/Chatbot/Contact /list-contact.md
+- _docs/Chatbot/Content Types/export-channel-types.md
 - _docs/Chatbot/Content Types/list-content-types.md
 - _docs/Chatbot/Data Migrations/add-data-migrations.md
 - _docs/Chatbot/Data Migrations/export-data-migrations.md
