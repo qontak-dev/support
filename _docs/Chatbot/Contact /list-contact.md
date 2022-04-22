@@ -28,6 +28,6 @@ Untuk melihat tampilan pada list **Contact**, Anda perlu mengikuti langkah-langk
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu contact
 
    ![](/uploads/contactupdate3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu channel types
+7. Tombol “**Delete**” untuk menghapus suatu contact
 
    ![](/uploads/contactupdate4.PNG)
