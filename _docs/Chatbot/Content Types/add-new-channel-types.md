@@ -1,16 +1,16 @@
 ---
 tags: []
-title: Add New Channel Types
+title: Add New Content Types
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Add New Channel Types**
+**Add New Content Types**
 
-Dalam menu **Channel Types**, anda dapat menambahkan channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel types pada Web.
+Dalam menu **Content Types**, anda dapat menambahkan content types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan content types pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk menambahkan channel types anda dapat mengklik bagian **Add New** untuk membuka form channel types.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Content Types** di bagian kiri atas, untuk menambahkan content types anda dapat mengklik bagian **Add New** untuk membuka form content types.
 
    ![](/uploads/channel-type-update6.PNG)
 
