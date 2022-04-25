@@ -10,14 +10,14 @@ published: false
 
 **List Intent API Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu Intent API Entities.
 
-Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list Intent API Entities, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Responses** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intent API Entities** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/listresponses.PNG)
 3. Tombol “**Filter**” untuk melihat responses dengan pengaturan tertentu.
