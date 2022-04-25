@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list Intent API Entities, Anda perlu mengikuti langk
 
    ![](/uploads/listresponses.PNG)
 3. Tombol “**Filter**” untuk melihat responses dengan pengaturan tertentu.
-4. Tombol “**Export Found Responses**” untuk mengarahkan ke halaman export responses
+4. Tombol “**Export Found Intent API Entities**” untuk mengarahkan ke halaman export responses
 5. Menu “**Show**” untuk mengatur berapa banyak responses yang ditampilkan di satu layar.
 
    ![](/uploads/listresponses1.PNG)
