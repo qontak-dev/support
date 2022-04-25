@@ -25,6 +25,6 @@ Untuk melihat tampilan pada list histories, Anda perlu mengikuti langkah-langkah
 5. Menu “**Show**” untuk mengatur berapa banyak histories yang ditampilkan di satu layar.
 
    ![](/uploads/histories-update2.PNG)
-6. Tombol “**Delete**” untuk menghapus suatu divisions
+6. Tombol “**Delete**” untuk menghapus suatu histories
 
    ![](/uploads/histories-update3.PNG)
