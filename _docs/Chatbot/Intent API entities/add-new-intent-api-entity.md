@@ -12,11 +12,11 @@ Dalam menu **Intent API Entity**, anda dapat menambahkan Intent API Entity yang 
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Entity** di bagian kiri atas, untuk menambahkan Intent API Entity anda dapat mengklik bagian **Add New** untuk membuka form Intent API Entity.
 
-   ![](/uploads/response2.PNG)
+   ![](/uploads/intent-api-entities5.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
-   ![](/uploads/response3.PNG)
+   ![](/uploads/intent-api-entities6.PNG)
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
