@@ -19,15 +19,15 @@ Untuk melihat tampilan pada list **Intent API Entities**, Anda perlu mengikuti l
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intent API Entities** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/listresponses.PNG)
+   ![](/uploads/intent-api-entities1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent API Entities dengan pengaturan tertentu.
 4. Tombol “**Export Found Intent API Entities**” untuk mengarahkan ke halaman export Intent API Entities
 5. Menu “**Show**” untuk mengatur berapa banyak Intent API Entities yang ditampilkan di satu layar.
 
-   ![](/uploads/listresponses1.PNG)
+   ![](/uploads/intent-api-entities2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Entities
 
-   ![](/uploads/listresponses2.PNG)
+   ![](/uploads/intent-api-entities3.PNG)
 7. Tombol “**Delete**” untuk menghapus suatu Intent API Entities
 
-   ![](/uploads/listresponses4.PNG)
+   ![](/uploads/intent-api-entities4.PNG)
