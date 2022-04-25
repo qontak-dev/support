@@ -8,9 +8,9 @@ published: false
 ---
 **Add New Intent API Entity**
 
-Dalam menu **Intent API Entity**, anda dapat menambahkan response yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response pada Web.
+Dalam menu **Intent API Entity**, anda dapat menambahkan Intent API Entity yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Entity pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk menambahkan responses anda dapat mengklik bagian **Add New** untuk membuka form Responses.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Entity** di bagian kiri atas, untuk menambahkan responses anda dapat mengklik bagian **Add New** untuk membuka form Responses.
 
    ![](/uploads/response2.PNG)
 
