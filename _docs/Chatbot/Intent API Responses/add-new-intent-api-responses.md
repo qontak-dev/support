@@ -2,7 +2,7 @@
 tags: []
 title: Add New Intent API Responses
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
