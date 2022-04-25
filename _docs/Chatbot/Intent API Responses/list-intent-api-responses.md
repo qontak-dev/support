@@ -19,11 +19,18 @@ Untuk melihat tampilan pada list intent API, Anda perlu mengikuti langkah-langka
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intent API Responses** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/intentapi1.PNG)
-3. Tombol “**List View**” untuk menampilkan Intent API Responses dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat Intent API Responses dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari Intent API Responses berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak Intent API Responses yang ditampilkan di satu layar.
-7. Tombol “**Export Found Intents**” untuk mengarahkan ke halaman export Intent API Responses
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Responses
-9. Tombol “**Delete**” untuk menghapus suatu Intent API Responses
+   ![](/uploads/intent-api-response1.PNG)
+3. Tombol “**Filter**” untuk melihat Intent API Responses dengan pengaturan tertentu.
+4. Tombol “**Export Found Intent API Responses**” untuk mengarahkan ke halaman export Intent API Responses
+5. Menu “**Show**” untuk mengatur berapa banyak Intent API Responses yang ditampilkan di satu layar.
+
+   ![](/uploads/intent-api-response2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Responses
+
+   ![](/uploads/intent-api-response3.PNG)
+7. Tombol “**Clone**” untuk menampilkan berapa banyak Intent API Responses yang ditampilkan di satu layar.
+
+   ![](/uploads/intent-api-response4.PNG)
+8. Tombol “**Delete**” untuk menghapus suatu Intent API Responses
+
+   ![](/uploads/intent-api-response5.PNG)
