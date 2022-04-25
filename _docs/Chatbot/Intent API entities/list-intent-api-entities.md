@@ -8,7 +8,7 @@ published: false
 ---
 **List Intent API Entities**
 
-**List Intent API Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu responses.
+**List Intent API Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu Intent API Entities.
 
 Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah berikut;
 
