@@ -2,7 +2,7 @@
 tags: []
 title: List Intent API Responses
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -10,7 +10,7 @@ published: false
 
 **List Intent API Responses** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent API.
 
-Untuk melihat tampilan pada list intent API, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list **Intent API Responses**, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
