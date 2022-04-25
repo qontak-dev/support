@@ -18,7 +18,13 @@ Untuk melihat tampilan pada list histories, Anda perlu mengikuti langkah-langkah
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu divisions dengan fitur-fitur yang disediakan.
+
+   ![](/uploads/histories-update1.PNG)
 3. Tombol “**Filter**” untuk melihat division dengan pengaturan tertentu.
 4. Tombol “**Export Found Divisions**” untuk mengarahkan ke halaman export divisions
 5. Menu “**Show**” untuk mengatur berapa banyak divisions yang ditampilkan di satu layar.
+
+   ![](/uploads/histories-update2.PNG)
 6. Tombol “**Delete**” untuk menghapus suatu divisions
+
+   ![](/uploads/histories-update3.PNG)
