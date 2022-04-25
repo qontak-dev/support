@@ -61,6 +61,7 @@ pages:
 - _docs/Chatbot/Intent API Responses/add-new-intent-api-responses.md
 - _docs/Chatbot/Intent API Responses/export-intent-api-responses.md
 - _docs/Chatbot/Intent API Responses/list-intent-api-responses.md
+- _docs/Chatbot/Intent API entities/add-new-intent-api-entity.md
 - _docs/Chatbot/Intent API entities/list-intent-api-entities.md
 - _docs/Chatbot/Intents/add-new-intents.md
 - _docs/Chatbot/Intents/export-intents.md
