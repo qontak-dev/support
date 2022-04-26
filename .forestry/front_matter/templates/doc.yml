@@ -64,6 +64,7 @@ pages:
 - _docs/Chatbot/Intent API entities/add-new-intent-api-entity.md
 - _docs/Chatbot/Intent API entities/export-intent-api-entity.md
 - _docs/Chatbot/Intent API entities/list-intent-api-entities.md
+- _docs/Chatbot/Intent Attachments/list-intent-attachments.md
 - _docs/Chatbot/Intents/add-new-intents.md
 - _docs/Chatbot/Intents/export-intents.md
 - _docs/Chatbot/Intents/list-intents.md
