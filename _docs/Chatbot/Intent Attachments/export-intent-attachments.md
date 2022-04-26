@@ -8,7 +8,7 @@ published: false
 ---
 **Export Intent Attachments**
 
-Dalam menu **Intent API Responses**, anda dapat mengexport intent API yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Intent API Responses** pada Web.
+Dalam menu **Intent Attachments**, anda dapat mengexport intent API yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Intent API Responses** pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Responses** di bagian kiri atas, untuk export suatu Intent API, anda dapat mengklik bagian **Export** untuk membuka form Export **Intent API Responses**
 
