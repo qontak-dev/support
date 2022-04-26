@@ -8,9 +8,9 @@ published: false
 ---
 **Add New Intent Types**
 
-Dalam menu **Intent API Responses**, anda dapat menambahkan Intent API yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Responses pada Web.
+Dalam menu **Intent Types**, anda dapat menambahkan Intent types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent types pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Responses** di bagian kiri atas, untuk menambahkan Intent API anda dapat mengklik bagian **Add New** untuk membuka form **Intent API Responses**.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Types** di bagian kiri atas, untuk menambahkan Intent types anda dapat mengklik bagian **Add New** untuk membuka form **Intent Types**.
 
    ![](/uploads/intentapi2.PNG)
 
