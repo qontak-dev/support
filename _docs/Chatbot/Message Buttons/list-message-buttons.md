@@ -19,7 +19,7 @@ Untuk melihat tampilan pada list **Message Buttons**, Anda perlu mengikuti langk
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intent API Responses** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/intent-api-response1.PNG)
+   ![](/uploads/message-buttons1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent API Responses dengan pengaturan tertentu.
 4. Tombol “**Export Found Intent API Responses**” untuk mengarahkan ke halaman export Intent API Responses
 5. Menu “**Show**” untuk mengatur berapa banyak Intent API Responses yang ditampilkan di satu layar.
