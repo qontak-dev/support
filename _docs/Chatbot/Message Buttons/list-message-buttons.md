@@ -21,11 +21,11 @@ Untuk melihat tampilan pada list **Message Buttons**, Anda perlu mengikuti langk
 
    ![](/uploads/message-buttons1.PNG)
 3. Tombol “**Filter**” untuk melihat Message Buttons dengan pengaturan tertentu.
-4. Tombol “**Export Found Message Buttons**” untuk mengarahkan ke halaman export Intent API Responses
-5. Menu “**Show**” untuk mengatur berapa banyak Intent API Responses yang ditampilkan di satu layar.
+4. Tombol “**Export Found Message Buttons**” untuk mengarahkan ke halaman export Message Buttons
+5. Menu “**Show**” untuk mengatur berapa banyak Message Buttons yang ditampilkan di satu layar.
 
-   ![](/uploads/intent-api-response2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Responses
+   ![](/uploads/message-buttons2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons
 
    ![](/uploads/intent-api-response3.PNG)
 7. Tombol “**Clone**” untuk menampilkan berapa banyak Intent API Responses yang ditampilkan di satu layar.
