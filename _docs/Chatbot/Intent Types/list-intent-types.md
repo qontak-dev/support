@@ -8,9 +8,9 @@ published: false
 ---
 **List Intent Types**
 
-**List Intent API Responses** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent API.
+**List Intent Types** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent types.
 
-Untuk melihat tampilan pada list **Intent API Responses**, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list **Intent Types**, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
