@@ -27,10 +27,7 @@ Untuk melihat tampilan pada list **Message Buttons**, Anda perlu mengikuti langk
    ![](/uploads/message-buttons2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons
 
-   ![](/uploads/intent-api-response3.PNG)
-7. Tombol “**Clone**” untuk menampilkan berapa banyak Intent API Responses yang ditampilkan di satu layar.
+   ![](/uploads/message-buttons3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu Message Buttons
 
-   ![](/uploads/intent-api-response4.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu Intent API Responses
-
-   ![](/uploads/intent-api-response5.PNG)
+   ![](/uploads/message-buttons4.PNG)
