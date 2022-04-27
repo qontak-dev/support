@@ -8,11 +8,11 @@ published: false
 ---
 **Add New Nlp connectors**
 
-Dalam menu **Channel Types**, anda dapat menambahkan channel types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan channel types pada Web.
+Dalam menu **Nlp connectors**, anda dapat menambahkan Nlp connectors yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Nlp connectors pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk menambahkan channel types anda dapat mengklik bagian **Add New** untuk membuka form channel types.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Nlp connectors** di bagian kiri atas, untuk menambahkan Nlp connectors anda dapat mengklik bagian **Add New** untuk membuka form Nlp connectors.
 
-   ![](/uploads/channel-type-update6.PNG)
+   ![](/uploads/nip-update5.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
