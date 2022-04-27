@@ -15,8 +15,8 @@ Dalam menu **Message List Section**, anda dapat mengexport message lists yang an
    ![](/uploads/messagelistsection3.PNG)
 
    > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+2. Setelah itu pilih field yang akan diexport 
 
-   ![](/uploads/messagelistsection4.PNG)
+   ![](/uploads/message-list-item5.PNG)
 
-   klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
+   > Klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
