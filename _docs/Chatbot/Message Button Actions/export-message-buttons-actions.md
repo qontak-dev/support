@@ -2,7 +2,7 @@
 tags: []
 title: Export Message Buttons Actions
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -15,8 +15,8 @@ Dalam menu **Message Buttons Actions**, anda dapat mengexport message buttons ya
    ![](/uploads/messagebuttonsactions2.PNG)
 
    > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+2. Setelah itu pilih field yang akan diexport 
 
-   ![](/uploads/messagebuttonsactions3.PNG)
+   ![](/uploads/message-button-actions5.PNG)
 
-   > klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
+   > Klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
