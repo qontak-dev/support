@@ -23,5 +23,11 @@ Untuk melihat tampilan pada NIp Connectors, Anda perlu mengikuti langkah-langkah
 3. Tombol “**Filter**” untuk melihat NIp Connectors dengan pengaturan tertentu.
 4. Tombol “**Export Found  NIp Connectors**” untuk mengarahkan ke halaman export  NIp Connectors
 5. Menu “**Show**” untuk mengatur berapa banyak  NIp Connectors yang ditampilkan di satu layar.
+
+   ![](/uploads/nip-update2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu  NIp Connectors
+
+   ![](/uploads/nip-update3.PNG)
 7. Tombol “**Delete**” untuk menghapus suatu  NIp Connectors
+
+   ![](/uploads/nip-update4.PNG)
