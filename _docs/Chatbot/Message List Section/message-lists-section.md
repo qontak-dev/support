@@ -8,7 +8,7 @@ published: false
 ---
 **Message List Section**
 
-**List Message List** **Section** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message list section.
+**List Message List** **Section** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message list sections.
 
 Untuk melihat tampilan pada message list section, Anda perlu mengikuti langkah-langkah berikut;
 
