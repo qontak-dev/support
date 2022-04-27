@@ -2,7 +2,7 @@
 tags: []
 title: NIp Connectors List
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
