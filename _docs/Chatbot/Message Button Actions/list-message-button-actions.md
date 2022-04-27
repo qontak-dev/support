@@ -25,9 +25,9 @@ Untuk melihat tampilan pada list **Message Buttons Actions**, Anda perlu mengiku
 5. Menu “**Show**” untuk mengatur berapa banyak Message Buttons Actions yang ditampilkan di satu layar.
 
    ![](/uploads/message-button-actions2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons Actions 
 
    ![](/uploads/message-button-actions3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Message Buttons
+7. Tombol “**Delete**” untuk menghapus suatu Message Buttons Actions
 
    ![](/uploads/message-button-actions4.PNG)
