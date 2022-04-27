@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Nlp connectors**, anda dapat mengexport Nlp connectors yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Nlp connectors pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Types** di bagian kiri atas, untuk export suatu channel types, anda dapat mengklik bagian **Export** untuk membuka form Export channel types
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Nlp connectors** di bagian kiri atas, untuk export suatu Nlp connectors, anda dapat mengklik bagian **Export** untuk membuka form Export Nlp connectors
 
    ![](/uploads/channel-type-update7.PNG)
 
