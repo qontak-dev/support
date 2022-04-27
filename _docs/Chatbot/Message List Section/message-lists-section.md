@@ -23,9 +23,11 @@ Untuk melihat tampilan pada message list section, Anda perlu mengikuti langkah-l
 3. Tombol “**Filter**” untuk melihat Message List Sections dengan pengaturan tertentu.
 4. Tombol “**Export Found Message List Sections**” untuk mengarahkan ke halaman export Message List Sections
 5. Menu “**Show**” untuk mengatur berapa banyak Message List Sections  yang ditampilkan di satu layar
+
+   ![](/uploads/message-list-item2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message List Sections
 
-   ![](/uploads/message-buttons3.PNG)
+   ![](/uploads/message-list-item3.PNG)
 7. Tombol “**Delete**” untuk menghapus suatu Message List Sections
 
-   ![](/uploads/message-buttons4.PNG)
+   ![](/uploads/message-list-item4.PNG)
