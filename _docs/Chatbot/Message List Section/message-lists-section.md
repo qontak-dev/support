@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Message List Section
+title: Message List Sections
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
@@ -17,15 +17,15 @@ Untuk melihat tampilan pada message list section, Anda perlu mengikuti langkah-l
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Message Buttons** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Message List Sections** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/message-list-sections1.PNG)
-3. Tombol “**Filter**” untuk melihat Message Buttons dengan pengaturan tertentu.
-4. Tombol “**Export Found Message Buttons**” untuk mengarahkan ke halaman export Message Buttons
-5. Menu “**Show**” untuk mengatur berapa banyak Message Buttons yang ditampilkan di satu layar.
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons
+3. Tombol “**Filter**” untuk melihat Message List Sections dengan pengaturan tertentu.
+4. Tombol “**Export Found Message List Sections**” untuk mengarahkan ke halaman export Message List Sections
+5. Menu “**Show**” untuk mengatur berapa banyak Message List Sections  yang ditampilkan di satu layar
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message List Sections
 
    ![](/uploads/message-buttons3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Message Buttons
+7. Tombol “**Delete**” untuk menghapus suatu Message List Sections
 
    ![](/uploads/message-buttons4.PNG)
