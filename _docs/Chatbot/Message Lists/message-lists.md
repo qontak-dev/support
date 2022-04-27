@@ -17,13 +17,17 @@ Untuk melihat tampilan pada list message lists, Anda perlu mengikuti langkah-lan
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu message lists dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Message Lists** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/messagelists1.PNG)
-3. Tombol “**List View**” untuk menampilkan message lists dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat message lists dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari message lists berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak message lists yang ditampilkan di satu layar.
-7. Tombol “**Export Found Message Lists**” untuk mengarahkan ke halaman export message lists
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu message lists
-9. Tombol “**Delete**” untuk menghapus suatu message lists
+   ![](/uploads/message-lists1.PNG)
+3. Tombol “**Filter**” untuk melihat Message Lists dengan pengaturan tertentu.
+4. Tombol “**Export Found Message Lists**” untuk mengarahkan ke halaman export Message Lists
+5. Menu “**Show**” untuk mengatur berapa banyak Message Lists yang ditampilkan di satu layar.
+
+   ![](/uploads/message-lists2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Lists
+
+   ![](/uploads/message-lists3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu Message Lists
+
+   ![](/uploads/message-lists4.PNG)
