@@ -20,7 +20,7 @@ Untuk melihat tampilan pada list **Message Buttons Actions**, Anda perlu mengiku
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Message Buttons Actions** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/message-button-actions1.PNG)
-3. Tombol “**Filter**” untuk melihat Message Buttons dengan pengaturan tertentu.
+3. Tombol “**Filter**” untuk melihat Message Buttons Actions dengan pengaturan tertentu.
 4. Tombol “**Export Found Message Buttons Actions**” untuk mengarahkan ke halaman export Message Buttons Actions
 5. Menu “**Show**” untuk mengatur berapa banyak Message Buttons Actions yang ditampilkan di satu layar.
 
