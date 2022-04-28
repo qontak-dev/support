@@ -2,7 +2,7 @@
 tags: []
 title: List Organizations
 subtitle: ''
-author: ''
+author: hariyati suarni nurindah
 published: false
 
 ---
