@@ -102,6 +102,7 @@ pages:
 - _docs/Chatbot/Organization nlp connectors/list-organization-nlp-connectors.md
 - _docs/Chatbot/Organizations/add-new-organizations.md
 - _docs/Chatbot/Organizations/crm-service-token.md
+- _docs/Chatbot/Organizations/export-organizations.md
 - _docs/Chatbot/Organizations/list-organizations.md
 - _docs/Chatbot/Path Channels/add-new-path-channels.md
 - _docs/Chatbot/Path Channels/export-path-channels.md
