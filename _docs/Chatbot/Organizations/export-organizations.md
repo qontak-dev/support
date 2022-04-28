@@ -8,7 +8,7 @@ published: false
 ---
 **Export Organizations**
 
-Dalam menu **Divisions**, anda dapat mengexport divisions yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export divisions pada Web.
+Dalam menu **Organizations**, anda dapat mengexport Organizations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Organizations pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Divisions** di bagian kiri atas, untuk export suatu divisions, anda dapat mengklik bagian **Export** untuk membuka form Export divisions
 
