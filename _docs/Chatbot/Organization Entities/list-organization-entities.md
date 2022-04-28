@@ -18,8 +18,16 @@ Untuk melihat tampilan pada **List Organizations Entities**, Anda perlu mengikut
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organization** **Entities** dengan fitur-fitur yang disediakan.
-3. Tombol “**Filter**” untuk melihat division dengan pengaturan tertentu.
-4. Tombol “**Export Found Divisions**” untuk mengarahkan ke halaman export divisions
-5. Menu “**Show**” untuk mengatur berapa banyak divisions yang ditampilkan di satu layar.
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu divisions
-7. Tombol “**Delete**” untuk menghapus suatu divisions
+
+   ![](/uploads/organization-entities1.PNG)
+3. Tombol “**Filter**” untuk melihat Organization Entities dengan pengaturan tertentu.
+4. Tombol “**Export Found Organization Entities**” untuk mengarahkan ke halaman export Organization Entities
+5. Menu “**Show**” untuk mengatur berapa banyak Organization Entities yang ditampilkan di satu layar.
+
+   ![](/uploads/organization-entities2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization Entities
+
+   ![](/uploads/organization-entities3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu Organization Entities
+
+   ![](/uploads/organization-entities4.PNG)
