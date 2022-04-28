@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Organizations**
 
-Dalam menu **Divisions**, anda dapat menambahkan divisions yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan divisions pada Web.
+Dalam menu **Organizations**, anda dapat menambahkan Organizations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Organizations pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Divisions** di bagian kiri atas, untuk menambahkan divisions anda dapat mengklik bagian **Add New** untuk membuka form divisions.
 
