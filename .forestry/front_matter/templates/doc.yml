@@ -185,8 +185,8 @@ pages:
 - _docs/crm/General/pelatihan.md
 - _docs/crm/General/sertifikasi.md
 - _docs/crm/Login - Mobile/login-mobile.md
-- _docs/crm/Login/bagaimana-cara-melakukan-verifikasi-email-pada-crm-qontak.md
 - _docs/crm/Login/login-crm.md
+- _docs/crm/Login/melakukan-verifikasi-email-pada-crm-qontak.md
 - _docs/crm/Pengaturan Akun/pengaturan-akun-reset-password.md
 - _docs/crm/Pengaturan Akun/pengaturan-akun-two-way-authentication.md
 - _docs/crm/Pengaturan Akun/user-performance-pengisian-target.md
