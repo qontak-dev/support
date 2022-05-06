@@ -5,7 +5,7 @@ subtitle: ''
 author: ''
 
 ---
-**Customer Relationship Management (CRM) Qontak** adalah sebuah aplikasi berbasis cloud yang membantu Anda mengelola hubungan dan interaksi perusahaan dengan pelanggan, calon pelanggan beserta pencapaian karyawan dan laporannya secara real time. Aplikasi ini tersedia tersedia dalam versi **web** dan **mobile** ini dapat membantu Anda dalam meningkatkan hubungan bisnis Anda dengan _customer._
+**Customer Relationship Management (CRM) Qontak** adalah sebuah aplikasi berbasis cloud yang membantu Anda mengelola hubungan dan interaksi perusahaan dengan pelanggan, calon pelanggan beserta pencapaian karyawan dan laporannya secara real time. Aplikasi ini tersedia tersedia dalam versi **web** dan **mobile** ini dapat membantu Anda dalam meningkatkan hubungan bisnis Anda dengan customer.
 
 Untuk mencapai integritas dan keamanan data Anda, CRM Qontak menyediakan fitur **User Verification Email** di mana Anda dapat masuk menggunakan email Anda dan memverifikasinya. Berikut adalah cara memverifikasi Email Anda di CRM Qontak:
 
@@ -23,7 +23,7 @@ Untuk mencapai integritas dan keamanan data Anda, CRM Qontak menyediakan fitur *
    > **_Note_**_: Jika Anda belum menerima email verifikasi, maka klik “**Resend verification email.”**_
 6. Berikut adalah tampilan email verifikasi dari **Mekari Qontak**. Klik **“Verify email”** untuk memverifikasi email Anda.  
    ![](/uploads/crmver4.png)
-7. Jika email Anda sudah terverifikasi, Anda akan secara otomatis Login dan masuk pada halaman **Dashboard** **CRM Qontak** dan akan muncul _pop-up notification_ pada halaman **CRM Qontak** Anda.  
+7. Jika email Anda sudah terverifikasi, Anda akan secara otomatis Login dan masuk pada halaman **Dashboard** **CRM Qontak** dan akan muncul pop-up notification pada halaman **CRM Qontak** Anda.  
    ![](/uploads/crmver7.png)
 
 Demikian cara User Verification Email pada **CRM Qontak.**
