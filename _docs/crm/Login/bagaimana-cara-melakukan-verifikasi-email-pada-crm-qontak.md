@@ -1,6 +1,6 @@
 ---
 tags: []
-title: Bagaimana Cara Melakukan Verifikasi Email pada CRM Qontak
+title: Melakukan Verifikasi Email pada CRM Qontak
 subtitle: ''
 author: ''
 
