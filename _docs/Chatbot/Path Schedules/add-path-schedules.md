@@ -14,10 +14,11 @@ Dalam menu **Path Schedules**, anda dapat menambahkan path yang anda inginkan. B
 
    ![](/uploads/pathschedules2.PNG)
 
-   pastikan field-field mandatory sudah terisi dengan benar.
-2. Setelah data terisi, klik button **Save** untuk menyimpan data.
+   Pastikan field-field mandatory sudah terisi dengan benar.
 
-   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
-3. Sistem akan menampilkan pop up notifikasi data sudah tersimpan seperti berikut ini.
+   > Setelah data terisi, klik button **Save** untuk menyimpan data.
+   >
+   > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+2. Sistem akan menampilkan pop up notifikasi data sudah tersimpan seperti berikut ini.
 
    ![](/uploads/pathschedules1-1.PNG)
