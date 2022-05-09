@@ -12,19 +12,25 @@ published: false
 
 Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu mengikuti langkah-langkah berikut;
 
- 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
+1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
-    ![](/uploads/channell.PNG)
+   ![](/uploads/channell.PNG)
 
-    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
- 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **List Organization nlp connectors** dengan fitur-fitur yang disediakan.
+   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
-    ![](/uploads/organizationsnlp1.PNG)
- 3. Tombol “**List View**” untuk mengubah tampilan List organization nlp connectors dalam bentuk list (seperti pada gambar).
- 4. Tombol “**Filter**” untuk melihat List organization nlp connectors dengan pengaturan tertentu.
- 5. Menu “**Search**” untuk mencari List organization nlp connectors berdasarkan nama.
- 6. Menu “**Show**” untuk mengatur berapa banyak List organization nlp connectors yang ditampilkan di satu layar.
- 7. Tombol “**Export Found List Organization Entities**” untuk mengarahkan ke halaman export List organization nlp connectors
- 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu List organization nlp connectors
- 9. Tombol “**Delete**” untuk menghapus suatu List organization nlp connectors
-10. Menunjukkan halaman ke berapa List organization nlp connectors tersebut yang di tampilkan dari keseluruhan halaman List organization 
+   ![](/uploads/organization-nlp-update1.PNG)
+3. Tombol “**Filter**” untuk melihat responses dengan pengaturan tertentu.
+4. Tombol “**Export Found Responses**” untuk mengarahkan ke halaman export responses
+5. Menu “**Show**” untuk mengatur berapa banyak responses yang ditampilkan di satu layar.
+
+   ![](/uploads/listresponses1.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu responses
+
+   ![](/uploads/listresponses2.PNG)
+7. Menu “**Clone**” untuk menampilkan responses di satu layar.
+
+   ![](/uploads/listresponses3.PNG)
+8. Tombol “**Delete**” untuk menghapus suatu responses
+
+   ![](/uploads/listresponses4.PNG)
