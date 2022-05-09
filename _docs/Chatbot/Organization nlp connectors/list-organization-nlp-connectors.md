@@ -20,17 +20,14 @@ Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu men
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/organization-nlp-update1.PNG)
-3. Tombol “**Filter**” untuk melihat responses dengan pengaturan tertentu.
-4. Tombol “**Export Found Responses**” untuk mengarahkan ke halaman export responses
-5. Menu “**Show**” untuk mengatur berapa banyak responses yang ditampilkan di satu layar.
+3. Tombol “**Filter**” untuk melihat Organization nlp connectors dengan pengaturan tertentu.
+4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
+5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
 
-   ![](/uploads/listresponses1.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu responses
+   ![](/uploads/organization-nlp-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors
 
-   ![](/uploads/listresponses2.PNG)
-7. Menu “**Clone**” untuk menampilkan responses di satu layar.
+   ![](/uploads/organization-nlp-update3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu Organization nlp connectors
 
-   ![](/uploads/listresponses3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu responses
-
-   ![](/uploads/listresponses4.PNG)
+   ![](/uploads/organization-nlp-update4.PNG)
