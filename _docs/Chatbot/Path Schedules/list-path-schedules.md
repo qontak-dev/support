@@ -21,8 +21,8 @@ Untuk melihat tampilan pada list **Path schedules**, Anda perlu mengikuti langka
 
    ![](/uploads/path-schedules1.PNG)
 3. Tombol “**Filter**” untuk melihat Path schedules dengan pengaturan tertentu.
-4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
-5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
+4. Tombol “**Export Found Path schedules**” untuk mengarahkan ke halaman export Path schedules
+5. Menu “**Show**” untuk mengatur berapa banyak Path schedules yang ditampilkan di satu layar.
 
    ![](/uploads/organization-nlp-update2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors kemudian klik button **Save** untuk menyimpan perubahan yang dilakukan.
