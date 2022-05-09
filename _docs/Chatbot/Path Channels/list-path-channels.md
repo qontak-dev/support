@@ -17,13 +17,19 @@ Untuk melihat tampilan pada list **Path Channels**, Anda perlu mengikuti langkah
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2.  Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/pathchannels1.PNG)
-3. Tombol “**List View**” untuk mengubah tampilan path channels dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat path channels dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari path channels berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak path channels yang ditampilkan di satu layar.
-7. Tombol “**Export Found Paths**” untuk mengarahkan ke halaman export path channels
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path channels
-9. Tombol “**Delete**” untuk menghapus suatu path channels
+   ![](/uploads/path-channel-update1.PNG)
+3. Tombol “**Filter**” untuk melihat path channels dengan pengaturan tertentu.
+4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export path channels
+5. Menu “**Show**” untuk mengatur berapa banyak path channels yang ditampilkan di satu layar.
+
+   ![](/uploads/path-channel-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu path channels kemudian klik button **Save** untuk menyimpan perubahan yang dilakukan.
+
+   ![](/uploads/path-channel-update3.PNG)
+
+   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form Edit tersebut.
+7. Tombol “**Delete**” untuk menghapus suatu Organization nlp connectors
+
+   ![](/uploads/organization-nlp-update4.PNG)
