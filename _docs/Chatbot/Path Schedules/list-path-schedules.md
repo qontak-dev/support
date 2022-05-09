@@ -8,7 +8,7 @@ published: false
 ---
 **List Path schedules**
 
-**List Path schedules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path response paths.
+**List Path schedules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
 
 Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langkah-langkah berikut;
 
