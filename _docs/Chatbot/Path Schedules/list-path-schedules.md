@@ -1,14 +1,14 @@
 ---
 tags: []
-title: List Response Paths
+title: List Path schedules
 subtitle: ''
 author: hariyati suarni nurindah
 published: false
 
 ---
-**List Response Paths**
+**List Path schedules**
 
-**List Response Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path response paths.
+**List Path schedules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path response paths.
 
 Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -17,21 +17,19 @@ Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langka
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/responsepath1.PNG)
+   ![](/uploads/organization-nlp-update1.PNG)
+3. Tombol “**Filter**” untuk melihat Organization nlp connectors dengan pengaturan tertentu.
+4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
+5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan response paths dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat response paths dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari response paths berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak response paths yang ditampilkan di satu layar.
+   ![](/uploads/organization-nlp-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors kemudian klik button **Save** untuk menyimpan perubahan yang dilakukan.
 
-   ![](/uploads/responsepath2.PNG)
-7. Tombol “**Export Found Response Paths**” untuk mengarahkan ke halaman export response paths
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response paths
+   ![](/uploads/organization-nlp-update3.PNG)
 
-   ![](/uploads/responsepath3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu response paths
+   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form Edit tersebut.
+7. Tombol “**Delete**” untuk menghapus suatu Organization nlp connectors
 
-   ![](/uploads/responsepath4.PNG)
+   ![](/uploads/organization-nlp-update4.PNG)
