@@ -17,13 +17,19 @@ Untuk melihat tampilan pada list **Path date ranges**, Anda perlu mengikuti lang
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Path date ranges** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/pathdate1.PNG)
-3. Tombol “**List View**” untuk mengubah tampilan Path date ranges dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat Path date ranges dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari Path date ranges berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak Path date ranges yang ditampilkan di satu layar.
-7. Tombol “**Export Found Path date ranges**” untuk mengarahkan ke halaman export Path date ranges
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu Path date ranges
-9. Tombol “**Delete**” untuk menghapus suatu Path date ranges
+   ![](/uploads/path-data-rangers-update1.PNG)
+3. Tombol “**Filter**” untuk melihat Organization nlp connectors dengan pengaturan tertentu.
+4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
+5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
+
+   ![](/uploads/path-data-rangers-update2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors kemudian klik button **Save** untuk menyimpan perubahan yang dilakukan.
+
+   ![](/uploads/path-data-rangers-update3.PNG)
+
+   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form Edit tersebut.
+7. Tombol “**Delete**” untuk menghapus suatu Organization nlp connectors
+
+   ![](/uploads/path-data-rangers-update4.PNG)
