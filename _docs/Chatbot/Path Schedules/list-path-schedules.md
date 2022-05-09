@@ -19,8 +19,8 @@ Untuk melihat tampilan pada list **Path schedules**, Anda perlu mengikuti langka
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Path schedules** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/organization-nlp-update1.PNG)
-3. Tombol “**Filter**” untuk melihat Organization nlp connectors dengan pengaturan tertentu.
+   ![](/uploads/path-schedules1.PNG)
+3. Tombol “**Filter**” untuk melihat Path schedules dengan pengaturan tertentu.
 4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
 5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
 
