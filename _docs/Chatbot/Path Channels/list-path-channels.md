@@ -17,11 +17,11 @@ Untuk melihat tampilan pada list **Path Channels**, Anda perlu mengikuti langkah
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2.  Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
+2.  Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Path Channels** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/path-channel-update1.PNG)
 3. Tombol “**Filter**” untuk melihat path channels dengan pengaturan tertentu.
-4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export path channels
+4. Tombol “**Export Found Path Channels**” untuk mengarahkan ke halaman export path channels
 5. Menu “**Show**” untuk mengatur berapa banyak path channels yang ditampilkan di satu layar.
 
    ![](/uploads/path-channel-update2.PNG)
