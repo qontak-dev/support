@@ -17,11 +17,11 @@ Untuk melihat tampilan pada list **Path date ranges**, Anda perlu mengikuti lang
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Organization nlp connectors** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Path date ranges** dengan fitur-fitur yang disediakan.
 
    ![](/uploads/path-data-rangers-update1.PNG)
 3. Tombol “**Filter**” untuk melihat path date ranges dengan pengaturan tertentu.
-4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export  path date ranges
+4. Tombol “**Export Found Path date ranges**” untuk mengarahkan ke halaman export  path date ranges
 5. Menu “**Show**” untuk mengatur berapa banyak  path date ranges yang ditampilkan di satu layar.
 
    ![](/uploads/path-data-rangers-update2.PNG)
