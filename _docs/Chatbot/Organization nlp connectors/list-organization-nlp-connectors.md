@@ -25,9 +25,11 @@ Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu men
 5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
 
    ![](/uploads/organization-nlp-update2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization nlp connectors kemudian klik button **Save** untuk menyimpan perubahan yang dilakukan.
 
    ![](/uploads/organization-nlp-update3.PNG)
+
+   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form Edit tersebut.
 7. Tombol “**Delete**” untuk menghapus suatu Organization nlp connectors
 
    ![](/uploads/organization-nlp-update4.PNG)
