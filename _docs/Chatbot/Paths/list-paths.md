@@ -10,6 +10,10 @@ published: false
 
 **Paths** merupakan sebuah fitur chatbot yang menampilkan list data dimana jika pesan pertama kali masuk maka akan langsung dihandle oleh paths
 
+**Example**:
+
+![](/uploads/contactlist-flow-page-4-drawio.png)
+
 Untuk melihat tampilan pada list Paths, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
