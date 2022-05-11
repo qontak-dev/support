@@ -10,8 +10,6 @@ published: false
 
 **Channel Integration** merupakan sebuah fitur chatbot yang menampilkan list data yang menjadi penghubung antara chatbot dan chat panel (omnichannel)
 
-misal sebuah aku chat panel punya company
-
 Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langkah-langkah berikut;
 
  1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
