@@ -8,7 +8,7 @@ published: false
 ---
 **List Paths**
 
-**List Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada paths.
+**List Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada paths dimana jika pesan pertama kali masuk maka akan langsung dihandle oleh paths
 
 Untuk melihat tampilan pada list Paths, Anda perlu mengikuti langkah-langkah berikut;
 
