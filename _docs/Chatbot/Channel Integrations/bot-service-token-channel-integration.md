@@ -17,4 +17,4 @@ Dalam menu Channel Integration, anda dapat melakukan generate token seperti beri
 
    ![](/uploads/channel5.PNG)
 
-   > > **Copy Text** jika Anda ingin mencopy hasil generate token.
+   > Masukkan Username dan Password Chat panel untuk melakukan generate token kemudiann **Copy Text** dan tempatkan pada field Setting pada menu Edit sesuai format yang ada
