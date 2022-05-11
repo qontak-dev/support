@@ -13,9 +13,7 @@ Dalam menu **Paths**, anda dapat menambahkan paths yang anda inginkan. Berikut m
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Paths** di bagian kiri atas, untuk menambahkan paths anda dapat mengklik bagian **Add New** untuk membuka form Paths.
 
    ![](/uploads/paths2.PNG)
-
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-2. Setelah data terisi, klik button **Save** untuk menyimpan data.
+2. Pastikan field-field mandatory sudah terisi dengan benar pada form Paths
 
    ![](/uploads/paths3.PNG)
    * untuk menggunakan kata kunci maka centang radiobutton **Use keyword**
