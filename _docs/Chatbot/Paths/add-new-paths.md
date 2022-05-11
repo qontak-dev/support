@@ -18,5 +18,9 @@ Dalam menu **Paths**, anda dapat menambahkan paths yang anda inginkan. Berikut m
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/paths3.PNG)
+   * untuk menggunakan kata kunci maka centang radiobutton **Use keyword**
+   * 
 
+   > 
+   >
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
