@@ -32,6 +32,9 @@ Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langk
  6. Menu “**Show**” untuk mengatur berapa banyak channel integrations yang ditampilkan di satu layar
 
     ![](/uploads/channelintegrationseditaction2.PNG)
+
+    Mandatory Field
+    * Webhook Code akan dicopy kemudian di tempatkan pada field webhook URL yang ada pada chat panel menyesuaikan dengan alamat chatbot kemudian status Custom Agent Allocation (CAA) harus "**ON**"
  7. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel integrations
 
     ![](/uploads/channelintegrationseditaction3.PNG)
