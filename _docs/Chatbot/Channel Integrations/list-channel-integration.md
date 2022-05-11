@@ -8,7 +8,9 @@ published: false
 ---
 **List Channel Integration**
 
-**List Channel Integration** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel integration.
+**List Channel Integration** merupakan sebuah fitur chatbot yang menampilkan list data yang ada channel integration yang menjadi penghubung dari chatbot ke chat panel (omnichannel)
+
+misal sebuah aku chat panel punya company
 
 Untuk melihat tampilan pada list channel integration, Anda perlu mengikuti langkah-langkah berikut;
 
