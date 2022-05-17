@@ -48,18 +48,12 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
 10. Pada Channel Twitter, **Supervisor** hanya bisa melihat form twitter
 
     ![](/uploads/supervisor8.PNG)
-11. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting
+11. Pada Channel Line, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
-    ![](/uploads/admin10.PNG)
+    ![](/uploads/supervisor9.PNG)
+12. Pada Channel Livechat, **Supervisor** hanya bisa membuka Livechat tanpa melakukan aksi apapun
 
-    > Line Update Channel Name, Line Update Channel Secret, Line Update Token
-
-    ![](/uploads/admin10-10.PNG)
-12. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
-
-    Account dan Livechat Disconnect Account
-
-    ![](/uploads/admin11.PNG)
+    ![](/uploads/supervisor10.PNG)
 13. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
 
     ![](/uploads/admin12.PNG)
