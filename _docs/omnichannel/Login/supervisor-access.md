@@ -57,26 +57,6 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
 13. Pada Channel Qontak CRM,  **Supervisor** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor11.PNG)
-14. Admin juga bisa mengakses Setting - Account Management
+14.  **Supervisor** hanya bisa mengakses Chat pada settings
 
-    ![](/uploads/admin-13-1.PNG)
-
-    > Setting - Agent Management
-
-    ![](/uploads/admin-13-2.PNG)
-
-    > Setting - Chat,
-
-    ![](/uploads/admin-13-3.PNG)
-
-    > Setting - Contact
-
-    ![](/uploads/admin-13-4.PNG)
-
-    > Setting - Score
-
-    ![](/uploads/admin-13-5.PNG)
-
-    > Setting - Ticket
-
-    ![](/uploads/admin-13-6.PNG)
+    ![](/uploads/supervisor12-1.PNG)
