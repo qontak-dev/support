@@ -32,9 +32,9 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  6. Pada Channel Facebook, **Supervisor** hanya bisa open messenger
 
     ![](/uploads/supervisor4.PNG)
- 7. Pada Channel Intagram, admin bisa mengelola data seperti Instagram Add Account, Instagram Disconnect Account
+ 7. Pada Channel Intagram, **Supervisor** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
 
-    ![](/uploads/admin6.PNG)
+    ![](/uploads/supervisor5.PNG)
  8. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
 
     ![](/uploads/admin7.PNG)
