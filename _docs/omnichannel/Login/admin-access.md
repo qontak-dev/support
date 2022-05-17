@@ -77,21 +77,26 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
 13. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
 
     ![](/uploads/admin12.PNG)
-14. Setting, Setting - Account Management
+14. Admin juga bisa mengakses Setting - Account Management
 
     ![](/uploads/admin-13-1.PNG)
-15. Setting - Agent Management
+
+    > Setting - Agent Management
 
     ![](/uploads/admin-13-2.PNG)
-16. Setting - Chat, 
+
+    > Setting - Chat, 
 
     ![](/uploads/admin-13-3.PNG)
-17. Setting - Contact
+
+    > Setting - Contact
 
     ![](/uploads/admin-13-4.PNG)
-18. Setting - Score
+
+    > Setting - Score
 
     ![](/uploads/admin-13-5.PNG)
-19. Setting - Ticket
+
+    > Setting - Ticket
 
     ![](/uploads/admin-13-6.PNG)
