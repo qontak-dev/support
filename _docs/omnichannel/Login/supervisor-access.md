@@ -35,7 +35,7 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  7. Pada Channel Intagram, **Supervisor** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
 
     ![](/uploads/supervisor5.PNG)
- 8. Pada Channel Email, **Supervisor** hanya bisa membuka detail informasi email yang sudah terdaftar.
+ 8. Pada Channel Integration Email, **Supervisor** hanya bisa membuka detail informasi email yang sudah terdaftar.
 
     ![](/uploads/supervisor6.PNG)
 
