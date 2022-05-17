@@ -20,9 +20,9 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
     ![](/uploads/admin1.PNG)
 
     > Admin bisa mengakses Inbox, Broadcast, Contact, Chatbot, Reports, Finance dan Channel Integrations
- 3. Dalam ketentuanya admin tidak bisa mengakses  status online/offline maupun room history yang ada pada form inbox
+ 3. Dalam ketentuanya **Supervisor** juga bisa mengakses  status online/offline maupun room history yang ada pada form inbox
 
-    ![](/uploads/admin2.PNG)
+    ![](/uploads/supervisor1.PNG)
  4. Pada Channel Integrations Webchat, ada beberapa kondisi dimana admin bisa mengelola data seperti Add New dan  Settings.
 
     ![](/uploads/admin3-1.PNG)
