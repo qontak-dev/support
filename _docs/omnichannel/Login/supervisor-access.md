@@ -29,11 +29,9 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  5. Pada Channel Whatsapp, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor3.PNG)
- 6. Pada Channel Facebook, admin bisa mengelola data seperti Facebook Add
+ 6. Pada Channel Facebook, **Supervisor** hanya bisa open messenger
 
-    Account, Facebook Disconnect Account, Facebook Open Messenger,
-
-    ![](/uploads/admin5.PNG)
+    ![](/uploads/supervisor4.PNG)
  7. Pada Channel Intagram, admin bisa mengelola data seperti Instagram Add Account, Instagram Disconnect Account
 
     ![](/uploads/admin6.PNG)
