@@ -23,7 +23,12 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
 3. Dalam ketentuanya admin tidak bisa mengakses  status online/offline maupun room history yang ada pada form inbox
 
    ![](/uploads/admin2.PNG)
-4. Pada Channel Integrations Webchat, ada beberapa kondisi dimana admin bisa mengelola data seperti Add New, Settings, Widget Status, Update Widget Name and Update Widget Domain
+4. Pada Channel Integrations Webchat, ada beberapa kondisi dimana admin bisa mengelola data seperti Add New dan  Settings. 
 
-   ![](/uploads/admin3.PNG)
-5. 
+   ![](/uploads/admin3-1.PNG)
+
+   > Update Widget Status, Update Widget Name and Update Widget Domain
+
+   ![](/uploads/admin3-3.PNG)
+5. f
+6. dsx
