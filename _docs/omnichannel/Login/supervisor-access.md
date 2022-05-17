@@ -39,7 +39,7 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
 
     ![](/uploads/supervisor6.PNG)
 
-    > Informasi Email Account
+    > Klik salah satu email> kemudian sistem akan membuka form Informasi Email Account
 
     ![](/uploads/supervisor6-6.PNG)
  9. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
