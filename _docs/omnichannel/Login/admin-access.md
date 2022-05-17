@@ -43,9 +43,9 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
 
     Account, Facebook Disconnect Account, Facebook Open Messenger, Instagram Add Account, Instagram Disconnect Account
  7. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
- 8. Pada Channel Telegram, admin bisa mengelola data seperti Whatsapp Add
+ 8. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
 
-    Account, Whatsapp Setting
+    Channel, Telegram Disconnect Channel, Telegram Setting, Telegram Update Token, Telegram Update Username dan Telegram Update Name
  9. Pada Channel Whatsapp, admin bisa mengelola data seperti Whatsapp Add
 
     Account, Whatsapp Setting
