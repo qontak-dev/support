@@ -23,22 +23,12 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  3. Dalam ketentuanya **Supervisor** juga bisa mengakses  status online/offline maupun room history yang ada pada form inbox
 
     ![](/uploads/supervisor1.PNG)
- 4. Pada Channel Integrations Webchat, ada beberapa kondisi dimana admin bisa mengelola data seperti Add New dan  Settings.
+ 4. Pada Channel Integrations Webchat, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
-    ![](/uploads/admin3-1.PNG)
+    ![](/uploads/supervisor2.PNG)
+ 5. Pada Channel Whatsapp, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
-    > Update Widget Status, Update Widget Name and Update Widget Domain
-
-    ![](/uploads/admin3-3.PNG)
- 5. Pada Channel Whatsapp, admin bisa mengelola data seperti Whatsapp Add
-
-    Account, Whatsapp Setting
-
-    ![](/uploads/admin4.PNG)
-
-    > Whatsapp Update Name, Whatsapp Update Token, Whatsapp Update URL, Whatsapp Update SSL Support, Whatsapp Update Webhook URL dan Whatsapp Disconnect Account
-
-    ![](/uploads/admin4-4.PNG)
+    ![](/uploads/supervisor3.PNG)
  6. Pada Channel Facebook, admin bisa mengelola data seperti Facebook Add
 
     Account, Facebook Disconnect Account, Facebook Open Messenger,
