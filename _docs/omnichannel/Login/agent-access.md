@@ -8,7 +8,7 @@ published: false
 ---
 **Agent Access**
 
-Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam mengakses chat panel dengan ketentuan sebagai berikut;
+Dalam Penggunaan Chat Panel, **Agent** adalah salah satu akses yang digunakan dalam mengakses chat panel dengan ketentuan sebagai berikut;
 
 1. Buka halaman [https://chat.qontak.com/login](https://chat.qontak.com/login "https://chat.qontak.com/login").
 
