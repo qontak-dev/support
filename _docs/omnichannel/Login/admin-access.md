@@ -6,4 +6,6 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Admin Access
+**Admin Access**
+
+Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam menagkses chat panel
