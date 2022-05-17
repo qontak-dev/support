@@ -46,9 +46,17 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
  8. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
 
     Channel, Telegram Disconnect Channel, Telegram Setting, Telegram Update Token, Telegram Update Username dan Telegram Update Name
- 9. Pada Channel Whatsapp, admin bisa mengelola data seperti Whatsapp Add
+ 9. Pada Channel Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
+10. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting, Line Update Channel Name, Line Update
 
-    Account, Whatsapp Setting
-10. Pada Channel Whatsapp, admin bisa mengelola data seperti Whatsapp Add
+    Channel Secret, Line Update Token, 
+11. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
 
-    Account, Whatsapp Setting
+    Account dan Livechat Disconnect Account
+12. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
+
+    Setting, Setting - Account
+
+    Management, Setting - Agent
+
+    Management, Setting - Chat, Setting - Contact, Setting - Score dan Setting - Ticket
