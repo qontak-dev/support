@@ -45,9 +45,9 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  9. Pada Channel Telegram, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor7.PNG)
-10. Pada Channel Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
+10. Pada Channel Twitter, **Supervisor** hanya bisa melihat form twitter
 
-    ![](/uploads/admin9.PNG)
+    ![](/uploads/supervisor8.PNG)
 11. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting
 
     ![](/uploads/admin10.PNG)
