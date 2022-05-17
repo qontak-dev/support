@@ -18,3 +18,8 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
 2. Anda akan diarahkan ke halaman utama **Omnichannel**.
 
    ![](/uploads/admin1.PNG)
+
+   > Admin bisa mengakses Inbox, Broadcast, Contact, Chatbot, Reports, Finance dan Channel Integrations
+3. Dalam ketentuanya admin tidak bisa mengakses  status online/offline maupun room history yang ada pada form inbox
+
+   ![](/uploads/admin2.PNG)
