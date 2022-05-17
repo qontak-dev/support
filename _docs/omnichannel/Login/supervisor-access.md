@@ -26,13 +26,13 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  4. Pada Channel Integrations Webchat, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor2.PNG)
- 5. Pada Channel Whatsapp, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
+ 5. Pada Channel Integrations  Whatsapp, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor3.PNG)
- 6. Pada Channel Facebook, **Supervisor** hanya bisa open messenger
+ 6. Pada Channel Integrations  Facebook, **Supervisor** hanya bisa open messenger
 
     ![](/uploads/supervisor4.PNG)
- 7. Pada Channel Intagram, **Supervisor** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
+ 7. Pada Channel Integrations  Intagram, **Supervisor** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
 
     ![](/uploads/supervisor5.PNG)
  8. Pada Channel Integration Email, **Supervisor** hanya bisa membuka detail informasi email yang sudah terdaftar.
@@ -42,21 +42,21 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
     > Klik salah satu email> kemudian sistem akan membuka form Informasi Email Account
 
     ![](/uploads/supervisor6-6.PNG)
- 9. Pada Channel Telegram, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
+ 9. Pada Channel Integrations Telegram, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor7.PNG)
-10. Pada Channel Twitter, **Supervisor** hanya bisa melihat form twitter
+10. Pada Channel Integrations Twitter, **Supervisor** hanya bisa melihat form twitter
 
     ![](/uploads/supervisor8.PNG)
-11. Pada Channel Line, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
+11. Pada Channel Integrations  Line, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor9.PNG)
-12. Pada Channel Livechat, **Supervisor** hanya bisa membuka Livechat tanpa melakukan aksi apapun
+12. Pada Channel Integrations  Livechat, **Supervisor** hanya bisa membuka Livechat tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor10.PNG)
-13. Pada Channel Qontak CRM,  **Supervisor** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
+13. Pada Channel Integrations  Qontak CRM,  **Supervisor** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor11.PNG)
-14.  **Supervisor** hanya bisa mengakses Chat pada settings
+14.  Pada menu settings **Supervisor** hanya bisa mengakses Chat.
 
     ![](/uploads/supervisor12-1.PNG)
