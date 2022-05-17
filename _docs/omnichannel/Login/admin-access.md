@@ -60,13 +60,24 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
 
     ![](/uploads/admin8-8.PNG)
 10. Pada Channel Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
-11. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting, Line Update Channel Name, Line Update
 
-    Channel Secret, Line Update Token, 
+    ![](/uploads/admin9.PNG)
+11. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting
+
+    ![](/uploads/admin10.PNG)
+
+    > Line Update Channel Name, Line Update Channel Secret, Line Update Token
+
+    ![](/uploads/admin10-10.PNG)
 12. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
 
     Account dan Livechat Disconnect Account
+
+    ![](/uploads/admin11.PNG)
 13. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
+
+    ![](/uploads/admin12.PNG)
+14. vc
 
     Setting, Setting - Account
 
