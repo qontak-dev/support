@@ -8,4 +8,4 @@ published: false
 ---
 **Admin Access**
 
-Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam menagkses chat panel
+Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam menagkses chat panel dengan ketentuan
