@@ -35,9 +35,13 @@ Dalam Penggunaan Chat Panel, **Supervisor** adalah salah satu akses yang digunak
  7. Pada Channel Intagram, **Supervisor** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
 
     ![](/uploads/supervisor5.PNG)
- 8. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
+ 8. Pada Channel Email, **Supervisor** hanya bisa membuka detail informasi email yang sudah terdaftar.
 
-    ![](/uploads/admin7.PNG)
+    ![](/uploads/supervisor6.PNG)
+
+    > Informasi Email Account
+
+    ![](/uploads/supervisor6-6.PNG)
  9. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
 
     Channel, Telegram Disconnect Channel, Telegram Setting,
