@@ -17,4 +17,4 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
    > Masukan **Username** dan **Password** Anda, kemudian klik **Login**.
 2. Anda akan diarahkan ke halaman utama **Omnichannel**.
 
-   ![](/uploads/inbox-qontak-c.png)
+   ![](/uploads/admin1.PNG)
