@@ -41,19 +41,20 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
     ![](/uploads/admin4-4.PNG)
  6. Pada Channel Facebook, admin bisa mengelola data seperti Facebook Add
 
-    Account, Facebook Disconnect Account, Facebook Open Messenger, Instagram Add Account, Instagram Disconnect Account
- 7. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
- 8. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
+    Account, Facebook Disconnect Account, Facebook Open Messenger, 
+ 7. Pada Channel Intagram, admin bisa mengelola data seperti Instagram Add Account, Instagram Disconnect Account
+ 8. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
+ 9. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
 
     Channel, Telegram Disconnect Channel, Telegram Setting, Telegram Update Token, Telegram Update Username dan Telegram Update Name
- 9. Pada Channel Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
-10. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting, Line Update Channel Name, Line Update
+10. Pada Channel Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
+11. Pada Channel Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting, Line Update Channel Name, Line Update
 
     Channel Secret, Line Update Token, 
-11. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
+12. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
 
     Account dan Livechat Disconnect Account
-12. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
+13. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
 
     Setting, Setting - Account
 
