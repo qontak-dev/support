@@ -30,5 +30,9 @@ Dalam Penggunaan Chat Panel, Admin adalah salah satu akses yang digunakan dalam 
    > Update Widget Status, Update Widget Name and Update Widget Domain
 
    ![](/uploads/admin3-3.PNG)
-5. f
+5. Pada Channel Whatsapp, admin bisa mengelola data seperti Whatsapp Add
+
+   Account, Whatsapp Setting, Whatsapp Update Name, Whatsapp Update
+
+   Token, Whatsapp Update URL, Whatsapp Update SSL Support, Whatsapp Update Webhook URL dan Whatsapp Disconnect Account 
 6. dsx
