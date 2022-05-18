@@ -44,10 +44,10 @@ Dalam Penggunaan Chat Panel, **Admin** adalah salah satu akses yang digunakan da
  7. Pada Channel Integrations Intagram, admin bisa mengelola data seperti Instagram Add Account, Instagram Disconnect Account
 
     ![](/uploads/admin6.PNG)
- 8. Pada Channel Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
+ 8. Pada Channel Integrations Email, admin bisa mengelola data seperti Email Add Account, Email Disconnect Account, Email See Data, dan Email Update Data
 
     ![](/uploads/admin7.PNG)
- 9. Pada Channel Telegram, admin bisa mengelola data seperti Telegram Add
+ 9. Pada Channel Integrations Telegram, admin bisa mengelola data seperti Telegram Add
 
     Channel, Telegram Disconnect Channel, Telegram Setting,
 
