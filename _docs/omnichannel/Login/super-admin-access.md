@@ -17,9 +17,9 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
     > Masukan **Username** dan **Password** Anda, kemudian klik **Login**.
  2. Anda akan diarahkan ke halaman utama **Omnichannel**.
 
-    ![](/uploads/admin1.PNG)
+    ![](/uploads/superadmin1.PNG)
 
-    > **Supervisor** bisa mengakses Inbox, Broadcast, Contact, Chatbot, Reports, Finance dan Channel Integrations
+    > **Supervisor** bisa mengakses Broadcast, Contact, Chatbot, Reports, Finance Channel Integrations dan Settings
  3. Dalam ketentuanya **Supervisor** juga bisa mengakses  status online/offline maupun room history yang ada pada form inbox
 
     ![](/uploads/supervisor1.PNG)
