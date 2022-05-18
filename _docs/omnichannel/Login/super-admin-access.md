@@ -58,6 +58,6 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
 
     > Yang paling membedakan akses super admin dengan akses yang lain yaitu super admin bisa menambahkan organisasi pada menu 
     >
-    > **Settings > Accounts Managements > Organization > Create Organization**
+    > **Settings > Accounts Managements > Organization > Create Organization** seperti gambar dibawah ini;
 
     ![](/uploads/superadmin2.PNG)
