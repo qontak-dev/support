@@ -29,10 +29,10 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
  5. Pada Channel Integrations  Facebook, **Super Admin** hanya bisa open messenger
 
     ![](/uploads/supervisor4.PNG)
- 6. Pada Channel Integrations  Intagram, **Super Admin** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
+ 6. Pada Channel Integrations Intagram, **Super Admin** hanya bisa membuka form intagram untuk melihat intagram yang sudah terdaftar
 
     ![](/uploads/supervisor5.PNG)
- 7. Pada Channel Integration Email, **Supervisor** hanya bisa membuka detail informasi email yang sudah terdaftar.
+ 7. Pada Channel Integration Email, **Super Admin** hanya bisa membuka detail informasi email yang sudah terdaftar.
 
     ![](/uploads/supervisor6.PNG)
 
