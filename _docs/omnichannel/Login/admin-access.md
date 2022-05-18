@@ -64,12 +64,10 @@ Dalam Penggunaan Chat Panel, **Admin** adalah salah satu akses yang digunakan da
     > Line Update Channel Name, Line Update Channel Secret, Line Update Token
 
     ![](/uploads/admin10-10.PNG)
-12. Pada Channel Livechat, admin bisa mengelola data seperti Livechat Add
-
-    Account dan Livechat Disconnect Account
+12. Pada Channel Integrations Livechat, admin bisa mengelola data seperti Livechat Add Account dan Livechat Disconnect Account
 
     ![](/uploads/admin11.PNG)
-13. Pada Channel Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
+13. Pada Channel Integrations Qontak CRM, admin bisa mengelola data seperti Qontak CRM Add Account, Qontak CRM Disconnect Account
 
     ![](/uploads/admin12.PNG)
 14. Admin juga bisa mengakses Setting - Account Management
