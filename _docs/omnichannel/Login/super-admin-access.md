@@ -54,7 +54,7 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
 12. Pada Channel Integrations  Qontak CRM, **Super Admin** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor11.PNG)
-13. Pada menu Settings,  **Super Admin** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
+13. Pada menu Settings,  **Super Admin** bisa mengakses berbagai menu seperti accounts managements, agents management, chat, dan whatsApp manager
 
     > Yang paling membedakan akses super admin dengan akses yang lain yaitu super admin bisa menambahkan organisasi pada menu 
     >
