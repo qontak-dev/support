@@ -3,7 +3,6 @@ tags: []
 title: Super Admin Access
 subtitle: This document access omnichannel system
 author: hariyati suarni nurindah
-published: false
 
 ---
 **Super Admin Access**
