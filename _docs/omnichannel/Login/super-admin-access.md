@@ -39,13 +39,13 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
     > Klik salah satu email> kemudian sistem akan membuka form Informasi Email Account
 
     ![](/uploads/supervisor6-6.PNG)
- 8. Pada Channel Integrations Telegram, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
+ 8. Pada Channel Integrations Telegram, **Super Admin** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor7.PNG)
- 9. Pada Channel Integrations Twitter, **Supervisor** hanya bisa melihat form twitter
+ 9. Pada Channel Integrations Twitter, **Super Admin** hanya bisa melihat form twitter
 
     ![](/uploads/supervisor8.PNG)
-10. Pada Channel Integrations  Line, **Supervisor** hanya bisa membuka form settings tanpa melakukan aksi apapun.
+10. Pada Channel Integrations Line, **Super Admin** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor9.PNG)
 11. Pada Channel Integrations  Livechat, **Supervisor** hanya bisa membuka Livechat tanpa melakukan aksi apapun
