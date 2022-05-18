@@ -19,7 +19,7 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
 
     ![](/uploads/superadmin1.PNG)
 
-    > **Supervisor** bisa mengakses Broadcast, Contact, Chatbot, Reports, Finance Channel Integrations dan Settings
+    > **Supervisor** bisa mengakses Broadcast, Contact, Reports, Finance Channel Integrations dan Settings
  3. Dalam ketentuanya **Supervisor** juga bisa mengakses  status online/offline maupun room history yang ada pada form inbox
 
     ![](/uploads/supervisor1.PNG)
