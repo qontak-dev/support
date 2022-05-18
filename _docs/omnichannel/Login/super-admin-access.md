@@ -48,10 +48,10 @@ Dalam Penggunaan Chat Panel, **Super Admin** adalah salah satu akses yang diguna
 10. Pada Channel Integrations Line, **Super Admin** hanya bisa membuka form settings tanpa melakukan aksi apapun.
 
     ![](/uploads/supervisor9.PNG)
-11. Pada Channel Integrations  Livechat, **Supervisor** hanya bisa membuka Livechat tanpa melakukan aksi apapun
+11. Pada Channel Integrations Livechat, **Super Admin** hanya bisa membuka Livechat tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor10.PNG)
-12. Pada Channel Integrations  Qontak CRM,  **Supervisor** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
+12. Pada Channel Integrations  Qontak CRM, **Super Admin** hanya bisa membuka Qontak CRM tanpa melakukan aksi apapun
 
     ![](/uploads/supervisor11.PNG)
 13. Pada menu settings, **Supervisor** hanya bisa mengakses Chat.
