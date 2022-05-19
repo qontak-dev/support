@@ -1,7 +1,7 @@
 ---
 tags: []
 title: List Intents
-subtitle: Documents
+subtitle: This document covers chatbot system
 author: hariyati suarni nurindah
 published: false
 

@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Add New Intents
-subtitle: ''
+subtitle: This document covers chatbot system
 author: hariyati suarni nurindah
 published: false
 

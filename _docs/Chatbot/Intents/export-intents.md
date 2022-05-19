@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Export Intents
-subtitle: ''
-author: ''
+subtitle: This document covers chatbot system
+author: hariyati suarni nurindah
 published: false
 
 ---
