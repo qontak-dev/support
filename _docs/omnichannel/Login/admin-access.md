@@ -57,7 +57,7 @@ Dalam Penggunaan Chat Panel, **Admin** adalah salah satu akses yang digunakan da
 10. Pada Channel Integrations Twitter, admin bisa mengelola data seperti Twitter Add Account, Twitter Disconnect Account
 
     ![](/uploads/admin9.PNG)
-11. Pada Channel Integrations Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account, Line Setting
+11. Pada Channel Integrations Line, admin bisa mengelola data seperti Line Add Account, Line Disconnect Account dan Line Setting
 
     ![](/uploads/admin10.PNG)
 
