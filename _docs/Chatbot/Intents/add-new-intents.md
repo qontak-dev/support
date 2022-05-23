@@ -14,7 +14,7 @@ Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berik
 
    ![](/uploads/intents1.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan intent seperti **Nama** intent, teks yang akan dikirim ke user pada field **Content text**, auto resolved, Organization, **Auto resolve after send** jika anda mencentang radio button pada field tersebut dan **Is idle rule** jika anda mencentang radio button pada field.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan intent seperti **Nama** intent, teks yang akan dikirim ke user pada field **Content text**, **Organization**, **Auto resolve after send** jika anda mencentang radio button pada field tersebut dan begitupun dengan **Is idle rule.**
    >
    > anda juga bisa memilih pesan tersebut **Is assign agent, Is auto assign agent, Is assign agent offline** atau dengan menambahkan agent sendiri dengan cara search agent atau create new agent.  
    > Anda juga bisa menambahkan division dengan cara search maupun create new Division.
