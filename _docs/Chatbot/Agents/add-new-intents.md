@@ -14,7 +14,7 @@ Dalam menu **Agents**, anda dapat menambahkan agents yang anda inginkan. Berikut
 
    ![](/uploads/agents1.PNG)
 
-   > > Dalam pengisian form division, pastikan untuk mengisi **Name**, **Channel division name**, **Channel division** kemudian Anda juga bisa menambahkan **Channel integration** dengan cara search maupun Add new C**hannel integration** begitupun dengan **Organization** dan **Agents**
+   > > Dalam pengisian form Agents, pastikan untuk mengisi **Name**, **Channel Agent name**, **Channel Agent, Channel identity** kemudian Anda juga bisa menambahkan **Channel integration** dengan cara search maupun Add new C**hannel integration** begitupun dengan **Organization** dan **Agents**
    > >
    > > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
