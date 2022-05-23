@@ -14,8 +14,10 @@ Dalam menu **Agents**, anda dapat menambahkan agents yang anda inginkan. Berikut
 
    ![](/uploads/agents1.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-   >
+   > > Dalam pengisian form division, pastikan untuk mengisi **Name**, **Channel division name**, **Channel division** kemudian Anda juga bisa menambahkan **Channel integration** dengan cara search maupun Add new C**hannel integration** begitupun dengan **Organization** dan **Agents**
+   > >
+   > > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > >
    > > Setelah data terisi, klik button **Save** untuk menyimpan data.
    > >
    > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
