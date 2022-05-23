@@ -20,7 +20,8 @@ Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berik
    >
    > rule yang ada dicahnnel integration
    >
-   > anda juga bisa memilih pesan tersebut **Is assign agent, Is auto assign agent, Is assign agent offline** atau dengan menambahkan agent sendiri dengan cara search agent atau create new agent.
+   > anda juga bisa memilih pesan tersebut **Is assign agent, Is auto assign agent, Is assign agent offline** atau dengan menambahkan agent sendiri dengan cara search agent atau create new agent.  
+   > Anda juga bisa menambahkan division dengan cara search maupun create new Division.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/intents2.PNG)
