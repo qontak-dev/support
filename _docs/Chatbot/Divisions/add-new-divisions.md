@@ -14,7 +14,9 @@ Dalam menu **Divisions**, anda dapat menambahkan divisions yang anda inginkan. B
 
    ![](/uploads/divisions2.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Dalam pengisian form division, pastikan untuk mengisi **Name, Channel division name, Channel division dan Anda juga bisa menambahkan Channel integration dengan cara search mapun Add new Channel integration begitupun dengan organization dan Agents**
+   >
+   > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/divisions3.PNG)
