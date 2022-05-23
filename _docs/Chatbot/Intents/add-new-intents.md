@@ -15,6 +15,12 @@ Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berik
    ![](/uploads/intents1.PNG)
 
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   >
+   > ada beberapa hal yang harus diperhatikan dalam menambahkan intent seperti **Nama** intent, teks yang akan dikirim ke user pada field **Content text**, auto resolved, Organization, **Auto resolve after send** jika anda mencentang radio button pada field tersebut dan **Is idle rule** jika anda mencentang radio button pada field.
+   >
+   > rule yang ada dicahnnel integration
+   >
+   > anda juga bisa memilih pesan tersebut **Is assign agent, Is auto assign agent**
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/intents2.PNG)
