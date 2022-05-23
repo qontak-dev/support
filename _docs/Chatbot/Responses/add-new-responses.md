@@ -14,7 +14,7 @@ Dalam menu **Responses**, anda dapat menambahkan response yang anda inginkan. Be
 
    ![](/uploads/response2.PNG)
 
-   > Untuk menambahkan response pastikan **input content** sudah terisi kemudian pilih **Intent** dangan cara search maupun create new intent begitupun dengan **next intent**
+   > Untuk menambahkan response pastikan **input content** sudah terisi kemudian pilih **Intent** dangan cara search maupun create new intent begitupun dengan **next intent, organization** dan **channel integration**
    >
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
