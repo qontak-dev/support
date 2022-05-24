@@ -14,7 +14,7 @@ Dalam menu **Path Schedules**, anda dapat menambahkan path yang anda inginkan. B
 
    ![](/uploads/pathschedules2.PNG)
 
-   Pastikan field-field mandatory sudah terisi dengan benar.
+   Pastikan field-field mandatory sudah terisi dengan benar
 
    > Setelah data terisi, klik button **Save** untuk menyimpan data.
    >
