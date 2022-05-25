@@ -14,7 +14,7 @@ Dalam menu **Response Paths**, anda dapat menambahkan response pathsyang anda in
 
    ![](/uploads/responsepath5.PNG)
 
-   pastikan field-field mandatory sudah terisi dengan benar.
+   > Pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/responsepath6.PNG)
