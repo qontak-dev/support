@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langka
 
    ![](/uploads/pathschedules5.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan path schedules dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat path schedules dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari path schedules berdasarkan nama.
