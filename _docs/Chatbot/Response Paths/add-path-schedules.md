@@ -10,11 +10,11 @@ published: false
 
 Dalam menu **Response Paths**, anda dapat menambahkan response pathsyang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path schedules pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Paths** di bagian kiri atas, untuk menambahkan response path anda dapat mengklik bagian **Add New** untuk membuka form response paths.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Paths** di bagian kiri atas, untuk menambahkan response path anda dapat mengklik bagian **Add New** untuk membuka form response paths
 
    ![](/uploads/responsepath5.PNG)
 
-   > Pastikan field-field mandatory sudah terisi dengan benar.
+   > Pastikan field-field mandatory sudah terisi dengan benar
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/responsepath6.PNG)
