@@ -17,11 +17,11 @@ Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengiku
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Response Source Intents** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Response Source Intents** dengan fitur-fitur yang disediakan
 
    ![](/uploads/responsesourceintents1.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan response source intents dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat response source intents dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari response source intents berdasarkan nama.
