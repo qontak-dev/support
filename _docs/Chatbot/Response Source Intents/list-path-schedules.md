@@ -16,7 +16,7 @@ Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengiku
 
    ![](/uploads/channell.PNG)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+   > Masukkan **Username** dan **Password** anda kemudian klik button **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Response Source Intents** dengan fitur-fitur yang disediakan
 
    ![](/uploads/responsesourceintents1.PNG)
