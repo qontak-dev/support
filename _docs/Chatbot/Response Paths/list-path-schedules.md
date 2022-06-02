@@ -16,7 +16,7 @@ Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langka
 
    ![](/uploads/channell.PNG)
 
-   > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
+   > Masukkan **Username** dan **Password** anda kemudian klik tombol **“Login”** untuk memulai
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
 
    ![](/uploads/pathschedules5.PNG)
