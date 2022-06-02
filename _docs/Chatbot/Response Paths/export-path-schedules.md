@@ -8,13 +8,13 @@ published: false
 ---
 **Export Response Path**
 
-Dalam menu **Response Path**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response path pada Web.
+Dalam menu **Response Path**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response path pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Path** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export response path
 
    ![](/uploads/responsepath7.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
 
    ![](/uploads/responsepath8.PNG)
