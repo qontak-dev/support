@@ -8,7 +8,7 @@ published: false
 ---
 **Add Users**
 
-Dalam menu **Users**, anda dapat menambahkan users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan users pada Web.
+Dalam menu **Users**, anda dapat menambahkan users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan users pada Web
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Users** di bagian kiri atas, untuk menambahkan users anda dapat mengklik bagian **Add New** untuk membuka form users.
 
