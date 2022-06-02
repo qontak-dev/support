@@ -14,7 +14,7 @@ Dalam menu **Response Source Intent**, anda dapat mengexport response source int
 
    ![](/uploads/responsesourceintents6.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
 
    ![](/uploads/responsesourceintents7.PNG)
