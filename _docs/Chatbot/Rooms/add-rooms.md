@@ -14,7 +14,7 @@ Dalam menu **Rooms**, anda dapat menambahkan rooms yang anda inginkan. Berikut m
 
    ![](/uploads/rooms6-1.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar seperti field **Channel integration** dan **Organization**.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/rooms7-1.PNG)
