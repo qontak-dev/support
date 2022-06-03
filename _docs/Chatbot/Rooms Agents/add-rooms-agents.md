@@ -14,7 +14,7 @@ Dalam menu **Rooms Agents**, anda dapat menambahkan rooms agents yang anda ingin
 
    ![](/uploads/roomagents5.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar seperti **Room, Channel integration** dan **Organization**.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/roomagents6.PNG)
