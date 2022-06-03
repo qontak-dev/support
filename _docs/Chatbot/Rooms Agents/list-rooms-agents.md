@@ -21,17 +21,16 @@ Untuk melihat tampilan pada list **Rooms Agents**, Anda perlu mengikuti langkah-
 
    ![](/uploads/rooms1.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan rooms agents dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat rooms agents dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari rooms agents berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak rooms agents yang ditampilkan di satu layar.
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+3. Tombol “**Filter**” untuk melihat rooms agents dengan pengaturan tertentu.
+4. Menu “**Search**” untuk mencari rooms agents berdasarkan nama.
+5. Menu “**Show**” untuk mengatur berapa banyak rooms agents yang ditampilkan di satu layar.
 
    ![](/uploads/roomagents2.PNG)
-7. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms agents
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms agents
+6. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms agents
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms agents
 
    ![](/uploads/roomagents3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu rooms agents
+8. Tombol “**Delete**” untuk menghapus suatu rooms agents
 
    ![](/uploads/roomagents4.PNG)
