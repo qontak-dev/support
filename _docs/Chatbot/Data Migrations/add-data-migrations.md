@@ -14,7 +14,7 @@ Dalam menu **Data Migrations**, anda dapat menambahkan data migrations yang anda
 
    ![](/uploads/datamigrations6.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar seperti field **Version**, **Runtime** dan **Migrated on**.
    >
    > > Setelah data terisi, klik button **Save** untuk menyimpan data.
    > >
