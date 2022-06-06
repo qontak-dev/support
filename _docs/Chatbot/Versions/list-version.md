@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list **Users**, Anda perlu mengikuti langkah-langkah
 
    ![](/uploads/users1.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan users dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat users dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari users berdasarkan nama.
