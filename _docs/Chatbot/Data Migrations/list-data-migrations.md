@@ -21,17 +21,16 @@ Untuk melihat tampilan pada list **Data Migrations**, Anda perlu mengikuti langk
 
    ![](/uploads/datamigrations2.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan data migrations dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat data migrations dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari data migrations berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak data migrations yang ditampilkan di satu layar.
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+3. Tombol “**Filter**” untuk melihat data migrations dengan pengaturan tertentu.
+4. Menu “**Search**” untuk mencari data migrations berdasarkan nama.
+5. Menu “**Show**” untuk mengatur berapa banyak data migrations yang ditampilkan di satu layar.
 
    ![](/uploads/datamigrations3.PNG)
-7. Tombol “**Export Found Data Migrations**” untuk mengarahkan ke halaman export data migrations
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu data migrations
+6. Tombol “**Export Found Data Migrations**” untuk mengarahkan ke halaman export data migrations
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu data migrations
 
    ![](/uploads/datamigrations4.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu data migrations
+8. Tombol “**Delete**” untuk menghapus suatu data migrations
 
    ![](/uploads/datamigrations5.PNG)
