@@ -14,8 +14,6 @@ Dalam menu **Data Migrations**, anda dapat mengexport data migrations yang anda 
 
    ![](/uploads/datamigrations7.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export dan setelah Anda memilih field yang akan diexport
    >
-   > > Setelah Anda memilih field yang akan diexport
-   > >
    > > > klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
