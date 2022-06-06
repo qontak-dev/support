@@ -14,7 +14,7 @@ Dalam menu **Users**, anda dapat mengexport users yang anda inginkan. Berikut me
 
    ![](/uploads/users7.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
 
    ![](/uploads/users8.PNG)
