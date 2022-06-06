@@ -14,7 +14,7 @@ Dalam menu **Users**, anda dapat menambahkan users yang anda inginkan. Berikut m
 
    ![](/uploads/users5.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar seperti field **Organization**.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/users6.PNG)
