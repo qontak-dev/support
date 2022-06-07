@@ -1,7 +1,7 @@
 ---
 tags: []
 title: List Responses
-subtitle: Add Subtittle All Draft Chatbot
+subtitle: This document covers Chatbot feature
 author: ''
 published: false
 
