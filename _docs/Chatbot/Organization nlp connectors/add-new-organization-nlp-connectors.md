@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Add New Organization nlp connectors
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
