@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Bot Service Token Channel Integration
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
