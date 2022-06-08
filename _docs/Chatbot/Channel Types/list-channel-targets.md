@@ -1,7 +1,7 @@
 ---
 tags: []
 title: List Channel Types
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
