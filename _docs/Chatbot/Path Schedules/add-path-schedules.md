@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Add Path Schedules
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
