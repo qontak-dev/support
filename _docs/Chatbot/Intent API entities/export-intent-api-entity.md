@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Export Intent API Entity
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 

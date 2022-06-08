@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Add New Intent API Entity
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
