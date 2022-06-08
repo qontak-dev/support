@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Integrations**
 
-Dalam menu integrations, anda dapat menambahkan integrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan integrations pada Web.
+Dalam menu **Integrations**, anda dapat menambahkan integrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan integrations pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Integrations** di bagian kiri atas, untuk menambahkan integrations anda dapat mengklik bagian **Add New** untuk membuka form integrations.
 
