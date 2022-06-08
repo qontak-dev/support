@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Add New Nlp connectors
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
