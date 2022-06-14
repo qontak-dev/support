@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list **Channel Targets**, Anda perlu mengikuti langk
 
    ![](/uploads/attachmentupdate1.PNG)
 3. Tombol “**Filter**” untuk melihat attachments dengan pengaturan tertentu.
-4. Tombol “**Export Found Channel Targets**” untuk mengarahkan ke halaman export channel targets
+4. Tombol “**Export Found Channel Targets**” untuk mengarahkan ke halaman export channel targets.
 5. Menu “**Show**” untuk mengatur berapa banyak channel targets yang ditampilkan di satu layar.
 
    ![](/uploads/channeltypesupdate2.PNG)
