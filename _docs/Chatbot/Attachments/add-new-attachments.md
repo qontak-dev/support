@@ -14,6 +14,10 @@ Dalam menu **Attachments**, anda dapat menambahkan attachments yang anda inginka
 
    ![](/uploads/attachments2.PNG)
 
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   >
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   >
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
    > > Setelah data terisi, klik button **Save** untuk menyimpan data.
