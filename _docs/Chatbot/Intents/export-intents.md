@@ -8,13 +8,13 @@ published: false
 ---
 **Export Intents**
 
-Dalam menu Intents, anda dapat mengexport intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export intents pada Web.
+Dalam menu **Intents**, anda dapat mengexport intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export intents pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intents** di bagian kiri atas, untuk export suatu intents, anda dapat mengklik bagian **Export** untuk membuka form Export intents
 
    ![](/uploads/intents3.PNG)
 
-   > > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export.
 2. Setelah itu pilih field yang akan diexport.
 
    ![](/uploads/intentsupdate6.PNG)
