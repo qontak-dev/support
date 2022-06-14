@@ -14,7 +14,7 @@ Dalam menu **Agents Divisions**, anda dapat menambahkan agents divisions yang an
 
    ![](/uploads/agents1.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Attachable, Attachment type** dan **Organization** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Name.**
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
