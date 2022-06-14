@@ -8,13 +8,13 @@ published: false
 ---
 **Export Channel Targets**
 
-Dalam menu **Channel Targets**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada Web.
+Dalam menu **Channel Targets**, anda dapat mengexport channel targets yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export channel targets pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk export suatu channel targets, anda dapat mengklik bagian **Export** untuk membuka form Export channel targets
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Channel Targets** di bagian kiri atas, untuk export suatu channel targets, anda dapat mengklik bagian **Export** untuk membuka form Export channel targets.
 
    ![](/uploads/channeltypesupdate6.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah itu pilih field yang akan diexport kemudian
 
    ![](/uploads/channeltypesupdate7.PNG)
