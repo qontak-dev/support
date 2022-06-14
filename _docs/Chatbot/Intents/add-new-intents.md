@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Intents**
 
-Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan intents pada Web.
+Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan intents pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intents** di bagian kiri atas, untuk menambahkan intents anda dapat mengklik bagian **Add New** untuk membuka form Intents.
 
@@ -19,7 +19,7 @@ Dalam menu **Intents**, anda dapat menambahkan intents yang anda inginkan. Berik
    > Anda juga bisa mengassign pesan tersebut dengan pilihan **Is assign agent, Is auto assign agent, Is assign agent offline** atau dengan menambahkan agent sendiri dengan cara search agent atau create new agent.  
    > dan menambahkan division dengan cara search maupun create new Division.
    >
-   > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/intents2.PNG)
