@@ -8,14 +8,14 @@ published: false
 ---
 **Export Attachments Types**
 
-Dalam menu **Attachments Types**, anda dapat mengexport attachments types  yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments types pada Web.
+Dalam menu **Attachments Types**, anda dapat mengexport attachments types  yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments types pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments Types** di bagian kiri atas, untuk export suatu attachments types, anda dapat mengklik bagian **Export** untuk membuka form Export attachments types
 
    ![](/uploads/attachments-types-update7.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport kemudian.
 
    ![](/uploads/attachments-types-update8.PNG)
 
