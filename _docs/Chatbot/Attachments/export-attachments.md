@@ -8,13 +8,13 @@ published: false
 ---
 **Export Attachments**
 
-Dalam menu **Attachments**, anda dapat mengexport attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments pada Web.
+Dalam menu **Attachments**, anda dapat mengexport attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export attachments pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Attachments** di bagian kiri atas, untuk export suatu attachments , anda dapat mengklik bagian **Export** untuk membuka form Export attachments
 
    ![](/uploads/attachments3.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah itu pilih field yang akan diexport kemudian
 
    ![](/uploads/attachmentupdate5.PNG)
