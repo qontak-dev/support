@@ -8,14 +8,14 @@ published: false
 ---
 **Export Version**
 
-Dalam menu **Users**, anda dapat mengexport users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export users pada Web.
+Dalam menu **Users**, anda dapat mengexport users yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export users pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Users** di bagian kiri atas, untuk export suatu users, anda dapat mengklik bagian **Export** untuk membuka form export users
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Users** di bagian kiri atas, untuk export suatu users, anda dapat mengklik bagian **Export** untuk membuka form export users.
 
    ![](/uploads/users7.PNG)
 
-   > Select field yang ingin Anda Export
-2. Setelah Anda memilih field yang akan diexport
+   > Select field yang ingin Anda Export.
+2. Setelah Anda memilih field yang akan diexport.
 
    ![](/uploads/users8.PNG)
 
