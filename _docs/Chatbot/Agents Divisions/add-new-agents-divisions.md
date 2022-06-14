@@ -14,12 +14,12 @@ Dalam menu **Agents Divisions**, anda dapat menambahkan agents divisions yang an
 
    ![](/uploads/agents1.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti **Agent, Division** dan **Versions** dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti **Attachable, Attachment type** dan **Organization** dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-   >
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-   >
-   > > Setelah data terisi, klik button **Save** untuk menyimpan data.
    > >
-   > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+   > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > > >
+   > > > > Setelah data terisi, klik button **Save** untuk menyimpan data.
+   > > > >
+   > > > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
