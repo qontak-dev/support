@@ -25,7 +25,7 @@ Untuk melihat tampilan pada list agents divisions, Anda perlu mengikuti langkah-
 5. Menu “**Show**” untuk mengatur berapa banyak agents divisions yang ditampilkan di satu layar.
 
    ![](/uploads/agentdivision2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents divisions
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents divisions.
 
    ![](/uploads/agentdivision3.PNG)
 7. Tombol “**Delete**” untuk menghapus suatu agents divisions
