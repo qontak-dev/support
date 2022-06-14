@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list attachments types, Anda perlu mengikuti langkah
 
    ![](/uploads/attachments-types-update1.PNG)
 3. Tombol “**Filter**” untuk melihat attachments types dengan pengaturan tertentu.
-4. Tombol “**Export Found Attachments**” untuk mengarahkan ke halaman export attachments types
+4. Tombol “**Export Found Attachments**” untuk mengarahkan ke halaman export attachments types.
 5. Menu “**Show**” untuk mengatur berapa banyak attachments types yang ditampilkan di satu layar.
 
    ![](/uploads/attachments-types-update2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu attachments types
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu attachments types.
 
    ![](/uploads/attachments-types-update3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu attachments types
+7. Tombol “**Delete**” untuk menghapus suatu attachments types.
 
    ![](/uploads/attachments-types-update4.PNG)
