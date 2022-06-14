@@ -14,7 +14,7 @@ Dalam menu **Agents**, anda dapat mengexport agents yang anda inginkan. Berikut 
 
    ![](/uploads/agents2.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export.
 2. Setelah itu pilih field yang akan diexport kemudian
 
    ![](/uploads/agentupdate5-1.PNG)
