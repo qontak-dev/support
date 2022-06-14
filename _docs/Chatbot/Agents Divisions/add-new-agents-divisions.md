@@ -14,6 +14,10 @@ Dalam menu **Agents Divisions**, anda dapat menambahkan agents divisions yang an
 
    ![](/uploads/agents1.PNG)
 
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisons seperti **Agent, Division** dan **Version** dengan cara search atau create new.
+   >
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   >
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
    > > Setelah data terisi, klik button **Save** untuk menyimpan data.
