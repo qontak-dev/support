@@ -25,9 +25,9 @@ Untuk melihat tampilan pada list **Channel Targets**, Anda perlu mengikuti langk
 5. Menu “**Show**” untuk mengatur berapa banyak channel targets yang ditampilkan di satu layar.
 
    ![](/uploads/channeltypesupdate2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel targets
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu channel targets.
 
    ![](/uploads/channeltypesupdate3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu channel targets
+7. Tombol “**Delete**” untuk menghapus suatu channel targets.
 
    ![](/uploads/channeltypesupdate4.PNG)
