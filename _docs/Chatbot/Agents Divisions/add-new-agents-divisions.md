@@ -14,7 +14,7 @@ Dalam menu **Agents Divisions**, anda dapat menambahkan agents divisions yang an
 
    ![](/uploads/agents1.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Name.**
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Name** yang harus disi.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
