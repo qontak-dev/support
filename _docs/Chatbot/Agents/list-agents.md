@@ -25,9 +25,9 @@ Untuk melihat tampilan pada list agents, Anda perlu mengikuti langkah-langkah be
 5. Menu “**Show**” untuk mengatur berapa banyak agents yang ditampilkan di satu layar.
 
    ![](/uploads/agentupdate2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu agents.
 
    ![](/uploads/agentupdate3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu agents
+7. Tombol “**Delete**” untuk menghapus suatu agents.
 
    ![](/uploads/agentupdate4.PNG)
