@@ -8,7 +8,7 @@ published: false
 ---
 **List Agents Divisions**
 
-**List Agents Divisions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada agents divisions.
+**List Agents Divisions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada agents divisions.
 
 Untuk melihat tampilan pada list agents divisions, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list agents divisions, Anda perlu mengikuti langkah-
 
    ![](/uploads/agentdivision1.PNG)
 3. Tombol “**Filter**” untuk melihat agents divisions dengan pengaturan tertentu.
-4. Tombol “**Export Found Agents Divisions**” untuk mengarahkan ke halaman export agents divisions
+4. Tombol “**Export Found Agents Divisions**” untuk mengarahkan ke halaman export agents divisions.
 5. Menu “**Show**” untuk mengatur berapa banyak agents divisions yang ditampilkan di satu layar.
 
    ![](/uploads/agentdivision2.PNG)
