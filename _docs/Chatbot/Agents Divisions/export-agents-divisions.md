@@ -14,7 +14,7 @@ Dalam menu **Agents  Divisions**, anda dapat mengexport agents divisions yang an
 
    ![](/uploads/agentsdivisions2.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah itu pilih field yang akan diexport
 
    ![](/uploads/agentdivision5-1.PNG)
