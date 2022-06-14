@@ -15,7 +15,7 @@ Dalam menu **Channel Targets**, anda dapat mengexport channel targets yang anda 
    ![](/uploads/channeltypesupdate6.PNG)
 
    > Select field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+2. Setelah itu pilih field yang akan diexport kemudian.
 
    ![](/uploads/channeltypesupdate7.PNG)
 
