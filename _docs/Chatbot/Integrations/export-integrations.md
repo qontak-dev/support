@@ -8,7 +8,7 @@ published: false
 ---
 **Export Integrations**
 
-Dalam menu **Integrations**, anda dapat mengexport integrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export integrations pada Web.
+Dalam menu **Integrations**, anda dapat mengexport integrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export integrations pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Integrations** di bagian kiri atas, untuk export suatu integrations, anda dapat mengklik bagian **Export** untuk membuka form Export integrations
 
