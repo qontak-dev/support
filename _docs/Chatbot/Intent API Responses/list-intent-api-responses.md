@@ -21,16 +21,16 @@ Untuk melihat tampilan pada list **Intent API Responses**, Anda perlu mengikuti 
 
    ![](/uploads/intent-api-response1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent API Responses dengan pengaturan tertentu.
-4. Tombol “**Export Found Intent API Responses**” untuk mengarahkan ke halaman export Intent API Responses
+4. Tombol “**Export Found Intent API Responses**” untuk mengarahkan ke halaman export Intent API Responses.
 5. Menu “**Show**” untuk mengatur berapa banyak Intent API Responses yang ditampilkan di satu layar.
 
    ![](/uploads/intent-api-response2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Responses
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Responses.
 
    ![](/uploads/intent-api-response3.PNG)
 7. Tombol “**Clone**” untuk menampilkan berapa banyak Intent API Responses yang ditampilkan di satu layar.
 
    ![](/uploads/intent-api-response4.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu Intent API Responses
+8. Tombol “**Delete**” untuk menghapus suatu Intent API Responses.
 
    ![](/uploads/intent-api-response5.PNG)
