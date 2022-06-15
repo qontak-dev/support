@@ -17,8 +17,8 @@ Untuk melihat tampilan pada report, Anda perlu mengikuti langkah-langkah berikut
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Isi Start Date dan End Date untuk menampilkan report yang di inginkan
+2. Isi Start Date dan End Date untuk menampilkan report yang di inginkan,
 
    ![](/uploads/historiesreposrt.PNG)
 
-   > kemudian klik **Submit** untuk menampilkan data report
+   > Kemudian klik **Submit** untuk menampilkan data report
