@@ -10,11 +10,11 @@ published: false
 
 Dalam menu **Intent Custom Texts**, anda dapat menambahkan Intent Custom Texts yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent Custom Texts pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Attachments** di bagian kiri atas, untuk menambahkan Intent Attachments anda dapat mengklik bagian **Add New** untuk membuka form **Intent Attachments**.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Custom Texts** di bagian kiri atas, untuk menambahkan Intent Custom Texts anda dapat mengklik bagian **Add New** untuk membuka form.
 
    ![](/uploads/intent-attachment5.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Attachments seperti field **Intent, Attachment** dan **Organization** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Custom Texts seperti field **Intent, Attachment** dan **Organization** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
