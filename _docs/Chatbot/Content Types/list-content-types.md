@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list content types, Anda perlu mengikuti langkah-lan
 
    ![](/uploads/content-types-update1.PNG)
 3. Tombol “**Filter**” untuk melihat channel types dengan pengaturan tertentu.
-4. Tombol “**Export Found Content Types**” untuk mengarahkan ke halaman export content types
+4. Tombol “**Export Found Content Types**” untuk mengarahkan ke halaman export content types.
 5. Menu “**Show**” untuk mengatur berapa banyak content types yang ditampilkan di satu layar.
 
    ![](/uploads/content-types-update2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu content types
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu content types.
 
    ![](/uploads/content-types-update3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu content types
+7. Tombol “**Delete**” untuk menghapus suatu content types.
 
    ![](/uploads/content-types-update4.PNG)
