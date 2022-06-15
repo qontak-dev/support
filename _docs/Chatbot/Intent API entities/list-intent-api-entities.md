@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list **Intent API Entities**, Anda perlu mengikuti l
 
    ![](/uploads/intent-api-entities1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent API Entities dengan pengaturan tertentu.
-4. Tombol “**Export Found Intent API Entities**” untuk mengarahkan ke halaman export Intent API Entities
+4. Tombol “**Export Found Intent API Entities**” untuk mengarahkan ke halaman export Intent API Entities.
 5. Menu “**Show**” untuk mengatur berapa banyak Intent API Entities yang ditampilkan di satu layar.
 
    ![](/uploads/intent-api-entities2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Entities
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent API Entities.
 
    ![](/uploads/intent-api-entities3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Intent API Entities
+7. Tombol “**Delete**” untuk menghapus suatu Intent API Entities.
 
    ![](/uploads/intent-api-entities4.PNG)
