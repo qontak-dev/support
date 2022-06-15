@@ -14,8 +14,8 @@ Dalam menu **Intent Attachments**, anda dapat mengexport intent Attachments yang
 
    ![](/uploads/intent-attachment6.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport.
 
    ![](/uploads/intent-attachment7.PNG)
 
