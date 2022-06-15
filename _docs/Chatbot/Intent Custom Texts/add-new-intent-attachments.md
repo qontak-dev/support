@@ -12,7 +12,7 @@ Dalam menu **Intent Custom Texts**, anda dapat menambahkan Intent Custom Texts y
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Custom Texts** di bagian kiri atas, untuk menambahkan Intent Custom Texts anda dapat mengklik bagian **Add New** untuk membuka form.
 
-   ![](/uploads/intent-attachment5.PNG)
+   ![](/uploads/intent-custom-test7.PNG)
 
    > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Custom Texts seperti field **Intent, Attachment** dan **Organization** yang harus diisi dengan cara search atau create new.
    >
