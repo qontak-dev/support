@@ -19,15 +19,15 @@ Untuk melihat tampilan pada list **Intent Custom Texts**, Anda perlu mengikuti l
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Intent Custom Texts** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/intent-attachment1.PNG)
-3. Tombol “**Filter**” untuk melihat Intent Attachments dengan pengaturan tertentu.
-4. Tombol “**Export Found Intent Attachments**” untuk mengarahkan ke halaman export Intent Attachments.
-5. Menu “**Show**” untuk mengatur berapa banyak Intent Attachments yang ditampilkan di satu layar.
+   ![](/uploads/intent-custom-test1.PNG)
+3. Tombol “**Filter**” untuk melihat Intent Custom Texts dengan pengaturan tertentu.
+4. Tombol “**Export Found Intent Custom Texts**” untuk mengarahkan ke halaman export Intent Custom Texts.
+5. Menu “**Show**” untuk mengatur berapa banyak Intent Custom Texts yang ditampilkan di satu layar.
 
-   ![](/uploads/intent-attachment2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent Attachments.
+   ![](/uploads/intent-custom-test2.PNG)
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent Custom Texts.
 
-   ![](/uploads/intent-attachment3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Intent Attachments.
+   ![](/uploads/intent-custom-test3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu Intent Custom Texts.
 
-   ![](/uploads/intent-attachment4.PNG)
+   ![](/uploads/intent-custom-test4.PNG)
