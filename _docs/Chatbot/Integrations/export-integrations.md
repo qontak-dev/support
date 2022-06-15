@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Integrations**, anda dapat mengexport integrations yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export integrations pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Integrations** di bagian kiri atas, untuk export suatu integrations, anda dapat mengklik bagian **Export** untuk membuka form Export integrations
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Integrations** di bagian kiri atas, untuk export suatu integrations, anda dapat mengklik bagian **Export** untuk membuka form Export integrations.
 
    ![](/uploads/integrationsexport1.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport.
 
    ![](/uploads/integrationsexport2.PNG)
 
