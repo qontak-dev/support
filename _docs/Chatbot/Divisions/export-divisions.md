@@ -8,14 +8,14 @@ published: false
 ---
 **Export Divisions**
 
-Dalam menu **Divisions**, anda dapat mengexport divisions yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export divisions pada Web.
+Dalam menu **Divisions**, anda dapat mengexport divisions yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export divisions pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Divisions** di bagian kiri atas, untuk export suatu divisions, anda dapat mengklik bagian **Export** untuk membuka form Export divisions
 
    ![](/uploads/divisions4.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport kemudian.
 
    ![](/uploads/division-update5.PNG)
 
