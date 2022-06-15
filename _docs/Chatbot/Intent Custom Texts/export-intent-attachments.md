@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Intent Custom Texts**, anda dapat mengexport Intent Custom Texts yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Intent Custom Texts** pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Attachments** di bagian kiri atas, untuk export suatu Intent Attachments, anda dapat mengklik bagian **Export** untuk membuka form Export **Intent Attachments**
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Custom Texts** di bagian kiri atas, untuk export suatu Intent Custom Texts, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/intent-attachment6.PNG)
 
