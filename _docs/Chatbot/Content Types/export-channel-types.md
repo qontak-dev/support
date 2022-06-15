@@ -8,14 +8,14 @@ published: false
 ---
 **Export Content Types**
 
-Dalam menu **Content Types**, anda dapat mengexport content types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export content types pada Web.
+Dalam menu **Content Types**, anda dapat mengexport content types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export content types pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Content Types** di bagian kiri atas, untuk export suatu content types, anda dapat mengklik bagian **Export** untuk membuka form Export content types
 
    ![](/uploads/content-types-update6.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport kemudian.
 
    ![](/uploads/content-types-update7.PNG)
 
