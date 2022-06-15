@@ -14,7 +14,9 @@ Dalam menu **Intent API Entity**, anda dapat menambahkan Intent API Entity yang 
 
    ![](/uploads/intent-api-entities5.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent API Entity seperti field **Organization, Intent** dan **Organization entity** yang harus diisi dengan cara search atau create new.
+   >
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/intent-api-entities6.PNG)
