@@ -1,14 +1,14 @@
 ---
 tags: []
-title: List Intent Attachments
+title: List Intent Custom Texts
 subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-**List Intent Attachments**
+**List Intent Custom Texts**
 
-**List Intent Attachments** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent attachments.
+List **Intent Custom Texts** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada Intent Custom Texts.
 
 Untuk melihat tampilan pada list **Intent Attachments**, Anda perlu mengikuti langkah-langkah berikut;
 
