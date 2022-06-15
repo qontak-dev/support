@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Intent API Entity**
 
-Dalam menu **Intent API Entity**, anda dapat menambahkan Intent API Entity yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Entity pada Web.
+Dalam menu **Intent API Entity**, anda dapat menambahkan Intent API Entity yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Entity pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Entity** di bagian kiri atas, untuk menambahkan Intent API Entity anda dapat mengklik bagian **Add New** untuk membuka form Intent API Entity.
 
