@@ -1,8 +1,8 @@
 ---
 tags: []
 title: List Intent Attachments
-subtitle: ''
-author: ''
+subtitle: This document covers Chatbot feature
+author: hariyati suarni nurindah
 published: false
 
 ---
