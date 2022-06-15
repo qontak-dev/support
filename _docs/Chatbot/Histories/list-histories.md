@@ -21,10 +21,10 @@ Untuk melihat tampilan pada list histories, Anda perlu mengikuti langkah-langkah
 
    ![](/uploads/histories-update1.PNG)
 3. Tombol “**Filter**” untuk melihat histories dengan pengaturan tertentu.
-4. Tombol “**Export Found Histories**” untuk mengarahkan ke halaman export histories
+4. Tombol “**Export Found Histories**” untuk mengarahkan ke halaman export histories.
 5. Menu “**Show**” untuk mengatur berapa banyak histories yang ditampilkan di satu layar.
 
    ![](/uploads/histories-update2.PNG)
-6. Tombol “**Delete**” untuk menghapus suatu histories
+6. Tombol “**Delete**” untuk menghapus suatu histories.
 
    ![](/uploads/histories-update3.PNG)
