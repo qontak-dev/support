@@ -14,9 +14,11 @@ Dalam menu **Intent API Responses**, anda dapat menambahkan Intent API yang anda
 
    ![](/uploads/intentapi2.PNG)
 
-> Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+> Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Intent** dan **Organization** yang harus diisi dengan cara search atau create new.
+>
+> > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 
-1. Setelah data terisi, klik button **Save** untuk menyimpan data
+1. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/intentapi3.PNG)
 
