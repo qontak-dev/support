@@ -1,14 +1,14 @@
 ---
 tags: []
-title: Add New Intent Attachments
+title: Add New Intent Custom Texts
 subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Add New Intent Attachments**
+**Add New Intent Custom Texts**
 
-Dalam menu **Intent Attachments**, anda dapat menambahkan Intent Attachments yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent Attachments pada Web.
+Dalam menu **Intent Custom Texts**, anda dapat menambahkan Intent Custom Texts yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent Custom Texts pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Attachments** di bagian kiri atas, untuk menambahkan Intent Attachments anda dapat mengklik bagian **Add New** untuk membuka form **Intent Attachments**.
 
