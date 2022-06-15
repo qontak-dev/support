@@ -17,7 +17,8 @@ Dalam menu **Intent Custom Texts**, anda dapat menambahkan Intent Custom Texts y
    > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Custom Texts seperti field **Name, Code, Intent, Organization, Type text, Resource, Path data,** dan **Content text** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
-   > >
-   > > > Setelah data terisi, klik button **Save** untuk menyimpan data
-   > > >
-   > > > > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+2. Setelah data terisi, klik button **Save** untuk menyimpan data
+
+   ![](/uploads/intent-custom-test8.PNG)
+
+   > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
