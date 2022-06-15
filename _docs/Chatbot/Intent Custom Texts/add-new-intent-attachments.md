@@ -14,7 +14,7 @@ Dalam menu **Intent Custom Texts**, anda dapat menambahkan Intent Custom Texts y
 
    ![](/uploads/intent-custom-test7.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Custom Texts seperti field **Intent, Attachment** dan **Organization** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Custom Texts seperti field **Name, Code, Intent, Organization, Type text, Resource, Path data,** dan **Content text** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
