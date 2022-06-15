@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list integrations, Anda perlu mengikuti langkah-lang
 
    ![](/uploads/integrtitas-update1.PNG)
 3. Tombol “**Filter**” untuk melihat Integrations dengan pengaturan tertentu.
-4. Tombol “**Export Found Integrations**” untuk mengarahkan ke halaman export Integrations
+4. Tombol “**Export Found Integrations**” untuk mengarahkan ke halaman export Integrations.
 5. Menu “**Show**” untuk mengatur berapa banyak Integrations yang ditampilkan di satu layar.
 
    ![](/uploads/integrtitas-update2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Integrations
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Integrations.
 
    ![](/uploads/integrtitas-update3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Integrations
+7. Tombol “**Delete**” untuk menghapus suatu Integrations.
 
    ![](/uploads/integrtitas-update4.PNG)
