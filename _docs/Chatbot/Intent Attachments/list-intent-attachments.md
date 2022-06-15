@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list **Intent Attachments**, Anda perlu mengikuti la
 
    ![](/uploads/intent-attachment1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent Attachments dengan pengaturan tertentu.
-4. Tombol “**Export Found Intent Attachments**” untuk mengarahkan ke halaman export Intent Attachments
+4. Tombol “**Export Found Intent Attachments**” untuk mengarahkan ke halaman export Intent Attachments.
 5. Menu “**Show**” untuk mengatur berapa banyak Intent Attachments yang ditampilkan di satu layar.
 
    ![](/uploads/intent-attachment2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent Attachments
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent Attachments.
 
    ![](/uploads/intent-attachment3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Intent Attachments
+7. Tombol “**Delete**” untuk menghapus suatu Intent Attachments.
 
    ![](/uploads/intent-attachment4.PNG)
