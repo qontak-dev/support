@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list divisions, Anda perlu mengikuti langkah-langkah
 
    ![](/uploads/division-update1.PNG)
 3. Tombol “**Filter**” untuk melihat division dengan pengaturan tertentu.
-4. Tombol “**Export Found Divisions**” untuk mengarahkan ke halaman export divisions
+4. Tombol “**Export Found Divisions**” untuk mengarahkan ke halaman export divisions.
 5. Menu “**Show**” untuk mengatur berapa banyak divisions yang ditampilkan di satu layar.
 
    ![](/uploads/division-update2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu divisions
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu divisions.
 
    ![](/uploads/division-update3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu divisions
+7. Tombol “**Delete**” untuk menghapus suatu divisions.
 
    ![](/uploads/division-update4.PNG)
