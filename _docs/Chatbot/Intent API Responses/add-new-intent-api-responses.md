@@ -8,7 +8,7 @@ published: false
 ---
 **Add New Intent API Responses**
 
-Dalam menu **Intent API Responses**, anda dapat menambahkan Intent API yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Responses pada Web.
+Dalam menu **Intent API Responses**, anda dapat menambahkan Intent API yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan Intent API Responses pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent API Responses** di bagian kiri atas, untuk menambahkan Intent API anda dapat mengklik bagian **Add New** untuk membuka form **Intent API Responses**.
 
@@ -16,7 +16,7 @@ Dalam menu **Intent API Responses**, anda dapat menambahkan Intent API yang anda
 
 > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 
-2. Setelah data terisi, klik button **Save** untuk menyimpan data
+1. Setelah data terisi, klik button **Save** untuk menyimpan data
 
    ![](/uploads/intentapi3.PNG)
 
