@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Message Buttons Actions**, anda dapat mengexport message buttons yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Message Buttons Actions** pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Buttons Actions** di bagian kiri atas, untuk export suatu message buttons, anda dapat mengklik bagian **Export** untuk membuka form Export **Message Buttons Actions**
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Buttons Actions** di bagian kiri atas, untuk export suatu message buttons, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/messagebuttonsactions2.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport 
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport
 
    ![](/uploads/message-button-actions5.PNG)
 
