@@ -8,7 +8,7 @@ published: false
 ---
 **Message Lists**
 
-**List Message Lists** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message lists.
+List **Message Lists** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message lists.
 
 Untuk melihat tampilan pada list message lists, Anda perlu mengikuti langkah-langkah berikut;
 
