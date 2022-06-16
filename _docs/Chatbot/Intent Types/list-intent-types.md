@@ -8,7 +8,7 @@ published: false
 ---
 **List Intent Types**
 
-**List Intent Types** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent types.
+List **Intent Types** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada intent types.
 
 Untuk melihat tampilan pada list **Intent Types**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list **Intent Types**, Anda perlu mengikuti langkah-
 
    ![](/uploads/intent-types1.PNG)
 3. Tombol “**Filter**” untuk melihat Intent Types dengan pengaturan tertentu.
-4. Tombol “**Export Found Intent Types**” untuk mengarahkan ke halaman export Intent types
+4. Tombol “**Export Found Intent Types**” untuk mengarahkan ke halaman export Intent types.
 5. Menu “**Show**” untuk mengatur berapa banyak Intent types yang ditampilkan di satu layar.
 
    ![](/uploads/intent-types2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent types
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Intent types.
 
    ![](/uploads/intent-types3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Intent types
+7. Tombol “**Delete**” untuk menghapus suatu Intent types.
 
    ![](/uploads/intent-types4.PNG)
