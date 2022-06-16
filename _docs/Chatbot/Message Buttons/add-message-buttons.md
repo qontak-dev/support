@@ -1,14 +1,14 @@
 ---
 tags: []
 title: Add Message Buttons
-subtitle: ''
+subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
 **Add Message Buttons**
 
-Dalam menu **Message Buttons**, anda dapat menambahkan **Message Buttons** yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan **Message Buttons** pada Web.
+Dalam menu **Message Buttons**, anda dapat menambahkan **Message Buttons** yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan **Message Buttons** pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Message Buttons** di bagian kiri atas, untuk menambahkan message anda dapat mengklik bagian **Add New** untuk membuka form **Message Buttons**.
 
