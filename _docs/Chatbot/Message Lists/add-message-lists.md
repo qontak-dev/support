@@ -14,7 +14,7 @@ Dalam menu **Message Lists**, anda dapat menambahkan message lists yang anda ing
 
    ![](/uploads/messagelists2.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Message Lists seperti field **Header Format** dan **Organization** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
