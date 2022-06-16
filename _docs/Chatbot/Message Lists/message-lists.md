@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list message lists, Anda perlu mengikuti langkah-lan
 
    ![](/uploads/message-lists1.PNG)
 3. Tombol “**Filter**” untuk melihat Message Lists dengan pengaturan tertentu.
-4. Tombol “**Export Found Message Lists**” untuk mengarahkan ke halaman export Message Lists
+4. Tombol “**Export Found Message Lists**” untuk mengarahkan ke halaman export Message Lists.
 5. Menu “**Show**” untuk mengatur berapa banyak Message Lists yang ditampilkan di satu layar.
 
    ![](/uploads/message-lists2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Lists
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Lists.
 
    ![](/uploads/message-lists3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Message Lists
+7. Tombol “**Delete**” untuk menghapus suatu Message Lists.
 
    ![](/uploads/message-lists4.PNG)
