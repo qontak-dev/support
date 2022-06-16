@@ -14,7 +14,7 @@ Dalam menu **Message List Items**, anda dapat menambahkan message list Items yan
 
    ![](/uploads/messagelistsitems2.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Message List Items seperti field **Message list section** dan **Organization** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
