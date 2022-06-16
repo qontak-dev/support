@@ -14,7 +14,7 @@ Dalam menu **Message List Section**, anda dapat mengexport message lists yang an
 
    ![](/uploads/messagelistsection3.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah itu pilih field yang akan diexport
 
    ![](/uploads/message-list-item5.PNG)
