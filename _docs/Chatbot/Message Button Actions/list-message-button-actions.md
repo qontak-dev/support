@@ -8,7 +8,7 @@ published: false
 ---
 **List Message Buttons Actions**
 
-**List Message Buttons Actions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message.
+List **Message Buttons Actions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada message.
 
 Untuk melihat tampilan pada list **Message Buttons Actions**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list **Message Buttons Actions**, Anda perlu mengiku
 
    ![](/uploads/message-button-actions1.PNG)
 3. Tombol “**Filter**” untuk melihat Message Buttons Actions dengan pengaturan tertentu.
-4. Tombol “**Export Found Message Buttons Actions**” untuk mengarahkan ke halaman export Message Buttons Actions
+4. Tombol “**Export Found Message Buttons Actions**” untuk mengarahkan ke halaman export Message Buttons Actions.
 5. Menu “**Show**” untuk mengatur berapa banyak Message Buttons Actions yang ditampilkan di satu layar.
 
    ![](/uploads/message-button-actions2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons Actions 
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message Buttons Actions.
 
    ![](/uploads/message-button-actions3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Message Buttons Actions
+7. Tombol “**Delete**” untuk menghapus suatu Message Buttons Actions.
 
    ![](/uploads/message-button-actions4.PNG)
