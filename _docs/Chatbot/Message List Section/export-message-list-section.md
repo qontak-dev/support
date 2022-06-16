@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Message List Section**, anda dapat mengexport message lists yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Message List Section** pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Message List Section** di bagian kiri atas, untuk export suatu message lists, anda dapat mengklik bagian **Export** untuk membuka form Export **Message List Section**
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Message List Section** di bagian kiri atas, untuk export suatu message lists, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/messagelistsection3.PNG)
 
    > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport 
+2. Setelah itu pilih field yang akan diexport
 
    ![](/uploads/message-list-item5.PNG)
 
