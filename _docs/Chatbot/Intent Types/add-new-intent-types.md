@@ -14,7 +14,7 @@ Dalam menu **Intent Types**, anda dapat menambahkan Intent types yang anda ingin
 
    ![](/uploads/intent-types5.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Intent Types seperti field **Code, Name, Description** dan **Versions** yang harus diisi dengan cara search atau create new version
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
