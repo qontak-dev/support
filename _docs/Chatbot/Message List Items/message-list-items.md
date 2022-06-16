@@ -21,13 +21,13 @@ Untuk melihat tampilan pada list message list Items, Anda perlu mengikuti langka
 
    ![](/uploads/message-list-item1.PNG)
 3. Tombol “**Filter**” untuk melihat **Message List Items** dengan pengaturan tertentu.
-4. Tombol “**Export Found Message List Items**” untuk mengarahkan ke halaman export Message List Items
+4. Tombol “**Export Found Message List Items**” untuk mengarahkan ke halaman export Message List Items.
 5. Menu “**Show**” untuk mengatur berapa banyak Message List Items yang ditampilkan di satu layar.
 
    ![](/uploads/message-list-item2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message List Items
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Message List Items.
 
    ![](/uploads/message-list-item3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Message List Items
+7. Tombol “**Delete**” untuk menghapus suatu Message List Items.
 
    ![](/uploads/message-list-item4.PNG)
