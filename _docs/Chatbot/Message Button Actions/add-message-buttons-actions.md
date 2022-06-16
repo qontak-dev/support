@@ -14,7 +14,7 @@ Dalam menu **Message Buttons Actions**, anda dapat menambahkan **Message Buttons
 
    ![](/uploads/messagebuttonsactions1.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Message Buttons Actions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Message Buttons Actions seperti field **Message button** dan **Organization** yang harus diisi dengan cara search atau create new.
    >
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
