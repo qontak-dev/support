@@ -8,7 +8,7 @@ published: false
 ---
 **Export Intent types**
 
-Dalam menu **Intent Types**, anda dapat mengexport intent types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Intent Types** pada Web.
+Dalam menu **Intent Types**, anda dapat mengexport intent types yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export **Intent Types** pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Intent Types** di bagian kiri atas, untuk export suatu Intent types, anda dapat mengklik bagian **Export** untuk membuka form Export **Intent Types**
 
