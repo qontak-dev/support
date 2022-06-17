@@ -8,7 +8,7 @@ published: false
 ---
 **List Organization Entities**
 
-**List Organizations** **Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization Entities
+List **Organizations** **Entities** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization Entities
 
 Untuk melihat tampilan pada **List Organizations Entities**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -21,13 +21,13 @@ Untuk melihat tampilan pada **List Organizations Entities**, Anda perlu mengikut
 
    ![](/uploads/organization-entities1.PNG)
 3. Tombol “**Filter**” untuk melihat Organization Entities dengan pengaturan tertentu.
-4. Tombol “**Export Found Organization Entities**” untuk mengarahkan ke halaman export Organization Entities
+4. Tombol “**Export Found Organization Entities**” untuk mengarahkan ke halaman export Organization Entities.
 5. Menu “**Show**” untuk mengatur berapa banyak Organization Entities yang ditampilkan di satu layar.
 
    ![](/uploads/organization-entities2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization Entities
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu Organization Entities.
 
    ![](/uploads/organization-entities3.PNG)
-7. Tombol “**Delete**” untuk menghapus suatu Organization Entities
+7. Tombol “**Delete**” untuk menghapus suatu Organization Entities.
 
    ![](/uploads/organization-entities4.PNG)
