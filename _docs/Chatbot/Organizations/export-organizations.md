@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Organizations**, anda dapat mengexport Organizations yang anda inginkan. Berikut merupakan langkah2 yang anda dapat jadikan acuan dalam export Organizations pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Organizations** di bagian kiri, untuk export suatu Organizations, anda dapat mengklik bagian **Export** untuk membuka form Export Organizations 
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Organizations** di bagian kiri, untuk export suatu Organizations, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/organizations-update6.PNG)
 
-   > Select Field yang ingin Anda Export
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport.
 
    ![](/uploads/organizations-update7.PNG)
 
