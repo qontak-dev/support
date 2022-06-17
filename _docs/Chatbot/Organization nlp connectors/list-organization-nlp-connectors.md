@@ -8,7 +8,7 @@ published: false
 ---
 **List Organization nlp connectors**
 
-**List Organization nlp connectors** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization nlp connectors
+List **Organization nlp connectors** merupakan sebuah fitur chatbot yang menampilkan list data yang ada List Organization nlp connectors
 
 Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -21,7 +21,7 @@ Untuk melihat tampilan pada **List Organization nlp connectors**, Anda perlu men
 
    ![](/uploads/organization-nlp-update1.PNG)
 3. Tombol “**Filter**” untuk melihat Organization nlp connectors dengan pengaturan tertentu.
-4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors
+4. Tombol “**Export Found Organization nlp connectors**” untuk mengarahkan ke halaman export Organization nlp connectors.
 5. Menu “**Show**” untuk mengatur berapa banyak Organization nlp connectors yang ditampilkan di satu layar.
 
    ![](/uploads/organization-nlp-update2.PNG)
