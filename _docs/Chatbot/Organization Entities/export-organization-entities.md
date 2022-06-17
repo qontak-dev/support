@@ -14,7 +14,7 @@ Dalam menu **Organization Entities**, anda dapat mengexport organization yang an
 
    ![](/uploads/organizationsentities4.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport, klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel
 
    ![](/uploads/organization-entities5.PNG)
