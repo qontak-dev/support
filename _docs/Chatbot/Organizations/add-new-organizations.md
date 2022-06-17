@@ -14,7 +14,9 @@ Dalam menu **Organizations**, anda dapat menambahkan Organizations yang anda ing
 
    ![](/uploads/organizations-update5.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Organizations seperti field **Name, Channel Organization, Description** dan **Agent Assignment Type** yang harus diisi
+   >
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/divisions3.PNG)
