@@ -10,11 +10,11 @@ published: false
 
 Dalam menu **Organization Connections**, anda dapat mengexport organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export organization connections pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export **Organization Connections**
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Connections** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/organization-connection5.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport, klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel
 
    ![](/uploads/organization-connection6.PNG)
