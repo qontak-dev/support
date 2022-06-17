@@ -14,7 +14,7 @@ Dalam menu **Organization nlp connectors**, anda dapat menambahkan organization 
 
    ![](/uploads/organizationsnlp2.PNG)
 
-   > Ada beberapa hal yang harus diperhatikan dalam menambahkan agents divisions seperti field **Agent, Division** dan **Versions** yang harus diisi dengan cara search atau create new.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Organization nlp connectors seperti field **Name, Organization** dan **Nlp connector** yang harus diisi dengan cara search atau create new.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    > >
