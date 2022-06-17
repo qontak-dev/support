@@ -14,7 +14,9 @@ Dalam menu **Organization Connections**, anda dapat menambahkan organization yan
 
    ![](/uploads/organizationsconnections2.PNG)
 
-   > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Organization Connections  seperti field **Organization** dan banyak field lainya yang harus diisi dengan cara search atau create new.
+   >
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/organizationsconnections3.PNG)
