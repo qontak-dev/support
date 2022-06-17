@@ -1,14 +1,14 @@
 ---
 tags: []
-title: NIp Connectors List
+title: 'NIp Connectors '
 subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-**NIp Connectors List**
+**NIp Connectors** 
 
-**NIp Connectors List** merupakan sebuah fitur chatbot yang menampilkan list data yang ada NIp Connectors
+List **NIp Connectors** merupakan sebuah fitur chatbot yang menampilkan list data yang ada NIp Connectors
 
 Untuk melihat tampilan pada NIp Connectors, Anda perlu mengikuti langkah-langkah berikut;
 
