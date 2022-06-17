@@ -14,6 +14,8 @@ Dalam menu **Nlp connectors**, anda dapat menambahkan Nlp connectors yang anda i
 
    ![](/uploads/nip-update5.PNG)
 
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Nlp connectors seperti field **Name, Code, Description, Settings** dan **Versions** yang harus diisi dengan cara search atau create new.
+   >
    > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
    >
    > > Setelah data terisi, klik button **Save** untuk menyimpan data.
