@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Organization Entities**, anda dapat mengexport organization yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export organization entities pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Entities** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export **Organization Entities**
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Organization Entities** di bagian kiri atas, untuk export suatu organization, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/organizationsentities4.PNG)
 
