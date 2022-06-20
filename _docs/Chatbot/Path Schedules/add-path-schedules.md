@@ -14,6 +14,8 @@ Dalam menu **Path Schedules**, anda dapat menambahkan path yang anda inginkan. B
 
    ![](/uploads/pathschedules2.PNG)
 
+   Ada beberapa hal yang harus diperhatikan dalam menambahkan Path Schedules seperti field **Path, Integration, Organization** dan **Versions** yang harus diisi dengan cara search atau create new.
+
    Pastikan field-field mandatory sudah terisi dengan benar
 
    > Setelah data terisi, klik button **Save** untuk menyimpan data.
