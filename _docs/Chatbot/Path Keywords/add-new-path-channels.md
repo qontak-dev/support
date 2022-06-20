@@ -14,7 +14,9 @@ Dalam menu **Path Keywords**, anda dapat menambahkan path yang anda inginkan. Be
 
    ![](/uploads/pathkeywords5.PNG)
 
-   > Pastikan field-field mandatory sudah terisi dengan benar.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Path Keywords seperti field **Keyword, Path** dan **Organization** yang harus diisi dengan cara search atau create new.
+   >
+   > > Pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
