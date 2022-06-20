@@ -29,9 +29,9 @@ Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langka
 
    ![](/uploads/pathschedules6.PNG)
 7. Tombol “**Export Found Path Schedules**” untuk mengarahkan ke halaman export path schedules
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path schedules
+8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path schedules.
 
    ![](/uploads/pathschedules7.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu path schedules
+9. Tombol “**Delete**” untuk menghapus suatu path schedules.
 
    ![](/uploads/pathschedules8.PNG)
