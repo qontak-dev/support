@@ -8,13 +8,13 @@ published: false
 ---
 **Export Path date range**
 
-Dalam menu **Path date range**, anda dapat mengexport Path date range yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Path date range pada Web.
+Dalam menu **Path date range**, anda dapat mengexport Path date range yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Path date range pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Path date range** di bagian kiri atas, untuk export suatu Path date range, anda dapat mengklik bagian **Export** untuk membuka form Export Path date range
 
    ![](/uploads/pathdate3.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport
 
    ![](/uploads/path-data-rangers-update5.PNG)
