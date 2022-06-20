@@ -8,7 +8,7 @@ published: false
 ---
 **Add Path Schedules**
 
-Dalam menu **Path Schedules**, anda dapat menambahkan path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path schedules pada Web.
+Dalam menu **Path Schedules**, anda dapat menambahkan path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path schedules pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Schedules** di bagian kiri atas, untuk menambahkan path anda dapat mengklik bagian **Add New** untuk membuka form path schedules.
 
