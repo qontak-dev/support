@@ -21,7 +21,7 @@ Untuk melihat tampilan pada list **Path date ranges**, Anda perlu mengikuti lang
 
    ![](/uploads/path-data-rangers-update1.PNG)
 3. Tombol “**Filter**” untuk melihat path date ranges dengan pengaturan tertentu.
-4. Tombol “**Export Found Path date ranges**” untuk mengarahkan ke halaman export  path date ranges
+4. Tombol “**Export Found Path date ranges**” untuk mengarahkan ke halaman export  path date ranges.
 5. Menu “**Show**” untuk mengatur berapa banyak  path date ranges yang ditampilkan di satu layar.
 
    ![](/uploads/path-data-rangers-update2.PNG)
@@ -30,6 +30,6 @@ Untuk melihat tampilan pada list **Path date ranges**, Anda perlu mengikuti lang
    ![](/uploads/path-data-rangers-update3.PNG)
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form Edit tersebut.
-7. Tombol “**Delete**” untuk menghapus suatu  path date ranges
+7. Tombol “**Delete**” untuk menghapus suatu  path date ranges.
 
    ![](/uploads/path-data-rangers-update4.PNG)
