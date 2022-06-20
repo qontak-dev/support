@@ -8,9 +8,9 @@ published: false
 ---
 **Export Path Schedules**
 
-Dalam menu **Path Schedules**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path schedules pada Web.
+Dalam menu **Path Schedules**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path schedules pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Schedules** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path schedules
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Schedules** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/pathschedules3.PNG)
 
