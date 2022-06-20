@@ -8,7 +8,7 @@ published: false
 ---
 **Export Path Keywords**
 
-Dalam menu **Path Keywords**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path keywords pada Web.
+Dalam menu **Path Keywords**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export path keywords pada web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Path Keywords** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export path keywords
 

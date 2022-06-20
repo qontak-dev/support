@@ -21,16 +21,16 @@ Untuk melihat tampilan pada list **Path Keywords**, Anda perlu mengikuti langkah
 
    ![](/uploads/pathkeywords1.PNG)
 
-   > untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
+   > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**Filter**” untuk melihat path keywords dengan pengaturan tertentu.
 4. Menu “**Search**” untuk mencari path keywords berdasarkan nama.
 5. Menu “**Show**” untuk mengatur berapa banyak path keywords yang ditampilkan di satu layar.
 
    ![](/uploads/pathkeywords2.PNG)
-6. Tombol “**Export Found Path Keywords**” untuk mengarahkan ke halaman export path keywords
+6. Tombol “**Export Found Path Keywords**” untuk mengarahkan ke halaman export path keywords.
 7. Tombol “**Edit**” untuk mengubah atau meng-update suatu path keywords
 
    ![](/uploads/pathkeywords3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu path keywords
+8. Tombol “**Delete**” untuk menghapus suatu path keywords.
 
    ![](/uploads/pathkeywords4.PNG)
