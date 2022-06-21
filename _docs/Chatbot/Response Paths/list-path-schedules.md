@@ -8,7 +8,7 @@ published: false
 ---
 **List Response Paths**
 
-List **Response Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
+List **Response Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada Response Paths
 
 Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -34,4 +34,4 @@ Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langka
    ![](/uploads/response-paths3.PNG)
 9. Tombol “**Delete**” untuk menghapus suatu Response Paths.
 
-   ![](/uploads/pathschedules8.PNG)
+   ![](/uploads/response-paths4.PNG)
