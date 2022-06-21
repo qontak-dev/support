@@ -1,16 +1,16 @@
 ---
 tags: []
-title: List Path Schedules
+title: List Response Paths
 subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-**List Path Schedules**
+**List Response Paths**
 
-List **Path Schedules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
+List **Response Paths** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
 
-Untuk melihat tampilan pada list **Path Schedules**, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list **Response Paths**, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
