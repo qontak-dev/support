@@ -8,7 +8,7 @@ published: false
 ---
 **List Response Rules**
 
-List **Response Rules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada Response Rules.
+List **Response Rules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada response rules.
 
 Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -22,7 +22,7 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
    ![](/uploads/response-rules1.PNG)
 
    > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan Response Rules dalam bentuk list (seperti pada gambar).
+3. Tombol “**List View**” untuk mengubah tampilan response rules dalam bentuk list (seperti pada gambar).
 4. Tombol “**Filter**” untuk melihat Response Rules dengan pengaturan tertentu.
 5. Menu “**Search**” untuk mencari Response Rules berdasarkan nama.
 6. Menu “**Show**” untuk mengatur berapa banyak Response Rules yang ditampilkan di satu layar.
