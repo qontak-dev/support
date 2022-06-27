@@ -23,13 +23,13 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
 
    > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
 3. Tombol “**List View**” untuk mengubah tampilan response rules dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat Response Rules dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari Response Rules berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak Response Rules yang ditampilkan di satu layar.
+4. Tombol “**Filter**” untuk melihat response rules dengan pengaturan tertentu.
+5. Menu “**Search**” untuk mencari response rules berdasarkan nama.
+6. Menu “**Show**” untuk mengatur berapa banyak response rules yang ditampilkan di satu layar.
 
    ![](/uploads/response-rules2.PNG)
-7. Tombol “**Export Found Response Rules**” untuk mengarahkan ke halaman export Response Rules
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu Response Rules.
+7. Tombol “**Export Found Response Rules**” untuk mengarahkan ke halaman export response rules.
+8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response rules.
 
    ![](/uploads/response-rules3.PNG)
 9. Tombol “**Delete**” untuk menghapus suatu Response Rules
