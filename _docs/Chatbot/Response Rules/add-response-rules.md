@@ -12,11 +12,11 @@ Dalam menu **Response Rules**, anda dapat menambahkan response rules yang anda i
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rules** di bagian kiri atas, untuk menambahkan response rules anda dapat mengklik bagian **Add New** untuk membuka form response rules
 
-   ![](/uploads/responsepath5.PNG)
+   ![](/uploads/response-rules5.PNG)
 
    > Pastikan field-field mandatory sudah terisi dengan benar seperti **Response, Path** dan **Organization**.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
-   ![](/uploads/responsepath6.PNG)
+   ![](/uploads/response-rules6.PNG)
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
