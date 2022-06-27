@@ -1,12 +1,12 @@
 ---
 tags: []
 title: Add Response Rules
-subtitle: ''
-author: ''
+subtitle: This document covers Chatbot feature
+author: hariyati suarni nurindah
 published: false
 
 ---
-**Add Response Paths**
+**Add Response Rules**
 
 Dalam menu **Response Paths**, anda dapat menambahkan response pathsyang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan path schedules pada web.
 
