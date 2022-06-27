@@ -8,7 +8,7 @@ published: false
 ---
 **List Response Rules**
 
-List **Response Rules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada path schedules.
+List **Response Rules** merupakan sebuah fitur chatbot yang menampilkan list data yang ada Response Rules.
 
 Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langkah-langkah berikut;
 
@@ -17,7 +17,7 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda kemudian klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Response Rules dengan fitur-fitur yang disediakan.
 
    ![](/uploads/response-rules1.PNG)
 
@@ -29,9 +29,9 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
 
    ![](/uploads/response-rules2.PNG)
 7. Tombol “**Export Found Response Rules**” untuk mengarahkan ke halaman export Response Rules
-8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path schedules.
+8. Tombol “**Edit**” untuk mengubah atau meng-update suatu Response Rules.
 
-   ![](/uploads/pathschedules7.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu path schedules.
+   ![](/uploads/response-rules3.PNG)
+9. Tombol “**Delete**” untuk menghapus suatu Response Rules
 
-   ![](/uploads/pathschedules8.PNG)
+   ![](/uploads/response-rules4.PNG)
