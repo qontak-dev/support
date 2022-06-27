@@ -32,6 +32,6 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response rules.
 
    ![](/uploads/response-rules3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu Response Rules
+9. Tombol “**Delete**” untuk menghapus suatu response rules.
 
    ![](/uploads/response-rules4.PNG)
