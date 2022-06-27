@@ -19,16 +19,16 @@ Untuk melihat tampilan pada list **Response Rules**, Anda perlu mengikuti langka
    > Masukkan **Username** dan **Password** anda kemudian klik tombol **“Login”** untuk memulai.
 2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu Paths dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/pathschedules5.PNG)
+   ![](/uploads/response-rules1.PNG)
 
    > Untuk menampilkan form **Show**, **Edit** dan **Delete** klik button Icon yang ada pada bagian kanan
-3. Tombol “**List View**” untuk mengubah tampilan path schedules dalam bentuk list (seperti pada gambar).
-4. Tombol “**Filter**” untuk melihat path schedules dengan pengaturan tertentu.
-5. Menu “**Search**” untuk mencari path schedules berdasarkan nama.
-6. Menu “**Show**” untuk mengatur berapa banyak path schedules yang ditampilkan di satu layar.
+3. Tombol “**List View**” untuk mengubah tampilan Response Rules dalam bentuk list (seperti pada gambar).
+4. Tombol “**Filter**” untuk melihat Response Rules dengan pengaturan tertentu.
+5. Menu “**Search**” untuk mencari Response Rules berdasarkan nama.
+6. Menu “**Show**” untuk mengatur berapa banyak Response Rules yang ditampilkan di satu layar.
 
-   ![](/uploads/pathschedules6.PNG)
-7. Tombol “**Export Found Path Schedules**” untuk mengarahkan ke halaman export path schedules
+   ![](/uploads/response-rules2.PNG)
+7. Tombol “**Export Found Response Rules**” untuk mengarahkan ke halaman export Response Rules
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu path schedules.
 
    ![](/uploads/pathschedules7.PNG)
