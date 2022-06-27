@@ -1,8 +1,8 @@
 ---
 tags: []
 title: Export Response Rules
-subtitle: ''
-author: ''
+subtitle: This document covers Chatbot feature
+author: hariyati suarni nurindah
 published: false
 
 ---
@@ -16,5 +16,7 @@ Dalam menu **Response Rules**, anda dapat mengexport path yang anda inginkan. Be
 
    > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport.
+
+   ![](/uploads/response-rules8.PNG)
 
    > Klik button **Export to CSV** jika anda ingin hasil export tersebut dalam bentuk excel dan pilih **Export to Json** jika anda ingin dalam bentuk json kemudian **Export to XML** jika ingin dalam bentul xml sedangkan button **Cancel** menandakan anda batal melakukan export data sehingga anda otomatis akan keluar dari form export.
