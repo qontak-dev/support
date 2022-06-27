@@ -6,11 +6,11 @@ author: ''
 published: false
 
 ---
-**Export Response Path**
+**Export Response Rules**
 
-Dalam menu **Response Path**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response path pada web.
+Dalam menu **Response Rules**, anda dapat mengexport path yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export Response Rules pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Path** di bagian kiri atas, untuk export suatu path, anda dapat mengklik bagian **Export** untuk membuka form Export.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rules** di bagian kiri atas, untuk export suatu Rules, anda dapat mengklik bagian **Export** untuk membuka form Response Rules.
 
    ![](/uploads/responsepath7.PNG)
 
