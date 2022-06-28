@@ -10,7 +10,7 @@ published: false
 
 **List Response Rule Conditions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu responses rule conditions.
 
-Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah berikut;
+Untuk melihat tampilan pada list response rule conditions, Anda perlu mengikuti langkah-langkah berikut;
 
 1. Buka https: ([https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new") "[https://chatbot.qontak.net/dashboards/channel_integration/new](https://chatbot.qontak.net/dashboards/channel_integration/new "https://chatbot.qontak.net/dashboards/channel_integration/new")"))pada browser anda (Safari, Chrome, atau Firefox) di komputer anda;
 
