@@ -6,9 +6,9 @@ author: hariyati suarni nurindah
 published: false
 
 ---
-Export Response Rule Conditions
+**Export Response Rule Conditions**
 
-Dalam menu **Responses**, anda dapat mengexport responses yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export responses pada Web.
+Dalam menu **Response Rule Conditions**, anda dapat mengexport responses yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export responses pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk export suatu responses anda dapat mengklik bagian **Export** untuk membuka form Export responses
 
