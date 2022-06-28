@@ -25,12 +25,9 @@ Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah
 5. Menu “**Show**” untuk mengatur berapa banyak response rule conditions yang ditampilkan di satu layar.
 
    ![](/uploads/rule-conditions2.PNG)
-6. Tombol “**Edit**” untuk mengubah atau meng-update suatu responses
+6. Tombol “**Edit**” untuk mengubah atau meng-update suatu response rule conditions.
 
-   ![](/uploads/listresponses2.PNG)
-7. Menu “**Clone**” untuk menampilkan responses di satu layar.
+   ![](/uploads/rule-conditions3.PNG)
+7. Tombol “**Delete**” untuk menghapus suatu response rule conditions.
 
-   ![](/uploads/listresponses3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu responses
-
-   ![](/uploads/listresponses4.PNG)
+   ![](/uploads/rule-conditions4.PNG)
