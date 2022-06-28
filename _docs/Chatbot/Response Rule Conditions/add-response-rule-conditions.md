@@ -1,14 +1,14 @@
 ---
 tags: []
-title: Add Response rule conditions
+title: Add  Response Rule Conditions
 subtitle: This document covers Chatbot feature
 author: hariyati suarni nurindah
 published: false
 
 ---
-**Add Response rule conditions**
+**Add  Response Rule Conditions**
 
-Dalam menu **Responses**, anda dapat menambahkan response yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response pada Web.
+Dalam menu **Response Rule Conditions**, anda dapat menambahkan response yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response pada Web.
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk menambahkan responses anda dapat mengklik bagian **Add New** untuk membuka form Responses.
 
