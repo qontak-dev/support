@@ -21,6 +21,9 @@ Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan respons
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
-   ![](/uploads/response3.PNG)
+   ![](/uploads/rule-conditions7.PNG)
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
+3. Data yang sudah berhasil tersimpan akan menampilkan popup seperti berikut.
+
+   ![](/uploads/rule-conditions6.PNG)
