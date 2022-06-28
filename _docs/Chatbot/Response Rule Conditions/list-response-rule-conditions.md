@@ -8,7 +8,7 @@ published: false
 ---
 **List Response Rule Conditions**
 
-**List Response Rule Conditions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu responses.
+**List Response Rule Conditions** merupakan sebuah fitur chatbot yang menampilkan list data yang ada pada menu responses rule conditions.
 
 Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah berikut;
 
