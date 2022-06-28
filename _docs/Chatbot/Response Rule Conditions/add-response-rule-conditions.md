@@ -14,13 +14,11 @@ Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan respons
 
 1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rule Conditions** di bagian kiri atas, untuk menambahkan response rule conditions anda dapat mengklik bagian **Add New** untuk membuka form.
 
-   ![](/uploads/response2.PNG)
+   ![](/uploads/rule-conditions5.PNG)
 
-   > Untuk menambahkan response pastikan **input content** sudah terisi kemudian pilih **Intent** dangan cara search maupun create new intent begitupun dengan **next intent, organization** dan **channel integration**
+   > Untuk menambahkan response rule conditions pastikan **Organization, Response rule, Organization entity** dan **Operator** sudah terisi dengan cara search maupun create new.
    >
-   > untuk response sendiri anda bisa memilih **Enabled** atau **Is default**
-   >
-   > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/response3.PNG)
