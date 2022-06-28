@@ -17,14 +17,14 @@ Untuk melihat tampilan pada list responses, Anda perlu mengikuti langkah-langkah
    ![](/uploads/channell.PNG)
 
    > Masukkan **Username** dan **Password** anda. Klik tombol **“Login”** untuk memulai.
-2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Responses** dengan fitur-fitur yang disediakan.
+2. Berikut merupakan tampilan web yang muncul setelah anda mengklik menu **Response Rule Conditions** dengan fitur-fitur yang disediakan.
 
-   ![](/uploads/listresponses.PNG)
-3. Tombol “**Filter**” untuk melihat responses dengan pengaturan tertentu.
-4. Tombol “**Export Found Responses**” untuk mengarahkan ke halaman export responses
-5. Menu “**Show**” untuk mengatur berapa banyak responses yang ditampilkan di satu layar.
+   ![](/uploads/rule-conditions1.PNG)
+3. Tombol “**Filter**” untuk melihat response rule conditions dengan pengaturan tertentu.
+4. Tombol “**Export Found Response Rule Conditions**” untuk mengarahkan ke halaman export response rule conditions
+5. Menu “**Show**” untuk mengatur berapa banyak response rule conditions yang ditampilkan di satu layar.
 
-   ![](/uploads/listresponses1.PNG)
+   ![](/uploads/rule-conditions2.PNG)
 6. Tombol “**Edit**” untuk mengubah atau meng-update suatu responses
 
    ![](/uploads/listresponses2.PNG)
