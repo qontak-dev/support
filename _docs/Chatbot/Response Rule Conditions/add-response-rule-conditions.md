@@ -12,7 +12,7 @@ Dalam menu **Response Rule Conditions**, anda dapat menambahkan response rule co
 
 Berikut merupakan langkah yang anda dapat jadikan acuan dalam penambahan response rule conditions pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Responses** di bagian kiri atas, untuk menambahkan responses anda dapat mengklik bagian **Add New** untuk membuka form Responses.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rule Conditions** di bagian kiri atas, untuk menambahkan response rule conditions anda dapat mengklik bagian **Add New** untuk membuka form.
 
    ![](/uploads/response2.PNG)
 
