@@ -10,7 +10,7 @@ published: false
 
 Dalam menu **Response Rule Conditions**, anda dapat mengexport response rule conditions yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export response rule conditions pada web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rule Conditions** di bagian kiri atas, untuk export suatu responses anda dapat mengklik bagian **Export** untuk membuka form.
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Response Rule Conditions** di bagian kiri atas, untuk export suatu response rule conditions anda dapat mengklik bagian **Export** untuk membuka form.
 
    ![](/uploads/export1.PNG)
 
