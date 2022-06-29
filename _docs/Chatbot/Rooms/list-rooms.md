@@ -27,13 +27,13 @@ Untuk melihat tampilan pada list **Rooms**, Anda perlu mengikuti langkah-langkah
 5. Menu “**Show**” untuk mengatur berapa banyak rooms  yang ditampilkan di satu layar.
 
    ![](/uploads/rooms2-2.PNG)
-6. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms
-7. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms
+6. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms.
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms.
 
    ![](/uploads/rooms3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu show logs
+8. Tombol “**Delete**” untuk menghapus suatu show logs.
 
    ![](/uploads/rooms4.PNG)
-9. Tombol “**Show Logs**” untuk menampilkan suatu show logs
+9. Tombol “**Show Logs**” untuk menampilkan suatu show logs.
 
    ![](/uploads/rooms5.PNG)
