@@ -14,7 +14,9 @@ Dalam menu **Response source intents**, anda dapat menambahkan response source i
 
    ![](/uploads/responsesourceintents5.PNG)
 
-   > Pastikan field-field mandatory sudah terisi dengan benar seperti **Response, Intent** dan **Organization**.
+   > Ada beberapa hal yang harus diperhatikan dalam menambahkan Organizations seperti field **Name, Channel Organization, Description** dan **Agent Assignment Type** yang harus diisi
+   >
+   > > Pastikan field-field mandatory sudah terisi dengan benar seperti **Response, Intent** dan **Organization**.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    > Selain menyimpan data, anda juga bisa mengklik buton **Save and Add Another** untuk menyimpan data sekaligus membuka form baru untuk menambahkan data kembali dan button **Save and Edit** untuk menyimpan data kemudian melakukan edit, sedangkan button **Cancel** menandakan anda batal menambahkan data dan otomatis akan keluar dari form add tersebut.
