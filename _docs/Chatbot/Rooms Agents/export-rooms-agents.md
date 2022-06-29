@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Rooms Agents**, anda dapat mengexport rooms agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export rooms agents pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms Agents** di bagian kiri atas, untuk export suatu rooms agents, anda dapat mengklik bagian **Export** untuk membuka form export rooms agents
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Rooms Agents** di bagian kiri atas, untuk export suatu rooms agents, anda dapat mengklik bagian **Export** untuk membuka form export.
 
    ![](/uploads/roomagents7.PNG)
 
    > Select field yang ingin Anda Export
-2. Setelah Anda memilih field yang akan diexport
+2. Setelah Anda memilih field yang akan diexport.
 
    ![](/uploads/roomagents8.PNG)
 
