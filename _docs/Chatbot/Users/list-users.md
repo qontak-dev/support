@@ -27,10 +27,10 @@ Untuk melihat tampilan pada list **Users**, Anda perlu mengikuti langkah-langkah
 5. Menu “**Show**” untuk mengatur berapa banyak users yang ditampilkan di satu layar.
 
    ![](/uploads/users2.PNG)
-6. Tombol “**Export Found Users**” untuk mengarahkan ke halaman export users
-7. Tombol “**Edit**” untuk mengubah atau meng-update suatu users
+6. Tombol “**Export Found Users**” untuk mengarahkan ke halaman export users.
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu users.
 
    ![](/uploads/users3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu users
+8. Tombol “**Delete**” untuk menghapus suatu users.
 
    ![](/uploads/users4.PNG)
