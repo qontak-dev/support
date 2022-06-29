@@ -28,10 +28,10 @@ Untuk melihat tampilan pada list **Response Source Intents**, Anda perlu mengiku
 6. Menu “**Show**” untuk mengatur berapa banyak response source intents yang ditampilkan di satu layar.
 
    ![](/uploads/responsesourceintents2-1.PNG)
-7. Tombol “**Export Found Response Source Intents**” untuk mengarahkan ke halaman export response source intents
+7. Tombol “**Export Found Response Source Intents**” untuk mengarahkan ke halaman export response source intents.
 8. Tombol “**Edit**” untuk mengubah atau meng-update suatu response source intents
 
    ![](/uploads/responsesourceintents3.PNG)
-9. Tombol “**Delete**” untuk menghapus suatu response source intents
+9. Tombol “**Delete**” untuk menghapus suatu response source intents.
 
    ![](/uploads/responsesourceintents4.PNG)
