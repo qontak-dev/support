@@ -27,10 +27,10 @@ Untuk melihat tampilan pada list **Rooms Agents**, Anda perlu mengikuti langkah-
 5. Menu “**Show**” untuk mengatur berapa banyak rooms agents yang ditampilkan di satu layar.
 
    ![](/uploads/roomagents2.PNG)
-6. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms agents
-7. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms agents
+6. Tombol “**Export Found Rooms**” untuk mengarahkan ke halaman export rooms agents.
+7. Tombol “**Edit**” untuk mengubah atau meng-update suatu rooms agents.
 
    ![](/uploads/roomagents3.PNG)
-8. Tombol “**Delete**” untuk menghapus suatu rooms agents
+8. Tombol “**Delete**” untuk menghapus suatu rooms agents.
 
    ![](/uploads/roomagents4.PNG)
