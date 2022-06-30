@@ -10,12 +10,12 @@ published: false
 
 Dalam menu **Agents**, anda dapat mengexport agents yang anda inginkan. Berikut merupakan langkah yang anda dapat jadikan acuan dalam export agents pada Web.
 
-1. Setelah anda berhasil **Login**, anda akan menemui menu **Agents** di bagian kiri atas, untuk export suatu agents, anda dapat mengklik bagian **Export** untuk membuka form Export agents
+1. Setelah anda berhasil **Login**, anda akan menemui menu **Agents** di bagian kiri atas, untuk export suatu agents, anda dapat mengklik bagian **Export** untuk membuka form Export.
 
    ![](/uploads/agents2.PNG)
 
-   > Select field yang ingin Anda Export.
-2. Setelah itu pilih field yang akan diexport kemudian
+   > Select field yang ingin Anda Export
+2. Setelah itu pilih field yang akan diexport.
 
    ![](/uploads/agentupdate5-1.PNG)
 
