@@ -18,7 +18,7 @@ Dalam menu **Responses**, anda dapat menambahkan response yang anda inginkan. Be
    >
    > Untuk response sendiri anda bisa memilih **Enabled** atau **Is default**
    >
-   > > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
+   > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar.
 2. Setelah data terisi, klik button **Save** untuk menyimpan data.
 
    ![](/uploads/response3.PNG)
