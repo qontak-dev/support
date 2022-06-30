@@ -14,7 +14,7 @@ Dalam menu **Channel Integration**, anda dapat menambahkan Channel yang anda ing
 
    ![](/uploads/channel1.PNG)
 
-   > Untuk menambahkan channel integration pastikan field **Name, Channel type** dan **Organization** sudah terisi dangan cara search maupun Add new.
+   > Untuk menambahkan channel integration pastikan field **Name, Channel type** dan **Organization** sudah terisi dangan cara search maupun Add New.
    >
    > > Saat pengisian, pastikan field-field mandatory sudah terisi dengan benar
    > >

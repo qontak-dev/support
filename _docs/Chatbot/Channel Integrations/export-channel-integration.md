@@ -14,7 +14,7 @@ Dalam menu **Channel Integration**, anda dapat mengexport Channel Integration ya
 
    ![](/uploads/channel2.PNG)
 
-   > Select Field yang ingin Anda Export
+   > Select field yang ingin Anda Export
 2. Setelah Anda memilih field yang akan diexport.
 
    ![](/uploads/channelintegrationseditactionexport.PNG)
