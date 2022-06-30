@@ -16,7 +16,7 @@ Dalam menu **Paths**, anda dapat menambahkan paths yang anda inginkan. Berikut m
 2. Pastikan field-field mandatory sudah terisi dengan benar pada form Paths
 
    ![](/uploads/paths3.PNG)
-   * Untuk menggunakan kata kunci maka centang radiobutton **Use keyword**
+   * Untuk menggunakan kata kunci maka centang radio button **Use keyword**
    * **Path keywords :** Anda bisa menambahkan New Path Keyword, memilih yang sudah ada pada list maupun melakukan search path
    * **Path channels :** Anda bisa menambahkan New Path Channels, memilih yang sudah ada pada list maupun melakukan search path
    * **Path date ranges :** Anda bisa menambahkan New Path date ranges, memilih yang sudah ada pada list maupun melakukan search path
