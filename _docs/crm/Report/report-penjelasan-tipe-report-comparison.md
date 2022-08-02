@@ -46,4 +46,6 @@ author: hariyati suarni nurindah
 
   ![](/uploads/report-com7.PNG)
 
-  Laporan Win Rate menampilkan tingkat keberhasilan dari setiap user dalam bentuk Grafik stacked bar. Tingkat keberhasilan ini diukur dari **total jumlah Deal (Count)** yang berada di Stage Won dan Stage Lost dalam bentuk persentase dan **jumlah Deal (Count)**. Salah satu Status dapat dimunculkan dan disembunyikan dengan klik nama Status di bagian bawah grafik.
+  Laporan Win Rate menampilkan tingkat keberhasilan dari setiap user dalam bentuk Grafik stacked bar. Tingkat keberhasilan ini diukur dari **total jumlah Deal (Count)** yang berada di Stage Won dan Stage Lost dalam bentuk persentase dan **jumlah Deal (Count)**. 
+
+  Salah satu status dapat dimunculkan dan disembunyikan dengan klik nama Status di bagian bawah grafik.
