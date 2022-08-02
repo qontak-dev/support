@@ -21,4 +21,6 @@ author: hariyati suarni nurindah
 
   ![](/uploads/report-gps2.PNG)
 
-  Laporan Live GPS Attendance Tracking menampilkan peta Google Maps yang menunjukkan **lokasi GPS terhitung dari user tersebut Check-In hingga user tersebut Check-Out** pada aplikasi mobile. Laporan ini akan merekam perjalanan user beserta persentase baterai gawai yang digunakan dalam bentuk titik checkpoint dan jalur berwarna biru tua sesuai dengan jalur yang dilalui oleh user aplikasi mobile tersebut. Laporan ini mensinkronisasi setiap interval jam XX:00 yang rincian checkpoint-nya dapat dicek pada tabel sebelah kiri di dalam laporan atau meng-klik titik checkpoint tersebut. Terdapat filter tambahan berupa tanggal dan user yang dapat dipilih sesuai dengan keinginan.
+  Laporan Live GPS Attendance Tracking menampilkan peta Google Maps yang menunjukkan **lokasi GPS terhitung dari user tersebut Check-In hingga user tersebut Check-Out** pada aplikasi mobile. 
+
+  > Laporan ini akan merekam perjalanan user beserta persentase baterai gawai yang digunakan dalam bentuk titik checkpoint dan jalur berwarna biru tua sesuai dengan jalur yang dilalui oleh user aplikasi mobile tersebut. Laporan ini mensinkronisasi setiap interval jam XX:00 yang rincian checkpoint-nya dapat dicek pada tabel sebelah kiri di dalam laporan atau meng-klik titik checkpoint tersebut. Terdapat filter tambahan berupa tanggal dan user yang dapat dipilih sesuai dengan keinginan.
